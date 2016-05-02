@@ -1,7 +1,7 @@
 name: Picture My World
 # markdown: redcarpet
 # pygments: true # deprecated
-highlighter: rouger
+highlighter: rouge
 #permalink: /:year/:month/:title/
 url: https://iamnii.github.io/GridGallery/
 author:
