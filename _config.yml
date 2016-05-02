@@ -1,8 +1,33 @@
-name: Photo gallery
-markdown: redcarpet
-pygments: true
-permalink: /:year/:month/:title/
+name: Picture My World
+# markdown: redcarpet
+# pygments: true # deprecated
+highlighter: true
+#permalink: /:year/:month/:title/
 url: https://iamnii.github.io/GridGallery/
 author:
-    name: Adjetey Sowah
-    twitter: #
+  name: Kevin Delord
+  twitter: #
+
+# Site settings
+# title:                Kevin Delord
+# email:                delord.kevin@gmail.com
+# author:               Kevin Delord
+# description:          "Club Mate powered"
+# baseurl:              ""
+# url:                  "http://picturemyworld.github.io"
+# date_format:          "%b %-d, %Y"
+
+
+# Build settings
+markdown:     kramdown
+#redcarpet:
+#  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+sass:
+  compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
