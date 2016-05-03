@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2014-04-06 23:26:12
+photo: 	tree.jpg
+caption_header: A simple tree near a lake. Postdam, Germany
+caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+---

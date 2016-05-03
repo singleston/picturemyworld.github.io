@@ -1,7 +1,4 @@
-Jekyll Photo Grid Gallery
-=========
-
-Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
+# [picturemy.world](picturemy.world)
 
 ## How to use
 1. Place a large image in `/img/large/`
@@ -16,17 +13,26 @@ caption_header: Sample header
 caption: sample caption
 ---
 ```
+
 4. And finally, serve Jekyll source as you would normally.
 
-## [Demo](https://iamnii.github.io/GridGallery)
+## Local environment
 
-View this jekyll theme in action [here](https://iamnii.github.io/GridGallery)
+To reboot on a local machine:
 
-## Screenshot
-![screenshot](https://raw.github.com/iamnii/GridGallery/master/jggg.png)
+```
+$> ./reboot.sh
+```
 
-Localhost deployment
-=========
-After [downloading](https://github.com/iamnii/GridGallery/archive/master.zip), use the normal process of serving a jekyll site. Navigate to the directory in terminal and type `jekyll build` followed by `jekyll serve`
+And test using:
 
-For more details, read [documentation](http://jekyllrb.com/)
+http://127.0.0.1:4000/
+
+## Links
+
+- Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- http://www.emoji-cheat-sheet.com/
+- http://nadjetey.github.io/GridGallery/
+- [Jekyll documentation](http://jekyllrb.com/)
+- Interesting grid: http://tympanus.net/Blueprints/FilterableProductGrid/

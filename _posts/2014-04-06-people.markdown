@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2014-04-06 23:26:12
+photo: 	people.jpg
+caption_header: Techno open air. Berlin, Germany
+caption: Boom Boom Chack
+---
