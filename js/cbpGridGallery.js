@@ -116,19 +116,22 @@
 
 		// keyboard navigation events
 		document.addEventListener( 'keydown', function( ev ) {
+
 			if ( self.isSlideshowVisible ) {
 				var keyCode = ev.keyCode || ev.which;
 
-				switch (keyCode) {
-					case 37:
-						self._navigate( 'prev' );
-						break;
-					case 39:
-						self._navigate( 'next' );
-						break;
-					case 27:
-						self._closeSlideshow();
-						break;
+				if (keyCode == 37) { // arrow left
+					self._navigate( 'prev' );
+				} else if (keyCode == 39) { // arrow right
+					self._navigate( 'next' );
+				} else if (keyCode == 0 || keyCode == 27 || keyCode == 32) { // esc, space (chrome+firefox)
+					self._closeSlideshow();
+				}
+
+			} else {
+				var keyCode = ev.keyCode || ev.which;
+				if (keyCode == 0 || keyCode == 32) { // space (chrome+firefox)
+					self._openSlideshow(0);
 				}
 			}
 		} );
