@@ -16,6 +16,8 @@ layout: default
 				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
 				<figcaption>
 					<h3>{{ post.caption_header}}</h3>
+					<i class="fa fa-globe" aria-hidden="true"></i>
+					<a href="http://maps.google.com/maps?q={{ post.location }}" target="_blank"> {{ post.location }}</a>
 					<p>{{ post.caption }}</p>
 				</figcaption>
 			</figure>
