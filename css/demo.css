@@ -24,13 +24,13 @@ body {
 }
 
 a {
-	color: #f0f0f0;
-	text-decoration: none;
+	color: #47a3da;
 	outline: none;
 }
 
-a:hover {
-	color: #000;
+/* mouse over link, visited, selected link */
+a:hover, visited, active {
+	color: #357ca7;
 }
 
 .container > header {

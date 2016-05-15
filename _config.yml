@@ -4,7 +4,8 @@ name: Picture My World
 highlighter: rouge
 #permalink: /:year/:month/:title/
 url: http://picturemy.world/
-#https://iamnii.github.io/GridGallery/
+#url: http://127.0.0.1:4000/
+
 author:
   name: Kevin Delord
   twitter: #
