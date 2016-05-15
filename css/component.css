@@ -116,7 +116,7 @@
 
 .slideshow li {
 	position: absolute;
-	top: 10%;
+	top: 5%;
 	left: 10%;
 	right: 10%;
 	bottom: 10%;
@@ -168,7 +168,7 @@
     color: white;
     font-size: 150%;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 2%;
 }
 
 /* Navigation */
