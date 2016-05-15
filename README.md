@@ -30,6 +30,7 @@ http://127.0.0.1:4000/
 
 ## Links
 
+- [FontAwesome icons](http://fontawesome.io/)
 - Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - http://www.emoji-cheat-sheet.com/
