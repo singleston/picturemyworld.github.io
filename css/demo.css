@@ -30,7 +30,7 @@ a {
 
 /* mouse over link, visited, selected link */
 a:hover, visited, active {
-	color: #357CA7;
+	color: #357ca7;
 }
 
 .container > header {
