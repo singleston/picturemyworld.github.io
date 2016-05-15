@@ -2,6 +2,7 @@
 layout: default
 date:   2014-04-06 23:26:12
 photo: 	parc.jpg
-caption_header: Abandonned attraction parc. Berlin, Germany
+location: Berlin, Germany
+caption_header: Abandonned attraction parc
 caption: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.
 ---
