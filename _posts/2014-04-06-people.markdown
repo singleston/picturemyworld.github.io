@@ -4,5 +4,5 @@ date:   2014-04-06 23:26:12
 photo: 	people.jpg
 location: Berlin, Germany
 caption_header: Techno open air
-caption: Boom Boom Chack
+caption: First of May party in Berlin. Lost in a park, this techno open air event was simply great!
 ---
