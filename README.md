@@ -1,6 +1,14 @@
 # [picturemy.world](picturemy.world)
 
-## How to use
+## Upload a new post
+
+Execute the upload pythin script:
+
+```
+$> ./upload.py
+```
+
+## How to _manually_ use
 1. Place a large image in `/img/large/`
 2. Place a thumbnail version of the same image in `/img/thumb/`. _Remember to use the same file name_
 3. Construction a post to display the image. Use the follow as an example:
