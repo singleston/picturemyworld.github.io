@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-05-27
+photo: glass.jpg
+location: Schloss in Dresden
+caption_header: Musuem Gallery
+caption: Not an interesting story here, maybe a nice shot? well not really.
+---
