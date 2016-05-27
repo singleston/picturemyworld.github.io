@@ -14,6 +14,8 @@ parser.add_argument('-p','--path', help='Path to the actual photo to upload', re
 
 args = vars(parser.parse_args())
 
+# Check if a date is valid and returns it with a valid format
+# If empty return current date
 def validateDate(date):
 	if date == None:
 		return None
@@ -26,6 +28,7 @@ def validateDate(date):
 		date = None
 	return date
 
+# Ask for the date and return a validate string with format: YYYY-MM-DD
 def getDate():
 	date = validateDate(args['date'])
 	while date == None:
@@ -35,6 +38,7 @@ def getDate():
 		date = validateDate(date)
 	return date
 
+# Clean non-word characters and whitespaces
 def clearString(s):
 	# Remove all duplicated whitespaces
 	s = re.sub(' +', ' ', s).strip()
@@ -47,6 +51,7 @@ def clearString(s):
 		return None
 	return s
 
+# Ask for filename
 def getFilename():
 	filename = clearString(args['name'] if args['name'] != None else "")
 	if filename == "":
@@ -60,6 +65,7 @@ def getFilename():
 
 	return filename
 
+# Ask for filepath. Must not contain whitespaces
 def getFilepath():
 	filepath = (args['path'] if args['path'] != None else "")
 	while os.path.isfile(filepath) == False:
@@ -70,6 +76,7 @@ def getFilepath():
 		print os.path.exists(filepath)
 	return filepath
 
+# Returns an input string
 def getValidRawInput(prompt):
 	title = None
 	while title == None:
@@ -79,16 +86,19 @@ def getValidRawInput(prompt):
 			title = None
 	return title
 
+# Create a thumbnail of the original picture within the img/thumb/ folder.
 def createThumbnail(filename, filepath):
 	root = os.path.dirname(os.path.realpath(__file__))
 	thumbnail_path = root + "/img/thumb/" + filename + ".jpg"
 	os.system("convert -thumbnail 300 %s %s" % (filepath, thumbnail_path))
 
+# Create a small version of the original picture within the img/large/ folder.
 def createBigImage(filename, filepath):
 	root = os.path.dirname(os.path.realpath(__file__))
 	image_path = root + "/img/large/" + filename + ".jpg"
 	os.system("convert %s -resize 2160x1440 -quality 40 %s" % (filepath, image_path))
 
+# Create the markdown file for the new post.
 def createMarkdownFile(filename, date, geolocation, title, text):
 	root = os.path.dirname(os.path.realpath(__file__))
 	md_path = (root + '/_posts/' + date + '-' + filename + '.markdown')
@@ -102,7 +112,7 @@ def createMarkdownFile(filename, date, geolocation, title, text):
 	f.write('---\n')
 	f.close() # you can omit in most cases as the destructor will call it
 
-
+# Get all important data
 date = getDate()
 filename = getFilename()
 filepath = getFilepath()
@@ -110,6 +120,7 @@ title = getValidRawInput("Please specify a TITLE for the new post:")
 geolocation = getValidRawInput("Please specify some GEOLOCATION KEYWORDS:")
 text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new post:")
 
+# Create thumbnail, large image and post.
 createThumbnail(filename, filepath)
 createBigImage(filename, filepath)
 createMarkdownFile(filename, date, geolocation, title, text)
