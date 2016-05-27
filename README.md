@@ -1,4 +1,4 @@
-# [picturemy.world](picturemy.world)
+# [picturemy.world](http://picturemy.world)
 
 ## Upload a new post
 
