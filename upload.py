@@ -68,12 +68,14 @@ def getFilename():
 # Ask for filepath. Must not contain whitespaces
 def getFilepath():
 	filepath = (args['path'] if args['path'] != None else "")
-	while os.path.isfile(filepath) == False:
+	stripedFilePath = re.sub(r'[\\]*', '', filepath)
+	while os.path.isfile(stripedFilePath) == False:
 		filepath = getValidRawInput(
 			"Please enter the PATH of the image to "
 			"upload:\nTip: drag'n'drop the image here.")
-		print "'" + filepath + "'"
-		print os.path.exists(filepath)
+		stripedFilePath = re.sub(r'[\\]*', '', filepath)
+		print "'" + stripedFilePath + "'"
+		print os.path.exists(stripedFilePath)
 	return filepath
 
 # Returns an input string
