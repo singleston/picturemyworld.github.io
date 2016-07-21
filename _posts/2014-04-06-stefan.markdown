@@ -4,5 +4,5 @@ date:   2014-04-06 23:26:12
 photo: 	stefan.jpg
 location: Griesmuehle Club, Berlin, Germany
 caption_header: Stefan Private Party
-caption: On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.
+caption: My dear friend Stefan organized a very good private party in a club. House and deep house music made us dance all night!
 ---
