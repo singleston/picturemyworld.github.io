@@ -45,3 +45,4 @@ http://127.0.0.1:4000/
 - http://nadjetey.github.io/GridGallery/
 - [Jekyll documentation](http://jekyllrb.com/)
 - Interesting grid: http://tympanus.net/Blueprints/FilterableProductGrid/
+- Date formatting http://alanwsmith.com/jekyll-liquid-date-formatting-examples
