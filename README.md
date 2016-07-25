@@ -10,11 +10,13 @@ $> ./new_post.py
 
 **Dependency**: [imagemagick](http://www.imagemagick.org/script/index.php) is required to resize and convert the picture to jpg.
 
-## How to _manually_ use
+## How to _manually_ create a new post
 
 1. Place a large image in `/img/large/`
 2. Place a thumbnail version of the same image in `/img/thumb/`. _Remember to use the same file name_
-3. Construction a post to display the image. Use the follow as an example:
+3. Create a new markdown file in the `/_posts/` folder (example below).
+4. Git commit and push.
+
 ```txt
 ---
 layout: 	default
@@ -26,21 +28,19 @@ caption: 	Sample caption
 ---
 ```
 
-4. And finally, serve Jekyll source as you would normally.
-
 ## Local environment
 
-To reboot on a local machine:
+To start or reboot the server on your local machine, run the following script:
 
 ```
 $> ./reboot.sh
 ```
 
-And test using:
+And test your changes on:
 
 http://127.0.0.1:4000/
 
-If the images do not load, update the base url in the `_config.yml` file to `url:http://127.0.0.1:4000/`.
+If the images do not load, update the base url in the `_config.yml` file to `url: http://127.0.0.1:4000/`.
 
 ## Links
 
