@@ -88,6 +88,7 @@ a:hover, visited, active {
 .container > header nav {
 	float: right;
 	text-align: center;
+	padding-top: 14px;
 }
 
 .container > header nav a {
