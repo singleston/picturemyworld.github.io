@@ -19,6 +19,8 @@ layout: default
 					<i class="fa fa-globe" aria-hidden="true"></i>
 					<a href="http://maps.google.com/maps?q={{ post.location }}" target="_blank"> {{ post.location }}</a>
 					<p>{{ post.caption }}</p>
+					<p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
+
 				</figcaption>
 			</figure>
 		</li>
