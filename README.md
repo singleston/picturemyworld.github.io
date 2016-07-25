@@ -46,6 +46,7 @@ If the images do not load, update the base url in the `_config.yml` file to `url
 
 - [FontAwesome icons](http://fontawesome.io/)
 - Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
+- Original live demo: http://tympanus.net/Blueprints/GridGallery/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - http://www.emoji-cheat-sheet.com/
 - http://nadjetey.github.io/GridGallery/
