@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-08-04
+photo: castleroad.jpg
+location: Château Pichon Longueville, France
+caption_header: Castle road
+caption: There is a road in France where majestic wine castles have been built every few kilometers! Gorgeous
+---

@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-07-31
+photo: lastopenair.jpg
+location: SAGE Beach, Berlin Germany
+caption_header: Last Open Air
+caption: Very last Open Air with the guys at SAGE Beach. It did rain but the music was so good! It was also my last day in Berlin. Thanks for the good vibes and lifestyle <3
+---
