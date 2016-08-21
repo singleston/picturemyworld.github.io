@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-08-12
+photo: biarritz.jpg
+location: Biarritz, France
+caption_header: Biarritz
+caption: Biarritz is an elegant seaside town in the French Basque coast. It became very pricy as very rich people took over the nicest part of the town. Nice bars and restaurants make the city interesting but the ocean makes it perfect! Photo taken near the rock of the Blessed Virgin.
+---
