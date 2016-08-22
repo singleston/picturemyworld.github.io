@@ -91,13 +91,13 @@ def getValidRawInput(prompt):
 # Create a thumbnail of the original picture within the img/thumb/ folder.
 def createThumbnail(filename, filepath):
 	root = os.path.dirname(os.path.realpath(__file__))
-	thumbnail_path = root + "/img/thumb/" + filename + ".jpg"
+	thumbnail_path = (root + "/img/thumb/" + filename + ".jpg")
 	os.system("convert -thumbnail 300 %s %s" % (filepath, thumbnail_path))
 
 # Create a small version of the original picture within the img/large/ folder.
 def createBigImage(filename, filepath):
 	root = os.path.dirname(os.path.realpath(__file__))
-	image_path = root + "/img/large/" + filename + ".jpg"
+	image_path = (root + "/img/large/" + filename + ".jpg")
 	os.system("convert %s -resize 2160x1440 -quality 40 %s" % (filepath, image_path))
 
 # Create the markdown file for the new post.
@@ -114,6 +114,16 @@ def createMarkdownFile(filename, date, geolocation, title, text):
 	f.write('---\n')
 	f.close() # you can omit in most cases as the destructor will call it
 
+# Git commit new post
+def gitCommitNewPost(filename, title):
+	root = os.path.dirname(os.path.realpath(__file__))
+	image_path = (root + "/img/large/" + filename + ".jpg")
+	thumbnail_path = (root + "/img/thumb/" + filename + ".jpg")
+	md_path = (root + '/_posts/' + date + '-' + filename + '.markdown')
+	print "\nGit commit new post: " + title + "\n"
+	os.system("git add %s %s %s" % (filepath, image_path, md_path))
+	os.system("git commit -m 'New post: %s'" % (title))
+
 # Get all important data
 date = getDate()
 filename = getFilename()
@@ -126,3 +136,4 @@ text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new post:")
 createThumbnail(filename, filepath)
 createBigImage(filename, filepath)
 createMarkdownFile(filename, date, geolocation, title, text)
+gitCommitNewPost(filename, title)

@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-08-16
+photo: nimes.jpg
+location: Arena of Nîmes, France
+caption_header: Nîmes
+caption: The 2000 years old Nîmes city, in southern France was a Roman Empire outpost. Its huge ampitheater is the most well preserved in Europe and still used for concerts and bullfights. Sadly no more gladiator fights!
+---
