@@ -121,7 +121,8 @@ def gitCommitNewPost(filename, title):
 	thumbnail_path = (root + "/img/thumb/" + filename + ".jpg")
 	md_path = (root + '/_posts/' + date + '-' + filename + '.markdown')
 	print "\nGit commit new post: " + title + "\n"
-	os.system("git add %s %s %s" % (filepath, image_path, md_path))
+	os.system("cd %s" % (root))
+	os.system("git add %s %s %s" % (thumbnail_path, image_path, md_path))
 	os.system("git commit -m 'New post: %s'" % (title))
 
 # Get all important data
