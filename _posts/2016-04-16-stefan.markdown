@@ -1,6 +1,6 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
+date:   2016-04-16 23:26:12
 photo: 	stefan.jpg
 location: Griesmuehle Club, Berlin, Germany
 caption_header: Stefan Private Party
