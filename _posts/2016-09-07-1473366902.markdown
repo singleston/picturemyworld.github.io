@@ -4,5 +4,5 @@ date: 2016-09-07
 photo: 1473366902.jpg
 location: Skogarfoss Waterfall, Iceland
 caption_header: Skogarfoss Waterfall
-caption: This small watefall in the background is actually massive when you get close to it. The water in the foreground is actually a small lake formed from the water coming from the waterfall, which is 60 meters high!
+caption: This small waterfall in the background is actually massive when you get close to it. The water in the foreground is actually a small lake formed from the water coming from the waterfall, which is 60 meters high!
 ---
