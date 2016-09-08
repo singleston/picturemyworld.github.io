@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-06
+photo: 1473366410.jpg
+location: West Reykjavik, Iceland
+caption_header: Sunset in Iceland
+caption: On the fast west of Reyjavik one can see beautiful sunsets with burning clouds and crazy colors. That picture has been taken on my first evening on this island.
+---
