@@ -51,7 +51,7 @@ def clearString(s):
 		return None
 	return s
 
-# Ask for filename
+# Ask for filename NOT USED anymore.
 def getFilename():
 	filename = clearString(args['name'] if args['name'] != None else "")
 	if filename == "":
@@ -127,7 +127,8 @@ def gitCommitNewPost(filename, title):
 
 # Get all important data
 date = getDate()
-filename = getFilename()
+filename = int(time.time())
+print "\nNew filename: '%s'" % (filename)
 filepath = getFilepath()
 title = getValidRawInput("Please specify a TITLE for the new post:")
 geolocation = getValidRawInput("Please specify some GEOLOCATION KEYWORDS:")
