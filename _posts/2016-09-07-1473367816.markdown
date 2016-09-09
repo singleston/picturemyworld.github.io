@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473367816.jpg
-location: Glacier, Iceland
+location: Sólheimajökull, Iceland
 caption_header: Me and a glacier
 caption: Picture of me in front of a glacier, the lake before is actually the melted ice coming from it.
 ---

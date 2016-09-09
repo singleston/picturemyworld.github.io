@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473368369.jpg
-location: Glacier, Iceland
+location: Sólheimajökull, Iceland
 caption_header: Nature is amazing
 caption: Nature Nature Nature
 ---
