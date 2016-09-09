@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-06
+photo: 1473366208.jpg
+location: Sculpture & Shore Walk, Reykjavík, Iceland
+caption_header: Reykjavik Bay
+caption: At the other side of the bay of Reykjavik stands this nice long montain. During the sunset the sun warms up this hill and beautiful colors show up.
+---

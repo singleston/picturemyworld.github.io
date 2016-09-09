@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-06
+photo: 1473366454.jpg
+location: Göngustígur, Reykjavík, Iceland
+caption_header: Good catch!
+caption: Nice shot of the moon hanging around :)
+---
