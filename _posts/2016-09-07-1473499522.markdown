@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-07
+photo: 1473499522.jpg
+location: Vik, Iceland
+caption_header: Black sand
+caption: The sand of the different beaches in the South of Iceland is very thin and also very black. The colors of the place are very interesting with the blue of the water, the black of the sand and the green of the grass behind.
+---
