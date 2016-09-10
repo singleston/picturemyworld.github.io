@@ -11,6 +11,7 @@ parser = argparse.ArgumentParser(description='Create and upload a new post')
 parser.add_argument('-n','--name', help='Name for the markdown and image files', required=False, default=None)
 parser.add_argument('-d','--date', help='Date of the post: YYYY-MM-DD', required=False, default=None)
 parser.add_argument('-p','--path', help='Path to the actual photo to upload', required=False, default=None)
+parser.add_argument('-l','--location', help='Place where the picture has been taken', required=False, default=None)
 
 args = vars(parser.parse_args())
 
@@ -37,6 +38,12 @@ def getDate():
 		date = raw_input("--> ")
 		date = validateDate(date)
 	return date
+
+def getLocation():
+	location = args['location']
+	while location == None:
+		location = getValidRawInput("Please specify some GEOLOCATION KEYWORDS:")
+	return location
 
 # Clean non-word characters and whitespaces
 def clearString(s):
@@ -75,7 +82,6 @@ def getFilepath():
 			"upload:\nTip: drag'n'drop the image here.")
 		stripedFilePath = re.sub(r'[\\]*', '', filepath)
 		print "'" + stripedFilePath + "'"
-		print os.path.exists(stripedFilePath)
 	return filepath
 
 # Returns an input string
@@ -131,7 +137,7 @@ filename = "%d" % int(time.time())
 print "\nNew filename: '%s'" % (filename)
 filepath = getFilepath()
 title = getValidRawInput("Please specify a TITLE for the new post:")
-geolocation = getValidRawInput("Please specify some GEOLOCATION KEYWORDS:")
+geolocation = getLocation()
 text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new post:")
 
 # Create thumbnail, large image and post.
