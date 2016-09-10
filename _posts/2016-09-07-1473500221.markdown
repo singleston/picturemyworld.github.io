@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-07
+photo: 1473500221.jpg
+location: Vik, Iceland
+caption_header: Reflections
+caption: Picture taken in Vik on the black sand beach.
+---
