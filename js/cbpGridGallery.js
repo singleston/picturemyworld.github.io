@@ -67,6 +67,8 @@
 		this.grid = this.el.querySelector( 'section.grid-wrap > ul.grid' );
 		// main grid items
 		this.gridItems = [].slice.call( this.grid.querySelectorAll( 'li:not(.grid-sizer)' ) );
+		// Google Maps links
+		this.mapsLinks = [].slice.call( this.grid.querySelectorAll( 'a.maps_link' ) );
 		// items total
 		this.itemsCount = this.gridItems.length;
 		// slideshow grid
@@ -97,6 +99,13 @@
 
 	CBPGridGallery.prototype._initEvents = function() {
 		var self = this;
+
+		// When clicking on the map link, do not open the slideshow
+		this.mapsLinks.forEach( function( item ) {
+			item.addEventListener( 'click', function(event) {
+				event.stopPropagation();
+			})
+		});
 
 		// open the slideshow when clicking on the main grid items
 		this.gridItems.forEach( function( item, idx ) {
