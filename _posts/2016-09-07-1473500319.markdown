@@ -3,6 +3,6 @@ layout: default
 date: 2016-09-07
 photo: 1473500319.jpg
 location: Reynisfjara, Iceland
-caption_header: Islandic Giant's Causeway?
+caption_header: Icelandic Giant's Causeway?
 caption: This big rock faces the ocean West of Vik in Iceland. The bottom part reminded me of Ireland's Giant's Causeway.
 ---
