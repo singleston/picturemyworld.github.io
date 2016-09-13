@@ -4,5 +4,5 @@ date: 2016-09-11
 photo: 1473775457.jpg
 location: Montreal, Canada
 caption_header: Street Art
-caption: The city of Montreal is full of big paintings on the walls. Most of them fill a complete facade of a building.
+caption: The city of Montreal is full of big paintings on the walls. They usually fit on a complete facade of a building and represent many different things from cupcakes to cars and abstract art.
 ---
