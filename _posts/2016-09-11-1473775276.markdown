@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-11
+photo: 1473775276.jpg
+location: Olympic Stadium Montreal, Canada
+caption_header: View point
+caption: This picture has been taken from the top of the Olympic tower. From up there it is easier to see how big is the city and actually green. There is literally trees in every street!
+---
