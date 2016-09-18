@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-19
+photo: 1474168936.jpg
+location: Trump Tower, Chicago, USA
+caption_header: Chicago River
+caption: Except the massive Trump tower in the center of the picture, what is important there is the river at the bottom. It is the Chicago River. It was a very crucial point for commerce and made the city an important and historical place in the United States.
+---
