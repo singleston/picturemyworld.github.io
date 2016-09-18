@@ -1,8 +1,8 @@
 ---
 layout: default
-date: 2016-09-18
+date: 2016-09-17
 photo: 1474167954.jpg
 location: Downtown Chicago, USA
 caption_header: Night Vision
-caption: For my first night in the US, I had the chance to drive a private car and reach that amazing view point of the city wih my friend Mark.
+caption: For my first night in the US, I had the chance to get into a private car and reach that amazing view point of the city wih my friend Mark.
 ---
