@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-19
+photo: 1474415702.jpg
+location: Cubs Baseball Stadium, Chicago, USA
+caption_header: Go Cubs
+caption: freihgruoegh
+---
