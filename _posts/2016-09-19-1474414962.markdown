@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-19
+photo: 1474414962.jpg
+location: Willis Tower, Chicago, USA
+caption_header: Skydeck
+caption: Picture of me sitting on a glass floor about 400 meters high.
+---
