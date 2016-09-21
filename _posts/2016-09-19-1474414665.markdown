@@ -1,8 +1,0 @@
----
-layout: default
-date: 2016-09-19
-photo: 1474414665.jpg
-location: Cubs Baseball Stadium, Chicago, USA
-caption_header: Go Cubs!
-caption: That day I have seen my first Baseball game ever. Even though I did not get everything, it as awesome: the mood of the fans in stadium, their songs, the food, the beers, etc. Special thanks to Phill for the invitation
----

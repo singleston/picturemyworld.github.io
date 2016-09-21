@@ -3,6 +3,6 @@ layout: default
 date: 2016-09-20
 photo: 1474415093.jpg
 location: The Field Museum, Chicago, USA
-caption_header: Sue the Tyranausaurus
-caption: This is Sue, the most well preserved T-Rex ever found. The actual gender of this dinausor is unknown, but it has been given a female name as the archeologist who found her was a woman.
+caption_header: Sue the Tyrannosaurus Rex
+caption: This is Sue, the largest, best-preserved and most complete T-Rex ever found. The actual gender of this dinosaur is unknown, but it has been given a female name as the archeologist who found her was a woman.
 ---
