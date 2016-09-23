@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-22
+photo: 1474652902.jpg
+location: Hollywood Sign, Los Angeles, USA
+caption_header: Hollywhat?
+caption: The very famous Hollywood sign in plain sight! Did you know that it used to be Hollywoodland written there?
+---
