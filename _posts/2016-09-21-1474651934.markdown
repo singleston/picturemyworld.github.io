@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-21
+photo: 1474651934.jpg
+location: Santa Monica Pier, Los Angeles, USA
+caption_header: Santa Monica!
+caption: Nice view from the Santa Monica Pier of Pacific Park. In the background the big city of Los Angeles.
+---
