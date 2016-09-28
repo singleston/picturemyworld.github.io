@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-24
+photo: 1475033886.jpg
+location: Hoover Dam Bridge, USA
+caption_header: Hoover Dam Bridge
+caption: Picture taken from the Hoover Dam  in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona.
+---
