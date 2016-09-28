@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-26
+photo: 1475037481.jpg
+location: Antelope Canyon, Arizona, USA
+caption_header: Red walls
+caption: Those stunning walls are made of sand that with water and a very hot temperature baked and became solid. Of course, this happened in million of years!
+---
