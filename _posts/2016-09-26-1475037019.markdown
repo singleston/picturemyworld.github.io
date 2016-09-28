@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-26
+photo: 1475037019.jpg
+location: Antelope Canyon, Arizona, USA
+caption_header: Chrome Filter
+caption: Nothing is blue there, but the chrome filter of the camera makes everything surreal and superb.
+---
