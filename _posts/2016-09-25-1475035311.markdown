@@ -4,5 +4,5 @@ date: 2016-09-25
 photo: 1475035311.jpg
 location: Grand Canyon National Park, Arizona, USA
 caption_header: Trail
-caption: On a trail to get down into the canyon one can go through thise kind of door. It's a-door-able !
+caption: On a trail to get down into the canyon one can go through this kind of door. It's a-door-able !
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-24
 photo: 1475034485.jpg
-location: Grand Canyon, Arizona, USA
+location: Grand Canyon National Park, Arizona, USA
 caption_header: Grand Canyon
 caption: Very nice shot of the Grand Canyon in Arizona. It is so large and big it is difficult to see the other side. This photo has been taken from the South rim. The North rim is controlled by native american tribes.
 ---
