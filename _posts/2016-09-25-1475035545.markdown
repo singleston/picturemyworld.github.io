@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-25
+photo: 1475035545.jpg
+location: Grand Canyon National Park, Arizona, USA
+caption_header: Layers
+caption: With this picture one can distinguish the layered bands of red rock revealing millions of years of geological history.
+---
