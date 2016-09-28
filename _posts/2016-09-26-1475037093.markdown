@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-26
+photo: 1475037093.jpg
+location: Antelope Canyon, Arizona, USA
+caption_header: Antelope Canyon
+caption: The name of this canyon comes from the antelopes that used to come down there to drink water after the rain.
+---
