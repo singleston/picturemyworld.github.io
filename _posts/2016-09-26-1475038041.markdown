@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-26
+photo: 1475038041.jpg
+location: Lake Powell, Utah, USA
+caption_header: Lake Powell
+caption: This lake is actually the Colorado River on a very large scale. I went swimming there, the water was really refreshing after crossing the desert.
+---
