@@ -4,5 +4,5 @@ date: 2016-09-28
 photo: 1475300299.jpg
 location: Bryce Canyon National Park, USA
 caption_header: Bryce Canyon
-caption: This National Park, in southern Utah, is known for its red hoodoos. Those spires are rocks shaped by ice and water over the last centuries.
+caption: This National Park, in southern Utah, is known for its red hoodoos. Those spires are rocks shaped by ice and water over the last million years.
 ---
