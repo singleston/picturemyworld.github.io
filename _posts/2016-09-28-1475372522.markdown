@@ -4,5 +4,5 @@ date: 2016-09-28
 photo: 1475372522.jpg
 location: Bryce Canyon National Park, USA
 caption_header: Down the road
-caption: Once we get at the bottom of the canyon we could see the hoodoos from a different angle. They are still very impressive and look like a giant wall.
+caption: Once we got at the bottom of the canyon we could see the hoodoos from a different angle. They are still very impressive and look like a giant wall.
 ---
