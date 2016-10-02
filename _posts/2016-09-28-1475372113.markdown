@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-28
+photo: 1475372113.jpg
+location: Bryce Canyon National Park, USA
+caption_header: Wallpaper
+caption: I very like this shot of a dead tree and a plane in the background.
+---
