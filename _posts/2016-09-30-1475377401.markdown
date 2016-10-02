@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-30
+photo: 1475377401.jpg
+location: Zion National Park, USA
+caption_header: Been there. Done that.
+caption: The trail led me to the top of that thin cliff 300m high on both side. The narrowest part was only 1 meter wide!
+---
