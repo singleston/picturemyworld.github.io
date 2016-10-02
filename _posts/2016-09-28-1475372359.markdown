@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-28
+photo: 1475372359.jpg
+location: Bryce Canyon National Park, USA
+caption_header: Hiking another door
+caption: On our way down the canyon we went through many doors like that one. We also encountered many animals such as chipmunks, noisy crickets and various birds.
+---
