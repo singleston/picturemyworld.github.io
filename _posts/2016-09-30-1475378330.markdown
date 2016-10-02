@@ -4,5 +4,5 @@ date: 2016-09-30
 photo: 1475378330.jpg
 location: Zion National Park, USA
 caption_header: Summit Landscape
-caption: Picture taken at the very top of that big rock!
+caption: Picture taken at the very top of that big rock! The complete hike took me exactly 3 hours with a good walking speed.
 ---
