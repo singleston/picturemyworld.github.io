@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-29
+photo: 1475374614.jpg
+location: Boulder, Utah, USA
+caption_header: Highway 12
+caption: On our way back from Boulder we drove on a scenic road that offered us many beautiful view points. We spent our time driving through narrow cliffs, in forests along side a river or even on top of some hills.
+---
