@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-28
+photo: 1475371506.jpg
+location: Bryce Canyon National Park, USA
+caption_header: Me again!
+caption: I'm fine mom :)
+---
