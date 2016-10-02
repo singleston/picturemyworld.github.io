@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-30
+photo: 1475377935.jpg
+location: Zion National Park, USA
+caption_header: Respect for the old man!
+caption: At the end of the trail I met that old man who was 79 years old. I hiked that big rock 54 times in his life and plans to do it one more time!
+---
