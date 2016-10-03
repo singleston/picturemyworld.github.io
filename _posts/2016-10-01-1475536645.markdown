@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-01
+photo: 1475536645.jpg
+location: The Venetian, Las Vegas, Nevada, USA
+caption_header: Venice Baby
+caption: At the second floor of the Venetian hotel, they built a shopping center which actually contains a river where could go on using gondolas! All of this just to replicate Venice, Italy in Vegas!
+---
