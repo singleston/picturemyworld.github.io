@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-09-28
+photo: 1475533491.jpg
+location: Bryce Canyon National Park, USA
+caption_header: Wall Street
+caption: View from down the Wall Street in Bryce Canyon.
+---
