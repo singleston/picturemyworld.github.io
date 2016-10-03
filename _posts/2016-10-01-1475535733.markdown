@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-01
+photo: 1475535733.jpg
+location: Bellagio, Las Vegas, Nevada, USA
+caption_header: Fine Art
+caption: Detailed photo of the ceiling of the Bellagio's Lobby.
+---
