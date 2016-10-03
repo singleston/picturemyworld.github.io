@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-01
+photo: 1475537169.jpg
+location: Treasure Island, Las Vegas, Nevada, USA
+caption_header: Detailed Art
+caption: This is a more detailed picture of the mammoth tusk carved during the Ming Dynasty Chinese culture.
+---
