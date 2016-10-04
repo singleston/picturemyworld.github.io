@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-01
+photo: 1475545075.jpg
+location: New York New York, Las Vegas, Nevada, USA
+caption_header: America
+caption: Here you go with the copy of the Statue of Liberty in Vegas!
+---
