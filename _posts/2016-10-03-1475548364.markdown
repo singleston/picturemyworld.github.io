@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-03
+photo: 1475548364.jpg
+location: Bay Bridge, San Francisco, USA
+caption_header: Treasure Island
+caption: As San Francisco is surrounded by water, such big bridges are required to get around. That one is the Bay Bridge that connects San Francisco Downtown to Treasure Island and then Oakland.
+---
