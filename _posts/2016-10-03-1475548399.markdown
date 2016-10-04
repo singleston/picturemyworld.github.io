@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-03
+photo: 1475548399.jpg
+location: Bay Bridge, San Francisco, USA
+caption_header: Bay Bridge
+caption: Panorama of the Bay Bridge that links Treasure Island and SF Downtown.
+---
