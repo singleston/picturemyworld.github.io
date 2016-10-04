@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-03
+photo: 1475548678.jpg
+location: Golden Gate Bridge, San Francisco, USA
+caption_header: Golden Gate Bridge
+caption: Picture of the Golden Gate Bridge from the bay at San Francisco.
+---
