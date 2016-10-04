@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-01
+photo: 1475546704.jpg
+location: Zabriskie Point, Death Valley, USA
+caption_header: Just chillin'
+caption: Don't stay too long there without water! At every view point signs were warning visitors to bring at least a gallon of water with them where ever they go. It is not called the Death Valley for nothing.
+---
