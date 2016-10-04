@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-03
+photo: 1475547558.jpg
+location: San Francisco, USA
+caption_header: Market Day
+caption: Random people at a market in front of the City Hall.
+---
