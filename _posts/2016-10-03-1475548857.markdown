@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-03
+photo: 1475548857.jpg
+location: Golden Gate Bridge, San Francisco, USA
+caption_header: Me again!
+caption: Mom, I'm fine.
+---
