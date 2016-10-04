@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2016-10-01
+date: 2016-10-02
 photo: 1475546257.jpg
 location: Badwater Basin, Death Valley, USA
 caption_header: I'm not sure
