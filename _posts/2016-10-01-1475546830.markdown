@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-01
+photo: 1475546830.jpg
+location: Death Valley, USA
+caption_header: Sandstorm!
+caption: On our way out of the Death Valley we had to drive throughout a real sandstorm. At one point we couldn't see anything anymore, but we kept driving and reach the other side without a scratch. ouf!
+---
