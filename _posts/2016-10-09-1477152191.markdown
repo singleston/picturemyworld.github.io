@@ -4,5 +4,5 @@ date: 2016-10-09
 photo: 1477152191.jpg
 location: Parque Arví, Antioquia
 caption_header: Nena!
-caption: That lovely woman helped us to get our fire ready for the BBQ but also cooked some of our food with her equipment. She did help us a lot like most the colombian people which usually are super friendly!
+caption: This lovely woman helped us to get our fire ready for the BBQ but also cooked some of our food with her equipment. She did help us a lot! Most colombian people usually are super friendly!
 ---
