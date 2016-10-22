@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-04
+photo: 1477150943.jpg
+location: Aeropuerto Olaya Herrera, Medellín, Colombia
+caption_header: Airport in Medellin!
+caption: On my first day in Colombia, I arrived at the Medellín airport. This was my first view of the city.
+---
