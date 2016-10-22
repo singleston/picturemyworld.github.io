@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-05
+photo: 1477151516.jpg
+location: El Poblado, Medellín, Colombia
+caption_header: Colors
+caption: Between big tall residential buildings it is still possible to find small house with lots of vivid colors. That one was a priary school or a nursery.
+---
