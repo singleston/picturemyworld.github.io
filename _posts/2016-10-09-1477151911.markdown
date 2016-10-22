@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-09
+photo: 1477151911.jpg
+location: Parque Arví, Antioquia
+caption_header: Parque Arví
+caption: Few days after my arrival, I went on a BBQ/pic-nic in the Parque Arví. It is a national park around Medellin. The vegetation is very dense and it is possible to find small water stream like that one.
+---
