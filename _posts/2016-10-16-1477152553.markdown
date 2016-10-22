@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-16
+photo: 1477152553.jpg
+location: Antioquia, Colombia
+caption_header: Antioquia landscape
+caption: On our way to Belmira we stopped at a small coffee shop to have a quick breakfast. That was the view from it. The country side around Medellin is very green, lots of mountains that look like hills but which are still at 2000m high!
+---
