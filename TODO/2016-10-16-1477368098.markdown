@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-16
+photo: 1477368098.jpg
+location: Belmira, Antioquia, Colombia
+caption_header: Welcome to the Jungle
+caption: Well this was not a real jungle... just a dense forest :)
+---
