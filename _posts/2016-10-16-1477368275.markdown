@@ -1,8 +1,0 @@
----
-layout: default
-date: 2016-10-16
-photo: 1477368275.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: That's a bridge
-caption: Whenever there was small river or steam, people built a bridge that big and gorgeous at this one! jajaja (laugh in spanish)
----
