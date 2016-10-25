@@ -4,5 +4,5 @@ date: 2016-10-16
 photo: 1477366631.jpg
 location: Belmira, Antioquia, Colombia
 caption_header: Iglesa de Belmira
-caption: This church stands at the center of town. It is extremely pretty and very big compared to the ridiculously small size of the village.
+caption: This church stands at the center of town. It is extremely pretty and very big for such ridiculously small village.
 ---
