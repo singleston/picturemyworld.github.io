@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-17
+photo: 1477607621.jpg
+location: Páramo de Belmira, Colombia
+caption_header: Gold Mine
+caption: This is the exit of a gold mine in Colombia. We have been there with a guide to see how does it look like. We did some small gold ''stream'. We also woke up few bats on our way haha!
+---
