@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-16
+photo: 1477605981.jpg
+location: Belmira, Antioquia, Colombia
+caption_header: Five stars hotel
+caption: At the end of the day we arrive at the top of mountain where this cute wooden house was waiting for us. Inside, no electricty, no shower, no warm water, just cold not-so-drinkable rain water. The night was very cold but quite funny as we slept at 21
+---
