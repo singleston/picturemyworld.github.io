@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-16
+photo: 1477607101.jpg
+location: Páramo de Belmira, Colombia
+caption_header: Frailejones
+caption: Those weird plants or trees are a speciality of the Páramo en Colombia. They do look strange but are very cute all together.
+---
