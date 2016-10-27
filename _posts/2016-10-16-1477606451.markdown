@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-10-16
+photo: 1477606451.jpg
+location: Belmira, Antioquia, Colombia
+caption_header: Me and my bro
+caption: Cedric and I chillin' around.
+---
