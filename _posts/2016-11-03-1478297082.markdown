@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-03
+photo: 1478297082.jpg
+location: Cali, Colombia
+caption_header: Palm Trees
+caption: In one of the many places in the city center of Cali, those big palm trees are the main vegetation around.
+---
