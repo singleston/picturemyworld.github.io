@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-03
+photo: 1478299398.jpg
+location: Christo Rey, Cali, Colombia
+caption_header: View point
+caption: View from the Christo Rey of the city. Main difference with what I have seen so far in Colombia? It is so flat! The city is not built in the mountains but next to them.
+---
