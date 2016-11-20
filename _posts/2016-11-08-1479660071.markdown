@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-08
+photo: 1479660071.jpg
+location: Bogota, Colombia
+caption_header: Humans
+caption: That grafiti represents the different states of the human being.
+---
