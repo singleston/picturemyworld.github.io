@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-05
+photo: 1479658670.jpg
+location: Cali, Colombia
+caption_header: Licors
+caption: Those licors or perfume are used by the locals while bathing. Which of them has a different purpose: find love, get a good job, be more attractive, fight desespair, be better in bed, etc.
+---
