@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-04
+photo: 1479656788.jpg
+location: San Cipriano, Colombia
+caption_header: Motobike train!
+caption: Close to the city of Buenaventura stands a small village called San Cipriano. It is made and occupy by black people (basically former slaves). It is lost in the jungle and the only way to reach it is to use a wooden platform with benches pushed by a motobike on a train trail.
+---
