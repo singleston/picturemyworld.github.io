@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-08
+photo: 1479660101.jpg
+location: Bogota, Colombia
+caption_header: History made
+caption: Even though the quality of that street art is incredible, what is more important is the story behind and what it represents. The pfaces painted there where once people killed or abused by the different wars or soldiers over the last years. The internal conflicts in Colombia deeply touched the innocent people living in the country.
+---
