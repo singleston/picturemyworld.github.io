@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-07
+photo: 1479659442.jpg
+location: Bogota, Colombia
+caption_header: Mountains
+caption: This picture shows the mountains around Bogota with clouds and nice lights.
+---
