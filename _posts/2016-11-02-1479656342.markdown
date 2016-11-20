@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-02
+photo: 1479656342.jpg
+location: Cali, Colombia
+caption_header: Street Art
+caption: The Street Art is also very present in Cali. It is less crazy and explicit as it could be in Bogota but it still does fit very well in the city.
+---
