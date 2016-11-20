@@ -4,5 +4,5 @@ date: 2016-11-08
 photo: 1479660598.jpg
 location: Bogota, Colombia
 caption_header: Cats
-caption: If you look closely you can see that the street light and signs are integrated into the grafiti.
+caption: If you look closely you can see that the street lights and traffic signs are integrated into the grafiti.
 ---
