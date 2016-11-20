@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-04
+photo: 1479657983.jpg
+location: San Cipriano, Colombia
+caption_header: Waterfall
+caption: There is in the National Park of San Cipriano many hidden waterfalls. A local guided us to that one which was about 10 meters high. I went swimming there it was awesome!!
+---
