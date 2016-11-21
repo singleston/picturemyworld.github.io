@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-09
+photo: 1479764253.jpg
+location: Medellin, Colombia
+caption_header: Street Art
+caption: The street art scene in Medellin is way less omnipresent than it is in Bogota. Though it is possible to find very nice spots around.
+---
