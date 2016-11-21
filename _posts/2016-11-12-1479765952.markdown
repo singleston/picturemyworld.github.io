@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-12
+photo: 1479765952.jpg
+location: Guatape, Colombia
+caption_header: Guatape Guatape
+caption: Guys! Put colors on your house, it looks awesome!
+---
