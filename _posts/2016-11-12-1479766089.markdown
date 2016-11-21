@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-12
+photo: 1479766089.jpg
+location: Guatape, Colombia
+caption_header: Nothing changed
+caption: I'm still fine mom!
+---
