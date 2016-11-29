@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-13
+photo: 1480443126.jpg
+location: Cocora Valley, Colombia
+caption_header: Does this matter?
+caption: So what's wrong here? Are the trees giagantic? Are the cows super tiny? Why is that dude hugging a tree? :)
+---
