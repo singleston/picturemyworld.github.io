@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-14
+photo: 1480445105.jpg
+location: Cocora Valley, Colombia
+caption_header: Coffe beans
+caption: I attended a coffee tour in a biological farm in Colombia. They explained us the whole concept about farming those coffee beans. The different plants and trees they use to control the quality of the coffee. For example orange trees to adjust the acidity of the beans and pineapple trees to distract the bugs from the coffee beans.
+---
