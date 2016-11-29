@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-12
+photo: 1480444004.jpg
+location: Guatape, Colombia
+caption_header: Mysterious French Artist
+caption: The artist behind the 'meuh' grafiti in Bogota :)
+---
