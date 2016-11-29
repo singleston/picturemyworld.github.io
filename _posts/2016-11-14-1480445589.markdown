@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-14
 photo: 1480445589.jpg
-location: Cocora Valley, Colombia
+location: Salento, Quindio, Colombia
 caption_header: Cooked Coffee Beans
-caption: After a long preparation those are the coffee beans one could buy from the farm. This one is from 'La finca Las Brisas'.
+caption: After a long preparation those are the coffee beans one could buy from the farm. This one is from 'la finca Las Brisas'.
 ---
