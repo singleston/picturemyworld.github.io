@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-15
+photo: 1480446461.jpg
+location: Medellin, Colombia
+caption_header: Communas
+caption: This picture shows one district of the city which might be fine during the day but rather unsecure at night.
+---
