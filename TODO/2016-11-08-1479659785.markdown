@@ -1,8 +1,0 @@
----
-layout: default
-date: 2016-11-08
-photo: 1479659785.jpg
-location: Bogota, Colombia
-caption_header: Grafiti Tour!
-caption: One of the main attraction in Bogota is the Grafiti Tour. The guide explains the story of the city through the differents street arts around the city. The very once tags 'meuh' has been done by a french man that I met few days later!!
----
