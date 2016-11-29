@@ -4,5 +4,5 @@ date: 2016-11-15
 photo: 1480446751.jpg
 location: Jardín Botánico, Medellin, Colombia
 caption_header: Love is in the air
-caption: Peaceful path through the trees with two stranger kissing each other.
+caption: Peaceful path through the trees with two strangers kissing each other.
 ---
