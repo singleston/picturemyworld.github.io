@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-19
+photo: 1480513424.jpg
+location: Rincon Del Mar, Colombia
+caption_header: Rincon!
+caption: After a long day crossing the country with a taxi, then a very cold bus, and then another taxi who scammed us so hard we finally arrived at Rincon. The hostel was directly on the beach, under the coconut trees. The water was simply perfect to bath and swimm. We also made our own Pina Colada!
+---
