@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-15
+photo: 1480511051.jpg
+location: Museum of Antioquia, Medellin, Colombia
+caption_header: Squares
+caption: I have no story about that paint, but it just bugged me so much I had to take a picture of it.
+---
