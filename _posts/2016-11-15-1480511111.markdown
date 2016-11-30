@@ -4,5 +4,5 @@ date: 2016-11-15
 photo: 1480511111.jpg
 location: Museum of Antioquia, Medellin, Colombia
 caption_header: French Royalties
-caption: Fernando Botero is famous artist and sculptor from Medellin. His style depicts persons or objects in large and exaggerated volume. In this picture Louis XIV and Marie-Antoinette visit Medellin.
+caption: Fernando Botero is a famous artist and sculptor from Medellin. His style depicts persons and objects in large and exaggerated volume. In this picture, Botero painted Louis XIV and Marie-Antoinette visiting Medellin.
 ---
