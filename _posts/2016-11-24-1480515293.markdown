@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-24
+photo: 1480515293.jpg
+location: Cabo de la Vela, Colombia
+caption_header: I do love sunsets.
+caption: The one good thing about Cabo de la Vela? This sunset :)
+---
