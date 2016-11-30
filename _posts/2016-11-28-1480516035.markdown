@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-28
+photo: 1480516035.jpg
+location: Costeño Beach, Colombia
+caption_header: Dream Hostel
+caption: Awesome hostel with great food (including real bread OH MY GOD!), nice beds with mosquito nets and, even better, nice waves! I did 2 days of surfing there :)
+---
