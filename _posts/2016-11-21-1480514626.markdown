@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-21
+photo: 1480514626.jpg
+location: Rincon Del Mar, Colombia
+caption_header: Another crazy sunset
+caption: Photo by Sophie De Sousa.
+---
