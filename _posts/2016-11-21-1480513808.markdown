@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-21
+photo: 1480513808.jpg
+location: Isla Tintipan, Colombia
+caption_header: Paradise
+caption: We spend a day on a boat going from Rincon Del Mar to different islands in the Caribbean Sea. On that island the water was still, no wave and extremely clear. One could swimm around with nice fishes while drinking some Cocoloco !
+---
