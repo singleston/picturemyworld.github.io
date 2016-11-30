@@ -3,6 +3,6 @@ layout: default
 date: 2016-11-21
 photo: 1480514666.jpg
 location: Rincon Del Mar, Colombia
-caption_header: Wallpaper
-caption: This is definitely my new wallpaper :)
+caption_header: Nice shot!
+caption: This is definitely my new wallpaper, great photo made by Sophie De Sousa :)
 ---
