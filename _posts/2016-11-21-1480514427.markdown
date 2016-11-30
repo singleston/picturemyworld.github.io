@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-21
+photo: 1480514427.jpg
+location: Isla Tintipan, Colombia
+caption_header: Wanna chill?
+caption: I'm pretty sure you would like to be there too? Well I couldn't as this was a private property.
+---
