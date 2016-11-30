@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-20
+photo: 1480513667.jpg
+location: Rincon Del Mar, Colombia
+caption_header: Sunset in Rincon
+caption: That day we went for a walk on the beach. After few hours on our way back we could see that gorgeous sunset.
+---
