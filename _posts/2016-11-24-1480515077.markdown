@@ -4,5 +4,5 @@ date: 2016-11-24
 photo: 1480515077.jpg
 location: Cabo de la Vela, Colombia
 caption_header: Cabo De La Vela
-caption: We had to stay in this fishing village for a night on our way to the Punta Gallinas. This town is very small and has nothing to offer except nice sunsets, usual fish meal and hammocks.
+caption: We had to stay in this fishing village for a night on our way to the Punta Gallinas. This town is very small and has nothing to offer except nice sunsets, usual fish meals and hammocks.
 ---
