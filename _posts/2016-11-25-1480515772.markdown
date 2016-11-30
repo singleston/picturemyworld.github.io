@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-11-25
+photo: 1480515772.jpg
+location: Punta Gallinas, Colombia
+caption_header: Make a wish
+caption: The legend says that if you build such rocky thing on the beach at the Punta Gallinas you will be granted one wish; and so did I. :D
+---
