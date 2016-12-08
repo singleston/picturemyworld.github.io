@@ -4,5 +4,5 @@ date: 2016-09-28
 photo: 1475375699.jpg
 location: Bryce Canyon National Park, USA
 caption_header: BFF!
-caption: Special thanks to Adrien for planning this great road trip! We saw many massively giagantic huge things ;)
+caption: Special thanks to Adrien for planning this great road trip! We saw many massively gigantic huge things ;)
 ---

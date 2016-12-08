@@ -4,5 +4,5 @@ date: 2016-10-01
 photo: 1475535306.jpg
 location: Ceasar Palace, Las Vegas, Nevada, USA
 caption_header: Ceasar Palace
-caption: Majestic statue in the entrance of the giagantic Ceasar Palace. This hotel is composed by 3 tall buildings, a copy of the Colosseum from Rome, a massive night club, a shopping center and a small park with fountains!
+caption: Majestic statue in the entrance of the gigantic Ceasar Palace. This hotel is composed by 3 tall buildings, a copy of the Colosseum from Rome, a massive night club, a shopping center and a small park with fountains!
 ---
