@@ -92,17 +92,22 @@ a:hover, visited, active {
 }
 
 .container > header nav a {
-	display: inline-block;
+	/* All disabled for the AppStore icon */
+
+	/* For link-icons like Facebook or soundcloud */
+	/*display: inline-block;*/
+	/*margin: 0 0.1em;
+	text-decoration: none;
 	position: relative;
 	text-align: center;
-	width: 1.5em;
+	width: 1.5em;*/
+
+	/* Disabled*/
 	/*height: 2.5em;*/
 	/*background: #fff;*/
-	/*border-radius: 50%;*/
-	margin: 0 0.1em;
+	/*border-radius: 50%;*/	
 	/*border: 4px solid #47a3da;*/
-	/*padding-top: 6px;*/
-	text-decoration: none;
+	/*padding-top: 6px;*/	
 }
 
 .container > header nav a > span {
