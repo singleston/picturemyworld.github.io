@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-08-31
-photo: backpack.jpg
+photo: 1473365000.jpg
 location: Pontonx, France
 caption_header: My best friend from now on!
 caption: So that's the big guy following me everywhere !

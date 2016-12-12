@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-08-05
-photo: Bias-Plage.jpg
+photo: 1473364300.jpg
 location: Plage de l'Espécier, Mimizan, France
 caption_header: Beach day
 caption: On the South West coast of France, there is a beach 200km long. On the left side the Atlantic ocean, in the middle the beach with a sand dune and on the right side one of the biggest forest in Europe! Photo taken from the dune.

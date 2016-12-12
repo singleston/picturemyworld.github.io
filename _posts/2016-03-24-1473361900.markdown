@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-03-24
-photo: yoda.jpg
+photo: 1473361900.jpg
 location: Madame Tussauds, Berlin
 caption_header: May the force be with us
 caption: Me thinking about the force sitting next to master Yoda himself. He is a very nice lad!

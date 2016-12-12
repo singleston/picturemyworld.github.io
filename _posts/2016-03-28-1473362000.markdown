@@ -1,7 +1,7 @@
 ---
 layout: default
 date:   2016-03-28 23:26:12
-photo: 	parc.jpg
+photo: 	1473362000.jpg
 location: Berlin, Germany
 caption_header: Abandonned attraction park
 caption: There is an abandonned park near Berlin. It used to be open about 10 years ago but is now closed as it wasn't profitable enough. It has been built by the East Germany government DDR.

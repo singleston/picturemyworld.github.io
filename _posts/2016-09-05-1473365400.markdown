@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-09-05
-photo: reykjavik_sunset.jpg
+photo: 1473365400.jpg
 location: Göngustígur, Reykjavík, Iceland
 caption_header: Reykjavik Sunset
 caption: My first sunset in Reykjavik. Beautiful burning sky and crazy colored clouds!
