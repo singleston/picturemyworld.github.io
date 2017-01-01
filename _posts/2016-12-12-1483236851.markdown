@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-12
+photo: 1483236851.jpg
+location: TODO, Mexico City, Mexico
+caption_header: Main square
+caption: The main square of Mexico City is fairly big, but on Christmas time, a huge tree magically grows in its center! ;)
+---
