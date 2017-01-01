@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-09-28
-photo: 1475533491.jpg
+photo: 1475372895.jpg
 location: Bryce Canyon National Park, USA
 caption_header: Wall Street
 caption: View from down the Wall Street trial in Bryce Canyon.
