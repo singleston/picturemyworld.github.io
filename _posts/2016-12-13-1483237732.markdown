@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-13
+photo: 1483237732.jpg
+location: TODO, Mexico
+caption_header: TODO
+caption: Main building of that small town. Very pretty but I am not very sure and it actually was... Nonetheless, those vivid colors are awesome! Why don't we do that in Europe?
+---
