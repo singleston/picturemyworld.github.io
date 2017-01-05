@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-13
 photo: 1483238204.jpg
-location: TODO, Mexico
+location: San Lorenzo Albarradas, Oaxaca, Mexico
 caption_header: Big one uh?
 caption: Mom, mexico is awesome.
 ---
