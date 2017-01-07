@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-14
+photo: 1483832678.jpg
+location: Templo de Santo Domingo, Oaxaca Ciudad, Mexico
+caption_header: Santo Domingo de Guzmán
+caption: This church and former monastery has an incredible ceiling with many details made out of gold. The rest of the complex is now a museum about the Aztec culture.
+---
