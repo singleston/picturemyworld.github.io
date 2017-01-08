@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-14
+photo: 1483833502.jpg
+location: Oaxaca Ciudad, Mexico
+caption_header: Mexico...
+caption: ... being Mexico :3
+---
