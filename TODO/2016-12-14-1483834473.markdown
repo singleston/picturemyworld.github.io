@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-14
+photo: 1483834473.jpg
+location: Oaxaca Ciudad, Mexico
+caption_header: Funerary Urn
+caption: The Aztecs used this kind of sculpture as funerary urn. The figure depicts characteristics of the deceased.
+---

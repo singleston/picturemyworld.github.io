@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-14
+photo: 1483831892.jpg
+location: Oaxaca Ciudad, Mexico
+caption_header: Aztec Calendar
+caption: There are actually multiple aztec calendars. That one is called 'tonalpohualli' and in order to know what day is today you actually need 2 wheels with numbers and other symbols!
+---
