@@ -4,5 +4,5 @@ date: 2016-12-15
 photo: 1484526636.jpg
 location: San José del Pacifico, Mexico
 caption_header: San José
-caption: Little town
+caption: San José del Pacifico is a very small town in the montains between Oaxaca and Puerto Escondido. It is famous for the hikes around and the 'hongos' ;)
 ---
