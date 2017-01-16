@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-28
+photo: 1484529987.jpg
+location: San Cristobal de las Casas, Mexico
+caption_header: Townhall
+caption: Can you feel the hispanic influence from the conquistadors?
+---
