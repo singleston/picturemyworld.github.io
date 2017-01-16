@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-21
+photo: 1484527719.jpg
+location: Mazunte, Mexico
+caption_header: Paradise Beach
+caption: What else would you need? Maybe a beer.
+---
