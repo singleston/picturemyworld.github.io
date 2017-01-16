@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-21
+photo: 1484528191.jpg
+location: Mazunte, Mexico
+caption_header: Palm trees
+caption: I am amazed by the look of those palm trees. I couldn't get closer as this area might be infected by... crocodiles. Easy :p
+---
