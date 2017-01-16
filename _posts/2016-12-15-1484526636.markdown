@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-15
+photo: 1484526636.jpg
+location: San José del Pacifico, Mexico
+caption_header: San José
+caption: Little town
+---
