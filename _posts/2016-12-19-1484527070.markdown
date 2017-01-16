@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-19
+photo: 1484527070.jpg
+location: Puerto Escondido, Mexico
+caption_header: Harbor
+caption: View of the fishing boats in the little harbor of Puerto Escondido. The water is cristal clear and is perfect for snorkeling.
+---
