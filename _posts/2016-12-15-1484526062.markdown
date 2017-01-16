@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-15
+photo: 1484526062.jpg
+location: Cuajimoloyas, Oaxaca, Mexico
+caption_header: Zipline!
+caption: That zipline is longest one in Mexico, about a 1 kilometer long! Even though the weather was very bad it was actually fun to do :)
+---
