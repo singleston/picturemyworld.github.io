@@ -4,5 +4,5 @@ date: 2017-01-14
 photo: 1484780324.jpg
 location: Tulum, Mexico
 caption_header: Big House
-caption: That was a residential house were many people were living in. Bedrooms, kitchens, it was all there :)
+caption: That was a residential house where many people lived in. Bedrooms, kitchens, it was all there :)
 ---
