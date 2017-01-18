@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-15
+photo: 1484780415.jpg
+location: Tulum, Mexico
+caption_header: Art
+caption: I rested a week in Tulum after all this travel. I went almost everyday to that Art-Galery-Coffee place to relax, work and enjoy a nice fresh juice and Internet. ;)
+---
