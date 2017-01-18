@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-11
+photo: 1484778978.jpg
+location: Tikal, Guatemala
+caption_header: Same Temple
+caption: Different Angle
+---
