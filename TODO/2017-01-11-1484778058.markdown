@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-11
+photo: 1484778058.jpg
+location: Tikal, Guatemala
+caption_header: Mayan Temple
+caption: That temple is the first one you see when you arrive at Tikal. It is very nice but not the nicest in my opinion.
+---

@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-09
+photo: 1484777221.jpg
+location: Semuc Champey, Guatemala
+caption_header: Adventure Time!
+caption: That day we went exploring a cave helped with candles, cliff jumping inside that cave. Later, we jumped off a swing in a river, and went hiking and swimming in those natural pools! What. a. day.
+---

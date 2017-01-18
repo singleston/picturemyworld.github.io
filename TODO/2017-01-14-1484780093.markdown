@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-14
+photo: 1484780093.jpg
+location: Tulum, Mexico
+caption_header: Small temple
+caption: That small temple is dedicated to the god of wind. They used to make offering to their gods in small altars, usually fishes and other items that they would either find or build.
+---
