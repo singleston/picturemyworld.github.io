@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-01
+photo: 1484754729.jpg
+location: Zona Arqueológica, Palenque, Mexico
+caption_header: Perspective
+caption: Memorial inscription in Maya language.
+---
