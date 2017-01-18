@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-01
+photo: 1484756685.jpg
+location: Zona Arqueológica, Palenque, Mexico
+caption_header: Mirador!
+caption: I climbed another temple to take that shot. Did you know that the stairs are very very steep? Easy to climb, hard to get down haha
+---
