@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-04
+photo: 1484771392.jpg
+location: Lake Atitlán, Guatemala
+caption_header: One shot, two volcanos
+caption: The lake Atitlán is surrounded by moutains and volcanos, from left to right the volcanos Tolimán and San Predo.
+---
