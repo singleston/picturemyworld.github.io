@@ -4,5 +4,5 @@ date: 2017-01-07
 photo: 1484776498.jpg
 location: Volcano Pacaya, Guatemala
 caption_header: Marshmallows
-caption: Even though the lava on the surface is cold and on the solid state, the underground near the volcano is still extremelly hot. After maybe a minute in a simple pit about 40cm deep, those marshmallows were cooked!
+caption: Even though the lava on the surface is 'cold' and on the solid state, the underground near the volcano is still extremelly hot. After maybe a minute in a simple pit about 40cm deep, those marshmallows were cooked!
 ---

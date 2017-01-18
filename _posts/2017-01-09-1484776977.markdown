@@ -4,5 +4,5 @@ date: 2017-01-09
 photo: 1484776977.jpg
 location: Semuc Champey, Guatemala
 caption_header: Semuc Champey
-caption: The crazyness of that spot is, of course due to how pretty it is, but also because there is a very dangerous river running underneath it. Avoid that one and just relax in those natural pools in the middle of the mountains!
+caption: The crazyness of that spot is, of course how pretty it is, but also because there is a very dangerous river running underneath it. Avoid that one and just relax in those natural pools surrounded by mountains!
 ---
