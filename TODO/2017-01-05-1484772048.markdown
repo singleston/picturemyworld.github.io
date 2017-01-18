@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-05
+photo: 1484772048.jpg
+location: Lake Atitlán, Guatemala
+caption_header: Sunset and volcano
+caption: Sunset behind the beautiful volcano of San Pedro.
+---

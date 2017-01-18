@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-06
+photo: 1484772751.jpg
+location: Antigua, Guatemala
+caption_header: Antiguo Colegio de la Compañía de Jesús
+caption: This is one of the many religious building of the city that has collapsed during earthquakes but has not been restored over the years.
+---
