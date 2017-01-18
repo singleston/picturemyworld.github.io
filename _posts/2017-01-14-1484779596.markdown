@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-14
+photo: 1484779596.jpg
+location: Tulum, Mexico
+caption_header: Holy Moment
+caption: Nice timing for that picture in the Mayan ruins of Tulum in Mexico. I went there early in the morning to avoid the croud and the heat of the sun.
+---
