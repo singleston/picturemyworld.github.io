@@ -4,5 +4,5 @@ date: 2016-12-21
 photo: 1484528542.jpg
 location: Mazunte, Mexico
 caption_header: Go for it
-caption: Come on buddy, go for it! It's right in from of you! Reach that water, swimm and survive!
+caption: Come on buddy, go for it! It's right in front of you! Reach that water, swim and survive!
 ---

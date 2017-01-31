@@ -4,5 +4,5 @@ date: 2016-12-14
 photo: 1483832234.jpg
 location: Oaxaca Ciudad, Mexico
 caption_header: Mexican Street
-caption: For what I have seen, this is a typical Mexican street. One or max two floors buildings, lots a color, flowers and of course a piñata ;)
+caption: For what I have seen, this is a typical Mexican street. One or max two floors buildings, lots a colors, flowers and of course a piñata ;)
 ---
