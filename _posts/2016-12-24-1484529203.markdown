@@ -4,5 +4,5 @@ date: 2016-12-24
 photo: 1484529203.jpg
 location: Puerto Escondido, Mexico
 caption_header: Christmas Eve
-caption: I wasn't with my family that night, but there are worst ways of spending Christmas haha!
+caption: I wasn't with my family that night, but there are worse ways of spending Christmas haha!
 ---
