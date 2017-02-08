@@ -4,5 +4,5 @@ date: 2017-01-06
 photo: 1484772399.jpg
 location: Antigua, Guatemala
 caption_header: Antigua
-caption: Antigua is a small city surrouded by volcanoes. It is famous due its Spanish colonial buildings. The is very pretty but so touristy, , I don't see why would people actually stay there...
+caption: Antigua is a small city surrouded by volcanoes. It is famous due to its Spanish colonial buildings. The city is very pretty but so touristy, I don't see why people would actually stay there...
 ---
