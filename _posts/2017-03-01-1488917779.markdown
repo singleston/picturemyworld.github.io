@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-01
+photo: 1488917779.jpg
+location: Minca, Colombia
+caption_header: Those sunsets
+caption: I can't stop taking picture of sunsets like this one! It's so beautiful :D
+---
