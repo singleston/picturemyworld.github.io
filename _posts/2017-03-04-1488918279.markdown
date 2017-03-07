@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-04
+photo: 1488918279.jpg
+location: Tayrona Park, Colombia
+caption_header: Sleeping on the ocean
+caption: It is possible to sleep in that small hut and be surrounding by the ocean at night. I couldn't but I'm sure it would habe been a nice experience!
+---
