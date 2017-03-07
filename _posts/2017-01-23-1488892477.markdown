@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-23
+photo: 1488892477.jpg
+location: Cocora Valley, Salento, Colombia
+caption_header: Salento again!
+caption: I have been again to that cocora valley around Salento. That time the weather was perfect to take nice shots. Like that one where you can see how tall is that tree compared to the people sitting next to it.
+---
