@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-02-18
+photo: 1488894239.jpg
+location: Playa Grande, Taganga, Colombia
+caption_header: Chilling again
+caption: Mom I'm fine! And I'm tanned now!
+---
