@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-31
+photo: 1488914738.jpg
+location: Taganga, Colombia
+caption_header: Busy beach
+caption: At sunset, the main beach of Taganga is pretty busy with lots of people going there to drink a beer, smoke some weed, play guitar and do other hippy stuffs! Awesome vibes :p
+---
