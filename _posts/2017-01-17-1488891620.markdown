@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-17
+photo: 1488891620.jpg
+location: Tulum, Mexico
+caption_header: Sunrise!
+caption: For once, this shot is not a sunset but a sunrise! I woke at 5 am that day, took a bus, walk a beach and admire my first ever sunrise on the ocean. I have always been on the West coasts so far... But everything needs a first time :)
+---
