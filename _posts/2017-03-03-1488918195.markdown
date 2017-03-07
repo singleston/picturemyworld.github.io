@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-03
+photo: 1488918195.jpg
+location: Tayrona Park, Colombia
+caption_header: Tayrona Park!
+caption: I finally made it into the Tayrona Park! This National Natural Park is definitely an amazing place between mountains and ocean.
+---
