@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-02-04
+photo: 1488914838.jpg
+location: Costeño Beach, Colombia
+caption_header: Palm Trees
+caption: Did I tell you that the hostels at Costeño are actually situated on a former coconut farm? Which means palm trees everywhere :)
+---
