@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-02-19
+photo: 1488894797.jpg
+location: Costeño Beach, Colombia
+caption_header: Through the trees
+caption: Cute sunset at Costeño Beach with the light coming through the trees!
+---
