@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-02-19
+photo: 1488894527.jpg
+location: Costeño Beach, Colombia
+caption_header: Costeño Beach
+caption: If I had to pick the best beach of Colombia I would pick that one. Very long, completely empty, palm trees and coconuts. And of course no tourists ;)
+---
