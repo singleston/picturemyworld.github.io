@@ -4,5 +4,5 @@ date: 2017-01-14
 photo: 1484779730.jpg
 location: Tulum, Mexico
 caption_header: Paradise
-caption: The ruins themselves are not that pretty but the area where they are is. Directly on the ocean, up on a cliff. 2000 years ago, humanss were living there as it was easy for them to get food from the ocean. Nowadays, it simply looks like paradise.
+caption: The ruins themselves are not that pretty but the area where they are is. Directly on the ocean, up on a cliff. 2000 years ago, humans were living there as it was easy for them to get food from the ocean. Nowadays, it simply looks like paradise.
 ---
