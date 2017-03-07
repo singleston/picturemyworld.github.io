@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-27
+photo: 1488914462.jpg
+location: Guatape, Colombia
+caption_header: Landscape
+caption: View point over Guatape and the El Peñol rock.
+---
