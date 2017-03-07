@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-27
+photo: 1488914571.jpg
+location: Guatape, Colombia
+caption_header: Main Little Square
+caption: In that little square in Guatape, people simply sit down, drink a beer and chill. Lovers, tourists, everybody :)
+---
