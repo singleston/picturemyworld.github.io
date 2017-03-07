@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-28
+photo: 1488893332.jpg
+location: Guatape, Colombia
+caption_header: Reflection
+caption: Beautiful sky over Guatape reflecting on the lake. In the background you can distinguish the town and the famous El Peñol rock.
+---
