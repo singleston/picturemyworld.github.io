@@ -4,5 +4,5 @@ date: 2017-02-18
 photo: 1488894364.jpg
 location: Taganga, Colombia
 caption_header: Office of the day
-caption: Taganga is very sweet stop to turn on the computer and do some work. In the background you can see the ocean and hills surrounding the city.
+caption: Taganga is a very sweet spot to turn on the computer and do some work. In the background you can see the ocean and hills surrounding the city.
 ---
