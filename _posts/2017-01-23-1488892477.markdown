@@ -4,5 +4,5 @@ date: 2017-01-23
 photo: 1488892477.jpg
 location: Cocora Valley, Salento, Colombia
 caption_header: Salento again!
-caption: I went again to the Cocora Valley around Salento. That time the weather was perfect to take nice shots. Like that one where you can see how tall is that tree compared to the people sitting next to it.
+caption: I went again to the Cocora Valley around Salento. That time the weather was perfect to take nice shots. Like that one where you can see how tall that tree is compared to the people sitting next to it.
 ---
