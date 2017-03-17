@@ -4,5 +4,5 @@ date: 2017-01-31
 photo: 1488893471.jpg
 location: Taganga, Colombia
 caption_header: Cute Taganga
-caption: Taganga is a fishing village 10 minutes away from Santa Marta. Easy to go to with a taxi and enjoy a serious night life there! Great spot on Caribbean coast of Colombia.
+caption: Taganga is a fishing village close to Santa Marta. Easy to go to with a taxi and enjoy a serious night life there! Great spot on the Caribbean coast of Colombia.
 ---
