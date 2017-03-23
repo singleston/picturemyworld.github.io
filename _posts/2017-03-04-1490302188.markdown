@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-04
+photo: 1490302188.jpg
+location: Tayrona Park, Colombia
+caption_header: Typical indigenous house
+caption: The indigenous people in northen Colombia used to, and some still do, live in such house. The style and architecture are very different than what we are use to in Europe.
+---
