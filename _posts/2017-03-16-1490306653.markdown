@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-16
+photo: 1490306653.jpg
+location: Medellin, Colombia
+caption_header: El Metro de Medellin
+caption: Have I ever told the story about the subway here in Medellin? How the people are super proud of it, how it is the only subway in the entire country? People here respect it so much, it is unbelievable clean and well maintained; far from the ones in Europe for instance!
+---
