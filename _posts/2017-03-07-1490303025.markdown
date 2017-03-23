@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-07
+photo: 1490303025.jpg
+location: Bucaramanga, Colombia
+caption_header: Frutas amigo!
+caption: The great thing about Bucaramanga is the huge lack of tourists. There is almost none. People asked us out of curiosity if we wanted to have breakfast with them, where we were from and took the answer with admiration (in a very cute way). That city is very colombian in a way, very nice and friendly people not yet spoiled by a huge amount of tourist.
+---
