@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-03-09
+photo: 1490303546.jpg
+location: Cañon del Chicamocha, Colombia
+caption_header: Maybe
+caption: We are not sure, but that might be me... or not haha!
+---
