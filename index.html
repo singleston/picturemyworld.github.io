@@ -9,9 +9,13 @@ layout: default
 			<a href="https://soundcloud.com/mynameiskevinbeacon" class="fa fa-soundcloud fa-lg"></a>
 		</nav>
 	</header>
+
 	<div id="grid-gallery" class="grid-gallery">
 
 	<section class="grid-wrap">
+
+	{% google_map src="_posts" %}
+
 	<ul class="grid">
 		<li class="grid-sizer"></li><!-- for Masonry column width -->
 		{% for post in site.posts %}
@@ -19,9 +23,9 @@ layout: default
 			<figure>
 				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
 				<figcaption>
-					<h3>{{ post.caption_header}}</h3>
+					<h3>{{ post.title}}</h3>
 					<i class="fa fa-globe" aria-hidden="true"></i>
-					<a class= "maps_link" href="http://maps.google.com/maps?q={{ post.location }}" target="_blank"> {{ post.location }}</a>
+					<a class= "maps_link" href="http://maps.google.com/maps?q={{ post.location_text }}" target="_blank"> {{ post.location_text }}</a>
 					<p>{{ post.caption }}</p>
 					<p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
 
@@ -39,7 +43,7 @@ layout: default
 			<figure>
 				<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
 			</figure>
-			<figcaption><h3>{{ post.caption_header}}</h3></figcaption>
+			<figcaption><h3>{{ post.title }}</h3></figcaption>
 		</li>
 		{% endfor %}
 	</ul>
