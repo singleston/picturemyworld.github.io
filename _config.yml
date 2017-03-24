@@ -20,7 +20,6 @@ author:
 # url:                  "http://picturemyworld.github.io"
 # date_format:          "%b %-d, %Y"
 
-
 # Build settings
 markdown:     kramdown
 #redcarpet:
@@ -31,6 +30,11 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-maps
   - jemoji
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
+
+maps:
+  google:
+    api_key: AIzaSyD8L1sSjFveHxHM_3wxw73olaklHZukfrU
