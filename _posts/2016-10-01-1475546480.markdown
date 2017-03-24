@@ -5,4 +5,8 @@ photo: 1475546480.jpg
 location_text: Zabriskie Point, Death Valley, USA
 title: Zabriskie Point
 caption: This deathly silent and still land is the result of often violent actions of water and earthquakes. The black layer is lava and many different minerals are around such as borax, gypsum and calcite.
+image: /img/thumb/1475546480.jpg
+location:
+    latitude: 36.4200667
+    longitude: -116.8122303
 ---

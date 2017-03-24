@@ -5,4 +5,8 @@ photo: 1473365400.jpg
 location_text: Göngustígur, Reykjavík, Iceland
 title: Reykjavik Sunset
 caption: My first sunset in Reykjavik. Beautiful burning sky and crazy colored clouds!
+image: /img/thumb/1473365400.jpg
+location:
+    latitude: 64.1512815
+    longitude: -21.9594222
 ---

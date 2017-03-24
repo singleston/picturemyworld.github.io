@@ -5,4 +5,8 @@ photo: 1490302188.jpg
 location_text: Tayrona Park, Colombia
 title: Typical indigenous house
 caption: The indigenous people in northen Colombia used to, and some still do, live in such houses.
+image: /img/thumb/1490302188.jpg
+location:
+    latitude: 11.2882416
+    longitude: -74.1516509
 ---

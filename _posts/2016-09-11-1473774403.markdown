@@ -5,4 +5,8 @@ photo: 1473774403.jpg
 location_text: Old Port of Montreal, Canada
 title: Old Port
 caption: The historic port of Montreal used to be the entry point into Canada by sea. A new port has been built in 1976 more east of the city and the old one became a cultural place. In the background the Jacques Cartier bridge which they close every year so that people could see fireworks from it.
+image: /img/thumb/1473774403.jpg
+location:
+    latitude: 45.5124578
+    longitude: -73.5484867
 ---

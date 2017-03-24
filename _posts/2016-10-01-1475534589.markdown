@@ -5,4 +5,8 @@ photo: 1475534589.jpg
 location_text: Las Vegas, Nevada, USA
 title: Casino in Vegas
 caption: This is what the ground floor of every single hotel looks like in Vegas. It is always a Casino like this. One can see people sitting there all day wasting money away. The weird part is how similar the casinos are, it does not matter in which hotel you are, thery are all the same.
+image: /img/thumb/1475534589.jpg
+location:
+    latitude: 36.1699412
+    longitude: -115.1398296
 ---

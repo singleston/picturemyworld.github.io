@@ -5,4 +5,8 @@ photo: 1475535781.jpg
 location_text: Bellagio, Las Vegas, Nevada, USA
 title: THE fountain
 caption: In the background the Bellagio hotel, in the foreground the famous fountain all lit up. The water show lasts around 5 minutes and is accompanied by music.
+image: /img/thumb/1475535781.jpg
+location:
+    latitude: 36.1126264
+    longitude: -115.1767051
 ---

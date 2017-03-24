@@ -5,4 +5,8 @@ photo: 1473368250.jpg
 location_text: Sólheimajökull, Iceland
 title: Black and White
 caption: The black parts are mostly ashes from a previous volcano erruption few hundred years ago.
+image: /img/thumb/1473368250.jpg
+location:
+    latitude: 63.5569444
+    longitude: -19.3027778
 ---

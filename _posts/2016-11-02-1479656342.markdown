@@ -5,4 +5,8 @@ photo: 1479656342.jpg
 location_text: Cali, Colombia
 title: Street Art
 caption: The Street Art is also very present in Cali. It is less crazy and explicit as it could be in Bogota but it still does fit very well in the city.
+image: /img/thumb/1479656342.jpg
+location:
+    latitude: 3.4516467
+    longitude: -76.5319854
 ---

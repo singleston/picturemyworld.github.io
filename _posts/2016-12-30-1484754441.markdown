@@ -5,4 +5,8 @@ photo: 1484754441.jpg
 location_text: Cañon del Sumidero, Mexico
 title: Pretty Cañon
 caption: I love this picture!!
+image: /img/thumb/1484754441.jpg
+location:
+    latitude: 16.8377638
+    longitude: -93.0820476
 ---

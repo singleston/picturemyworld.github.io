@@ -5,4 +5,8 @@ photo: 1484528542.jpg
 location_text: Mazunte, Mexico
 title: Go for it
 caption: Come on buddy, go for it! It's right in front of you! Reach that water, swim and survive!
+image: /img/thumb/1484528542.jpg
+location:
+    latitude: 15.6677291
+    longitude: -96.5545185
 ---

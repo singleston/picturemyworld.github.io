@@ -5,4 +5,8 @@ photo: 1484780324.jpg
 location_text: Tulum, Mexico
 title: Big House
 caption: That was a residential house where many people lived in. Bedrooms, kitchens, it was all there :)
+image: /img/thumb/1484780324.jpg
+location:
+    latitude: 20.2114185
+    longitude: -87.4653502
 ---

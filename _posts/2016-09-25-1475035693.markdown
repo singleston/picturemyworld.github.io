@@ -5,4 +5,8 @@ photo: 1475035693.jpg
 location_text: Desert View, Grand Canyon, Arizona, USA
 title: Watchtower
 caption: Built in 1932 this watchtower offers a sublime view over the Grand Canyon and the Colorado River.
+image: /img/thumb/1475035693.jpg
+location:
+    latitude: 36.0403851
+    longitude: -111.8280456
 ---

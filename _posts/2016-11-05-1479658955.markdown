@@ -5,4 +5,8 @@ photo: 1479658955.jpg
 location_text: Cali, Colombia
 title: Indigenous Grafiti
 caption: Face of an indigenous man on a wall.
+image: /img/thumb/1479658955.jpg
+location:
+    latitude: 3.4516467
+    longitude: -76.5319854
 ---

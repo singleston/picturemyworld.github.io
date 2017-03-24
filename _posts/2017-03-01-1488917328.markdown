@@ -5,4 +5,8 @@ photo: 1488917328.jpg
 location_text: Minca, Colombia
 title: Cascada de Marinka
 caption: One of the hikes you can do around Minca leads to this nice and refreshing waterfall. Just make sure you don't miss it, otherwise you'll just hike hours and hours more.
+image: /img/thumb/1488917328.jpg
+location:
+    latitude: 11.142812
+    longitude: -74.116677
 ---

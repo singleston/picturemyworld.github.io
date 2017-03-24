@@ -5,4 +5,8 @@ photo: 1477607296.jpg
 location_text: Páramo de Belmira, Colombia
 title: Morning view
 caption: The view in the morning from the wooden house.
+image: /img/thumb/1477607296.jpg
+location:
+    latitude: 6.72535
+    longitude: -75.69528
 ---

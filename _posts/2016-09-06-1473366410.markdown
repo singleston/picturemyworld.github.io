@@ -5,4 +5,8 @@ photo: 1473366410.jpg
 location_text: Göngustígur, Reykjavík, Iceland
 title: Sunset in Iceland
 caption: On the far west of Reyjavik one can see beautiful sunsets with burning clouds and crazy colors. That picture has been taken on my first evening on this island.
+image: /img/thumb/1473366410.jpg
+location:
+    latitude: 64.1512815
+    longitude: -21.9594222
 ---

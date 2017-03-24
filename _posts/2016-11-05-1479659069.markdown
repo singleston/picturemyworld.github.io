@@ -5,4 +5,8 @@ photo: 1479659069.jpg
 location_text: Cali, Colombia
 title: Good luck!
 caption: Those licors or perfumes are used by the locals while bathing. Each of them has a different purpose like finding love, get a good job, be more attractive, fight desespair, be better in bed, etc.
+image: /img/thumb/1479659069.jpg
+location:
+    latitude: 3.4516467
+    longitude: -76.5319854
 ---

@@ -5,4 +5,8 @@ photo: 1475372795.jpg
 location_text: Bryce Canyon National Park, USA
 title: Natural Bridge
 caption: Even though it looks like one, this is not a bridge but an arch. The hole wasn't there in the beginning and has been curved by water and ice during the last million years. It is also undefined when, but the arch will collapse one day.
+image: /img/thumb/1475372795.jpg
+location:
+    latitude: 37.5930377
+    longitude: -112.1870895
 ---

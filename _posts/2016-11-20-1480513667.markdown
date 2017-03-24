@@ -5,4 +5,8 @@ photo: 1480513667.jpg
 location_text: Rincon Del Mar, Colombia
 title: Sunset in Rincon
 caption: That day we went for a walk on the beach. After few hours on our way back we could see that gorgeous sunset.
+image: /img/thumb/1480513667.jpg
+location:
+    latitude: 9.7640494
+    longitude: -75.6409151
 ---

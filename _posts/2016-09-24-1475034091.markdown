@@ -5,4 +5,8 @@ photo: 1475034091.jpg
 location_text: Hoover Dam Bridge, USA
 title: Perspective
 caption: This is the Hoover Dam Bridge. The structure is huge and extremely stable. On the left side of the bridge is Arizona and on the right Nevada.
+image: /img/thumb/1475034091.jpg
+location:
+    latitude: 36.0160655
+    longitude: -114.7377325
 ---

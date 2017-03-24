@@ -5,4 +5,8 @@ photo: 1490301947.jpg
 location_text: Tayrona Park, Colombia
 title: Northen jungle
 caption: I took that picture on a hike to an indigenous village in the tropical forest of the Tayrona Park. Very tough hike, we spent most of our time climbing than actually hiking.
+image: /img/thumb/1490301947.jpg
+location:
+    latitude: 11.2882416
+    longitude: -74.1516509
 ---

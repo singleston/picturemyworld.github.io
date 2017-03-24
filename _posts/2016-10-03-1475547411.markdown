@@ -5,4 +5,8 @@ photo: 1475547411.jpg
 location_text: San Francisco, USA
 title: City Hall
 caption: This is the city hall of San Francisco. What a pleasure to find such european like building so far West!
+image: /img/thumb/1475547411.jpg
+location:
+    latitude: 37.7749295
+    longitude: -122.4194155
 ---

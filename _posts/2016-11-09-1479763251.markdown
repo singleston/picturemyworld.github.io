@@ -5,4 +5,8 @@ photo: 1479763251.jpg
 location_text: Medellin, Colombia
 title: Sunset
 caption: Picture of a sunset over the mountains surrounding the city of Medellin.
+image: /img/thumb/1479763251.jpg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
 ---

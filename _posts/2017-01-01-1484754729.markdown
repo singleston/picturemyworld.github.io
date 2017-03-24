@@ -5,4 +5,8 @@ photo: 1484754729.jpg
 location_text: Zona Arqueológica, Palenque, Mexico
 title: Perspective
 caption: Memorial inscription in Maya language.
+image: /img/thumb/1484754729.jpg
+location:
+    latitude: 17.4847697
+    longitude: -92.0458949
 ---

@@ -5,4 +5,8 @@ photo: 1477152553.jpg
 location_text: Antioquia, Colombia
 title: Antioquia landscape
 caption: On our way to Belmira we stopped at a small coffee shop to have a quick breakfast. That was the view from it. The country side around Medellin is very green, lots of mountains that look like hills but which are still at 2000m high!
+image: /img/thumb/1477152553.jpg
+location:
+    latitude: 7.1986064
+    longitude: -75.3412179
 ---

@@ -5,4 +5,8 @@ photo: 1488916850.jpg
 location_text: Minca, Colombia
 title: Boa Constrictor?
 caption: Just some neigbour on our way to the hostel.
+image: /img/thumb/1488916850.jpg
+location:
+    latitude: 11.142812
+    longitude: -74.116677
 ---

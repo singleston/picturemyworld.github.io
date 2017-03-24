@@ -5,4 +5,8 @@ photo: 1473366208.jpg
 location_text: Sæbraut, Reykjavík, Iceland
 title: Reykjavik Bay
 caption: At the other side of the bay of Reykjavik stands this nice long montain. During the sunset the sun warms up this hill and beautiful colors show up.
+image: /img/thumb/1473366208.jpg
+location:
+    latitude: 64.1465401
+    longitude: -21.9097638
 ---

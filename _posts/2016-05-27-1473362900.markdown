@@ -5,4 +5,8 @@ photo: 1473362900.jpg
 location_text: Schloss in Dresden
 title: Musuem Gallery
 caption: Photo from a musuem gallery as seen from the outside. I did not went inside even it looked very nice.
+image: /img/thumb/1473362900.jpg
+location:
+    latitude: 51.0524975
+    longitude: 13.7366604
 ---

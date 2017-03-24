@@ -5,4 +5,8 @@ photo: 1474168262.jpg
 location_text: Navy Pier, Chicago, USA
 title: South Downtown
 caption: This is the view of Chicago downtown from the Navy Pier. On the bottom left one can see the famous Millenium Park.
+image: /img/thumb/1474168262.jpg
+location:
+    latitude: 41.8916938
+    longitude: -87.6063215
 ---

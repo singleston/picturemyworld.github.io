@@ -5,4 +5,8 @@ photo: 1479658366.jpg
 location_text: Cali, Colombia
 title: Market Day!
 caption: We went on a market to discover the local products and we have been so surprised by the quantity and quality of all those different exotic fruits and vegetables! The colors, the forms, the different tastes, all of it was so cool and new for me!
+image: /img/thumb/1479658366.jpg
+location:
+    latitude: 3.4516467
+    longitude: -76.5319854
 ---

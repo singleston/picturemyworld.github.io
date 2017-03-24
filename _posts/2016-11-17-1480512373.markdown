@@ -5,4 +5,8 @@ photo: 1480512373.jpg
 location_text: Cartagena, Colombia
 title: Sunset in Cartagena
 caption: The city of Cartagena was very important due to its massive harbor. The historical city center has a lot of hispanic influences and is very colorful. But the outside part is very very poor and stinks so much. The inequality is very strong between the rich tourists and the poor locals there.
+image: /img/thumb/1480512373.jpg
+location:
+    latitude: 10.3910485
+    longitude: -75.4794257
 ---

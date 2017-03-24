@@ -5,4 +5,8 @@ photo: 1479764253.jpg
 location_text: Medellin, Colombia
 title: Street Art
 caption: The street art scene in Medellin is way less omnipresent than it is in Bogota. Though it is possible to find very nice spots around.
+image: /img/thumb/1479764253.jpg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
 ---

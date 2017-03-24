@@ -5,4 +5,8 @@ photo: 1475548600.jpg
 location_text: San Francisco, USA
 title: Painted Ladies
 caption: Those very expensive houses (about 2 million dollars each) are also very colorful and not that heigh. The average is about 2 floors per house.
+image: /img/thumb/1475548600.jpg
+location:
+    latitude: 37.7749295
+    longitude: -122.4194155
 ---

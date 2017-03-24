@@ -5,4 +5,8 @@ photo: 1475536362.jpg
 location_text: Eiffel Tower, Las Vegas, Nevada, USA
 title: Eiffel Tower
 caption: Do not mistake it, this is not the Eiffel Tower from Paris but a smaller copy of it in Las Vegas!
+image: /img/thumb/1475536362.jpg
+location:
+    latitude: 36.1124662
+    longitude: -115.1721916
 ---

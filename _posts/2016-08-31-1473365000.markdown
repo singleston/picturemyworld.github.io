@@ -5,4 +5,8 @@ photo: 1473365000.jpg
 location_text: Pontonx, France
 title: My best friend from now on!
 caption: So that's the big guy following me everywhere !
+image: /img/thumb/1473365000.jpg
+location:
+    latitude: 43.787708
+    longitude: -0.924979
 ---

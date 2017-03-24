@@ -5,4 +5,8 @@ photo: 1477368098.jpg
 location_text: Belmira, Antioquia, Colombia
 title: Welcome to the Jungle
 caption: Well this was not a real jungle... just a dense forest :)
+image: /img/thumb/1477368098.jpg
+location:
+    latitude: 6.606241
+    longitude: -75.666528
 ---

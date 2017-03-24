@@ -5,4 +5,8 @@ photo: 1473361900.jpg
 location_text: Madame Tussauds, Berlin
 title: May the force be with us
 caption: Me thinking about the force sitting next to master Yoda himself. He is a very nice lad!
+image: /img/thumb/1473361900.jpg
+location:
+    latitude: 52.5169014
+    longitude: 13.3815444
 ---

@@ -5,4 +5,8 @@ photo: 1490305435.jpg
 location_text: Barichara, Colombia
 title: Walking around
 caption: There is a 2 hours walk to do from Barichara to reach Guane, another village nearby. The vegetation there is very different from the northen part of the country; less trees, less green but still stunning!
+image: /img/thumb/1490305435.jpg
+location:
+    latitude: 6.635849
+    longitude: -73.223409
 ---

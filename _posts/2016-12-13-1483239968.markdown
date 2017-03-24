@@ -5,4 +5,8 @@ photo: 1483239968.jpg
 location_text: Hierve el Agua, Mexico
 title: Working on that tan!
 caption: Sneaky photo taken by Ramiro, also known as El Chapo.
+image: /img/thumb/1483239968.jpg
+location:
+    latitude: 16.865738
+    longitude: -96.2760358
 ---

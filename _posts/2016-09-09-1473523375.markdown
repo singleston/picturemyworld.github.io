@@ -5,4 +5,8 @@ photo: 1473523375.jpg
 location_text: Gullfoss Falls, Iceland
 title: Big one!
 caption: Me standing at the most icelandic waterfall Gullfoss. The legend says that gold is hidden down there.
+image: /img/thumb/1473523375.jpg
+location:
+    latitude: 64.3270716
+    longitude: -20.1199478
 ---

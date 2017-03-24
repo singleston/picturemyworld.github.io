@@ -5,4 +5,8 @@ photo: 1484755875.jpg
 location_text: Zona Arqueológica, Palenque, Mexico
 title: Holy moment
 caption: The sun is shining right on top of that 'house'. Those ruins used to be the residential area of the city of Palenque. It is now covered by vegetation as time passed.
+image: /img/thumb/1484755875.jpg
+location:
+    latitude: 17.4847697
+    longitude: -92.0458949
 ---

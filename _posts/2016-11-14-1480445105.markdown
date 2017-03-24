@@ -5,4 +5,8 @@ photo: 1480445105.jpg
 location_text: Salento, Quindio, Colombia
 title: Coffe beans
 caption: I attended a coffee tour in a biological farm in Colombia. They explained us the whole concept about farming those coffee beans. The different plants and trees they use to control the quality of the coffee. For example orange trees to adjust the acidity of the beans and pineapple trees to distract the bugs from the coffee beans.
+image: /img/thumb/1480445105.jpg
+location:
+    latitude: 4.637376
+    longitude: -75.570777
 ---

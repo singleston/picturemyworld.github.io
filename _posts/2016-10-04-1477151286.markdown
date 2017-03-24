@@ -5,4 +5,8 @@ photo: 1477151286.jpg
 location_text: El Poblado, Medellín, Colombia
 title: Cuteness
 caption: For a reason still unknown in front of many residences people built such small and cute things, most likely for the kids living around.
+image: /img/thumb/1477151286.jpg
+location:
+    latitude: 6.2019896
+    longitude: -75.5684254
 ---

@@ -5,4 +5,8 @@ photo: 1473363900.jpg
 location_text: Kiekebusch See, Schönefeld
 title: Moonshine Floor
 caption: Karen at the Greenwood festival. In the background the second stage of the festival with a very nice decoration, also very useful in case of rain :p
+image: /img/thumb/1473363900.jpg
+location:
+    latitude: 52.354823
+    longitude: 13.5382262
 ---

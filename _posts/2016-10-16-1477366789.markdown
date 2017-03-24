@@ -5,4 +5,8 @@ photo: 1477366789.jpg
 location_text: Belmira, Antioquia, Colombia
 title: City Center
 caption: This is the main place of the village of Belmira. The bus starts from there to go to Medellin. We ate a Bandeja Paisa there only for 3€, and it was so good!
+image: /img/thumb/1477366789.jpg
+location:
+    latitude: 6.606241
+    longitude: -75.666528
 ---

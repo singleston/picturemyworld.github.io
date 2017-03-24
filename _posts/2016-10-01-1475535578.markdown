@@ -5,4 +5,8 @@ photo: 1475535578.jpg
 location_text: Bellagio, Las Vegas, Nevada, USA
 title: Bellagio Lobby
 caption: This is the main lobby of the well known Bellagio hotel. On the ceiling a piece of art that lights up the room with very nice colors.
+image: /img/thumb/1475535578.jpg
+location:
+    latitude: 36.1126264
+    longitude: -115.1767051
 ---

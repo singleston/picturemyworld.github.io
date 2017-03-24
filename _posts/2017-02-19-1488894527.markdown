@@ -5,4 +5,8 @@ photo: 1488894527.jpg
 location_text: Costeño Beach, Colombia
 title: Costeño Beach
 caption: If I had to pick the best beach of Colombia I would pick that one. Very long, completely empty, palm trees and coconuts. And of course no tourists ;)
+image: /img/thumb/1488894527.jpg
+location:
+    latitude: 11.2723445
+    longitude: -73.8459336
 ---

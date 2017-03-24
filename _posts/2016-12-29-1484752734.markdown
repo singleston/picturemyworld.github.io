@@ -5,4 +5,8 @@ photo: 1484752734.jpg
 location_text: Cascada El Chiflon, Mexico
 title: El Chiflon
 caption: That big ass waterfall is about 200m high and is the tallest one in Mexico. Very nice but way too many tourists around.
+image: /img/thumb/1484752734.jpg
+location:
+    latitude: 16.1896628
+    longitude: -92.2736767
 ---

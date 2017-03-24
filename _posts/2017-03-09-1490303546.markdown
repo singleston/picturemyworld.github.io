@@ -9,4 +9,8 @@ caption: We are not sure, but that might be me... or not haha!
 location:
   latitude: 51.5285582
   longitude: -0.2416807
+image: /img/thumb/1490303546.jpg
+location:
+    latitude: 6.815869
+    longitude: -72.9897054
 ---

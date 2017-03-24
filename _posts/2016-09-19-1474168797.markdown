@@ -5,4 +5,8 @@ photo: 1474168797.jpg
 location_text: Downtown Chicago, USA
 title: Sunset
 caption: Nice shot of the sunset between buildings in Chicago downtown.
+image: /img/thumb/1474168797.jpg
+location:
+    latitude: 41.8786351
+    longitude: -87.6250549
 ---

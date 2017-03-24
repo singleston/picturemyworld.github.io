@@ -5,4 +5,8 @@ photo: 1475546257.jpg
 location_text: Badwater Basin, Death Valley, USA
 title: I'm not sure
 caption: Do I even like desert?
+image: /img/thumb/1475546257.jpg
+location:
+    latitude: 36.2460841
+    longitude: -116.8185076
 ---

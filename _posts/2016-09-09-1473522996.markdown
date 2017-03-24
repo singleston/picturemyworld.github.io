@@ -5,4 +5,8 @@ photo: 1473522996.jpg
 location_text: Lögberg, Iceland
 title: First Democratic Parliament
 caption: This flag stands on what the icelandic people claim to be the place of the first democratic parliament about one thousand years ago.
+image: /img/thumb/1473522996.jpg
+location:
+    latitude: 64.2597454
+    longitude: -21.1223641
 ---

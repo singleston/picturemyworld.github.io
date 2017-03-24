@@ -5,4 +5,8 @@ photo: 1480442969.jpg
 location_text: Cocora Valley, Colombia
 title: View point
 caption: While trekking that mountain we could see the palm trees from the far distance.
+image: /img/thumb/1480442969.jpg
+location:
+    latitude: 4.637712
+    longitude: -75.48907
 ---

@@ -5,4 +5,8 @@ photo: 1473361800.jpg
 location_text: Park am Gleisdreieck, Berlin, Germany
 title: My lovely bike
 caption: A nice picture of my bike. It has a full carbon frame and weight only 8.5kg. Whenever I drive it, I have the feeling that the bike actually drives me!
+image: /img/thumb/1473361800.jpg
+location:
+    latitude: 52.4940269
+    longitude: 13.3759082
 ---

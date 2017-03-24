@@ -5,4 +5,8 @@ photo: 1483237411.jpg
 location_text: San Lorenzo Albarradas, Oaxaca, Mexico
 title: Oh my cactus
 caption: Awesome picture of a cactus in Mexico. It was maybe 3 meters high and those needles about 5cm long!
+image: /img/thumb/1483237411.jpg
+location:
+    latitude: 16.9058643
+    longitude: -96.2603236
 ---

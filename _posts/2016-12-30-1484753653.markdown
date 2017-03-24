@@ -5,4 +5,8 @@ photo: 1484753653.jpg
 location_text: Cañon del Sumidero, Mexico
 title: Safety first
 caption: See mom, I even had a safety jacket :)
+image: /img/thumb/1484753653.jpg
+location:
+    latitude: 16.8377638
+    longitude: -93.0820476
 ---

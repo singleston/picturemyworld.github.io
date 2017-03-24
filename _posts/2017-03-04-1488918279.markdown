@@ -5,4 +5,8 @@ photo: 1488918279.jpg
 location_text: Tayrona Park, Colombia
 title: Sleeping on the ocean
 caption: It is possible to sleep in that small hut and be surrounded by the ocean at night. I couldn't but I'm sure it would have been a nice experience!
+image: /img/thumb/1488918279.jpg
+location:
+    latitude: 11.2882416
+    longitude: -74.1516509
 ---

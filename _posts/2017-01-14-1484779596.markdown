@@ -5,4 +5,8 @@ photo: 1484779596.jpg
 location_text: Tulum, Mexico
 title: Holy Moment
 caption: Nice timing for that picture in the Mayan ruins of Tulum in Mexico. I went there early in the morning to avoid the croud and the heat of the sun.
+image: /img/thumb/1484779596.jpg
+location:
+    latitude: 20.2114185
+    longitude: -87.4653502
 ---

@@ -5,4 +5,8 @@ photo: 1473775276.jpg
 location_text: Olympic Stadium Montreal, Canada
 title: View point
 caption: This picture has been taken from the top of the Olympic tower. From up there it is easier to see how big is the city and actually green. There is literally trees in every street!
+image: /img/thumb/1473775276.jpg
+location:
+    latitude: 45.5579957
+    longitude: -73.5518816
 ---

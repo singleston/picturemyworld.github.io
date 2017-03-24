@@ -5,4 +5,8 @@ photo: 1473362200.jpg
 location_text: Jew Memorial, Berlin
 title: Memorial to the Murdered Jews of Europe
 caption: View from the center of the memorial where 2711 columns commemorate the Holocaust. The feeling inside is very strange and one can feeel oppressed and lost.
+image: /img/thumb/1473362200.jpg
+location:
+    latitude: 52.5139474
+    longitude: 13.3787126
 ---

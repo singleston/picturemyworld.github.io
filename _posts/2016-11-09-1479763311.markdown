@@ -5,4 +5,8 @@ photo: 1479763311.jpg
 location_text: Medellin, Colombia
 title: Pueblito Paisa
 caption: At the top of a small hill in Medellin, there is a very small village that preserves the style of the old Paisa region. The few houses are colored in white and other colors. The church is very small and inside, the dimension of the windows are written on the walls!
+image: /img/thumb/1479763311.jpg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
 ---

@@ -5,4 +5,8 @@ photo: 1474653172.jpg
 location_text: Hollywood Bvd, Los Angeles, USA
 title: Hollywood sidewalk
 caption: This world known sidewalk simply is just a sidewalk with big stars on it. Many of them are empty, without any name, maybe one day I could get one? haha
+image: /img/thumb/1474653172.jpg
+location:
+    latitude: 34.1015885
+    longitude: -118.3336436
 ---

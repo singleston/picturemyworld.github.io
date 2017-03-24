@@ -5,4 +5,8 @@ photo: 1484528127.jpg
 location_text: Mazunte, Mexico
 title: Blur effect
 caption: I love this blur effect on pictures. In the background horses wandering on the beach.
+image: /img/thumb/1484528127.jpg
+location:
+    latitude: 15.6677291
+    longitude: -96.5545185
 ---

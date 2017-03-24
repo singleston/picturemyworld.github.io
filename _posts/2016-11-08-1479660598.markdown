@@ -5,4 +5,8 @@ photo: 1479660598.jpg
 location_text: Bogota, Colombia
 title: Cats
 caption: If you look closely you can see that the street lights and traffic signs are integrated into the grafiti.
+image: /img/thumb/1479660598.jpg
+location:
+    latitude: 4.7109886
+    longitude: -74.072092
 ---

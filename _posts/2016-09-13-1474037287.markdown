@@ -5,4 +5,8 @@ photo: 1474037287.jpg
 location_text: Jacques Cartier Bridge, Montreal, Canada
 title: Jacques Cartier Bridge
 caption: The Jacques Cartier Bridge is 2.6 km long and has been built in 1925. It crosses the Saint Lawrence River. That is the bridge the city closes to let the people admire the fireworks few times a year.
+image: /img/thumb/1474037287.jpg
+location:
+    latitude: 45.5219003
+    longitude: -73.5421063
 ---

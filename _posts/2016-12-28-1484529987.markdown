@@ -5,4 +5,8 @@ photo: 1484529987.jpg
 location_text: San Cristobal de las Casas, Mexico
 title: Townhall
 caption: Can you feel the hispanic influence from the conquistadors?
+image: /img/thumb/1484529987.jpg
+location:
+    latitude: 16.7370359
+    longitude: -92.6376186
 ---

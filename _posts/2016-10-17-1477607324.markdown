@@ -5,4 +5,8 @@ photo: 1477607324.jpg
 location_text: Páramo de Belmira, Colombia
 title: Frozen roots
 caption: This beautiful thing is a set of frozen roots or at least super wet due to the present humidity in the cave. The bats around must love it more than we do!
+image: /img/thumb/1477607324.jpg
+location:
+    latitude: 6.72535
+    longitude: -75.69528
 ---
