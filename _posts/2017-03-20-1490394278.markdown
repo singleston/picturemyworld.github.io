@@ -1,0 +1,12 @@
+---
+layout: default
+date: 2017-03-20
+photo: 1490394278.jpg
+image: /img/thumb/1490394278.jpg
+location_text: Medellin, Colombia
+title: fTITLE iefh
+caption: gtrgrtg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
+---
