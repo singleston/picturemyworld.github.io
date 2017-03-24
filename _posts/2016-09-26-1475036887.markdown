@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-26
 photo: 1475036887.jpg
-location: Antelope Canyon, Arizona, USA
-caption_header: Antelope Canyon
+location_text: Antelope Canyon, Arizona, USA
+title: Antelope Canyon
 caption: This very narrow Canyon can barely be seen from the outside. It is about 30 meters deep and the light getting inside gives intense color to the walls.
 ---

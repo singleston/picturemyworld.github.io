@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473367911.jpg
-location: Sólheimajökull, Iceland
-caption_header: Mirror
+location_text: Sólheimajökull, Iceland
+title: Mirror
 caption: Amazing reflect !
 ---

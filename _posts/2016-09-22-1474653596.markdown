@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-22
 photo: 1474653596.jpg
-location: Beverly Hills, Los Angeles, USA
-caption_header: Palm Trees
+location_text: Beverly Hills, Los Angeles, USA
+title: Palm Trees
 caption: The symbol of Los Angeles, the palm tree is actually a tree imported there and overly used all of the city. Big problem, it uses too much water and helps to dry out the area.
 ---

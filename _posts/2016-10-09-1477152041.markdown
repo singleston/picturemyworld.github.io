@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-09
 photo: 1477152041.jpg
-location: Parque Arví, Antioquia
-caption_header: Roots
+location_text: Parque Arví, Antioquia
+title: Roots
 caption: Photo taken in the Parque Arví of a path full with wooden roots.
 ---

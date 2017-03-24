@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473368250.jpg
-location: Sólheimajökull, Iceland
-caption_header: Black and White
+location_text: Sólheimajökull, Iceland
+title: Black and White
 caption: The black parts are mostly ashes from a previous volcano erruption few hundred years ago.
 ---

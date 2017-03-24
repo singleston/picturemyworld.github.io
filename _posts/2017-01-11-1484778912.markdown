@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-11
 photo: 1484778912.jpg
-location: Tikal, Guatemala
-caption_header: That one is the best!
+location_text: Tikal, Guatemala
+title: That one is the best!
 caption: That is the most impressive, nicely restored, lost in the jungle temple I have ever seen. Definitely my favourite <3
 ---

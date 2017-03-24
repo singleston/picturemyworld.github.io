@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-05
 photo: 1473365200.jpg
-location: Hallgrimskirkja, Reykjavik, Iceland
-caption_header: One Massive Church
+location_text: Hallgrimskirkja, Reykjavik, Iceland
+title: One Massive Church
 caption: The most famous church of Reykjavik and maybe of Iceland is called Hallgrimskirkja. In the foreground the statue of Leifur Eiríksson, I called him "Le Viking Dude".
 ---

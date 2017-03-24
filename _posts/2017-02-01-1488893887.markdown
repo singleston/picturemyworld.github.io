@@ -2,7 +2,7 @@
 layout: default
 date: 2017-02-01
 photo: 1488893887.jpg
-location: Taganga, Colombia
-caption_header: Fishing boats
+location_text: Taganga, Colombia
+title: Fishing boats
 caption: Well Taganga is a fishing village and those are some of its boats :) You can also take smaller ones to go the other beach of the town called Playa Grande.
 ---

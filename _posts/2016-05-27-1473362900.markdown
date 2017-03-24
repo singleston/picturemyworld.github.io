@@ -2,7 +2,7 @@
 layout: default
 date: 2016-05-27
 photo: 1473362900.jpg
-location: Schloss in Dresden
-caption_header: Musuem Gallery
+location_text: Schloss in Dresden
+title: Musuem Gallery
 caption: Photo from a musuem gallery as seen from the outside. I did not went inside even it looked very nice.
 ---

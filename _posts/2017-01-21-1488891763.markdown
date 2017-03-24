@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-21
 photo: 1488891763.jpg
-location: Bogota, Colombia
-caption_header: Bogota
+location_text: Bogota, Colombia
+title: Bogota
 caption: I finally managed to see the capital city of Colombia from above. Last time, on that very same view point, I couldn't see anything due to bad weather. The city is huge! It goes super far away and even on the mountains around. At the center, the small downtown with the tall buildings.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-13
 photo: 1480443604.jpg
-location: Cocora Valley, Colombia
-caption_header: Indiana Jones
+location_text: Cocora Valley, Colombia
+title: Indiana Jones
 caption: On our way to see some giant palm trees, we had to cross many wooden bridges like that one. I couldn't help but keep jumping like a kid on every single bridge, just to see how solid they were hahaha!
 ---

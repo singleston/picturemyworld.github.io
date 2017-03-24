@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-16
 photo: 1477368067.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: Between mountains
+location_text: Belmira, Antioquia, Colombia
+title: Between mountains
 caption: A small field between two mountains.
 ---

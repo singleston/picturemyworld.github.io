@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-26
 photo: 1475037481.jpg
-location: Antelope Canyon, Arizona, USA
-caption_header: Red walls
+location_text: Antelope Canyon, Arizona, USA
+title: Red walls
 caption: Those stunning red walls are made of sand that backed with water and very hot temperatures. Of course, this happened in million of years!
 ---

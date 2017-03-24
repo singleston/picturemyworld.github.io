@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-16
 photo: 1477368838.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: Typical Photo Pose
+location_text: Belmira, Antioquia, Colombia
+title: Typical Photo Pose
 caption: Surrounded by forest... Nothing could have been better!
 ---

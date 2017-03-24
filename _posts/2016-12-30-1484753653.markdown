@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-30
 photo: 1484753653.jpg
-location: Cañon del Sumidero, Mexico
-caption_header: Safety first
+location_text: Cañon del Sumidero, Mexico
+title: Safety first
 caption: See mom, I even had a safety jacket :)
 ---

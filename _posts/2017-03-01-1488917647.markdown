@@ -2,7 +2,7 @@
 layout: default
 date: 2017-03-01
 photo: 1488917647.jpg
-location: Minca, Colombia
-caption_header: Time for a shower
+location_text: Minca, Colombia
+title: Time for a shower
 caption: After the hike, this was a much appreciated refreshment!
 ---

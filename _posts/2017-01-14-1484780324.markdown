@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-14
 photo: 1484780324.jpg
-location: Tulum, Mexico
-caption_header: Big House
+location_text: Tulum, Mexico
+title: Big House
 caption: That was a residential house where many people lived in. Bedrooms, kitchens, it was all there :)
 ---

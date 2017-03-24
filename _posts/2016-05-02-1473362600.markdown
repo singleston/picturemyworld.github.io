@@ -2,7 +2,7 @@
 layout: default
 date:   2016-05-02 23:26:12
 photo: 	1473362600.jpg
-location: Columbia Halle, Berlin, Germany
-caption_header: Wolfmother Concert
+location_text: Columbia Halle, Berlin, Germany
+title: Wolfmother Concert
 caption: Rock'n'Roll concert with my friend Sven. Even tough I did not know the band, the music was very good and some sounded familiar. The crowd was also very present and "active". haha!
 ---

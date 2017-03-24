@@ -2,7 +2,7 @@
 layout: default
 date: 2017-02-28
 photo: 1488916269.jpg
-location: Minca, Colombia
-caption_header: Pool with a view
+location_text: Minca, Colombia
+title: Pool with a view
 caption: One of the several beautiful spots around the Minca village in the mountain range of the Sierra Nevada of Santa Marta.
 ---

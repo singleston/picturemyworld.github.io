@@ -2,7 +2,7 @@
 layout: default
 date: 2016-08-04
 photo: 1473363600.jpg
-location: Château Maucaillou, France
-caption_header: Wine Cave
+location_text: Château Maucaillou, France
+title: Wine Cave
 caption: That day we visited a museum explaining how wine is made in this region of France. This photo has been taken in the cave where the wine gets old for many years.
 ---

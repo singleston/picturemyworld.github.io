@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473368046.jpg
-location: Sólheimajökull, Iceland
-caption_header: Of ice and ashes
+location_text: Sólheimajökull, Iceland
+title: Of ice and ashes
 caption: Basically everything that you can see on this picture is ice. It is either melted or still hard but hidden under a thick layer of dirt and ashes from a previous volcano erruption.
 ---

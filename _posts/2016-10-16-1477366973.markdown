@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-16
 photo: 1477366973.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: Guarding Dog
+location_text: Belmira, Antioquia, Colombia
+title: Guarding Dog
 caption: On our way out of the village this dog could not stop barking to those tourists passing by :)
 ---

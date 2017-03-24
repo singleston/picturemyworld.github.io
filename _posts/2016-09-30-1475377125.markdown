@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-30
 photo: 1475377125.jpg
-location: Zion National Park, USA
-caption_header: Angels Landing
+location_text: Zion National Park, USA
+title: Angels Landing
 caption: After an hour hiking I arrived at that view point. The rest was more like climbing than hiking.
 ---

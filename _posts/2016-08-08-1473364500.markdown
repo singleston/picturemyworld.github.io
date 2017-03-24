@@ -2,7 +2,7 @@
 layout: default
 date: 2016-08-08
 photo: 1473364500.jpg
-location: Suyen lake, France
-caption_header: Hiking in the French Pyrenees
+location_text: Suyen lake, France
+title: Hiking in the French Pyrenees
 caption: Even though the hiking itself is not very hard, reaching this lake is a fantastic. The color of the water and its surroundings are fabulous. 
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-09
 photo: 1479764452.jpg
-location: Medellin, Colombia
-caption_header: El Gato
+location_text: Medellin, Colombia
+title: El Gato
 caption: Sculpture of a cat made by Fernando Botero. The most famous artist coming from this city. He also has a part of a museum dedicated to his work. His speciality is to represent something or someone in a very big and fat way but with a part disproportionally small.
 ---

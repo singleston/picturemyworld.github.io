@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-02
 photo: 1475546257.jpg
-location: Badwater Basin, Death Valley, USA
-caption_header: I'm not sure
+location_text: Badwater Basin, Death Valley, USA
+title: I'm not sure
 caption: Do I even like desert?
 ---

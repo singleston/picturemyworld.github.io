@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-09
 photo: 1477152342.jpg
-location: Parque Arví, Antioquia
-caption_header: I tell you sir!
+location_text: Parque Arví, Antioquia
+title: I tell you sir!
 caption: My empanadas are the best!
 ---

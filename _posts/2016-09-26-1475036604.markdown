@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-26
 photo: 1475036604.jpg
-location: Horseshoe Bend, Page, Arizona, USA
-caption_header: Horseshoe Bend
+location_text: Horseshoe Bend, Page, Arizona, USA
+title: Horseshoe Bend
 caption: At this very crazy spot, the Colorado River looks like a horseshoe. The river is not very deep there and it is possible to see the vegetation.
 ---

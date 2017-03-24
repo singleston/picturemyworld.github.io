@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-13
 photo: 1483238853.jpg
-location: Hierve el Agua, Mexico
-caption_header: Water on rocks 2
+location_text: Hierve el Agua, Mexico
+title: Water on rocks 2
 caption: My feet for scale!
 ---

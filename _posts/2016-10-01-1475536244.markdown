@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-01
 photo: 1475536244.jpg
-location: Las Vegas, Nevada, USA
-caption_header: Aladin !
+location_text: Las Vegas, Nevada, USA
+title: Aladin !
 caption: The crazyness of Las Vegas has created shopping center in the shape of an arabian city. But where it goes nuts is that the sky you can see in the picture is actually a fake one. This image has been taken at the third floor of a big building!
 ---

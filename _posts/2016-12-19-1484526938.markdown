@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-19
 photo: 1484526938.jpg
-location: Puerto Escondido, Mexico
-caption_header: Looks like Greece right?
+location_text: Puerto Escondido, Mexico
+title: Looks like Greece right?
 caption: El mirador in Puerto! The view over the ocean there is simply stunning.
 ---

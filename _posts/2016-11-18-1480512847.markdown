@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-18
 photo: 1480512847.jpg
-location: Cartagena, Colombia
-caption_header: Streets of Cartagena
+location_text: Cartagena, Colombia
+title: Streets of Cartagena
 caption: Here you go with a picture of the streets in the historical center of Cartagena. Every house is painted in a specific color, has balconies and nice street lights :)
 ---

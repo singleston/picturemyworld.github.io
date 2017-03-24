@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-25
 photo: 1484529256.jpg
-location: Puerto Escondido, Mexico
-caption_header: Santa Claus
+location_text: Puerto Escondido, Mexico
+title: Santa Claus
 caption: It was a very long night...
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-13
 photo: 1483239833.jpg
-location: Hierve el Agua, Mexico
-caption_header: Natural pool
+location_text: Hierve el Agua, Mexico
+title: Natural pool
 caption: The color of the water of that pool was dark green. It was also forbidden to swimm in there, don't know why. I wish I could have, look at the view !!
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-09
 photo: 1473523375.jpg
-location: Gullfoss Falls, Iceland
-caption_header: Big one!
+location_text: Gullfoss Falls, Iceland
+title: Big one!
 caption: Me standing at the most icelandic waterfall Gullfoss. The legend says that gold is hidden down there.
 ---

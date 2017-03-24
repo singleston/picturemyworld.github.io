@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-21
 photo: 1484527917.jpg
-location: Mazunte, Mexico
-caption_header: Natural barrier
+location_text: Mazunte, Mexico
+title: Natural barrier
 caption: On that crazy spot it was impossible to reach the ocean as water (with most likely crocodiles) was protecting it. The beach is also a natural reserve used by turtles to reproduce.
 ---

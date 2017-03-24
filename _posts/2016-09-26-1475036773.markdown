@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-26
 photo: 1475036773.jpg
-location: Arizona, USA
-caption_header: Desert
+location_text: Arizona, USA
+title: Desert
 caption: As one could have imagine this is how the desert in Arizona actually looks like. Rare vegetation, no tree, some sand and lots of rock.
 ---

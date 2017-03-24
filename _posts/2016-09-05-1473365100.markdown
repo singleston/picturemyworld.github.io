@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-05
 photo: 1473365100.jpg
-location: Reykjavik, Iceland
-caption_header: Bike Parking Spot
+location_text: Reykjavik, Iceland
+title: Bike Parking Spot
 caption: A bike parking other bikes!
 ---

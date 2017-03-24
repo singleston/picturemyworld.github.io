@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-01
 photo: 1484755056.jpg
-location: Zona Arqueológica, Palenque, Mexico
-caption_header: Glyphs
+location_text: Zona Arqueológica, Palenque, Mexico
+title: Glyphs
 caption: These glyphs were part of an inscription which decorated a temple.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-21
 photo: 1484529037.jpg
-location: Mazunte, Mexico
-caption_header: Baby turtles
+location_text: Mazunte, Mexico
+title: Baby turtles
 caption: Do you know that only 5 percent of the baby turtles that reach the ocean actually survive? Life is so cruel with those poor creatures.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2017-03-01
 photo: 1488916850.jpg
-location: Minca, Colombia
-caption_header: Boa Constrictor?
+location_text: Minca, Colombia
+title: Boa Constrictor?
 caption: Just some neigbour on our way to the hostel.
 ---

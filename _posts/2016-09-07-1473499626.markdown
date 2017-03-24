@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473499626.jpg
-location: Vik, Iceland
-caption_header: Panorama
+location_text: Vik, Iceland
+title: Panorama
 caption: In Vik, the ocean is divided in 2 parts and if you look closely you can see some differences. One side is much darker and gray, while the other side is bright and more colorful!
 ---

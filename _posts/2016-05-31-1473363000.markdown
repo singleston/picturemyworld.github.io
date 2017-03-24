@@ -2,7 +2,7 @@
 layout: default
 date: 2016-05-31
 photo: 1473363000.jpg
-location: waldbühne berlin
-caption_header: Iron Maiden Concert
+location_text: waldbühne berlin
+title: Iron Maiden Concert
 caption: My very first concert of Iron Maiden in Berlin. What a great show! The band is still rocking hard !
 ---

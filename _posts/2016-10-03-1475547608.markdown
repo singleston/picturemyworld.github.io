@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-03
 photo: 1475547608.jpg
-location: San Francisco, USA
-caption_header: Conflicted City
+location_text: San Francisco, USA
+title: Conflicted City
 caption: The city of San Francisco has a huge conflict of social classes. First, there is all those rich people working in the area. Second, the more modest people that struggle to survive in a city where accomodations became very very expensive. And finally a lot of homeless people staying around as the city helps them in different ways. But this conflict also makes the beauty and complexity of San Francisco!
 ---

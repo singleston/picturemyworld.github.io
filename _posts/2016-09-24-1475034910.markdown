@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-24
 photo: 1475034910.jpg
-location: Grand Canyon National Park, Arizona, USA
-caption_header: Holy Moly
+location_text: Grand Canyon National Park, Arizona, USA
+title: Holy Moly
 caption: One amazing thing about that place is that all those rocks and/or cliffs are at the same heights. Those are not mountains coming from the ground. The river is digging into the earth and now creates this giantic hole!
 ---

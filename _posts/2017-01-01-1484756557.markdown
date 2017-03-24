@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-01
 photo: 1484756557.jpg
-location: Zona Arqueológica, Palenque, Mexico
-caption_header: Much bigger temple
+location_text: Zona Arqueológica, Palenque, Mexico
+title: Much bigger temple
 caption: That temple is actually a tomb where the sarcophagus of the ruler Pakal has been found.
 ---

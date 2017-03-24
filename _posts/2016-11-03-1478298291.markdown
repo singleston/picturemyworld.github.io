@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-03
 photo: 1478298291.jpg
-location: Cali, Colombia
-caption_header: Beetle
+location_text: Cali, Colombia
+title: Beetle
 caption: That old car is very nice but, in general in Colombia most cars are not that old and not really new either. Which of course does not help for the pollution.
 ---

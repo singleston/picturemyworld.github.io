@@ -2,7 +2,7 @@
 layout: default
 date: 2017-03-07
 photo: 1490302488.jpg
-location: Bucaramanga, Colombia
-caption_header: Street artist
+location_text: Bucaramanga, Colombia
+title: Street artist
 caption: I saw that street artist playing near the main square in Bucaramanga, Colombia. The music was good and his voice was great! I couldn't understand the lyrics but the flow was good :)
 ---

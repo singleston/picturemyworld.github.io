@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-06
 photo: 1473365777.jpg
-location: Harpa, Reykjavik, Iceland
-caption_header: Harpa
+location_text: Harpa, Reykjavik, Iceland
+title: Harpa
 caption: Facing the ocean in Reykjavik, a new concert hall has been built. This view is from the inside where the sunlight is reflected in many different way.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-02
 photo: 1475546089.jpg
-location: Badwater Basin, Death Valley, USA
-caption_header: Salty Desert
+location_text: Badwater Basin, Death Valley, USA
+title: Salty Desert
 caption: The Death Valley is known to be a dangerous extremely hot place. At the time of that picture, the temperature was 42 degrees Celsius. Even though it looks quiet it is actually hard to stay there as the wind blows very hard!
 ---

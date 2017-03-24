@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-30
 photo: 1484753818.jpg
-location: Cañon del Sumidero, Mexico
-caption_header: Arbol de Navidad
+location_text: Cañon del Sumidero, Mexico
+title: Arbol de Navidad
 caption: This is a waterfall that obviously looks like a Christmas Tree. Feliz Navidad a todos!
 ---

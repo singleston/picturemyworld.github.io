@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-21
 photo: 1484528127.jpg
-location: Mazunte, Mexico
-caption_header: Blur effect
+location_text: Mazunte, Mexico
+title: Blur effect
 caption: I love this blur effect on pictures. In the background horses wandering on the beach.
 ---

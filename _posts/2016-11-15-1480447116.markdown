@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-15
 photo: 1480447116.jpg
-location: Jardín Botánico, Medellin, Colombia
-caption_header: Butterfly
+location_text: Jardín Botánico, Medellin, Colombia
+title: Butterfly
 caption: This little could reach 10cm wide when opened. To be honest it wasn't very confortable to be in a 'cage' with so many butterflies flying around all the time.
 ---

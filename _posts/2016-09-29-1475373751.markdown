@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-29
 photo: 1475373751.jpg
-location: Petrified Forest State Park, Utah, USA
-caption_header: Petrified Wood
+location_text: Petrified Forest State Park, Utah, USA
+title: Petrified Wood
 caption: Those rocks are actually million years old trees that got petrified. If you look closely you can still see the aspect of a tree. But it feels different as it is as hard and cold as a rock. Apparently it is not too complicated to break but very easy to sharp, that's why native americans used it for their arrows.
 ---

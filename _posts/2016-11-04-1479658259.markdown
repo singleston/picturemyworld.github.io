@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-04
 photo: 1479658259.jpg
-location: San Cipriano, Colombia
-caption_header: Massage included
+location_text: San Cipriano, Colombia
+title: Massage included
 caption: That very small waterfall felt more like a spa as the water felt like a massage on my back!
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-30
 photo: 1475377249.jpg
-location: Zion National Park, USA
-caption_header: Narrow Path
+location_text: Zion National Park, USA
+title: Narrow Path
 caption: Beautiful view of the Zion Canyon in the center of the picture. On the left, Angels Landing and the very narrow-bit-dangerous path to climb to the top.
 ---

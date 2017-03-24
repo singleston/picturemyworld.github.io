@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-29
 photo: 1475375312.jpg
-location: Boulder, Utah, USA
-caption_header: I believe I can fly
+location_text: Boulder, Utah, USA
+title: I believe I can fly
 caption: I believe I can touch the sky... on top of the highway 12 in Utah !
 ---

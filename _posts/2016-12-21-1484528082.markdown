@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-21
 photo: 1484528082.jpg
-location: Mazunte, Mexico
-caption_header: Swing
+location_text: Mazunte, Mexico
+title: Swing
 caption: Just chilling here on that swing.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-26
 photo: 1475037828.jpg
-location: Antelope Canyon, Arizona, USA
-caption_header: Missing trees
+location_text: Antelope Canyon, Arizona, USA
+title: Missing trees
 caption: Outside of the Antelope Canyon, is a desert. No tree to be seen around, no shadow, no water, nothing. There is only a road going to city few miles away and... me :)
 ---

@@ -2,7 +2,7 @@
 layout: default
 date:   2016-05-01 23:26:12
 photo: 	1473362500.jpg
-location: Berlin, Germany
-caption_header: Techno open air
+location_text: Berlin, Germany
+title: Techno open air
 caption: First of May party in Berlin. Lost in a park, this techno open air event was simply great!
 ---

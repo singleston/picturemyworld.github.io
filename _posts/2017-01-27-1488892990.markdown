@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-27
 photo: 1488892990.jpg
-location: Guatape, Colombia
-caption_header: Chrome Filter
+location_text: Guatape, Colombia
+title: Chrome Filter
 caption: I love Guatape so much. It's beautiful there and even more by nice weather with a chrome filter on your photos haha
 ---

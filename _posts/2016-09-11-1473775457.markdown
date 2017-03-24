@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-11
 photo: 1473775457.jpg
-location: Montreal, Canada
-caption_header: Street Art
+location_text: Montreal, Canada
+title: Street Art
 caption: The city of Montreal is full of big paintings on the walls. They usually fit on a complete facade of a building and represent many different things from cupcakes to cars and abstract art.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-15
 photo: 1484517505.jpg
-location: Cuajimoloyas, Oaxaca, Mexico
-caption_header: On my way
+location_text: Cuajimoloyas, Oaxaca, Mexico
+title: On my way
 caption: After a long day driving through Mexico we were lucky to get that stunning sunset. That night we slept in a Cabaña lost in the woods. Awesome place but sooooo cold haha!
 ---

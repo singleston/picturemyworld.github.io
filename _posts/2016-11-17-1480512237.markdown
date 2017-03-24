@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-17
 photo: 1480512237.jpg
-location: Playa Blanca, Cartagena, Colombia
-caption_header: Work in progress
+location_text: Playa Blanca, Cartagena, Colombia
+title: Work in progress
 caption: I swear I am working on that tan. I will get brown... one day.
 ---

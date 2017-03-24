@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-03
 photo: 1484769792.jpg
-location: La Mesilla, Guatemala
-caption_header: Bienvenidos
+location_text: La Mesilla, Guatemala
+title: Bienvenidos
 caption: Long ride from San Cristobal to the Atitlan lake, but jesus, Bienvenidos a Guatemala!
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-15
 photo: 1480511618.jpg
-location: Museum of Antioquia, Medellin, Colombia
-caption_header: Frio Cold
+location_text: Museum of Antioquia, Medellin, Colombia
+title: Frio Cold
 caption: Artwork created by Polibio Diaz called 'Frio Cold', 2007 - 2008.
 ---

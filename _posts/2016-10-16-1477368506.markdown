@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-16
 photo: 1477368506.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: That's a bridge
+location_text: Belmira, Antioquia, Colombia
+title: That's a bridge
 caption: Whenever there was a small river or a water stream, people built a bridge as big and gorgeous as this one! jajaja (laugh in spanish)
 ---

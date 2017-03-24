@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-01
 photo: 1475536362.jpg
-location: Eiffel Tower, Las Vegas, Nevada, USA
-caption_header: Eiffel Tower
+location_text: Eiffel Tower, Las Vegas, Nevada, USA
+title: Eiffel Tower
 caption: Do not mistake it, this is not the Eiffel Tower from Paris but a smaller copy of it in Las Vegas!
 ---

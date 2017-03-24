@@ -2,7 +2,7 @@
 layout: default
 date: 2016-11-09
 photo: 1479763251.jpg
-location: Medellin, Colombia
-caption_header: Sunset
+location_text: Medellin, Colombia
+title: Sunset
 caption: Picture of a sunset over the mountains surrounding the city of Medellin.
 ---

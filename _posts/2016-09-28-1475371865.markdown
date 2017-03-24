@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-28
 photo: 1475371865.jpg
-location: Bryce Canyon National Park, USA
-caption_header: Lonely tree
+location_text: Bryce Canyon National Park, USA
+title: Lonely tree
 caption: Even though it looks a bit like a desert, this canyon and its surroundings are actually very green with a lot of pine trees and living animals like chipmunks!
 ---

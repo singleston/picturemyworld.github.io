@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-07
 photo: 1473499001.jpg
-location: Seljalandsfoss, Iceland
-caption_header: Seljalandsfoss Waterfall
+location_text: Seljalandsfoss, Iceland
+title: Seljalandsfoss Waterfall
 caption: This is a crazy waterfall where there is enough space for people to walk behind it. The view is insane! Loved it.
 ---

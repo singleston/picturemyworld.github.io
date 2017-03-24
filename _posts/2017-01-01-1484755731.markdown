@@ -2,7 +2,7 @@
 layout: default
 date: 2017-01-01
 photo: 1484755731.jpg
-location: Zona Arqueológica, Palenque, Mexico
-caption_header: In the jungle
+location_text: Zona Arqueológica, Palenque, Mexico
+title: In the jungle
 caption: The first ruins I ever saw!
 ---

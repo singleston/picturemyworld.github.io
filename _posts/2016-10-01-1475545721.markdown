@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-02
 photo: 1475545721.jpg
-location: Badwater Basin, Death Valley, USA
-caption_header: Badwater Basin
+location_text: Badwater Basin, Death Valley, USA
+title: Badwater Basin
 caption: This basin is made of salty water. It is the lowest point in the USA as it is at 85.5 meters below sea level.
 ---

@@ -2,7 +2,7 @@
 layout: default
 date: 2016-09-20
 photo: 1474415357.jpg
-location: Buckingham Fountain, Chicago, USA
-caption_header: Buckingham Fountain
+location_text: Buckingham Fountain, Chicago, USA
+title: Buckingham Fountain
 caption: This fountain is beautiful and close to the water front.
 ---
