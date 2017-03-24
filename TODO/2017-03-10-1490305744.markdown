@@ -2,7 +2,7 @@
 layout: default
 date: 2017-03-10
 photo: 1490305744.jpg
-location: Guane, Colombia
-caption_header: Guane
+location_text: Guane, Colombia
+title: Guane
 caption: Guane is an even smaller town than Barichara. There is less tourism, less money, less everything there but that also makes the charm of the town!
 ---
