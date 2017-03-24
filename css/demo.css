@@ -33,6 +33,18 @@ a:hover, visited, active {
 	color: #357ca7;
 }
 
+.googlemaps {
+	position: fixed;
+	background-color: white;
+	opacity: .30;
+	pointer-events: none;
+	height: 100%; 
+	width: 100%; 
+	top: 0; 
+	left: 0; 
+	z-index: 0;
+}
+
 .container > header {
 	width: 90%;
 	max-width: 69em;
@@ -46,6 +58,7 @@ a:hover, visited, active {
 	margin: 0 0 0.6em 0;
 	float: left;
 	font-weight: 400;
+	position: relative;
 }
 
 .container > header > span {
