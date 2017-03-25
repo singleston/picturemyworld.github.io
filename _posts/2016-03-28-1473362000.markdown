@@ -5,4 +5,7 @@ photo: 1473362000.jpg
 location_text: Berlin, Germany
 title: Abandonned attraction park
 caption: There is an abandonned park near Berlin. It used to be open about 10 years ago but is now closed as it wasn't profitable enough. It has been built by the East Germany government DDR.
+location:
+    latitude: 52.5200066
+    longitude: 13.404954
 ---
