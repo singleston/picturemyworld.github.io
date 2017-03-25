@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-01
 photo: 1475536526.jpg
-location: Eiffel Tower, Las Vegas, Nevada, USA
-caption_header: Within the Eiffel Tower
+location_text: Eiffel Tower, Las Vegas, Nevada, USA
+title: Within the Eiffel Tower
 caption: Of course the Eiffel Tower in Vegas has to be a casino, a restaurant and an hotel. This is a picture of the casino with a fake sky, a replicate of a parisian bridge and some street lights too!
+image: /img/thumb/1475536526.jpg
+location:
+    latitude: 36.1124662
+    longitude: -115.1721916
 ---

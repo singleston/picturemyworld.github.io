@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-03
 photo: 1478299644.jpg
-location: Christo Rey, Cali, Colombia
-caption_header: Colombian Mountains
+location_text: Christo Rey, Cali, Colombia
+title: Colombian Mountains
 caption: On the other side of the Christo Rey statue, the view offers a beautiful landscape of the country side with small houses here and there, forests and hills.
+image: /img/thumb/1478299644.jpg
+location:
+    latitude: 3.4359152
+    longitude: -76.5648552
 ---

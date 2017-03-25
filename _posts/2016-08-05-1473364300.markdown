@@ -2,7 +2,11 @@
 layout: default
 date: 2016-08-05
 photo: 1473364300.jpg
-location: Plage de l'Espécier, Mimizan, France
-caption_header: Beach day
+location_text: Plage de l'Espécier, Mimizan, France
+title: Beach day
 caption: On the South West coast of France, there is a beach 200km long. On the left side the Atlantic ocean, in the middle the beach with a sand dune and on the right side one of the biggest forest in Europe! Photo taken from the dune.
+image: /img/thumb/1473364300.jpg
+location:
+    latitude: 44.164373
+    longitude: -1.307304
 ---

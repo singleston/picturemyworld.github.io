@@ -2,7 +2,11 @@
 layout: default
 date: 2017-03-13
 photo: 1490305855.jpg
-location: Bogota, Colombia
-caption_header: Made by a friend!
+location_text: Bogota, Colombia
+title: Made by a friend!
 caption: I went again to Bogota for few days and that time I found that painting made my friend Leon in the Candelaria area. Well done buddy!
+image: /img/thumb/1490305855.jpg
+location:
+    latitude: 4.7109886
+    longitude: -74.072092
 ---

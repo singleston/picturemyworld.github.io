@@ -2,7 +2,11 @@
 layout: default
 date: 2017-01-01
 photo: 1484755204.jpg
-location: Zona Arqueológica, Palenque, Mexico
-caption_header: Pakal's Sarchophagus
+location_text: Zona Arqueológica, Palenque, Mexico
+title: Pakal's Sarchophagus
 caption: The ruler of the city of Palenque K'inich Janahb' Pakal died on August 28, 683 A.D. He is pictured on that sarcophagus through a personification of K'awiil, the god of agriculture.
+image: /img/thumb/1484755204.jpg
+location:
+    latitude: 17.4847697
+    longitude: -92.0458949
 ---

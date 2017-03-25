@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-02
 photo: 1475546830.jpg
-location: Death Valley, USA
-caption_header: Sandstorm!
+location_text: Death Valley, USA
+title: Sandstorm!
 caption: On our way out of the Death Valley we had to drive throughout a real sandstorm. At one point we couldn't see anything anymore, but we kept driving and reach the other side without a scratch. ouf!
+image: /img/thumb/1475546830.jpg
+location:
+    latitude: 36.5322649
+    longitude: -116.9325408
 ---

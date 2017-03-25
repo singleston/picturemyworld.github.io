@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-01
 photo: 1475545075.jpg
-location: New York New York, Las Vegas, Nevada, USA
-caption_header: America
+location_text: New York New York, Las Vegas, Nevada, USA
+title: America
 caption: Here you go with the copy of the Statue of Liberty in Vegas!
+image: /img/thumb/1475545075.jpg
+location:
+    latitude: 36.1023786
+    longitude: -115.1745465
 ---

@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-21
 photo: 1484527354.jpg
-location: Mazunte, Mexico
-caption_header: Pueblo Magico
+location_text: Mazunte, Mexico
+title: Pueblo Magico
 caption: Mazunte is one of the Pueblo Magico of Mexico. That one is super cute and so hippie at the same time. Lots of party and yoga camps haha!
+image: /img/thumb/1484527354.jpg
+location:
+    latitude: 15.6677291
+    longitude: -96.5545185
 ---

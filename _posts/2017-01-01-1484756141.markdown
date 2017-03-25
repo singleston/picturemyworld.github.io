@@ -2,7 +2,11 @@
 layout: default
 date: 2017-01-01
 photo: 1484756141.jpg
-location: Zona Arqueológica, Palenque, Mexico
-caption_header: Beautiful Temple
+location_text: Zona Arqueológica, Palenque, Mexico
+title: Beautiful Temple
 caption: That temple is awesome! Smaller than the others but somehow, I just loved it! One of my favorite of that archaeological site. I also photoshopped people out of that picture haha :p
+image: /img/thumb/1484756141.jpg
+location:
+    latitude: 17.4847697
+    longitude: -92.0458949
 ---

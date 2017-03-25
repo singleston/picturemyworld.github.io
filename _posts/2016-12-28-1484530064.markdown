@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-28
 photo: 1484530064.jpg
-location: San Cristobal de las Casas, Mexico
-caption_header: Mexican Town for sure!
+location_text: San Cristobal de las Casas, Mexico
+title: Mexican Town for sure!
 caption: Most houses are painted like that in San Cristobal. The entire city is so colorful and pretty!
+image: /img/thumb/1484530064.jpg
+location:
+    latitude: 16.7370359
+    longitude: -92.6376186
 ---

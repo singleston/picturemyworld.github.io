@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-16
 photo: 1477367387.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: View Point
+location_text: Belmira, Antioquia, Colombia
+title: View Point
 caption: This was the usual view of this hike. Fancy uh?
+image: /img/thumb/1477367387.jpg
+location:
+    latitude: 6.606241
+    longitude: -75.666528
 ---

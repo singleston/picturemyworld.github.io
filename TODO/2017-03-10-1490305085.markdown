@@ -2,7 +2,11 @@
 layout: default
 date: 2017-03-10
 photo: 1490305085.jpg
-location: Barichara, Colombia
-caption_header: Cute little town
+location_text: Barichara, Colombia
+title: Cute little town
 caption: One of the street of Barichara, small houses, all white and cobbled streets. So nice!
+image: /img/thumb/1490305085.jpg
+location:
+    latitude: 6.635849
+    longitude: -73.223409
 ---

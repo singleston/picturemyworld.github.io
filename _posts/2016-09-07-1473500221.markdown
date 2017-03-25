@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-07
 photo: 1473500221.jpg
-location: Vik, Iceland
-caption_header: Reflections
+location_text: Vik, Iceland
+title: Reflections
 caption: Picture taken in Vik on the black sand beach.
+image: /img/thumb/1473500221.jpg
+location:
+    latitude: 63.4186315
+    longitude: -19.0060479
 ---

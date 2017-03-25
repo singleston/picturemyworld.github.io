@@ -2,7 +2,11 @@
 layout: default
 date: 2017-03-09
 photo: 1490303863.jpg
-location: Cañon del Chicamocha, Colombia
-caption_header: GoPro shot!
+location_text: Cañon del Chicamocha, Colombia
+title: GoPro shot!
 caption: Paragliding! Very nice sensation to see those mountains from way above. Not that scary and quite fun!
+image: /img/thumb/1490303863.jpg
+location:
+    latitude: 6.815869
+    longitude: -72.9897054
 ---

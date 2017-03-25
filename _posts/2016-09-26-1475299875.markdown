@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-26
 photo: 1475299875.jpg
-location: Horseshoe Bend, Page, Arizona, USA
-caption_header: Hakuna Matata
+location_text: Horseshoe Bend, Page, Arizona, USA
+title: Hakuna Matata
 caption: The Lion King made in Arizona.
+image: /img/thumb/1475299875.jpg
+location:
+    latitude: 36.8791588
+    longitude: -111.510513
 ---

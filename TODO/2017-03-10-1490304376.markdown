@@ -2,7 +2,11 @@
 layout: default
 date: 2017-03-10
 photo: 1490304376.jpg
-location: Barichara, Colombia
-caption_header: Barichara
+location_text: Barichara, Colombia
+title: Barichara
 caption: Photo of the main square of Barichara, a town known for its cobbled streets and colonial architecture. In some travel guides it is considered as the most beautiful village in the country.
+image: /img/thumb/1490304376.jpg
+location:
+    latitude: 6.635849
+    longitude: -73.223409
 ---

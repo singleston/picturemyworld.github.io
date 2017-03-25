@@ -5,6 +5,9 @@ import os
 import subprocess
 import re
 import time
+import requests
+import json
+
 from datetime import datetime
 
 parser = argparse.ArgumentParser(description='Create and upload a new post')
@@ -106,17 +109,33 @@ def createBigImage(filename, filepath):
 	image_path = (root + "/img/large/" + filename + ".jpg")
 	os.system("convert %s -resize 2160x1440 -quality 40 %s" % (filepath, image_path))
 
+# Fetch the latitude and longitude of the geolocation
+def getLocationLatitudeLongitude(geolocation):
+	googlemaps_api_key = "AIzaSyD8L1sSjFveHxHM_3wxw73olaklHZukfrU"
+	endpoint = "https://maps.googleapis.com/maps/api/geocode/json?key=" + googlemaps_api_key
+	endpoint += "&address=" + geolocation
+
+	response = requests.get(endpoint)
+	json_data = json.loads(response.text)
+	location = json_data["results"][0]["geometry"]["location"]
+	return (str(location["lat"]), str(location["lng"]))
+
 # Create the markdown file for the new post.
 def createMarkdownFile(filename, date, geolocation, title, text):
 	root = os.path.dirname(os.path.realpath(__file__))
 	md_path = (root + '/_posts/' + date + '-' + filename + '.markdown')
+	(latitude, longitude) = getLocationLatitudeLongitude(geolocation)
 	f = open(md_path,'w')
 	f.write('---\nlayout: default\n') # python will convert \n to os.linesep
 	f.write('date: %s\n' % date)
 	f.write('photo: %s.jpg\n' % filename)
-	f.write('location: %s\n' % geolocation)
-	f.write('caption_header: %s\n' % title)
+	f.write('image: /img/thumb/%s.jpg\n' % filename)
+	f.write('location_text: %s\n' % geolocation)
+	f.write('title: %s\n' % title)
 	f.write('caption: %s\n' % text)
+	f.write('location:\n')
+	f.write('    latitude: %s\n' % latitude)
+	f.write('    longitude: %s\n' % longitude)
 	f.write('---\n')
 	f.close() # you can omit in most cases as the destructor will call it
 

@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-25
 photo: 1475035545.jpg
-location: Grand Canyon National Park, Arizona, USA
-caption_header: Layers
+location_text: Grand Canyon National Park, Arizona, USA
+title: Layers
 caption: With this picture one can distinguish the layered bands of red rock revealing millions of years of geological history. I took that photo while hiking down the canyon. I couldn't reach the bottom as it would have taken me about 6 hours to do so.
+image: /img/thumb/1475035545.jpg
+location:
+    latitude: 36.1069652
+    longitude: -112.1129972
 ---

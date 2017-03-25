@@ -19,12 +19,16 @@ $> ./new_post.py
 
 ```txt
 ---
-layout: 	default
-date:   	2014-04-06 23:26:12
-photo: 		1.png
-location: 	Photo location
-caption_header: Sample header
-caption: 	Sample caption
+layout: 		default
+date:   		2014-04-06
+photo: 			1473364600.jpg
+location_text: 	Photo location
+title: 			Sample title header
+caption: 		Sample caption / description text
+image: 			/img/thumb/1473364600.jpg
+location:
+    latitude: 43.4831519
+    longitude: -1.558626
 ---
 ```
 

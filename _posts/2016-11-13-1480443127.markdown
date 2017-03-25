@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-13
 photo: 1480442771.jpg
-location: Cocora Valley, Colombia
-caption_header: Giant palm trees
+location_text: Cocora Valley, Colombia
+title: Giant palm trees
 caption: After a 4 hours trek we finally arrived at the palm trees. In this valley there are the tallest 'Wax Palm' trees in the world. They could reach 50 meters high!
+image: /img/thumb/1480442771.jpg
+location:
+    latitude: 4.637712
+    longitude: -75.48907
 ---

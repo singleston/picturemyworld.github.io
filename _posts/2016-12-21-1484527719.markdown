@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-21
 photo: 1484527719.jpg
-location: Mazunte, Mexico
-caption_header: Paradise Beach
+location_text: Mazunte, Mexico
+title: Paradise Beach
 caption: What else would you need? Maybe a beer.
+image: /img/thumb/1484527719.jpg
+location:
+    latitude: 15.6677291
+    longitude: -96.5545185
 ---

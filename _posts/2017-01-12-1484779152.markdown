@@ -2,7 +2,11 @@
 layout: default
 date: 2017-01-12
 photo: 1484779152.jpg
-location: Melchor de Mencos, Guatemala
-caption_header: Welcome to Belize!
+location_text: Melchor de Mencos, Guatemala
+title: Welcome to Belize!
 caption: Nice joke, yes I have been to that country. Not even a day, just crossed it to reach Mexico as soon as possible haha!
+image: /img/thumb/1484779152.jpg
+location:
+    latitude: 17.058107
+    longitude: -89.1563115
 ---

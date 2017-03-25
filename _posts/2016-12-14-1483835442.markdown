@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-14
 photo: 1483835442.jpg
-location: Oaxaca Ciudad, Mexico
-caption_header: Skull
+location_text: Oaxaca Ciudad, Mexico
+title: Skull
 caption: This skull has been discovered within a Mixtecs tomb for one of their kings and his sacrified servants.
+image: /img/thumb/1483835442.jpg
+location:
+    latitude: 17.0594169
+    longitude: -96.7216219
 ---

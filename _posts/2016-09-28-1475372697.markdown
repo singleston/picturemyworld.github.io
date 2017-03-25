@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-28
 photo: 1475372697.jpg
-location: Bryce Canyon National Park, USA
-caption_header: Up the street
+location_text: Bryce Canyon National Park, USA
+title: Up the street
 caption: Hard to see on that picture but that is the view from the top of the Wall Street trail. It is still nice as all those hoodoos are at the same level.
+image: /img/thumb/1475372697.jpg
+location:
+    latitude: 37.5930377
+    longitude: -112.1870895
 ---

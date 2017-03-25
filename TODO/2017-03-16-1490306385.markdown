@@ -2,7 +2,11 @@
 layout: default
 date: 2017-03-16
 photo: 1490306385.jpg
-location: Medellin, Colombia
-caption_header: Aquarium
+location_text: Medellin, Colombia
+title: Aquarium
 caption: I finally went to that Parque Explora in Medellin! It's a complex between science and natural museum. The aquarium there is pretty descent!
+image: /img/thumb/1490306385.jpg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
 ---

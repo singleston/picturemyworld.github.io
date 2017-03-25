@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-20
 photo: 1474415408.jpg
-location: University of Chicago, USA
-caption_header: Back to the university
+location_text: University of Chicago, USA
+title: Back to the university
 caption: The old university campus of Chicago looks like the Harry Potter school. Big old buildings, huge windows and crazy stairs everywhere. Impressive!
+image: /img/thumb/1474415408.jpg
+location:
+    latitude: 41.7886079
+    longitude: -87.5987133
 ---

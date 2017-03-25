@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-14
 photo: 1483835773.jpg
-location: Oaxaca Ciudad, Mexico
-caption_header: Maguey!
+location_text: Oaxaca Ciudad, Mexico
+title: Maguey!
 caption: This plant, also known as aguave, is the main ingredient for the Tequila and Mezcal alcohols!
+image: /img/thumb/1483835773.jpg
+location:
+    latitude: 17.0594169
+    longitude: -96.7216219
 ---

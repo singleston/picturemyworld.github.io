@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-19
 photo: 1484526841.jpg
-location: Puerto Escondido, Mexico
-caption_header: Puerto Escondido
+location_text: Puerto Escondido, Mexico
+title: Puerto Escondido
 caption: Puerto Escondido is a magical town on the Pacific coast of Mexico. I had the chance to stay there for a week, enjoyed a perfect sunset like this one every single night!
+image: /img/thumb/1484526841.jpg
+location:
+    latitude: 15.8719795
+    longitude: -97.0767365
 ---

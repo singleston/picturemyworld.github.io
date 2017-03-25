@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-29
 photo: 1484752800.jpg
-location: Lagunas de Montebello, Mexico
-caption_header: Thailand
+location_text: Lagunas de Montebello, Mexico
+title: Thailand
 caption: Somehow this is how I picture the water in Thailand or something, but it is 'sadly' just a lake in Mexico with bad weather :)
+image: /img/thumb/1484752800.jpg
+location:
+    latitude: 16.1016382
+    longitude: -91.676936
 ---

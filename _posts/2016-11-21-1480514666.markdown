@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-21
 photo: 1480514666.jpg
-location: Rincon Del Mar, Colombia
-caption_header: Nice shot!
+location_text: Rincon Del Mar, Colombia
+title: Nice shot!
 caption: This is definitely my new wallpaper, great photo made by Sophie De Sousa :)
+image: /img/thumb/1480514666.jpg
+location:
+    latitude: 9.7640494
+    longitude: -75.6409151
 ---

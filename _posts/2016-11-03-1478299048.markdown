@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-03
 photo: 1478299048.jpg
-location: Christo Rey, Cali, Colombia
-caption_header: Christo Rey Statue
+location_text: Christo Rey, Cali, Colombia
+title: Christo Rey Statue
 caption: This 26 meters high statue might look like the one in Brazil but it isn't. With my friend Sophie we tried to reach it by walking, but after more than an hour and not even half the way done, we found a crazy but funny taxi driver to help us out!
+image: /img/thumb/1478299048.jpg
+location:
+    latitude: 3.4359152
+    longitude: -76.5648552
 ---

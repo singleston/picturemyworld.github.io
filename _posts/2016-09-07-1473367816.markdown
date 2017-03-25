@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-07
 photo: 1473367816.jpg
-location: Sólheimajökull, Iceland
-caption_header: Me and a glacier
+location_text: Sólheimajökull, Iceland
+title: Me and a glacier
 caption: Picture of me in front of a glacier, the lake before is actually the melted ice coming from it.
+image: /img/thumb/1473367816.jpg
+location:
+    latitude: 63.5569444
+    longitude: -19.3027778
 ---

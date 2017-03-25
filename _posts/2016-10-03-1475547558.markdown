@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-03
 photo: 1475547558.jpg
-location: San Francisco, USA
-caption_header: Market Day
+location_text: San Francisco, USA
+title: Market Day
 caption: Random people at a market in front of the City Hall.
+image: /img/thumb/1475547558.jpg
+location:
+    latitude: 37.7749295
+    longitude: -122.4194155
 ---

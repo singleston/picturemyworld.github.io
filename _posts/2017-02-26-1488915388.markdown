@@ -2,7 +2,11 @@
 layout: default
 date: 2017-02-26
 photo: 1488915388.jpg
-location: Barranquilla, Colombia
-caption_header: Barranquilla Carneval
+location_text: Barranquilla, Colombia
+title: Barranquilla Carneval
 caption: We went for one day to Barranquilla to see the last parade of the carnaval. The day was crazy hot and the parade a bit boring after while. Nonetheless the people were very well dressed up and dancing all the time! Nice experience
+image: /img/thumb/1488915388.jpg
+location:
+    latitude: 11.0041072
+    longitude: -74.8069813
 ---

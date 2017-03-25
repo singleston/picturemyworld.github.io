@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-15
 photo: 1480446751.jpg
-location: Jardín Botánico, Medellin, Colombia
-caption_header: Love is in the air
+location_text: Jardín Botánico, Medellin, Colombia
+title: Love is in the air
 caption: Peaceful path through the trees with two strangers kissing each other.
+image: /img/thumb/1480446751.jpg
+location:
+    latitude: 6.2708781
+    longitude: -75.5641168
 ---

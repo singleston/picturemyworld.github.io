@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-13
 photo: 1480443470.jpg
-location: Cocora Valley, Colombia
-caption_header: Trees in the shadow
+location_text: Cocora Valley, Colombia
+title: Trees in the shadow
 caption: Two Wax Palm trees in the darkness.
+image: /img/thumb/1480443470.jpg
+location:
+    latitude: 4.637712
+    longitude: -75.48907
 ---

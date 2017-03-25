@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-02
 photo: 1475546324.jpg
-location: Death Valley, USA
-caption_header: Road runner
+location_text: Death Valley, USA
+title: Road runner
 caption: By the way we've seen a road runner but no coyote :(
+image: /img/thumb/1475546324.jpg
+location:
+    latitude: 36.5322649
+    longitude: -116.9325408
 ---

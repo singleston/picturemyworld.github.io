@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-12
 photo: 1479766315.jpg
-location: El Peñon, Guatape, Colombia
-caption_header: El Peñon
+location_text: El Peñon, Guatape, Colombia
+title: El Peñon
 caption: To get up to this view point we had to climb about 740 steps built on a massive rock. Once at the top, it started to rain like crazy. Nonetheless we stayed there, took our shower but enjoyed taking pictures without tourists on them! Except for that very one chinese girl :D
+image: /img/thumb/1479766315.jpg
+location:
+    latitude: 6.223611
+    longitude: -75.178333
 ---

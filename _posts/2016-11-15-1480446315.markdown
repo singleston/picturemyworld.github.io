@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-15
 photo: 1480446315.jpg
-location: Medellin, Colombia
-caption_header: Famous Metro Cable
+location_text: Medellin, Colombia
+title: Famous Metro Cable
 caption: Medellin has a very exceptional thing for Colombia and South America in general, a subway. Even better, that subway is connected to the metro cable that goes above the different 'communas' and unsafe districts. The one on the picture reaches a National Park around the city.
+image: /img/thumb/1480446315.jpg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
 ---

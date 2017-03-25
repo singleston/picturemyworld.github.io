@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-03
 photo: 1478297162.jpg
-location: Cali, Colombia
-caption_header: Wall painting
+location_text: Cali, Colombia
+title: Wall painting
 caption: In Cali it is extremely common to see houses or buildings with the walls painted with one or two solid colors. At the same time many ones have nice illustrations which are either abstract or very realistic.
+image: /img/thumb/1478297162.jpg
+location:
+    latitude: 3.4516467
+    longitude: -76.5319854
 ---

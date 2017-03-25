@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-03
 photo: 1478297763.jpg
-location: El Gato Del Rio, Cali, Colombia
-caption_header: Cats!!
+location_text: El Gato Del Rio, Cali, Colombia
+title: Cats!!
 caption: There is a small park in the city with many sculptures of cats and information about them. Did you know that the Holy Bible does not  talk about any cat at all?
+image: /img/thumb/1478297763.jpg
+location:
+    latitude: 3.4513378
+    longitude: -76.543
 ---

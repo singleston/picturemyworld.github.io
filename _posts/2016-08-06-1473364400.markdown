@@ -2,7 +2,11 @@
 layout: default
 date: 2016-08-06
 photo: 1473364400.jpg
-location: Plaza Nueva, Bilbao, Spain
-caption_header: Bilbao
+location_text: Plaza Nueva, Bilbao, Spain
+title: Bilbao
 caption: In the historic city center of Bilbao there is a big square of Neoclassical style built in 1821. Under the columns are now many bars and restaurants.
+image: /img/thumb/1473364400.jpg
+location:
+    latitude: 43.2590355
+    longitude: -2.9227012
 ---

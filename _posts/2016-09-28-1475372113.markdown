@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-28
 photo: 1475372113.jpg
-location: Bryce Canyon National Park, USA
-caption_header: Wallpaper
+location_text: Bryce Canyon National Park, USA
+title: Wallpaper
 caption: I very like this shot of a dead tree and a plane in the background.
+image: /img/thumb/1475372113.jpg
+location:
+    latitude: 37.5930377
+    longitude: -112.1870895
 ---

@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-28
 photo: 1475372522.jpg
-location: Bryce Canyon National Park, USA
-caption_header: Down the road
+location_text: Bryce Canyon National Park, USA
+title: Down the road
 caption: Once we got at the bottom of the canyon we could see the hoodoos from a different angle. They are still very impressive and look like a giant wall.
+image: /img/thumb/1475372522.jpg
+location:
+    latitude: 37.5930377
+    longitude: -112.1870895
 ---

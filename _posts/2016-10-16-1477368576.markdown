@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-16
 photo: 1477368576.jpg
-location: Belmira, Antioquia, Colombia
-caption_header: Camilla
+location_text: Belmira, Antioquia, Colombia
+title: Camilla
 caption: This very shy girl got my attention for a very obvious reason. She was visiting her uncle living remotely up in the mountains. In the beginning she did not want to let me take a picture of her, but her sister pushed her.
+image: /img/thumb/1477368576.jpg
+location:
+    latitude: 6.606241
+    longitude: -75.666528
 ---

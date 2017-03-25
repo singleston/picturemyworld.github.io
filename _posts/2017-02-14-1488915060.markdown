@@ -2,7 +2,11 @@
 layout: default
 date: 2017-02-14
 photo: 1488915060.jpg
-location: Cartagena, Colombia
-caption_header: Need a beer?
+location_text: Cartagena, Colombia
+title: Need a beer?
 caption: Typical scene of a local relaxing after work in park in Cartagena, Colombia.
+image: /img/thumb/1488915060.jpg
+location:
+    latitude: 10.3910485
+    longitude: -75.4794257
 ---

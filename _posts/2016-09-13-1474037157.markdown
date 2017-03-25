@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-13
 photo: 1474037157.jpg
-location: Biosphere, Montreal, Canada
-caption_header: Biosphere
+location_text: Biosphere, Montreal, Canada
+title: Biosphere
 caption: This big ball is a musuem dedicated to the environment. It has been built for the 1967 World Fair exposition.
+image: /img/thumb/1474037157.jpg
+location:
+    latitude: 45.5140507
+    longitude: -73.5316054
 ---

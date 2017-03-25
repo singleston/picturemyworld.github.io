@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-20
 photo: 1474415093.jpg
-location: The Field Museum, Chicago, USA
-caption_header: Sue the Tyrannosaurus Rex
+location_text: The Field Museum, Chicago, USA
+title: Sue the Tyrannosaurus Rex
 caption: This is Sue, the largest, best-preserved and most complete T-Rex ever found. The actual gender of this dinosaur is unknown, but it has been given a female name as the archeologist who found her was a woman.
+image: /img/thumb/1474415093.jpg
+location:
+    latitude: 41.866261
+    longitude: -87.6169805
 ---

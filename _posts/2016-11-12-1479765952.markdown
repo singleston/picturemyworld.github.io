@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-12
 photo: 1479765952.jpg
-location: Guatape, Colombia
-caption_header: Guatape Guatape
+location_text: Guatape, Colombia
+title: Guatape Guatape
 caption: Guys! Put colors on your house, it looks awesome!
+image: /img/thumb/1479765952.jpg
+location:
+    latitude: 6.231137
+    longitude: -75.153467
 ---

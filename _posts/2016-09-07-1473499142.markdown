@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-07
 photo: 1473499142.jpg
-location: Seljalandsfoss, Iceland
-caption_header: Behind the water
+location_text: Seljalandsfoss, Iceland
+title: Behind the water
 caption: This is a picture taken from behind the waterfall.
+image: /img/thumb/1473499142.jpg
+location:
+    latitude: 63.6156232
+    longitude: -19.9885688
 ---

@@ -2,7 +2,11 @@
 layout: default
 date: 2016-11-15
 photo: 1480446461.jpg
-location: Medellin, Colombia
-caption_header: Communas
+location_text: Medellin, Colombia
+title: Communas
 caption: This picture shows one district of the city which might be fine during the day but rather unsecure at night.
+image: /img/thumb/1480446461.jpg
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
 ---

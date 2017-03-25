@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-05
 photo: 1473365600.jpg
-location: Hallgrimskirkja, Reykjavik, Iceland
-caption_header: Late selfie
+location_text: Hallgrimskirkja, Reykjavik, Iceland
+title: Late selfie
 caption: Selfie Selfie Selfie
+image: /img/thumb/1473365600.jpg
+location:
+    latitude: 64.1417149
+    longitude: -21.9266371
 ---

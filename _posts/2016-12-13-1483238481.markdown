@@ -2,7 +2,11 @@
 layout: default
 date: 2016-12-13
 photo: 1483238481.jpg
-location: Hierve el Agua, Mexico
-caption_header: Perfection
+location_text: Hierve el Agua, Mexico
+title: Perfection
 caption: I believe this is the most perfect shot I have ever done so far in my life.
+image: /img/thumb/1483238481.jpg
+location:
+    latitude: 16.865738
+    longitude: -96.2760358
 ---

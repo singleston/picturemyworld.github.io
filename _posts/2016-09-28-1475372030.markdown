@@ -2,7 +2,11 @@
 layout: default
 date: 2016-09-28
 photo: 1475372030.jpg
-location: Bryce Canyon National Park, USA
-caption_header: Hoodoos
+location_text: Bryce Canyon National Park, USA
+title: Hoodoos
 caption: CLose view of those spires called Hoodoos.
+image: /img/thumb/1475372030.jpg
+location:
+    latitude: 37.5930377
+    longitude: -112.1870895
 ---

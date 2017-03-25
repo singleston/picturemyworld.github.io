@@ -2,7 +2,11 @@
 layout: default
 date: 2016-10-01
 photo: 1475536936.jpg
-location: Treasure Island, Las Vegas, Nevada, USA
-caption_header: What a piece of art!
+location_text: Treasure Island, Las Vegas, Nevada, USA
+title: What a piece of art!
 caption: This is a carved mammoth tusk dating from the Ming Dynasty Chinese culture. Humans carved elephants, fish and pagodas, lilies, umbrellas, and then a million more little warriors. This is the most beautiful thing I had the chance to see in the US !
+image: /img/thumb/1475536936.jpg
+location:
+    latitude: 36.1247446
+    longitude: -115.1720809
 ---

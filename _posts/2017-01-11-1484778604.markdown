@@ -2,7 +2,11 @@
 layout: default
 date: 2017-01-11
 photo: 1484778604.jpg
-location: Tikal, Guatemala
-caption_header: In the jungle
+location_text: Tikal, Guatemala
+title: In the jungle
 caption: What I absolutely loved about Tikal is that you keep walking through the jungle, and suddenly you can see a crazy super tall temple like that!
+image: /img/thumb/1484778604.jpg
+location:
+    latitude: 17.2220409
+    longitude: -89.6236995
 ---
