@@ -1,7 +1,7 @@
 ---
 layout: default
-date:   2016-04-03 23:26:12
-photo: 	1473362100.jpg
+date: 2016-04-03 23:26:12
+photo: 1473362100.jpg
 location_text: Postdam, Germany
 title: A simple tree near a lake
 caption: On a bike trip around Berlin, I took this picture South of Postdam, another city nearby. That day we drove about 110km!
