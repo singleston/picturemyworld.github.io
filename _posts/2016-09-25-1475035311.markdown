@@ -5,7 +5,6 @@ photo: 1475035311.jpg
 location_text: Grand Canyon National Park, Arizona, USA
 title: Trail
 caption: On a trail to get down into the canyon one can go through this kind of door. It's a-door-able !
-image: /img/thumb/1475035311.jpg
 location:
     latitude: 36.1069652
     longitude: -112.1129972

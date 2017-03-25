@@ -5,7 +5,6 @@ photo: 1483238047.jpg
 location_text: San Lorenzo Albarradas, Oaxaca, Mexico
 title: Mexican Landscape
 caption: Is this how you would picture mexico in your brain? A large valley, a bit desertic, few cactus? Because I did before coming here, and gosh it was worth it!
-image: /img/thumb/1483238047.jpg
 location:
     latitude: 16.9058643
     longitude: -96.2603236

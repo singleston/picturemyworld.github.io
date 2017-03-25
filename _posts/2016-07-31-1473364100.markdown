@@ -5,7 +5,6 @@ photo: 1473364100.jpg
 location_text: SAGE Beach, Berlin Germany
 title: Last Open Air
 caption: Very last Open Air with the guys at SAGE Beach. It did rain but the music was so good! It was also my last day in Berlin. Thanks for the good vibes and lifestyle <3
-image: /img/thumb/1473364100.jpg
 location:
     latitude: 52.5065868
     longitude: 13.4333996

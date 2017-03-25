@@ -5,7 +5,6 @@ photo: 1484772399.jpg
 location_text: Antigua, Guatemala
 title: Antigua
 caption: Antigua is a small city surrouded by volcanoes. It is famous due to its Spanish colonial buildings. The city is very pretty but so touristy, I don't see why people would actually stay there...
-image: /img/thumb/1484772399.jpg
 location:
     latitude: 14.5585707
     longitude: -90.729523

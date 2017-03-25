@@ -5,7 +5,6 @@ photo: 1475548747.jpg
 location_text: Golden Gate Bridge, San Francisco, USA
 title: View point
 caption: That bridge is also sadly known to be the one with most commited suicide in the United States. In the background of the picture, the city of San Francisco.
-image: /img/thumb/1475548747.jpg
 location:
     latitude: 37.8199286
     longitude: -122.4782551

@@ -5,7 +5,6 @@ photo: 1475034910.jpg
 location_text: Grand Canyon National Park, Arizona, USA
 title: Holy Moly
 caption: One amazing thing about that place is that all those rocks and/or cliffs are at the same heights. Those are not mountains coming from the ground. The river is digging into the earth and now creates this giantic hole!
-image: /img/thumb/1475034910.jpg
 location:
     latitude: 36.1069652
     longitude: -112.1129972

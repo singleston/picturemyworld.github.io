@@ -5,7 +5,6 @@ photo: 1480514775.jpg
 location_text: Santa Marta, Colombia
 title: Santa Marta
 caption: The city of Santa Marta is touristy but not as much as Cartagena. The temperature is also less hot and oppressive. This city is also known to be the party city of the north coast. There is a lot of small squares, very good restaurant, nice bars and clubs! I really enjoyed this town! I played Jenga drunk in a bar ;)
-image: /img/thumb/1480514775.jpg
 location:
     latitude: 11.2403547
     longitude: -74.2110227

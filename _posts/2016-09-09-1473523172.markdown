@@ -5,7 +5,6 @@ photo: 1473523172.jpg
 location_text: Thingvellir National Park, Iceland
 title: Tectonic Plates
 caption: This national park in southwestern Iceland is a valley that shows the boundary between the North American and Eurasian tectonic plates.
-image: /img/thumb/1473523172.jpg
 location:
     latitude: 64.255857
     longitude: -21.1303622

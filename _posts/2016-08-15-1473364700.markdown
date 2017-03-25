@@ -5,7 +5,6 @@ photo: 1473364700.jpg
 location_text: Carcassonne, France
 title: Carcassonne
 caption: Carcassone is a mediaval citadel built at the top of hill in southern France’s Languedoc region. The "Cité" has two fortification walls in Gallo-Roman style. The inner part is really nice and ancient but, now filled with tourist shops, tourist restaurants and tourist people. Very nice to see, not to stay...
-image: /img/thumb/1473364700.jpg
 location:
     latitude: 43.212161
     longitude: 2.353663

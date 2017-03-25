@@ -5,7 +5,6 @@ photo: 1475038298.jpg
 location_text: South Utah, USA
 title: Route 89
 caption: Typical road in the desert in the United States of America. Sand, Cactus and Rock'n'Roll !
-image: /img/thumb/1475038298.jpg
 location:
     latitude: 40.5621704
     longitude: -111.929658

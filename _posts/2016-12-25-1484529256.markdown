@@ -5,7 +5,6 @@ photo: 1484529256.jpg
 location_text: Puerto Escondido, Mexico
 title: Santa Claus
 caption: It was a very long night...
-image: /img/thumb/1484529256.jpg
 location:
     latitude: 15.8719795
     longitude: -97.0767365

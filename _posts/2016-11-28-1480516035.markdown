@@ -5,7 +5,6 @@ photo: 1480516035.jpg
 location_text: Costeño Beach, Colombia
 title: Dream Hostel
 caption: Awesome hostel with great food (including real bread OH MY GOD!), nice beds with mosquito nets and, even better, big waves! I did surf for 2 days there :)
-image: /img/thumb/1480516035.jpg
 location:
     latitude: 11.2723445
     longitude: -73.8459336

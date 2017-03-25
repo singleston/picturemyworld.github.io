@@ -5,7 +5,6 @@ photo: 1483240042.jpg
 location_text: Santa María del Tule, Mexico
 title: Largest tree of the world!
 caption: That tree has a diameter of 14 meters and is more than 2000 years old!
-image: /img/thumb/1483240042.jpg
 location:
     latitude: 17.0447413
     longitude: -96.6330819

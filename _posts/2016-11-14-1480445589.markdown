@@ -5,7 +5,6 @@ photo: 1480445589.jpg
 location_text: Salento, Quindio, Colombia
 title: Cooked Coffee Beans
 caption: After a long preparation those are the coffee beans one could buy from the farm. This one is from 'la finca Las Brisas'.
-image: /img/thumb/1480445589.jpg
 location:
     latitude: 4.637376
     longitude: -75.570777

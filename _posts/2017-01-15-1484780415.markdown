@@ -5,7 +5,6 @@ photo: 1484780415.jpg
 location_text: Tulum, Mexico
 title: Art
 caption: I rested a week in Tulum after all this travel. I went almost everyday to that Art-Galery-Coffee place to relax, work and enjoy a nice fresh juice and Internet. ;)
-image: /img/thumb/1484780415.jpg
 location:
     latitude: 20.2114185
     longitude: -87.4653502

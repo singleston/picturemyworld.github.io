@@ -5,7 +5,6 @@ photo: 1478298291.jpg
 location_text: Cali, Colombia
 title: Beetle
 caption: That old car is very nice but, in general in Colombia most cars are not that old and not really new either. Which of course does not help for the pollution.
-image: /img/thumb/1478298291.jpg
 location:
     latitude: 3.4516467
     longitude: -76.5319854

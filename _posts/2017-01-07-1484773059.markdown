@@ -5,7 +5,6 @@ photo: 1484773059.jpg
 location_text: Volcano Pacaya, Guatemala
 title: Mordor all over again
 caption: This deadly landscape looks like Mordor but it is actually lava from the Pacaya volcano in the background.
-image: /img/thumb/1484773059.jpg
 location:
     latitude: 14.3823075
     longitude: -90.6015071

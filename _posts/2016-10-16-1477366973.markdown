@@ -5,7 +5,6 @@ photo: 1477366973.jpg
 location_text: Belmira, Antioquia, Colombia
 title: Guarding Dog
 caption: On our way out of the village this dog could not stop barking to those tourists passing by :)
-image: /img/thumb/1477366973.jpg
 location:
     latitude: 6.606241
     longitude: -75.666528

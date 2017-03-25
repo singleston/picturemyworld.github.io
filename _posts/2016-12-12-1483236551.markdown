@@ -5,7 +5,6 @@ photo: 1483236551.jpg
 location_text: Basilica de Guadalupe, Mexico City, Mexico
 title: Basilica de Guadalupe
 caption: Main entrance of the Basilica de Guadalupe. I went there during a pelerinage, and there was literally people sleeping (in the cold) everywhere. Their faith is very impressive.
-image: /img/thumb/1483236551.jpg
 location:
     latitude: 19.4848572
     longitude: -99.1178616

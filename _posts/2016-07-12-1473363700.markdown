@@ -5,7 +5,6 @@ photo: 1473363700.jpg
 location_text: Cassiopeia, Revaler Straße, Berlin, Germany
 title: Supersuckers concert
 caption: Very nice rock concert with my friend Sven. Rock'n'Roll, cowboy and some country music!
-image: /img/thumb/1473363700.jpg
 location:
     latitude: 52.5071578
     longitude: 13.4547007

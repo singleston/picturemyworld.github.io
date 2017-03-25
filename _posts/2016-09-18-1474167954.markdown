@@ -5,7 +5,6 @@ photo: 1474167954.jpg
 location_text: Downtown Chicago, USA
 title: Night Vision
 caption: For my first night in the US, I had the chance to get into a private car and reach that amazing view point of the city with my friend Mark.
-image: /img/thumb/1474167954.jpg
 location:
     latitude: 41.8786351
     longitude: -87.6250549

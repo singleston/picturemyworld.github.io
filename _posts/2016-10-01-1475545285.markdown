@@ -5,7 +5,6 @@ photo: 1475545285.jpg
 location_text: Las Vegas, Nevada, USA
 title: Copycat
 caption: Las Vegas is all centered in one long street. On each side hotels try to be more somptuous and appealing than the one in front of them. It also copies the most beautiful things in this world such as the Empire State Building, the Brooklyn bridge, the Eiffel Tower etc.
-image: /img/thumb/1475545285.jpg
 location:
     latitude: 36.1699412
     longitude: -115.1398296

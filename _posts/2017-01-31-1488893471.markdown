@@ -5,7 +5,6 @@ photo: 1488893471.jpg
 location_text: Taganga, Colombia
 title: Cute Taganga
 caption: Taganga is a fishing village close to Santa Marta. Easy to go to with a taxi and enjoy a serious night life there! Great spot on the Caribbean coast of Colombia.
-image: /img/thumb/1488893471.jpg
 location:
     latitude: 11.2645493
     longitude: -74.1911154

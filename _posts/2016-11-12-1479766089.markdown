@@ -5,7 +5,6 @@ photo: 1479766089.jpg
 location_text: Guatape, Colombia
 title: Nothing changed
 caption: I'm still fine mom!
-image: /img/thumb/1479766089.jpg
 location:
     latitude: 6.231137
     longitude: -75.153467

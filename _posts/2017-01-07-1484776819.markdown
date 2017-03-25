@@ -5,7 +5,6 @@ photo: 1484776819.jpg
 location_text: Volcano Pacaya, Guatemala
 title: And still active
 caption: The volcano Pacaya is still active. It is also very stable at the moment no big danger for me. Where I stand on that picture used to be another volcano that once erupted and destroyed the valley around. Now, this second volcano has been filled up by the Pacaya one when it erupted few years ago!!
-image: /img/thumb/1484776819.jpg
 location:
     latitude: 14.3823075
     longitude: -90.6015071

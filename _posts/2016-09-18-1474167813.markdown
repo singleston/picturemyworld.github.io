@@ -5,7 +5,6 @@ photo: 1474167813.jpg
 location_text: Chicago, USA
 title: America
 caption: This view is the first one I had when I got out of the train to get closer to Chicago city center. A massive road, huge traffic jam, lots of cars and trucks, etc. Well... Welcome to America!
-image: /img/thumb/1474167813.jpg
 location:
     latitude: 41.8781136
     longitude: -87.6297982

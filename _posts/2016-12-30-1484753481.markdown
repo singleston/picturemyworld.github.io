@@ -5,7 +5,6 @@ photo: 1484753481.jpg
 location_text: Cañon del Sumidero, Mexico
 title: Cañon del Sumidero
 caption: Picture from the bottom of the Cañon. The highest cliffs are about 1000 meters high, very impressive!
-image: /img/thumb/1484753481.jpg
 location:
     latitude: 16.8377638
     longitude: -93.0820476

@@ -5,7 +5,6 @@ photo: 1480514626.jpg
 location_text: Rincon Del Mar, Colombia
 title: Another crazy sunset
 caption: Photo by Sophie De Sousa.
-image: /img/thumb/1480514626.jpg
 location:
     latitude: 9.7640494
     longitude: -75.6409151

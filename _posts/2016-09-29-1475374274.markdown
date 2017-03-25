@@ -5,7 +5,6 @@ photo: 1475374274.jpg
 location_text: Boulder, Utah, USA
 title: Utah, my love
 caption: Among all the different states I have visited in the US, Utah is by far the most beautiful and interesting one. It has a lot of forest, canyons, colorful hills and mountains, old school villages and nice people. If you get the chance, go there it's amazing.
-image: /img/thumb/1475374274.jpg
 location:
     latitude: 37.9220877
     longitude: -111.4395128

@@ -5,7 +5,6 @@ photo: 1473363300.jpg
 location_text: Altes Museum, Berlin, Germany
 title: Altes Museum Berlin
 caption: In this circular room one can see many statues of ancient Greek gods. The Altes Musuem is clearly my favorite in Berlin, its achitecture and expositions are amazing!
-image: /img/thumb/1473363300.jpg
 location:
     latitude: 52.5194665
     longitude: 13.3987445

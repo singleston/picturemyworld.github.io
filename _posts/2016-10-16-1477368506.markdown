@@ -5,7 +5,6 @@ photo: 1477368506.jpg
 location_text: Belmira, Antioquia, Colombia
 title: That's a bridge
 caption: Whenever there was a small river or a water stream, people built a bridge as big and gorgeous as this one! jajaja (laugh in spanish)
-image: /img/thumb/1477368506.jpg
 location:
     latitude: 6.606241
     longitude: -75.666528

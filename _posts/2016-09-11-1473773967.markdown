@@ -5,7 +5,6 @@ photo: 1473773967.jpg
 location_text: Chalet du Mont-Royal, Montreal, Canada
 title: Montreal Downtown
 caption: Stunning view of Montreal from the top of the Mount Royal. For the locals it is a mountain but it is truly just a cute small hill. There is also a rule here where every new buildings may not be higher than the mount itself.
-image: /img/thumb/1473773967.jpg
 location:
     latitude: 45.5039255
     longitude: -73.587509

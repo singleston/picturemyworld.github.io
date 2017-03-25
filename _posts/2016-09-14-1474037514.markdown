@@ -5,7 +5,6 @@ photo: 1474037514.jpg
 location_text: Old Montreal, Canada
 title: Overtaking
 caption: In this shot one can clearly see how the old town of Montreal is now submerged by the new big economical one.
-image: /img/thumb/1474037514.jpg
 location:
     latitude: 45.5094623
     longitude: -73.5534598

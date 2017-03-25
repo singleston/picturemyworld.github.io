@@ -5,7 +5,6 @@ photo: 1480515703.jpg
 location_text: Punta Gallinas, Colombia
 title: Light tower
 caption: View from the inside of the light tower at the Punta Gallinas. It is just a metallic structure! Nothing really fancy haha :p
-image: /img/thumb/1480515703.jpg
 location:
     latitude: 12.4577778
     longitude: -71.6680556

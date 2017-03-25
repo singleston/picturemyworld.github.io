@@ -5,7 +5,6 @@ photo: 1475373320.jpg
 location_text: Petrified Forest State Park, Utah, USA
 title: Retired Truck
 caption: On our way to a petrified forest, we found that beautiful old food truck. We actually got lost at some point and then found that treasure.
-image: /img/thumb/1475373320.jpg
 location:
     latitude: 37.7866585
     longitude: -111.6312164

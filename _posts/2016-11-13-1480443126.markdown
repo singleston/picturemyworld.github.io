@@ -5,7 +5,6 @@ photo: 1480443126.jpg
 location_text: Cocora Valley, Colombia
 title: Does size matter?
 caption: So what's wrong here? Are the trees gigantic? Are the cows super tiny? Why is that dude hugging a tree? :)
-image: /img/thumb/1480443126.jpg
 location:
     latitude: 4.637712
     longitude: -75.48907

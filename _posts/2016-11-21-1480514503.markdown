@@ -5,7 +5,6 @@ photo: 1480514503.jpg
 location_text: Rincon Del Mar, Colombia
 title: Fishing boats
 caption: The main food in this region is the sea and the fishes people manage to get from it. Serve that with rice and some cooked bananas and you have a local meal. Very tasty but... you know... always the same.
-image: /img/thumb/1480514503.jpg
 location:
     latitude: 9.7640494
     longitude: -75.6409151

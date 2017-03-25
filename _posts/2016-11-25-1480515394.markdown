@@ -5,7 +5,6 @@ photo: 1480515394.jpg
 location_text: Punta Gallinas, Colombia
 title: Faro Punta Gallinas
 caption: I have been to the northen point of South America. It is called the Punta Gallinas. There is nothing there except an iron light tower, a small house and a rocky beach.
-image: /img/thumb/1480515394.jpg
 location:
     latitude: 12.4577778
     longitude: -71.6680556

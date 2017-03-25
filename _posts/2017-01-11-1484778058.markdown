@@ -5,7 +5,6 @@ photo: 1484778058.jpg
 location_text: Tikal, Guatemala
 title: Mayan Temple
 caption: That temple is the first one you see when you arrive at Tikal. It is very nice but not the nicest in my opinion.
-image: /img/thumb/1484778058.jpg
 location:
     latitude: 17.2220409
     longitude: -89.6236995

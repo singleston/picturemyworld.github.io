@@ -5,7 +5,6 @@ photo: 1474652514.jpg
 location_text: Malibu Beach, Los Angeles, USA
 title: Paradize Beach
 caption: The best part of all those beaches is how empty they are! Every few kilometers another new stunning one with a crazy landscape all around. Thanks Alana to drive around!
-image: /img/thumb/1474652514.jpg
 location:
     latitude: 34.0259216
     longitude: -118.7797571

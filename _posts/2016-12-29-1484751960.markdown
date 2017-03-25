@@ -5,7 +5,6 @@ photo: 1484751960.jpg
 location_text: Lagunas de Montebello, Mexico
 title: Deep one!
 caption: This small lake is one of the many on Montebello. About 50 lakes are naturally interconnected. The one on the picture is also about 150 meters deep!
-image: /img/thumb/1484751960.jpg
 location:
     latitude: 16.1016382
     longitude: -91.676936

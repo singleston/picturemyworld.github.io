@@ -5,7 +5,6 @@ photo: 1484752557.jpg
 location_text: Cascada El Chiflon, Mexico
 title: Waterfall
 caption: On my way to the Waterfall El Chiflon I found this gem. Smaller but so pretty with this crazy lagoon at the bottom.
-image: /img/thumb/1484752557.jpg
 location:
     latitude: 16.1896628
     longitude: -92.2736767

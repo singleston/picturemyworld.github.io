@@ -5,7 +5,6 @@ photo: 1488918195.jpg
 location_text: Tayrona Park, Colombia
 title: Tayrona Park!
 caption: I finally made it into the Tayrona Park! This National Natural Park is definitely an amazing place between mountains and ocean.
-image: /img/thumb/1488918195.jpg
 location:
     latitude: 11.2882416
     longitude: -74.1516509

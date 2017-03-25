@@ -5,7 +5,6 @@ photo: 1473775065.jpg
 location_text: Olympic Stadium Montreal, Canada
 title: 1976 Olympic Games
 caption: This is the stadium used for the Olympic Games in 1976. The tower is the world's tallest inclined tower at 175 meters and is now the symbol of the city.
-image: /img/thumb/1473775065.jpg
 location:
     latitude: 45.5579957
     longitude: -73.5518816
