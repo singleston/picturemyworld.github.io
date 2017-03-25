@@ -33,6 +33,16 @@ a:hover, visited, active {
 	color: #357ca7;
 }
 
+.active_googlemaps {
+	position: fixed;
+	background-color: white;
+	height: 100%; 
+	width: 100%; 
+	top: 0; 
+	left: 0; 
+	z-index: 0;
+}
+
 .googlemaps {
 	position: fixed;
 	background-color: white;
@@ -104,8 +114,8 @@ a:hover, visited, active {
 	padding-top: 14px;
 }
 
-.container > header nav a {
-	display: inline-block;
+.container > header a {
+	color: #265a79;
 	position: relative;
 	text-align: center;
 	width: 1.5em;
@@ -116,6 +126,10 @@ a:hover, visited, active {
 	/*border: 4px solid #47a3da;*/
 	/*padding-top: 6px;*/
 	text-decoration: none;
+}
+
+.container > header nav a {
+	display: inline-block;
 }
 
 .container > header nav a > span {
