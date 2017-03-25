@@ -32,10 +32,7 @@ sass:
 exclude: [vendor]
 
 gems:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-maps
-  - jemoji
 
 maps:
   google:
