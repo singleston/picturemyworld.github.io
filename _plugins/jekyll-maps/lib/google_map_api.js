@@ -96,7 +96,7 @@ var jekyllMaps = (function () {
 
     function markerPopup () {
       var contentString = '<div>'
-      contentString += '<img src="' + this.image + '" alt="' + this.title + '"/>'
+      contentString += '<img src="/img/thumb/' + this.image + '" alt="' + this.title + '"/>'
       contentString += '<div class="data-container">'
       contentString += '<h3>' + this.title + '</h3>'
       contentString += '<i class="fa fa-globe" aria-hidden="true" id="onMapIcon"></i>'

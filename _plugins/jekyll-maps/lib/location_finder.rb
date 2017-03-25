@@ -72,7 +72,7 @@ module Jekyll
             :latitude  => document["location"]["latitude"],
             :longitude => document["location"]["longitude"],
             :title     => document["title"],
-            :image     => document["image"],
+            :image     => document["photo"],
             :caption   => document["caption"],
             :date      => document["date"],
             :location  => document["location_text"]
