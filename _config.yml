@@ -27,13 +27,15 @@ markdown:     kramdown
 permalink:    pretty
 sass:
   compressed: true
+
+# https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
+
 gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-maps
   - jemoji
-# https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
 
 maps:
   google:
