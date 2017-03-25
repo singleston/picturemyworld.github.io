@@ -1,10 +1,10 @@
 ---
-layout: 	default
-date: 		2016-05-27
-photo: 		1473362800.jpg
+layout: default
+date: 2016-05-27
+photo: 1473362800.jpg
 location_text: Dresden City Center, Germany
 title: Dresden
-caption: 	Cool one-day trip with Karen to the nice city of Dresden. We arrived in the morning, she left in the afternoon back to Berlin. I stayed for an ACDC concert!
+caption: Cool one-day trip with Karen to the nice city of Dresden. We arrived in the morning, she left in the afternoon back to Berlin. I stayed for an ACDC concert!
 image: /img/thumb/1473362800.jpg
 location:
     latitude: 51.0476528
