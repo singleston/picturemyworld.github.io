@@ -23,6 +23,29 @@ a:hover, visited, active {
 	color: #357ca7;
 }
 
+.data-container {
+	/*margin: 10px;*/
+	width: 268px;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+
+.data-container > h3 {
+	font-weight: 500;
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+.location-text {
+	margin-left: 3px;
+	display: inline;
+}
+
+#onMapIcon {
+	font-size: large;
+}
+
 .active_googlemaps {
 	position: fixed;
 	background-color: white;
@@ -109,12 +132,7 @@ a:hover, visited, active {
 	position: relative;
 	text-align: center;
 	width: 1.5em;
-	/*height: 2.5em;*/
-	/*background: #fff;*/
-	/*border-radius: 50%;*/
 	margin: 0 0.1em;
-	/*border: 4px solid #47a3da;*/
-	/*padding-top: 6px;*/
 	text-decoration: none;
 }
 
@@ -126,21 +144,6 @@ a:hover, visited, active {
 	display: none;
 }
 
-/*.container > header nav a:hover:before {
-	content: attr(data-info);
-	color: #47a3da;
-	position: absolute;
-	width: 600%;
-	top: 120%;
-	text-align: right;
-	right: 0;
-	pointer-events: none;
-}*/
-
-/*.container > header nav a:hover {
-	background: #47a3da;
-}
-*/
 .bp-icon:after {
 	font-family: 'bpicons';
 	speak: none;
