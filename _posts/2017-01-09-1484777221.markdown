@@ -5,7 +5,6 @@ photo: 1484777221.jpg
 location_text: Semuc Champey, Guatemala
 title: Adventure Time!
 caption: That day we went exploring a cave helped with candles, cliff jumping inside that cave. Later, we jumped off a swing in a river, and went hiking and swimming in those natural pools! What. a. day.
-image: /img/thumb/1484777221.jpg
 location:
     latitude: 15.5330352
     longitude: -89.95996

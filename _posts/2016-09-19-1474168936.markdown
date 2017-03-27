@@ -5,7 +5,6 @@ photo: 1474168936.jpg
 location_text: Trump Tower, Chicago, USA
 title: Chicago River
 caption: Except the massive Trump tower in the center of the picture, what is important here is the river at the bottom. It is the Chicago River. It was a very crucial point for commerce as it links the North of the country to the South when joined to the Mississippi River. It made this city an important and historical place for the United States. Over the years and the evolution of the city, people actually reversed the flow of the river, instead of going into the Michigan Lake, the water is now coming from it!
-image: /img/thumb/1474168936.jpg
 location:
     latitude: 41.8888031
     longitude: -87.626312

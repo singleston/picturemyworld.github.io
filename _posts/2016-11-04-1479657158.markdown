@@ -5,7 +5,6 @@ photo: 1479657158.jpg
 location_text: San Cipriano, Colombia
 title: Train Track
 caption: Those are the train tracks used by the motobikes to transport people and goods to the town of San Cipriano.
-image: /img/thumb/1479657158.jpg
 location:
     latitude: 3.84032
     longitude: -76.89804

@@ -5,7 +5,6 @@ photo: 1480447017.jpg
 location_text: Jardín Botánico, Medellin, Colombia
 title: Iguana
 caption: This is the first iguana I ever saw in my life! What a nice lazy little dragon haha!
-image: /img/thumb/1480447017.jpg
 location:
     latitude: 6.2708781
     longitude: -75.5641168

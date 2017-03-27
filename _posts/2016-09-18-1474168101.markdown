@@ -5,7 +5,6 @@ photo: 1474168101.jpg
 location_text: Giordano's, Chicago, USA
 title: Famous Stuffed Pizza
 caption: This is what the famous stuffed pizza of Chicago looks like. It is basically a normal pizza with tomato sauce, cheese, mushrooms and onions but with 10 times too much ingredient that it looks like a quiche. It is actually very tasty but also very fat. This one was a 'small' one which was actually sufficient for 3 persons! 
-image: /img/thumb/1474168101.jpg
 location:
     latitude: 41.8958933
     longitude: -87.6256974

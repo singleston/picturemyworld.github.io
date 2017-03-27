@@ -5,7 +5,6 @@ photo: 1478298737.jpg
 location_text: San Antonio Church, Cali, Colombia
 title: Iglesia de San Antonio
 caption: At the top of a small hill that cute church stands alone. The view from the entrance of the city is very nice. I couldn't get in as it was closed.
-image: /img/thumb/1478298737.jpg
 location:
     latitude: 3.447559
     longitude: -76.5416796

@@ -5,7 +5,6 @@ photo: 1474415357.jpg
 location_text: Buckingham Fountain, Chicago, USA
 title: Buckingham Fountain
 caption: This fountain is beautiful and close to the water front.
-image: /img/thumb/1474415357.jpg
 location:
     latitude: 41.8757944
     longitude: -87.6189483

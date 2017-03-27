@@ -5,7 +5,6 @@ photo: 1484752930.jpg
 location_text: Cañon del Sumidero, Mexico
 title: Crocooooo
 caption: Just a crocodile chilling on that rock. That one is a small one apparently. The guide said they could stay up to one week without moving. Crazy animals.
-image: /img/thumb/1484752930.jpg
 location:
     latitude: 16.8377638
     longitude: -93.0820476

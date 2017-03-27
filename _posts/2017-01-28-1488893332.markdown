@@ -5,7 +5,6 @@ photo: 1488893332.jpg
 location_text: Guatape, Colombia
 title: Reflection
 caption: Beautiful sky over Guatape reflecting on the lake. In the background you can distinguish the town and the famous El Peñol rock.
-image: /img/thumb/1488893332.jpg
 location:
     latitude: 6.231137
     longitude: -75.153467

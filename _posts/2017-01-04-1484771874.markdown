@@ -5,7 +5,6 @@ photo: 1484771874.jpg
 location_text: Lake Atitlán, Guatemala
 title: It's a plane!
 caption: I might be wrong, but that bird might be an eagle or some kind of condor. They are very common in the area and fly over the mountains and river searching for food. Majestic!
-image: /img/thumb/1484771874.jpg
 location:
     latitude: 14.6906713
     longitude: -91.2025207

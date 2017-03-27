@@ -5,7 +5,6 @@ photo: 1488894114.jpg
 location_text: Playa Grande, Taganga, Colombia
 title: Playa Grande
 caption: What is special about Taganga is its location. 10 minutes away from the big (and nice) city of Santa Marta and still you fill lost in nature there with that small bay.
-image: /img/thumb/1488894114.jpg
 location:
     latitude: 11.270307
     longitude: -74.196374

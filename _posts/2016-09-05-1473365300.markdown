@@ -5,7 +5,6 @@ photo: 1473365300.jpg
 location_text: Reykjavik, Iceland
 title: Monroe Painting
 caption: Everywhere in the city you can find awesome wall paintings like this of a woman painting Marylin Monroe. Me? I was just hungry.
-image: /img/thumb/1473365300.jpg
 location:
     latitude: 64.1265206
     longitude: -21.8174393

@@ -5,7 +5,6 @@ photo: 1477151516.jpg
 location_text: El Poblado, Medellín, Colombia
 title: Colors
 caption: Between big tall residential buildings it is still possible to find small house with lots of vivid colors. That one was a primary school or a nursery.
-image: /img/thumb/1477151516.jpg
 location:
     latitude: 6.2019896
     longitude: -75.5684254

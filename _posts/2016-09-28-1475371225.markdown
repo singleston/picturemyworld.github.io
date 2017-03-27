@@ -5,7 +5,6 @@ photo: 1475371225.jpg
 location_text: Bryce Canyon National Park, USA
 title: Beautiful Canyon
 caption: Another view point of the Bryce Canyon. On the right side, the path leads to a very steep and narrow trail called Wall Street as it is surrounded by very high hoodoos.
-image: /img/thumb/1475371225.jpg
 location:
     latitude: 37.5930377
     longitude: -112.1870895

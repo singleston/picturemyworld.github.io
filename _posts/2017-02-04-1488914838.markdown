@@ -5,7 +5,6 @@ photo: 1488914838.jpg
 location_text: Costeño Beach, Colombia
 title: Palm Trees
 caption: Did I tell you that the hostels at Costeño are actually situated on a former coconut farm? Which means palm trees everywhere :)
-image: /img/thumb/1488914838.jpg
 location:
     latitude: 11.2723445
     longitude: -73.8459336

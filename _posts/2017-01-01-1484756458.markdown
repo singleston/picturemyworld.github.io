@@ -5,7 +5,6 @@ photo: 1484756458.jpg
 location_text: Zona Arqueológica, Palenque, Mexico
 title: Watch Tower
 caption: This watch tower is the only one found in the Mayan's culture. It is still unclear why they built it in the first place. it is also located at the center of the palace building of the city.
-image: /img/thumb/1484756458.jpg
 location:
     latitude: 17.4847697
     longitude: -92.0458949

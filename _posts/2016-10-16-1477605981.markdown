@@ -5,7 +5,6 @@ photo: 1477605981.jpg
 location_text: Belmira, Antioquia, Colombia
 title: Five stars hotel
 caption: At the end of the day we arrived at the top of the mountain where this cute wooden house was waiting for us. Inside, no electricty, no shower, no warm water either, just cold not-so-drinkable rain water. The night was very cold but quite funny as 21 persons slept inside it that night. We basically played Tetris with the matress :D
-image: /img/thumb/1477605981.jpg
 location:
     latitude: 6.606241
     longitude: -75.666528

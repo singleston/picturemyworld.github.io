@@ -5,7 +5,6 @@ photo: 1483238698.jpg
 location_text: Hierve el Agua, Mexico
 title: Water on rocks 1
 caption: Clear and cold water on the rocks. The natural visual effects are impressive. Nature is beautiful.
-image: /img/thumb/1483238698.jpg
 location:
     latitude: 16.865738
     longitude: -96.2760358

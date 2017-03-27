@@ -5,7 +5,6 @@ photo: 1473364900.jpg
 location_text: Toulouse, France
 title: Toulouse
 caption: The city of Toulouse in middle South of France is one of the biggest in the country. It is called "La Ville Rose" due to its pink bricks used to built the buildings of the city center. We visited the city at night with my cousin Marina and had a couple of beers in some good old pubs!
-image: /img/thumb/1473364900.jpg
 location:
     latitude: 43.604652
     longitude: 1.444209

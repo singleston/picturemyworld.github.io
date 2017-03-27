@@ -5,7 +5,6 @@ photo: 1474037664.jpg
 location_text: Little Italy, Montreal, Canada
 title: Danger
 caption: The world is a dangerous place, specially with this Tyrannosaurus Rex running free in Montreal!
-image: /img/thumb/1474037664.jpg
 location:
     latitude: 45.5325775
     longitude: -73.6099709

@@ -21,7 +21,7 @@ var jekyllMaps = (function () {
    */
   function initializeMap () {
     options = {
-      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      mapTypeId: google.maps.MapTypeId.TERRAIN,
       center: new google.maps.LatLng(0, 0)
     }
     mapReady = true
@@ -64,13 +64,27 @@ var jekyllMaps = (function () {
       }
     }
 
-    function createMarker (location) {
-      var position = new google.maps.LatLng(location.latitude, location.longitude)
+    function formatDate(dateString) {
+      var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+      var date = new Date(dateString);
+      var day = "" + date.getDate();
+      while (day.length < 2) day = "0" + day;
+      var monthIndex = date.getMonth();
+      var year = date.getFullYear();
+
+      return monthNames[monthIndex] + ' ' + day + ', ' + year;
+    }
+
+    function createMarker (item) {
+      var position = new google.maps.LatLng(item.latitude, item.longitude)
       var marker = new google.maps.Marker({
         position: position,
-        title: location.title,
-        image: location.image,
-        url: location.url,
+        title: item.title,
+        image: item.image,
+        caption: item.caption,
+        date: formatDate(item.date),
+        location: item.location,
         map: map
       })
 
@@ -81,12 +95,16 @@ var jekyllMaps = (function () {
     }
 
     function markerPopup () {
-      var contentString = '<div class="map-info-window"><h5>' + this.title + '</h5>'
-      var link = 'View'
-      if (this.image.length > 0) {
-        link = '<img src="' + this.image + '" alt="' + this.title + '"/>'
-      }
-      contentString += '<a href="' + this.url + '">' + link + '</a></div>'
+      var contentString = '<div>'
+      contentString += '<img src="/img/thumb/' + this.image + '" alt="' + this.title + '"/>'
+      contentString += '<div class="data-container">'
+      contentString += '<h3>' + this.title + '</h3>'
+      contentString += '<i class="fa fa-globe" aria-hidden="true" id="onMapIcon"></i>'
+      contentString += '<p class="location-text">' + this.location + '</p>'
+      contentString += '<p>' + this.caption + '</p>'
+      contentString += '<p class="post-date">' + this.date + '</p>'
+      contentString += '</div></div>'
+      infoWindow.setinfoWindow = 
       infoWindow.setContent(contentString)
       infoWindow.open(map, this)
     }
@@ -111,6 +129,7 @@ var jekyllMaps = (function () {
     }
   }
 }())
+
 /* Object.assign polyfill */
 if (typeof Object.assign !== 'function') {
   Object.assign = function (target) {

@@ -5,7 +5,6 @@ photo: 1475036773.jpg
 location_text: Arizona, USA
 title: Desert
 caption: As one could have imagine this is how the desert in Arizona actually looks like. Rare vegetation, no tree, some sand and lots of rock.
-image: /img/thumb/1475036773.jpg
 location:
     latitude: 34.0489281
     longitude: -111.0937311

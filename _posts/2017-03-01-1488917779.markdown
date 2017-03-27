@@ -5,7 +5,6 @@ photo: 1488917779.jpg
 location_text: Minca, Colombia
 title: Those sunsets
 caption: I can't stop taking picture of sunsets like this one! It's so beautiful :D
-image: /img/thumb/1488917779.jpg
 location:
     latitude: 11.142812
     longitude: -74.116677

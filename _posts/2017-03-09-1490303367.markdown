@@ -5,7 +5,6 @@ photo: 1490303367.jpg
 location_text: Cañon del Chicamocha, Colombia
 title: Cañon del Chicamocha
 caption: The Cañon del Chicamocha is a very special spot in Colombia. It is mainly famous for the extreme sports you can do there. I took that photo a few moments before my first paragliding flight!
-image: /img/thumb/1490303367.jpg
 location:
     latitude: 6.815869
     longitude: -72.9897054

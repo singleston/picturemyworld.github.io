@@ -5,7 +5,6 @@ photo: 1477152041.jpg
 location_text: Parque Arví, Antioquia
 title: Roots
 caption: Photo taken in the Parque Arví of a path full with wooden roots.
-image: /img/thumb/1477152041.jpg
 location:
     latitude: 6.2891079
     longitude: -75.5093481

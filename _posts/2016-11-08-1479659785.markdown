@@ -5,7 +5,6 @@ photo: 1479659785.jpg
 location_text: Bogota, Colombia
 title: Grafiti Tour!
 caption: One of the main attraction in Bogota is the Grafiti Tour. The guide explained the story of the city through the different street arts around the city. This very one tag 'meuh' has been done by a french man that I met few days later!!
-image: /img/thumb/1479659785.jpg
 location:
     latitude: 4.7109886
     longitude: -74.072092

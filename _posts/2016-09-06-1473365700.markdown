@@ -5,7 +5,6 @@ photo: 1473365700.jpg
 location_text: Ingólfur Arnarson, Reykjavik, Iceland
 title: Viking Statue
 caption: In the capital city of Iceland, Reykjavik, many statues of vikings stand around. This one faces the ocean at the top of a hill.
-image: /img/thumb/1473365700.jpg
 location:
     latitude: 64.1477849
     longitude: -21.9328708

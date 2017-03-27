@@ -5,7 +5,6 @@ photo: 1484772048.jpg
 location_text: Lake Atitlán, Guatemala
 title: Sunset and volcano
 caption: Sunset behind the beautiful volcano of San Pedro.
-image: /img/thumb/1484772048.jpg
 location:
     latitude: 14.6906713
     longitude: -91.2025207

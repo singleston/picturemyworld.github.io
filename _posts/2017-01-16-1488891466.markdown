@@ -5,7 +5,6 @@ photo: 1488891466.jpg
 location_text: Tulum, Mexico
 title: End of the beach
 caption: At the very end of the main beach in Tulum you can find this spot with fewer people and quiet hotels. The water is cristal clear! So beautiful :O
-image: /img/thumb/1488891466.jpg
 location:
     latitude: 20.2114185
     longitude: -87.4653502

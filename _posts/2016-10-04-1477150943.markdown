@@ -5,7 +5,6 @@ photo: 1477150943.jpg
 location_text: Aeropuerto Olaya Herrera, Medellín, Colombia
 title: Airport in Medellin!
 caption: On my first day in Colombia, I arrived at the Medellín airport. This was my first view of the city.
-image: /img/thumb/1477150943.jpg
 location:
     latitude: 6.2186342
     longitude: -75.586477

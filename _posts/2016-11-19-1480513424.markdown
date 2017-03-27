@@ -5,7 +5,6 @@ photo: 1480513424.jpg
 location_text: Rincon Del Mar, Colombia
 title: Rincon!
 caption: After a long day crossing the country with a taxi, then a very cold bus, and then another taxi who scammed us so hard we finally arrived at Rincon. The hostel was directly on the beach, under the coconut trees. The water was simply perfect to bath and swimm. With Sophie, Logan and Roxy, we also made our own Piña Colada! :D
-image: /img/thumb/1480513424.jpg
 location:
     latitude: 9.7640494
     longitude: -75.6409151

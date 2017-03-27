@@ -5,7 +5,6 @@ photo: 1483833502.jpg
 location_text: Oaxaca Ciudad, Mexico
 title: Mexico...
 caption: ... being Mexico :3
-image: /img/thumb/1483833502.jpg
 location:
     latitude: 17.0594169
     longitude: -96.7216219

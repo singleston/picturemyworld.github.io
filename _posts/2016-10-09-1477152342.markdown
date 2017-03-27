@@ -5,7 +5,6 @@ photo: 1477152342.jpg
 location_text: Parque Arví, Antioquia
 title: I tell you sir!
 caption: My empanadas are the best!
-image: /img/thumb/1477152342.jpg
 location:
     latitude: 6.2891079
     longitude: -75.5093481

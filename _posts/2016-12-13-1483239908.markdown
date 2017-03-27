@@ -5,7 +5,6 @@ photo: 1483239908.jpg
 location_text: Hierve el Agua, Mexico
 title: Hierve el Agua
 caption: Hierve el Agua is a set of natural rock formations that looks like dryed out waterfalls.
-image: /img/thumb/1483239908.jpg
 location:
     latitude: 16.865738
     longitude: -96.2760358

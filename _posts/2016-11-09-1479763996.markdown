@@ -5,7 +5,6 @@ photo: 1479763996.jpg
 location_text: Medellin, Colombia
 title: Medellin View Point
 caption: The big city of Medellin covers the entire valley and the mountains around.
-image: /img/thumb/1479763996.jpg
 location:
     latitude: 6.244203
     longitude: -75.5812119

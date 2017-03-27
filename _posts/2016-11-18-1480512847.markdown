@@ -5,7 +5,6 @@ photo: 1480512847.jpg
 location_text: Cartagena, Colombia
 title: Streets of Cartagena
 caption: Here you go with a picture of the streets in the historical center of Cartagena. Every house is painted in a specific color, has balconies and nice street lights :)
-image: /img/thumb/1480512847.jpg
 location:
     latitude: 10.3910485
     longitude: -75.4794257

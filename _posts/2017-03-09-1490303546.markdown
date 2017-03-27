@@ -5,7 +5,6 @@ photo: 1490303546.jpg
 location_text: Cañon del Chicamocha, Colombia
 title: Maybe
 caption: We are not sure, but that might be me... or not haha!
-image: /img/thumb/1490303546.jpg
 location:
     latitude: 6.815869
     longitude: -72.9897054

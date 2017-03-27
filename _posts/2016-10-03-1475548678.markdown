@@ -5,7 +5,6 @@ photo: 1475548678.jpg
 location_text: Golden Gate Bridge, San Francisco, USA
 title: Golden Gate Bridge
 caption: Picture of the Golden Gate Bridge from the bay at San Francisco.
-image: /img/thumb/1475548678.jpg
 location:
     latitude: 37.8199286
     longitude: -122.4782551

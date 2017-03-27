@@ -5,7 +5,6 @@ photo: 1483237732.jpg
 location_text: San Lorenzo Albarradas, Oaxaca, Mexico
 title: San Lorenzo Albarradas
 caption: Main building of that small town. Very pretty but I am not very sure what it actually was... Nonetheless, those vivid colors are awesome! Why don't we do that in Europe?
-image: /img/thumb/1483237732.jpg
 location:
     latitude: 16.9058643
     longitude: -96.2603236

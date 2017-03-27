@@ -5,7 +5,6 @@ photo: 1490306653.jpg
 location_text: Medellin, Colombia
 title: El Metro de Medellin
 caption: Have I ever told the story about the subway here in Medellin? How the people are super proud of it, how it is the only subway in the entire country? People here respect it so much, it is unbelievable clean and well maintained; far from the ones in Europe for instance!
-image: /img/thumb/1490306653.jpg
 location:
     latitude: 6.244203
     longitude: -75.5812119

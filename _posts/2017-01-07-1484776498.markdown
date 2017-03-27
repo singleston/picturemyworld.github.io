@@ -5,7 +5,6 @@ photo: 1484776498.jpg
 location_text: Volcano Pacaya, Guatemala
 title: Marshmallows
 caption: Even though the lava on the surface is 'cold' and on the solid state, the underground near the volcano is still extremelly hot. After maybe a minute in a simple pit about 40cm deep, those marshmallows were cooked!
-image: /img/thumb/1484776498.jpg
 location:
     latitude: 14.3823075
     longitude: -90.6015071

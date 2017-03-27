@@ -5,7 +5,6 @@ photo: 1480514427.jpg
 location_text: Isla Tintipan, Colombia
 title: Wanna chill?
 caption: I'm pretty sure you would like to be there too? Well I couldn't as this was a private property.
-image: /img/thumb/1480514427.jpg
 location:
     latitude: 9.7938889
     longitude: -75.8430556

@@ -5,7 +5,6 @@ photo: 1475037019.jpg
 location_text: Antelope Canyon, Arizona, USA
 title: Chrome Filter
 caption: Nothing is blue there, but the chrome filter of the camera makes everything surreal and superb.
-image: /img/thumb/1475037019.jpg
 location:
     latitude: 36.8619103
     longitude: -111.3743302

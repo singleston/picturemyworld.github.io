@@ -5,7 +5,6 @@ photo: 1483239833.jpg
 location_text: Hierve el Agua, Mexico
 title: Natural pool
 caption: The color of the water of that pool was dark green. It was also forbidden to swimm in there, don't know why. I wish I could have, look at the view !!
-image: /img/thumb/1483239833.jpg
 location:
     latitude: 16.865738
     longitude: -96.2760358

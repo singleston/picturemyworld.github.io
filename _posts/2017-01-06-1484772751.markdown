@@ -5,7 +5,6 @@ photo: 1484772751.jpg
 location_text: Antigua, Guatemala
 title: Antiguo Colegio de la Compañía de Jesús
 caption: This is one of the many religious building of the city that has collapsed during earthquakes but has not been restored over the years.
-image: /img/thumb/1484772751.jpg
 location:
     latitude: 14.5585707
     longitude: -90.729523

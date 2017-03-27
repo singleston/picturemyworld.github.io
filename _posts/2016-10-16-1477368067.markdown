@@ -5,7 +5,6 @@ photo: 1477368067.jpg
 location_text: Belmira, Antioquia, Colombia
 title: Between mountains
 caption: A small field between two mountains.
-image: /img/thumb/1477368067.jpg
 location:
     latitude: 6.606241
     longitude: -75.666528
