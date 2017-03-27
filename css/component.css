@@ -57,6 +57,14 @@
 	padding: 25px;
 }
 
+.post-date {
+	margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: left;
+    font-size: small;
+}
+
 /* Slideshow style */
 .slideshow {
 	position: fixed;
