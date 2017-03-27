@@ -50,7 +50,7 @@ a:hover, visited, active {
 .active_googlemaps {
 	position: fixed;
 	background-color: white;
-	height: 100%; 
+	bottom: 0em;
 	width: 100%; 
 	top: 5em;
 	left: 0;
@@ -62,7 +62,7 @@ a:hover, visited, active {
 	background-color: white;
 	opacity: .30;
 	pointer-events: none;
-	height: 100%; 
+	bottom: 0em;
 	width: 100%; 
 	top: 5em;
 	left: 0; 
@@ -83,7 +83,6 @@ a:hover, visited, active {
     padding-left: 19%;
     padding-right: 19%;
     padding-top: 1em;
-	border-bottom-color: #265a79;
     border-bottom-style: solid;
     border-bottom-width: thin;
 }
@@ -143,7 +142,6 @@ a:hover, visited, active {
 }
 
 .header_container > header a {
-	color: #265a79;
 	position: relative;
 	text-align: center;
 	width: 1.5em;
