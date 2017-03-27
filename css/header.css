@@ -105,36 +105,6 @@
 	color: #fff;
 }
 
-/* Header icons */
-.bp-icon:after {
-	font-family: 'bpicons';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	text-align: center;
-	color: #47a3da;
-	-webkit-font-smoothing: antialiased;
-}
-
-/* TODO check */
-.bp-icon-next:after {
-	content: "\e000";
-}
-.bp-icon-drop:after {
-	content: "\e001";
-}
-.bp-icon-archive:after {
-	content: "\e002";
-}
-.bp-icon-about:after {
-	content: "\e003";
-}
-.bp-icon-prev:after {
-	content: "\e004";
-}
-
 /* Header config for small devices */
 @media screen and (max-device-width : 610px) {
 

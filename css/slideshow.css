@@ -92,9 +92,6 @@
     height: auto;
 }
 
-.slideshow figcaption {
-}
-
 .slideshow figcaption h3 {
 	font-weight: 400;
     color: white;
@@ -132,42 +129,6 @@
 	color: #fff;
 }
 
-/* Info on arrow key navigation */
-.info-keys {
-	position: fixed;
-	top: 10px;
-	left: 10px;
-	width: 60px;
-	font-size: 8px;
-	padding-top: 20px;
-	text-transform: uppercase;
-	color: #fff;
-	letter-spacing: 1px;
-	text-align: center;
-}
-
-.info-keys:before,
-.info-keys:after {
-	position: absolute;
-	top: 0;
-	width: 16px;
-	height: 16px;
-	border: 1px solid #fff;
-	text-align: center;
-	line-height: 14px;
-	font-size: 12px;
-}
-
-.info-keys:before {
-	left: 10px;
-	content: "\f060";
-}
-
-.info-keys:after {
-	right: 10px;
-	content: "\f061";
-}
-
 /* Custom media queries: reduce number of columns and change slideshow layout */
 @media screen and (max-width: 60em) {
 	/* responsive columns; see "Element sizing" on http://masonry.desandro.com/options.html */
@@ -190,8 +151,30 @@
 		font-size: 1.8em;
 		padding: 0.3em;
 	}
+}
 
-	.info-keys {
-		display: none;
-	}
+/* Navigation key icons  */
+.icon:before,
+.icon:after {
+	font-family: 'fontawesome';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+span.nav-prev:before {
+	content: "\f060";
+}
+
+span.nav-next:before  {
+	content: "\f061";
+}
+
+span.nav-close:before {
+	content: "\f00d";
 }

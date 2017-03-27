@@ -27,29 +27,3 @@ a:hover, visited, active {
     text-align: left;
     font-size: small;
 }
-
-/* TODO check */
-.icon:before,
-.icon:after {
-	font-family: 'fontawesome';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-
-span.nav-prev:before {
-	content: "\f060";
-}
-
-span.nav-next:before  {
-	content: "\f061";
-}
-
-span.nav-close:before {
-	content: "\f00d";
-}
