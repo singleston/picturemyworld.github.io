@@ -87,9 +87,9 @@ var jekyllMaps = (function () {
         if (defaultMarkerId != undefined && item.image != undefined && item.image.endsWith(defaultMarkerId) == true) {
           console.log("SELECTED ITEM FOUND")
           console.log(item)
-          var position = new google.maps.LatLng(item.latitude, item.longitude)
-          gMap = new google.maps.Map(document.getElementById('map')); 
-          gMap.setCenter(new google.maps.LatLng(position));
+          // var position = new google.maps.LatLng(item.latitude, item.longitude)
+          // gMap = new google.maps.Map(document.getElementById('map')); 
+          // gMap.setCenter(new google.maps.LatLng(position));
         }
       })
 

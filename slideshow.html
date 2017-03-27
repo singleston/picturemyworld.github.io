@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: carousel
 ---
 
-<div class="header_container">
+<div class="header_container" style="background-color: black">
 	<header class="clearfix">
 		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
 		<nav>
@@ -12,32 +12,18 @@ layout: default
 	</header>
 </div>
 
-<div data-slick>
+<div class="slider responsive slick-initialized slick-slider slick-dotted" style="background-color: black">
 	{% for post in site.posts %}
 		<!-- <div><img src="{{ site.url }}/img/large/{{ post.photo }}"/></div> -->
 		<div>
 			<!-- <figure> -->
 				<img class="carousel-img" src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
-				<!-- <figcaption>
+				<!-- <figcaption> -->
 					<h3>{{ post.title}}</h3>
-				</figcaption>
-			</figure> -->
+				<!-- </figcaption> -->
+			<!-- </figure> -->
 		</div>
 	{% endfor %}
 </div>
 
- <script type="text/javascript">
-    $(document).ready(function(){
-        $('.data-slick').slick({
-        	slidesToShow: 4, 
-        	slidesToScroll: 1, 
-        	infinite: false, 
-        	dots: false, 
-        	centerMode: true, 
-        	variableWidth: true, 
-        	adaptiveHeight: true, 
-        	lazyLoad: ondemand, 
-        	variableHeight: true
-        });
-    });
-</script>
+<script src="{{ site.url }}/js/custom_slick.js"></script>
