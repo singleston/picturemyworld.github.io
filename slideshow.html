@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="header_container">
+	<header class="clearfix">
+		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
+		<nav>
+			<a href="https://www.facebook.com/delord.kevin" class="fa fa-facebook fa-lg"></a>
+			<a href="{{ site.url }}" class="fa fa-th-large fa-lg"></a>
+		</nav>
+	</header>
+</div>
+
+<div data-slick>
+	{% for post in site.posts %}
+		<!-- <div><img src="{{ site.url }}/img/large/{{ post.photo }}"/></div> -->
+		<div>
+			<!-- <figure> -->
+				<img class="carousel-img" src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
+				<!-- <figcaption>
+					<h3>{{ post.title}}</h3>
+				</figcaption>
+			</figure> -->
+		</div>
+	{% endfor %}
+</div>
+
+ <script type="text/javascript">
+    $(document).ready(function(){
+        $('.data-slick').slick({
+        	slidesToShow: 4, 
+        	slidesToScroll: 1, 
+        	infinite: false, 
+        	dots: false, 
+        	centerMode: true, 
+        	variableWidth: true, 
+        	adaptiveHeight: true, 
+        	lazyLoad: ondemand, 
+        	variableHeight: true
+        });
+    });
+</script>

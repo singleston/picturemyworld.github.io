@@ -27,7 +27,7 @@ layout: default
 					<figcaption>
 						<h3>{{ post.title}}</h3>
 						<i class="fa fa-globe" aria-hidden="true"></i>
-						<a class= "maps_link" href="http://maps.google.com/maps?q={{ post.location_text }}" target="_blank"> {{ post.location_text }}</a>
+						<a class= "maps_link" href="{{ site.url }}/map?p={{ post.photo }}" target="_blank"> {{ post.location_text }}</a>
 						<p>{{ post.caption }}</p>
 						<p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
 					</figcaption>
