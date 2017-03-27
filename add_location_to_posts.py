@@ -24,38 +24,22 @@ def getLocationLatitudeLongitude(address):
 	location = json_data["results"][0]["geometry"]["location"]
 	return (str(location["lat"]), str(location["lng"]))
 
-def removeImageEntry(filedata):
-	m = re.search('image: /img/thumb/[0-9]+.jpg\n', filedata)
-	if m:
-		imageName = m.group(0)
-		filedata = re.sub(r"image: /img/thumb/[0-9]+.jpg\n", "", filedata)
-	return filedata
-
-# Fetch the latitude and longitude of the geolocation
-def getLocationLatitudeLongitude(geolocation):
-	googlemaps_api_key = "AIzaSyD8L1sSjFveHxHM_3wxw73olaklHZukfrU"
-	endpoint = "https://maps.googleapis.com/maps/api/geocode/json?key=" + googlemaps_api_key
-	endpoint += "&address=" + geolocation
-
-	response = requests.get(endpoint)
-	json_data = json.loads(response.text)
-	location = json_data["results"][0]["geometry"]["location"]
-	return (str(location["lat"]), str(location["lng"]))
-
 def updateLocationGeometry(filedata):
-	# if location has already been set do not change it.
+	# If location has already been set do not change it.
 	m = re.search('location:', filedata)
 	if m:
+		# Return None in case of no changes
 		return None
 
+	# Add a new entry
 	m = re.search('location_text:.*\n', filedata)
 	if m:
 		location_address = re.sub('location_text: ', '', m.group(0))
 		(latitude, longitude) = getLocationLatitudeLongitude(location_address)
-		print(location_address)
 		filedata = re.sub(r"---[\n]*$",  "location:\n    latitude: " + latitude + "\n    longitude: " + longitude + "\n---\n", filedata)
-		print(filedata)
 		return filedata
+
+	# Return None in case of no changes
 	return None
 
 for file in postfiles:
@@ -69,9 +53,10 @@ for file in postfiles:
 	with open(filePath, 'r') as file:
 	  filedata = file.read()
 
-	#filedata = removeImageEntry(filedata)
+	# Update the filedate. Return None if nothing changed.
 	filedata = updateLocationGeometry(filedata)
 
+	# If the filedata is still valid save the content to the disk.
 	if filedata != None:
 		# Write the file out again
 		with open(filePath, 'w') as file:
