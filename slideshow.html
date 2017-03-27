@@ -2,7 +2,9 @@
 layout: carousel
 ---
 
-<div class="header_container" style="background-color: black">
+<script src="{{ site.url }}/js/pgwslideshow.min.js"></script>
+
+<div class="header_container">
 	<header class="clearfix">
 		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
 		<nav>
@@ -12,18 +14,50 @@ layout: carousel
 	</header>
 </div>
 
-<div class="slider responsive slick-initialized slick-slider slick-dotted" style="background-color: black">
-	{% for post in site.posts %}
-		<!-- <div><img src="{{ site.url }}/img/large/{{ post.photo }}"/></div> -->
-		<div>
-			<!-- <figure> -->
-				<img class="carousel-img" src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
-				<!-- <figcaption> -->
-					<h3>{{ post.title}}</h3>
-				<!-- </figcaption> -->
-			<!-- </figure> -->
-		</div>
-	{% endfor %}
+<div class="cntr mt20">
+	<ul class="pgwSlideshow">
+		{% for post in site.posts %}
+			<li>
+				<img src="{{ site.url }}/img/large/{{ post.photo }}">
+			</li>
+		{% endfor %}
+	</ul>
 </div>
 
-<script src="{{ site.url }}/js/custom_slick.js"></script>
+
+<script type="text/javascript">
+
+	$(document).ready(function() {
+		$('.pgwSlideshow').pgwSlideshow();
+	});
+	// var pgwSlideshow=$('.pgwSlideshow').pgwSlideshow();
+
+	// function reloadSlideshow() {
+	// 	var newConfig={};
+	// 	var style=$('input[name=\"style\"]:checked').val();
+	// 	if (style=='light') {
+	// 		newConfig.mainClassName='pgwSlideshowLight';
+	// 	}
+	// 	var listPosition=$('input[name=\"listPosition\"]:checked').val();
+	// 	if(listPosition=='none'){newConfig.displayList=false;
+	// 	}
+	// 	else{newConfig.listPosition=listPosition;
+	// 	}
+	// 	newConfig.transitionEffect=$('input[name=\"transitionEffect\"]:checked').val();
+	// 	if($('#displayList:checked').val()=='true'){newConfig.displayList=true;
+	// 	}
+	// 	else{newConfig.displayList=false;
+	// 	}
+	// 	if($('#displayControls:checked').val()=='true'){newConfig.displayControls=true;
+	// 	}
+	// 	else{newConfig.displayControls=false;
+	// 	}
+	// 	if($('#maxHeight:checked').val()=='true'){newConfig.maxHeight=450;
+	// 	}
+	// 	pgwSlideshow.reload(newConfig);
+	// }
+
+	// $('.slideshowConfig input').bind('change',function() {
+	// 	reloadSlideshow()
+	// });
+</script>
