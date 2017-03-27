@@ -4,6 +4,7 @@ module Jekyll
       JS_LIB_NAME        = "jekyllMaps".freeze
       DEFAULT_MAP_WIDTH  = 600
       DEFAULT_MAP_HEIGHT = 400
+      DEFAULT_MARKER_ZOOM = 7
 
       def initialize(_, args, _)
         @args   = OptionsParser.parse(args)
@@ -60,6 +61,11 @@ HTML
         }
         if @args[:attributes][:zoom]
           opts[:customZoom] = @args[:attributes][:zoom].to_i
+        end
+        if @args[:attributes][:marker_zoom]
+          opts[:customMarkerZoom] = @args[:attributes][:marker_zoom].to_i
+        else
+          opts[:customMarkerZoom] = DEFAULT_MARKER_ZOOM
         end
         opts
       end

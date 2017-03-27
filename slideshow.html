@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick/slick-theme.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick/slick.css" />
+
+<!-- Load grid javascript files -->
+<script src="{{ site.url }}/js/slick/jquery-3.2.0.min.js"></script>
+<script src="{{ site.url }}/js/slick/slick.min.js"></script>	
+
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
+		<nav>
+			<a href="https://www.facebook.com/delord.kevin" class="fa fa-facebook fa-lg"></a>
+			<a href="{{ site.url }}" class="fa fa-th-large fa-lg"></a>
+		</nav>
+	</header>
+</div>
+
+<!-- Add slideshow element -->
+<div class="slider responsive slick-initialized slick-slider slick-dotted" style="background-color: black">
+	{% for post in site.posts %}
+		<!-- <div><img src="{{ site.url }}/img/large/{{ post.photo }}"/></div> -->
+		<div>
+			<!-- <figure> -->
+				<img class="carousel-img" src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
+				<!-- <figcaption> -->
+					<h3>{{ post.title}}</h3>
+				<!-- </figcaption> -->
+			<!-- </figure> -->
+		</div>
+	{% endfor %}
+</div>
+
+<!-- Attach javascript to carouself -->
+<script src="{{ site.url }}/js/slick/custom_slick.js"></script>

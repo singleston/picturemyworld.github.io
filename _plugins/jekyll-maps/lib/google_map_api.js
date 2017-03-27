@@ -26,7 +26,7 @@ var jekyllMaps = (function () {
       center: new google.maps.LatLng(0, 0)
     }
     mapReady = true
-    render()
+    render(getDefaultMarkerId())
   }
 
   /**
@@ -38,14 +38,40 @@ var jekyllMaps = (function () {
    */
   function register (id, locations, options) {
     data.push({ id: id, locations: locations, options: options })
-    render()
+    render(getDefaultMarkerId())
+  }
+
+  function getDefaultMarkerId() {
+    var queryString = getQueryString()
+    return queryString["p"]
+  }
+
+  function getQueryString() {
+    var query_string = {};
+    var query = window.location.search.substring(1);
+    var vars = query.split("&");
+    for (var i=0;i<vars.length;i++) {
+      var pair = vars[i].split("=");
+        // If first entry with this name
+        if (typeof query_string[pair[0]] === "undefined") {
+          query_string[pair[0]] = decodeURIComponent(pair[1]);
+        // If second entry with this name
+      } else if (typeof query_string[pair[0]] === "string") {
+        var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+        query_string[pair[0]] = arr;
+        // If third or later entry with this name
+      } else {
+        query_string[pair[0]].push(decodeURIComponent(pair[1]));
+      }
+    } 
+    return query_string;
   }
 
   /**
    * Render maps data if Google Maps API is loaded.
    */
-  function render () {
-    if (!mapReady) return
+  function render(defaultMarkerId) {
+    if (!mapReady) { return }
 
     while (data.length > 0) {
       var item = data.pop()
@@ -55,10 +81,28 @@ var jekyllMaps = (function () {
       var infoWindow = new google.maps.InfoWindow()
       var markers = item.locations.map(createMarker)
 
+      var selectedMarker = undefined
+      markers.map( function(item) {
+        if (defaultMarkerId != undefined && item.image != undefined && item.image.endsWith(defaultMarkerId) == true) {
+          selectedMarker = item
+        }
+      })
+
       map.fitBounds(bounds)
+
       google.maps.event.addListenerOnce(map, 'bounds_changed', function() {
         if (this.customZoom) this.setZoom(this.customZoom)
       })
+
+      google.maps.event.addListenerOnce(map, 'tilesloaded', function(){
+        // this part runs when the mapobject is created and rendered
+        if (selectedMarker != undefined) {
+          this.setCenter(selectedMarker.position)
+          this.setZoom(this.customMarkerZoom)
+          google.maps.event.trigger(selectedMarker, 'click', {});
+        }
+      });
+
       if (mapOptions.useCluster) {
         maps.push({ map: map, markers: markers })
         processCluster()
@@ -90,7 +134,9 @@ var jekyllMaps = (function () {
       })
 
       bounds.extend(position)
-      if (mapOptions.showMarkerPopup) marker.addListener('click', markerPopup)
+      if (mapOptions.showMarkerPopup) {
+        marker.addListener('click', markerPopup)
+      }
 
       return marker
     }
@@ -105,7 +151,6 @@ var jekyllMaps = (function () {
       contentString += '<p>' + this.caption + '</p>'
       contentString += '<p class="post-date">' + this.date + '</p>'
       contentString += '</div></div>'
-      infoWindow.setinfoWindow = 
       infoWindow.setContent(contentString)
       infoWindow.open(map, this)
     }

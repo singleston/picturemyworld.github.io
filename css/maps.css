@@ -1,0 +1,45 @@
+/* Google Maps Marker Popup */
+.data-container {
+	width: 268px;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+
+.data-container > h3 {
+	font-weight: 500;
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+.location-text {
+	margin-left: 3px;
+	display: inline;
+}
+
+#onMapIcon {
+	font-size: large;
+}
+
+/* Google maps */
+.active_googlemaps {
+	position: fixed;
+	background-color: white;
+	bottom: 0em;
+	width: 100%; 
+	top: 5em;
+	left: 0;
+	z-index: 0;
+}
+
+.googlemaps {
+	position: fixed;
+	background-color: white;
+	opacity: .30;
+	pointer-events: none;
+	bottom: 0em;
+	width: 100%; 
+	top: 5em;
+	left: 0; 
+	z-index: 0;
+}

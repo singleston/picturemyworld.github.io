@@ -12,6 +12,7 @@ module Jekyll
         class
         show_popup
         zoom
+        marker_zoom
       ).freeze
 
       class << self
