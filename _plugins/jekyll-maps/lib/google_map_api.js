@@ -20,7 +20,6 @@ var jekyllMaps = (function () {
    * Setup Google Maps options and call renderer.
    */
   function initializeMap () {
-    console.log("initializeMap")
     options = {
       mapTypeId: google.maps.MapTypeId.TERRAIN,
       streetViewControl: false,
@@ -71,10 +70,9 @@ var jekyllMaps = (function () {
   /**
    * Render maps data if Google Maps API is loaded.
    */
-  function render (defaultMarkerId) {
-    if (!mapReady) return
+  function render(defaultMarkerId) {
+    if (!mapReady) { return }
 
-    console.log(defaultMarkerId)
     while (data.length > 0) {
       var item = data.pop()
       var bounds = new google.maps.LatLngBounds()
@@ -83,20 +81,28 @@ var jekyllMaps = (function () {
       var infoWindow = new google.maps.InfoWindow()
       var markers = item.locations.map(createMarker)
 
+      var selectedMarker = undefined
       markers.map( function(item) {
         if (defaultMarkerId != undefined && item.image != undefined && item.image.endsWith(defaultMarkerId) == true) {
-          console.log("SELECTED ITEM FOUND")
-          console.log(item)
-          // var position = new google.maps.LatLng(item.latitude, item.longitude)
-          // gMap = new google.maps.Map(document.getElementById('map')); 
-          // gMap.setCenter(new google.maps.LatLng(position));
+          selectedMarker = item
         }
       })
 
       map.fitBounds(bounds)
+
       google.maps.event.addListenerOnce(map, 'bounds_changed', function() {
         if (this.customZoom) this.setZoom(this.customZoom)
       })
+
+      google.maps.event.addListenerOnce(map, 'tilesloaded', function(){
+        // this part runs when the mapobject is created and rendered
+        if (selectedMarker != undefined) {
+          this.setCenter(selectedMarker.position)
+          this.setZoom(this.customMarkerZoom)
+          google.maps.event.trigger(selectedMarker, 'click', {});
+        }
+      });
+
       if (mapOptions.useCluster) {
         maps.push({ map: map, markers: markers })
         processCluster()
