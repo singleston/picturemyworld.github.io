@@ -1,8 +1,17 @@
 ---
-layout: carousel
+layout: default
 ---
 
-<div class="header_container" style="background-color: black">
+<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick-theme.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick.css" />
+
+<!-- Load grid javascript files -->
+<script src="{{ site.url }}/js/jquery-3.2.0.min.js"></script>
+<script src="{{ site.url }}/js/slick.min.js"></script>	
+
+<!-- Add header element -->
+<div class="header_container">
 	<header class="clearfix">
 		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
 		<nav>
@@ -26,4 +35,5 @@ layout: carousel
 	{% endfor %}
 </div>
 
+<!-- Attach javascript to carouself -->
 <script src="{{ site.url }}/js/custom_slick.js"></script>

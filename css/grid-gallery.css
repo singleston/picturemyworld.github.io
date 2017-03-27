@@ -1,0 +1,77 @@
+/* Grid style */
+.grid-gallery ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.grid-gallery figure {
+	margin: 0;
+}
+
+.grid-wrap figure img {
+	width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid-gallery figcaption h3 {
+	margin: 0;
+	padding: 0 0 1em;
+}
+
+.grid-gallery figcaption p {
+	padding: 0.5em 0 0;
+}
+
+.grid-wrap {
+	max-width: 69em;
+	margin: 0 auto;
+	padding: 0 1em 1.875em;
+}
+
+.grid {
+	margin: 0 auto;
+}
+
+.grid li {
+	width: 25%;
+	float: left;
+	cursor: pointer;
+}
+
+.grid figure {
+	padding: 15px;
+	-webkit-transition: opacity 0.2s;
+	transition: opacity 0.2s;
+}
+
+.grid li:hover figure {
+	opacity: 0.7;
+}
+
+.grid figcaption {
+	background: white;
+	padding: 25px;
+}
+
+@media screen and (max-width: 35em) {
+	.grid li {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 24em) {
+	.grid li {
+		width: auto;
+	}
+}
+
+/* Custom media queries: reduce number of columns and change slideshow layout */
+@media screen and (max-width: 60em) {
+	/* responsive columns; see "Element sizing" on http://masonry.desandro.com/options.html */
+	.grid li {
+		width: 33.3%;
+	}
+}
