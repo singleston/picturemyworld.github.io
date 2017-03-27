@@ -3,6 +3,7 @@ layout: carousel
 ---
 
 <script src="{{ site.url }}/js/pgwslideshow.min.js"></script>
+<script src="{{ site.url }}/js/zepto.min.js"></script>
 
 <div class="header_container">
 	<header class="clearfix">
@@ -14,7 +15,7 @@ layout: carousel
 	</header>
 </div>
 
-<div class="cntr mt20">
+<div>
 	<ul class="pgwSlideshow">
 		{% for post in site.posts %}
 			<li>
