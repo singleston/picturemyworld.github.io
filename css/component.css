@@ -57,6 +57,14 @@
 	padding: 25px;
 }
 
+.post-date {
+	margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: left;
+    font-size: small;
+}
+
 /* Slideshow style */
 .slideshow {
 	position: fixed;
@@ -65,7 +73,7 @@
 	height: 100%;
 	top: 0;
 	left: 0;
-	z-index: 500;
+	z-index: 2000;
 	opacity: 0;
 	visibility: hidden;
 	overflow: hidden;

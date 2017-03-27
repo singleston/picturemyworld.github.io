@@ -22,6 +22,7 @@ var jekyllMaps = (function () {
   function initializeMap () {
     options = {
       mapTypeId: google.maps.MapTypeId.TERRAIN,
+      streetViewControl: false,
       center: new google.maps.LatLng(0, 0)
     }
     mapReady = true
