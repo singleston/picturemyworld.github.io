@@ -109,26 +109,15 @@ var jekyllMaps = (function () {
       }
     }
 
-    function formatDate(dateString) {
-      var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-
-      var date = new Date(dateString);
-      var day = "" + date.getDate();
-      while (day.length < 2) day = "0" + day;
-      var monthIndex = date.getMonth();
-      var year = date.getFullYear();
-
-      return monthNames[monthIndex] + ' ' + day + ', ' + year;
-    }
-
     function createMarker (item) {
+      var date = moment(item.date, "YYYY-MM-DD HH:mm:ss Z")
       var position = new google.maps.LatLng(item.latitude, item.longitude)
       var marker = new google.maps.Marker({
         position: position,
         title: item.title,
         image: item.image,
         caption: item.caption,
-        date: formatDate(item.date),
+        date: date.format('MMMM DD, YYYY'),
         location: item.location,
         map: map
       })
