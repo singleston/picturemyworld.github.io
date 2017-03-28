@@ -2,13 +2,23 @@
 layout: default
 ---
 
+<!-- http://pgwjs.com/pgwslideshow/
+https://github.com/Pagawa/PgwSlideshow
+http://kenwheeler.github.io/slick/
+https://github.com/kenwheeler/slick#responsive-option-example
+https://github.com/kenwheeler/slick
+ -->
+
 <!-- Load specific CSS files -->
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick/slick-theme.css" />
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick/slick.css" />
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slick-slideshow.css"/>
+
+<!-- Add the slick-theme.css if you want default styling -->
+<!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/> -->
 
 <!-- Load grid javascript files -->
-<script src="{{ site.url }}/js/slick/jquery-3.2.0.min.js"></script>
-<script src="{{ site.url }}/js/slick/slick.min.js"></script>	
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 
 <!-- Add header element -->
 <div class="header_container">
@@ -22,19 +32,45 @@ layout: default
 </div>
 
 <!-- Add slideshow element -->
-<div class="slider responsive slick-initialized slick-slider slick-dotted" style="background-color: black">
+<div class="slick_slideshow" style="background-color: black">
+	<!-- <ul> -->
 	{% for post in site.posts %}
-		<!-- <div><img src="{{ site.url }}/img/large/{{ post.photo }}"/></div> -->
 		<div>
 			<!-- <figure> -->
-				<img class="carousel-img" src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
+				<img class="carousel-img" src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
 				<!-- <figcaption> -->
 					<h3>{{ post.title}}</h3>
 				<!-- </figcaption> -->
 			<!-- </figure> -->
 		</div>
 	{% endfor %}
+	<!-- </ul> -->
 </div>
 
 <!-- Attach javascript to carouself -->
-<script src="{{ site.url }}/js/slick/custom_slick.js"></script>
+<!-- <script src="{{ site.url }}/js/slick/custom_slick.js"></script> -->
+<script>
+
+function setupSlick(initialIndex) {
+
+	console.log("sliiiick")
+	console.log(initialIndex)
+	$('.slick_slideshow').slick({
+		initialSlide: initialIndex,
+		slidesToShow: 1, 
+		slidesToScroll: 1, 
+		infinite: false, 
+		dots: false, 
+		centerMode: true, 
+		variableWidth: true, 
+		adaptiveHeight: false, 
+		variableHeight: true,
+		cssEase: 'linear'
+	});
+}
+
+$(document).ready(function(){
+	setupSlick(5)
+});
+
+</script>
