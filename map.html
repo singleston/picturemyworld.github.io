@@ -5,6 +5,9 @@ layout: default
 <!-- Load specific CSS files -->
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/maps.css" />
 
+<!-- Load grid javascript files -->
+<script src="{{ site.url }}/js/moment.min.js"></script>
+
 <!-- Add google maps element -->
 <div class="active_googlemaps" >
 	{% google_map src="_posts" width="100%" height="100%" zoom="4.5" no_cluster %}
