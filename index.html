@@ -59,8 +59,7 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<!-- TODO: integrate lazy load -->
-					<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
+					<img data-original="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
 				</figure>
 				<figcaption><h3>{{ post.title }}</h3></figcaption>
 			</li>
