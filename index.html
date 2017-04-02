@@ -12,6 +12,7 @@ layout: default
 <script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
 <script src="{{ site.url }}/js/classie.js"></script>
 <script src="{{ site.url }}/js/cbpGridGallery.js"></script>
+<script src="{{ site.url }}/js/lazysizes.min.js" async=""></script>
 
 <!-- Add google maps element -->
 <div class="googlemaps" >
@@ -37,7 +38,7 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
+					<img data-sizes="auto" data-src="{{ site.url }}/img/thumb/{{ post.photo }}" class="lazyload" />
 					<figcaption>
 						<h3>{{ post.title}}</h3>
 						<i class="fa fa-globe" aria-hidden="true"></i>
@@ -56,7 +57,7 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
+					<img data-sizes="auto" data-src="{{ site.url }}/img/large/{{ post.photo }}" class="lazyload" />
 				</figure>
 				<figcaption><h3>{{ post.title }}</h3></figcaption>
 			</li>
