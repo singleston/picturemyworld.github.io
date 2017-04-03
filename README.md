@@ -22,6 +22,7 @@ $> ./new_post.py
 layout: 		default
 date:   		2014-04-06
 photo: 			1473364600.jpg
+ratio:			1.33333
 location_text: 	Photo location
 title: 			Sample title header
 caption: 		Sample caption / description text

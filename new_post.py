@@ -129,6 +129,8 @@ def createMarkdownFile(filename, date, geolocation, title, text):
 	f.write('---\nlayout: default\n') # python will convert \n to os.linesep
 	f.write('date: %s\n' % date)
 	f.write('photo: %s.jpg\n' % filename)
+	# TODO: add ratio. See add_location_to_posts.py script.
+	f.write('ratio: TODO\n')
 	f.write('image: /img/thumb/%s.jpg\n' % filename)
 	f.write('location_text: %s\n' % geolocation)
 	f.write('title: %s\n' % title)
