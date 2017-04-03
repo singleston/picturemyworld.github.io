@@ -105,8 +105,19 @@
 	color: #fff;
 }
 
-/* Header config for small devices */
-@media screen and (max-device-width : 610px) {
+/* Header config for big screens */
+@media screen and (max-width: 60em) {
+	.header_container > header h1 {
+		font-size: 2.125em;
+	}
+}
+
+/* Header config for small screens */
+@media screen and (max-width: 35em) {
+
+	.header_container > header h1 {
+		font-size: 1.5em;
+	}
 
 	.header_container > header h1,
 	.header_container > header nav {
@@ -127,6 +138,6 @@
 	}
 
 	.header_container {
-		margin-bottom: 6.5em;
+		margin-bottom: 2.5em;
 	}
 }
