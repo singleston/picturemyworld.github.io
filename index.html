@@ -7,11 +7,12 @@ layout: default
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slideshow.css" />
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/maps.css" />
 
-<!-- Load grid javascript files -->
+<!-- Load specific javascript files -->
 <script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
 <script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
 <script src="{{ site.url }}/js/classie.js"></script>
 <script src="{{ site.url }}/js/cbpGridGallery.js"></script>
+<script src="{{ site.url }}/js/lazyload.min.js"></script>
 
 <!-- Add google maps element -->
 <div class="googlemaps" >
@@ -38,8 +39,9 @@ layout: default
 			<li>
 				<figure>
 					<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
+					<!-- <img class="grid_thumbnail" data-ratio="1.33333" data-original="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/> -->
 					<figcaption>
-						<h3>{{ post.title}}</h3>
+						<h3>{{ post.title }}</h3>
 						<i class="fa fa-globe" aria-hidden="true"></i>
 						<a class= "maps_link" href="{{ site.url }}/map?p={{ post.photo }}" target="_blank"> {{ post.location_text }}</a>
 						<p>{{ post.caption }}</p>
@@ -56,7 +58,7 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
+					<img data-original="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
 				</figure>
 				<figcaption><h3>{{ post.title }}</h3></figcaption>
 			</li>
@@ -70,7 +72,15 @@ layout: default
 	</section><!-- slideshow -->
 </div><!-- grid-gallery -->
 
-<!-- Attach javascript to grid-gallery -->
+<!-- Attach javascripts to grid-gallery -->
 <script>
-	new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
+	var grid = new CBPGridGallery(document.getElementById('grid-gallery'));
+	var myLazyLoad = new LazyLoad();
+
+	//[].forEach.call(document.getElementsByClassName('grid_thumbnail'), function(element) {
+  	//	let ratio = element.dataset.ratio
+  	//	let width = element.width
+    //	let newHeight = (width / ratio).toFixed(2);
+    //	element.style.height = newHeight + "px";
+	//})
 </script>
