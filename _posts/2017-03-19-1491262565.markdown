@@ -3,7 +3,7 @@ layout: default
 date: 2017-03-19
 photo: 1491262565.jpg
 image: /img/thumb/1491262565.jpg
-location_text: Medellin, Colombia
+location_text: Museo El Castillo, Medellin, Colombia
 title: Hungry?
 caption: Beautiful flower huh? Did you notice that massive grasshopper eating half of it? hahaha
 location:
