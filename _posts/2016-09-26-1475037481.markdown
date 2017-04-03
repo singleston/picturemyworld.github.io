@@ -8,4 +8,5 @@ caption: Those stunning red walls are made of sand that backed with water and ve
 location:
     latitude: 36.8619103
     longitude: -111.3743302
+ratio: 1.33333
 ---

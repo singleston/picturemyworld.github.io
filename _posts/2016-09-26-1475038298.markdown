@@ -8,4 +8,5 @@ caption: Typical road in the desert in the United States of America. Sand, Cactu
 location:
     latitude: 40.5621704
     longitude: -111.929658
+ratio: 1.33333
 ---

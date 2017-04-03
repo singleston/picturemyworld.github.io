@@ -8,4 +8,5 @@ caption: Can you feel the hispanic influence from the conquistadors?
 location:
     latitude: 16.7370359
     longitude: -92.6376186
+ratio: 1.11524
 ---

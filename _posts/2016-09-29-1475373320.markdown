@@ -8,4 +8,5 @@ caption: On our way to a petrified forest, we found that beautiful old food truc
 location:
     latitude: 37.7866585
     longitude: -111.6312164
+ratio: 1.33333
 ---

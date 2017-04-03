@@ -8,4 +8,5 @@ caption: That day we went exploring a cave helped with candles, cliff jumping in
 location:
     latitude: 15.5330352
     longitude: -89.95996
+ratio: 1.33333
 ---

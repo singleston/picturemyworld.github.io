@@ -8,4 +8,5 @@ caption: The one good thing about Cabo de la Vela? This sunset :)
 location:
     latitude: 12.195475
     longitude: -72.147218
+ratio: 1.33333
 ---

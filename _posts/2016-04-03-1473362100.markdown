@@ -8,4 +8,5 @@ caption: On a bike trip around Berlin, I took this picture South of Postdam, ano
 location:
     latitude: 52.3905689
     longitude: 13.0644729
+ratio: 1.33333
 ---

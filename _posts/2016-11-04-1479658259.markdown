@@ -8,4 +8,5 @@ caption: That very small waterfall felt more like a spa as the water felt like a
 location:
     latitude: 3.84032
     longitude: -76.89804
+ratio: 1.5
 ---

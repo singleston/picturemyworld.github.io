@@ -8,4 +8,5 @@ caption: Two Wax Palm trees in the darkness.
 location:
     latitude: 4.637712
     longitude: -75.48907
+ratio: 0.977199
 ---

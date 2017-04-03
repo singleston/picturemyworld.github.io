@@ -8,4 +8,5 @@ caption: I have been to the northen point of South America. It is called the Pun
 location:
     latitude: 12.4577778
     longitude: -71.6680556
+ratio: 1.33333
 ---

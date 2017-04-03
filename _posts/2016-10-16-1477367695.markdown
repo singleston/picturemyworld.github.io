@@ -8,4 +8,5 @@ caption: Our hike to top took us 4h. On the picture, at the first position the g
 location:
     latitude: 6.606241
     longitude: -75.666528
+ratio: 1.33333
 ---

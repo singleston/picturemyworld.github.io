@@ -8,4 +8,5 @@ caption: Even though it looks a bit like a desert, this canyon and its surroundi
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: There is a 2 hours walk to do from Barichara to reach Guane, another vi
 location:
     latitude: 6.635849
     longitude: -73.223409
+ratio: 1.33333
 ---

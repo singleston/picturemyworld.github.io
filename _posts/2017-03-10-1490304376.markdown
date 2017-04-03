@@ -8,4 +8,5 @@ caption: Photo of the main square of Barichara, a town known for its cobbled str
 location:
     latitude: 6.635849
     longitude: -73.223409
+ratio: 1
 ---

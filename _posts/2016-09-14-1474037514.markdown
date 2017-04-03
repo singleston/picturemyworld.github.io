@@ -8,4 +8,5 @@ caption: In this shot one can clearly see how the old town of Montreal is now su
 location:
     latitude: 45.5094623
     longitude: -73.5534598
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: For a reason still unknown in front of many residences people built suc
 location:
     latitude: 6.2019896
     longitude: -75.5684254
+ratio: 1.33333
 ---

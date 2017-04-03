@@ -8,4 +8,5 @@ caption: This beautiful thing is a set of frozen roots or at least super wet due
 location:
     latitude: 6.72535
     longitude: -75.69528
+ratio: 1.33333
 ---

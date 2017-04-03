@@ -8,4 +8,5 @@ caption: At the second floor of the Venetian hotel, they built a shopping center
 location:
     latitude: 36.121174
     longitude: -115.1696526
+ratio: 1.33333
 ---

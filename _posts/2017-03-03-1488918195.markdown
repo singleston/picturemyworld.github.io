@@ -8,4 +8,5 @@ caption: I finally made it into the Tayrona Park! This National Natural Park is 
 location:
     latitude: 11.2882416
     longitude: -74.1516509
+ratio: 1.33333
 ---

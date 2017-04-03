@@ -8,4 +8,5 @@ caption: At the other side of the bay of Reykjavik stands this nice long montain
 location:
     latitude: 64.1465401
     longitude: -21.9097638
+ratio: 1.33333
 ---

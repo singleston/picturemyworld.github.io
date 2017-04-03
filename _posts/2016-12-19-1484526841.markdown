@@ -8,4 +8,5 @@ caption: Puerto Escondido is a magical town on the Pacific coast of Mexico. I ha
 location:
     latitude: 15.8719795
     longitude: -97.0767365
+ratio: 0.724638
 ---

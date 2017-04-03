@@ -8,4 +8,5 @@ caption: I believe I can touch the sky... on top of the highway 12 in Utah !
 location:
     latitude: 37.9220877
     longitude: -111.4395128
+ratio: 1.33333
 ---

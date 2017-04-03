@@ -8,4 +8,5 @@ caption: To get up to this view point we had to climb about 740 steps built on a
 location:
     latitude: 6.223611
     longitude: -75.178333
+ratio: 1.33333
 ---

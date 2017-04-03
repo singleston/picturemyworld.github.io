@@ -8,4 +8,5 @@ caption: Nice shot of the sunset between buildings in Chicago downtown.
 location:
     latitude: 41.8786351
     longitude: -87.6250549
+ratio: 1.33333
 ---

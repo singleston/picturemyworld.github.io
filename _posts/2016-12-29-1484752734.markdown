@@ -8,4 +8,5 @@ caption: That big ass waterfall is about 200m high and is the tallest one in Mex
 location:
     latitude: 16.1896628
     longitude: -92.2736767
+ratio: 0.75
 ---

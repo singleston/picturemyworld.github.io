@@ -8,4 +8,5 @@ caption: Photo taken in the Parque Arví of a path full with wooden roots.
 location:
     latitude: 6.2891079
     longitude: -75.5093481
+ratio: 1.33333
 ---

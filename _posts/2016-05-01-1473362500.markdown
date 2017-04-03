@@ -8,4 +8,5 @@ caption: First of May party in Berlin. Lost in a park, this techno open air even
 location:
     latitude: 52.5200066
     longitude: 13.404954
+ratio: 1.33333
 ---

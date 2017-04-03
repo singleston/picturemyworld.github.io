@@ -8,4 +8,5 @@ caption: This picture has been taken from the top of the Olympic tower. From up 
 location:
     latitude: 45.5579957
     longitude: -73.5518816
+ratio: 1.33333
 ---

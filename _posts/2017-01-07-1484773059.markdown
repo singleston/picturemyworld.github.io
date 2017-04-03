@@ -8,4 +8,5 @@ caption: This deadly landscape looks like Mordor but it is actually lava from th
 location:
     latitude: 14.3823075
     longitude: -90.6015071
+ratio: 1.33333
 ---

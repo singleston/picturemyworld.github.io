@@ -8,4 +8,5 @@ caption: ... must be the entrance of a cimetery. Of course!
 location:
     latitude: 16.9058643
     longitude: -96.2603236
+ratio: 0.75
 ---

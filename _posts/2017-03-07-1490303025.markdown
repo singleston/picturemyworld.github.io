@@ -8,4 +8,5 @@ caption: The great thing about Bucaramanga is the huge lack of tourists. There i
 location:
     latitude: 7.119349
     longitude: -73.1227416
+ratio: 1.33333
 ---

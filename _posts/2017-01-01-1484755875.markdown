@@ -8,4 +8,5 @@ caption: The sun is shining right on top of that 'house'. Those ruins used to be
 location:
     latitude: 17.4847697
     longitude: -92.0458949
+ratio: 1.33333
 ---

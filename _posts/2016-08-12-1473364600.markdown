@@ -8,4 +8,5 @@ caption: Biarritz is an elegant seaside town in the French Basque coast. It beca
 location:
     latitude: 43.4831519
     longitude: -1.558626
+ratio: 1.33333
 ---

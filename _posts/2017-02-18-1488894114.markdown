@@ -8,4 +8,5 @@ caption: What is special about Taganga is its location. 10 minutes away from the
 location:
     latitude: 11.270307
     longitude: -74.196374
+ratio: 1.76471
 ---

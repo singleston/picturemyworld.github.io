@@ -8,4 +8,5 @@ caption: I took that picture on a hike to an indigenous village in the tropical 
 location:
     latitude: 11.2882416
     longitude: -74.1516509
+ratio: 1.33333
 ---

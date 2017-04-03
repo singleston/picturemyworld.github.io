@@ -8,4 +8,5 @@ caption: We went on a market to discover the local products and we have been so 
 location:
     latitude: 3.4516467
     longitude: -76.5319854
+ratio: 1.33333
 ---

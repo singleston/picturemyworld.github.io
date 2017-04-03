@@ -8,4 +8,5 @@ caption: Here you go with a picture of the streets in the historical center of C
 location:
     latitude: 10.3910485
     longitude: -75.4794257
+ratio: 1.33333
 ---

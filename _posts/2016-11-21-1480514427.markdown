@@ -8,4 +8,5 @@ caption: I'm pretty sure you would like to be there too? Well I couldn't as this
 location:
     latitude: 9.7938889
     longitude: -75.8430556
+ratio: 1.33333
 ---

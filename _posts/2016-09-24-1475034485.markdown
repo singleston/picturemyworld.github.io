@@ -8,4 +8,5 @@ caption: Very nice shot of the Grand Canyon in Arizona. It is so large and big i
 location:
     latitude: 36.1069652
     longitude: -112.1129972
+ratio: 1.33333
 ---

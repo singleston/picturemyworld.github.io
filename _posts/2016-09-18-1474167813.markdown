@@ -8,4 +8,5 @@ caption: This view is the first one I had when I got out of the train to get clo
 location:
     latitude: 41.8781136
     longitude: -87.6297982
+ratio: 1.33333
 ---

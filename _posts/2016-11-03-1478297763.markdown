@@ -8,4 +8,5 @@ caption: There is a small park in the city with many sculptures of cats and info
 location:
     latitude: 3.4513378
     longitude: -76.543
+ratio: 1.33333
 ---

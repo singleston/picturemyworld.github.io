@@ -8,4 +8,5 @@ caption: In Cali it is extremely common to see houses or buildings with the wall
 location:
     latitude: 3.4516467
     longitude: -76.5319854
+ratio: 1.33333
 ---

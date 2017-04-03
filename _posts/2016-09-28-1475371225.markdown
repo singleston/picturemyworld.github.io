@@ -8,4 +8,5 @@ caption: Another view point of the Bryce Canyon. On the right side, the path lea
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

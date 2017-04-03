@@ -8,4 +8,5 @@ caption: On the far west of Reyjavik one can see beautiful sunsets with burning 
 location:
     latitude: 64.1512815
     longitude: -21.9594222
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Picture showing the ceiling inside the monastery of Santo Domingo de Gu
 location:
     latitude: 17.0656987
     longitude: -96.7232421
+ratio: 0.75
 ---

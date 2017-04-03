@@ -8,4 +8,5 @@ caption: Cedric and I chillin' around.
 location:
     latitude: 6.606241
     longitude: -75.666528
+ratio: 1.77515
 ---

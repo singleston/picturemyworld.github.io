@@ -8,4 +8,5 @@ caption: Antigua is a small city surrouded by volcanoes. It is famous due to its
 location:
     latitude: 14.5585707
     longitude: -90.729523
+ratio: 1.33333
 ---

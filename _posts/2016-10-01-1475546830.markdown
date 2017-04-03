@@ -8,4 +8,5 @@ caption: On our way out of the Death Valley we had to drive throughout a real sa
 location:
     latitude: 36.5322649
     longitude: -116.9325408
+ratio: 1.33333
 ---

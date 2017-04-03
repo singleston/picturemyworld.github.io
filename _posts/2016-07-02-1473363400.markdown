@@ -8,4 +8,5 @@ caption: Main entrance of the spy musuem in Berlin. It was more expensive that a
 location:
     latitude: 52.508952
     longitude: 13.379222
+ratio: 1.33333
 ---

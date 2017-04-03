@@ -8,4 +8,5 @@ caption: I saw that street artist playing near the main square in Bucaramanga, C
 location:
     latitude: 7.119349
     longitude: -73.1227416
+ratio: 1.33333
 ---

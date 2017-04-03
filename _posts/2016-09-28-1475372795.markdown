@@ -8,4 +8,5 @@ caption: Even though it looks like one, this is not a bridge but an arch. The ho
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: That tree has a diameter of 14 meters and is more than 2000 years old!
 location:
     latitude: 17.0447413
     longitude: -96.6330819
+ratio: 1.33333
 ---

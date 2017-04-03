@@ -8,4 +8,5 @@ caption: That temple is the first one you see when you arrive at Tikal. It is ve
 location:
     latitude: 17.2220409
     longitude: -89.6236995
+ratio: 0.75
 ---

@@ -8,4 +8,5 @@ caption: On the other side of the Christo Rey statue, the view offers a beautifu
 location:
     latitude: 3.4359152
     longitude: -76.5648552
+ratio: 1.33333
 ---

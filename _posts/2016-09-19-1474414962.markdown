@@ -8,4 +8,5 @@ caption: Picture of me sitting on a glass floor about 400 meters high.
 location:
     latitude: 41.8788764
     longitude: -87.6359149
+ratio: 1.33333
 ---

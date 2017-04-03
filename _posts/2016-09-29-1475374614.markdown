@@ -8,4 +8,5 @@ caption: On our way back from Boulder we drove on a scenic road that offered us 
 location:
     latitude: 37.9220877
     longitude: -111.4395128
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: I finally went to that Parque Explora in Medellin! It's a complex betwe
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 0.75
 ---

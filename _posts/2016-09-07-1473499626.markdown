@@ -8,4 +8,5 @@ caption: In Vik, the ocean is divided in 2 parts and if you look closely you can
 location:
     latitude: 63.4186315
     longitude: -19.0060479
+ratio: 4.34783
 ---

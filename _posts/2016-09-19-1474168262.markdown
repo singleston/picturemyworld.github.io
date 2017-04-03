@@ -8,4 +8,5 @@ caption: This is the view of Chicago downtown from the Navy Pier. On the bottom 
 location:
     latitude: 41.8916938
     longitude: -87.6063215
+ratio: 1.33333
 ---

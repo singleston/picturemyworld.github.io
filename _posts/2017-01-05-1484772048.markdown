@@ -8,4 +8,5 @@ caption: Sunset behind the beautiful volcano of San Pedro.
 location:
     latitude: 14.6906713
     longitude: -91.2025207
+ratio: 1.33333
 ---

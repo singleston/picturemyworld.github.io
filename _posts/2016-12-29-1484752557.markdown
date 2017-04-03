@@ -8,4 +8,5 @@ caption: On my way to the Waterfall El Chiflon I found this gem. Smaller but so 
 location:
     latitude: 16.1896628
     longitude: -92.2736767
+ratio: 1.33333
 ---

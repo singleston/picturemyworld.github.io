@@ -8,4 +8,5 @@ caption: This deathly silent and still land is the result of often violent actio
 location:
     latitude: 36.4200667
     longitude: -116.8122303
+ratio: 1.33333
 ---

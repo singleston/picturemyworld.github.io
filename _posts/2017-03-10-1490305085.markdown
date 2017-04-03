@@ -8,4 +8,5 @@ caption: One of the street of Barichara, small white houses and cobbled streets.
 location:
     latitude: 6.635849
     longitude: -73.223409
+ratio: 1.33333
 ---

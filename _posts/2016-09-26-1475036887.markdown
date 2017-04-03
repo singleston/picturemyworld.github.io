@@ -8,4 +8,5 @@ caption: This very narrow Canyon can barely be seen from the outside. It is abou
 location:
     latitude: 36.8619103
     longitude: -111.3743302
+ratio: 0.75
 ---

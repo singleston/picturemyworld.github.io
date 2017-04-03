@@ -8,4 +8,5 @@ caption: I'm fine mom :)
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

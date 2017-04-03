@@ -8,4 +8,5 @@ caption: The lake Atitlán is surrounded by moutains and volcanoes. From left to
 location:
     latitude: 14.6906713
     longitude: -91.2025207
+ratio: 2.72727
 ---

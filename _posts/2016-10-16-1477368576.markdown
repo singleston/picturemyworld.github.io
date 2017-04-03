@@ -8,4 +8,5 @@ caption: This very shy girl got my attention for a very obvious reason. She was 
 location:
     latitude: 6.606241
     longitude: -75.666528
+ratio: 1.33333
 ---

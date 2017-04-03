@@ -8,4 +8,5 @@ caption: Those are the train tracks used by the motobikes to transport people an
 location:
     latitude: 3.84032
     longitude: -76.89804
+ratio: 1.5
 ---

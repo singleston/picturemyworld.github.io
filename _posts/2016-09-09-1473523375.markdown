@@ -8,4 +8,5 @@ caption: Me standing at the most icelandic waterfall Gullfoss. The legend says t
 location:
     latitude: 64.3270716
     longitude: -20.1199478
+ratio: 1.5
 ---

@@ -8,4 +8,5 @@ caption: This picture shows the mountains around Bogota with clouds and nice lig
 location:
     latitude: 4.7109886
     longitude: -74.072092
+ratio: 1.33333
 ---

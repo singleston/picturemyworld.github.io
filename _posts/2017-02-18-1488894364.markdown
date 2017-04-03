@@ -8,4 +8,5 @@ caption: Taganga is a very sweet spot to turn on the computer and do some work. 
 location:
     latitude: 11.2645493
     longitude: -74.1911154
+ratio: 1.33333
 ---

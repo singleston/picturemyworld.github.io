@@ -8,4 +8,5 @@ caption: I am amazed by the look of those palm trees. I couldn't get closer as t
 location:
     latitude: 15.6677291
     longitude: -96.5545185
+ratio: 1.33333
 ---

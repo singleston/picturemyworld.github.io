@@ -8,4 +8,5 @@ caption: Mom, mexico is awesome.
 location:
     latitude: 16.9058643
     longitude: -96.2603236
+ratio: 1.33333
 ---

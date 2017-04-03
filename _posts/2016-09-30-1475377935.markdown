@@ -8,4 +8,5 @@ caption: At the end of the trail I met that old man who was 79 years old. He hik
 location:
     latitude: 37.2982022
     longitude: -113.0263005
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: All along the coast are those wooden houses for the beach guards. Like 
 location:
     latitude: 34.0574105
     longitude: -118.7411203
+ratio: 1.33333
 ---

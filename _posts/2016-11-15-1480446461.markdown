@@ -8,4 +8,5 @@ caption: This picture shows one district of the city which might be fine during 
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 1.33333
 ---

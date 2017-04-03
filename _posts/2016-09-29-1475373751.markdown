@@ -8,4 +8,5 @@ caption: Those rocks are actually million years old trees that got petrified. If
 location:
     latitude: 37.7866585
     longitude: -111.6312164
+ratio: 1.33333
 ---

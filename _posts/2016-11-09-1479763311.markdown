@@ -8,4 +8,5 @@ caption: At the top of a small hill in Medellin, there is a very small village t
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 1.33333
 ---

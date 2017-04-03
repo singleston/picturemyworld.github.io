@@ -8,4 +8,5 @@ caption: This is a more detailed picture of the mammoth tusk carved during the M
 location:
     latitude: 36.1247446
     longitude: -115.1720809
+ratio: 1.33333
 ---

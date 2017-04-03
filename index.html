@@ -5,7 +5,6 @@ layout: default
 <!-- Load specific CSS files -->
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slideshow.css" />
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/maps.css" />
 
 <!-- Load specific javascript files -->
 <script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
@@ -38,8 +37,7 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
-					<!-- <img class="grid_thumbnail" data-ratio="1.33333" data-original="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/> -->
+					<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>
 					<figcaption>
 						<h3>{{ post.title }}</h3>
 						<i class="fa fa-globe" aria-hidden="true"></i>
@@ -58,7 +56,7 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<img data-original="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
+					<img data-tmp="{{ site.url }}/img/large/{{ post.photo }}"/>
 				</figure>
 				<figcaption><h3>{{ post.title }}</h3></figcaption>
 			</li>
@@ -70,6 +68,7 @@ layout: default
 			<span class="icon nav-close"></span>
 		</nav>
 	</section><!-- slideshow -->
+
 </div><!-- grid-gallery -->
 
 <!-- Attach javascripts to grid-gallery -->
@@ -77,10 +76,11 @@ layout: default
 	var grid = new CBPGridGallery(document.getElementById('grid-gallery'));
 	var myLazyLoad = new LazyLoad();
 
-	//[].forEach.call(document.getElementsByClassName('grid_thumbnail'), function(element) {
-  	//	let ratio = element.dataset.ratio
-  	//	let width = element.width
-    //	let newHeight = (width / ratio).toFixed(2);
-    //	element.style.height = newHeight + "px";
-	//})
+	// Calculate and set the 'responsive' display size for the each thumbnails in the grid.
+	[].forEach.call(document.getElementsByClassName('grid_thumbnail'), function(element) {
+		let ratio = element.dataset.ratio
+		let width = element.width
+		let newHeight = (width / ratio).toFixed(2);
+		element.style.height = newHeight + "px";
+	})
 </script>

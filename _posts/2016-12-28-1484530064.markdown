@@ -8,4 +8,5 @@ caption: Most houses are painted like that in San Cristobal. The entire city is 
 location:
     latitude: 16.7370359
     longitude: -92.6376186
+ratio: 1.33333
 ---

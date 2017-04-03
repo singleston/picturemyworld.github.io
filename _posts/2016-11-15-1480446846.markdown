@@ -8,4 +8,5 @@ caption: The botanical garden of Medellin has more than 1,000 living species and
 location:
     latitude: 6.2708781
     longitude: -75.5641168
+ratio: 1.33333
 ---

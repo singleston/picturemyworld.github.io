@@ -8,4 +8,5 @@ caption: Have I ever told the story about the subway here in Medellin? How the p
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 1.33333
 ---

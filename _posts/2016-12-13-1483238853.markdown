@@ -8,4 +8,5 @@ caption: My feet for scale!
 location:
     latitude: 16.865738
     longitude: -96.2760358
+ratio: 0.75
 ---

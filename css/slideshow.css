@@ -129,30 +129,6 @@
 	color: #fff;
 }
 
-/* Custom media queries: reduce number of columns and change slideshow layout */
-@media screen and (max-width: 60em) {
-	/* responsive columns; see "Element sizing" on http://masonry.desandro.com/options.html */
-	.slideshow li {
-		width: 100%;
-		height: 100%;
-		top: 0;
-		left: 0;
-		margin: 0;
-	}
-
-	.slideshow li figure img {
-		width: auto;
-		margin: 0 auto;
-		max-width: 100%;
-	}
-
-	.slideshow nav span,
-	.slideshow nav span.nav-close {
-		font-size: 1.8em;
-		padding: 0.3em;
-	}
-}
-
 /* Navigation key icons  */
 .icon:before,
 .icon:after {

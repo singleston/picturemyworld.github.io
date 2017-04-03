@@ -8,4 +8,5 @@ caption: Me thinking about the force sitting next to master Yoda himself. He is 
 location:
     latitude: 52.5169014
     longitude: 13.3815444
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This is the first iguana I ever saw in my life! What a nice lazy little
 location:
     latitude: 6.2708781
     longitude: -75.5641168
+ratio: 1.33333
 ---
