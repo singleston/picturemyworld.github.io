@@ -8,4 +8,5 @@ caption: A bike parking other bikes!
 location:
     latitude: 64.1265206
     longitude: -21.8174393
+ratio: 1.33333
 ---

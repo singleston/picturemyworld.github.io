@@ -8,4 +8,5 @@ caption: On our way down the canyon we went through many doors like that one. We
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

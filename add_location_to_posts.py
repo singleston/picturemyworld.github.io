@@ -6,6 +6,7 @@ import argparse
 from os import listdir
 from os.path import isfile, join
 import re
+import subprocess
 
 parser = argparse.ArgumentParser(description='Update posts')
 parser.add_argument('-p','--path', help='Path to the posts\' folder.', required=True, default=None)
@@ -42,6 +43,22 @@ def updateLocationGeometry(filedata):
 	# Return None in case of no changes
 	return None
 
+def updateRatio(filedata):
+
+	# Get photo filename
+	m = re.search('photo:.*\n', filedata)
+	if m:
+		filename = re.sub('photo: ', '', m.group(0)).strip()
+		command_line = "identify -format '%[fx:w/h]\n' ./img/thumb/" + filename
+		ratio = subprocess.check_output(command_line.split(' '))
+		ratio = re.sub("'", '', ratio)
+		ratio = re.sub('\n', '', ratio)
+		filedata = re.sub(r"---[\n]*$",  "ratio: " + ratio + "\n---\n", filedata)
+		return filedata
+
+	# Return None in case of no changes
+	return None
+
 for file in postfiles:
 
 	if file == '.DS_Store':
@@ -54,7 +71,7 @@ for file in postfiles:
 	  filedata = file.read()
 
 	# Update the filedate. Return None if nothing changed.
-	filedata = updateLocationGeometry(filedata)
+	filedata = updateRatio(filedata)
 
 	# If the filedata is still valid save the content to the disk.
 	if filedata != None:

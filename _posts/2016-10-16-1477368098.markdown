@@ -8,4 +8,5 @@ caption: Well this was not a real jungle... just a dense forest :)
 location:
     latitude: 6.606241
     longitude: -75.666528
+ratio: 1.33333
 ---

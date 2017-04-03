@@ -8,4 +8,5 @@ caption: This skull has been discovered within a Mixtecs tomb for one of their k
 location:
     latitude: 17.0594169
     longitude: -96.7216219
+ratio: 1.33333
 ---

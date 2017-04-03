@@ -8,4 +8,5 @@ caption: This is a crazy waterfall where there is enough space for people to wal
 location:
     latitude: 63.6156232
     longitude: -19.9885688
+ratio: 1.33333
 ---

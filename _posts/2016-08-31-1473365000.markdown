@@ -8,4 +8,5 @@ caption: So that's the big guy following me everywhere !
 location:
     latitude: 43.787708
     longitude: -0.924979
+ratio: 0.75
 ---

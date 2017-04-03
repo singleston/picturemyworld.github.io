@@ -8,4 +8,5 @@ caption: There is an abandonned park near Berlin. It used to be open about 10 ye
 location:
     latitude: 52.5200066
     longitude: 13.404954
+ratio: 1.33333
 ---

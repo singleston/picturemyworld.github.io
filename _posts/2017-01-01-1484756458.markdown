@@ -8,4 +8,5 @@ caption: This watch tower is the only one found in the Mayan's culture. It is st
 location:
     latitude: 17.4847697
     longitude: -92.0458949
+ratio: 0.75
 ---

@@ -8,4 +8,5 @@ caption: My very first concert of Iron Maiden in Berlin. What a great show! The 
 location:
     latitude: 52.5157685
     longitude: 13.2291242
+ratio: 1.33333
 ---

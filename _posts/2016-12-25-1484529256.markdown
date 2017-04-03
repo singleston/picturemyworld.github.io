@@ -8,4 +8,5 @@ caption: It was a very long night...
 location:
     latitude: 15.8719795
     longitude: -97.0767365
+ratio: 1
 ---

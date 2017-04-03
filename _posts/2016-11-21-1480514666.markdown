@@ -8,4 +8,5 @@ caption: This is definitely my new wallpaper, great photo made by Sophie De Sous
 location:
     latitude: 9.7640494
     longitude: -75.6409151
+ratio: 1.33333
 ---

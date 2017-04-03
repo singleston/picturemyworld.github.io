@@ -8,4 +8,5 @@ caption: Everywhere in the city you can find awesome wall paintings like this of
 location:
     latitude: 64.1265206
     longitude: -21.8174393
+ratio: 0.75
 ---

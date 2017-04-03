@@ -8,4 +8,5 @@ caption: Nice shot of the moon hanging around :)
 location:
     latitude: 64.1512815
     longitude: -21.9594222
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: The Lion King made in Arizona.
 location:
     latitude: 36.8791588
     longitude: -111.510513
+ratio: 1.5
 ---

@@ -8,4 +8,5 @@ caption: This little could reach 10cm wide when opened. To be honest it wasn't v
 location:
     latitude: 6.2708781
     longitude: -75.5641168
+ratio: 1.33333
 ---

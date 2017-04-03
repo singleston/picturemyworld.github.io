@@ -8,4 +8,5 @@ caption: The old district of Bogota is called La Candelaria and the architecture
 location:
     latitude: 4.597014
     longitude: -74.0728759
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Do I even like desert?
 location:
     latitude: 36.2460841
     longitude: -116.8185076
+ratio: 1.33333
 ---

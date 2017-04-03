@@ -8,4 +8,5 @@ caption: The city of Montreal is full of big paintings on the walls. They usuall
 location:
     latitude: 45.5016889
     longitude: -73.567256
+ratio: 1.33333
 ---

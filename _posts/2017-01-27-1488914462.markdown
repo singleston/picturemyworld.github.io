@@ -8,4 +8,5 @@ caption: View point over Guatape and the El Peñol rock.
 location:
     latitude: 6.231137
     longitude: -75.153467
+ratio: 2.5641
 ---

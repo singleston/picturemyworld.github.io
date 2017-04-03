@@ -8,4 +8,5 @@ caption: The indigenous people in northen Colombia used to, and some still do, l
 location:
     latitude: 11.2882416
     longitude: -74.1516509
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: I swear I am working on that tan. I will get brown... one day.
 location:
     latitude: 10.4365079
     longitude: -75.5362411
+ratio: 1.33333
 ---

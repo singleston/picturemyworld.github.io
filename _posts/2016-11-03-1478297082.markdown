@@ -8,4 +8,5 @@ caption: In one of the many places in the city center of Cali, those big palm tr
 location:
     latitude: 3.4516467
     longitude: -76.5319854
+ratio: 1.33333
 ---

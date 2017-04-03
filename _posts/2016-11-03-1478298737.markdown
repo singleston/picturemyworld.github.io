@@ -8,4 +8,5 @@ caption: At the top of a small hill that cute church stands alone. The view from
 location:
     latitude: 3.447559
     longitude: -76.5416796
+ratio: 1.33333
 ---

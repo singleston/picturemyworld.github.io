@@ -8,4 +8,5 @@ caption: That temple is actually a tomb where the sarcophagus of the ruler Pakal
 location:
     latitude: 17.4847697
     longitude: -92.0458949
+ratio: 1.33333
 ---

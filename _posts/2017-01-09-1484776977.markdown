@@ -8,4 +8,5 @@ caption: The crazyness of that spot is, of course how pretty it is, but also bec
 location:
     latitude: 15.5330352
     longitude: -89.95996
+ratio: 1.33333
 ---

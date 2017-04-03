@@ -8,4 +8,5 @@ caption: The artist behind the 'meuh' grafiti in Bogota :)
 location:
     latitude: 6.231137
     longitude: -75.153467
+ratio: 1.33333
 ---

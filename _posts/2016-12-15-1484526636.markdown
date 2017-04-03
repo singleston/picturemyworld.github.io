@@ -8,4 +8,5 @@ caption: San José del Pacifico is a very small town in the montains between Oax
 location:
     latitude: 16.1697112
     longitude: -96.50249
+ratio: 1.33333
 ---

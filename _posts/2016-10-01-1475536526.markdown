@@ -8,4 +8,5 @@ caption: Of course the Eiffel Tower in Vegas has to be a casino, a restaurant an
 location:
     latitude: 36.1124662
     longitude: -115.1721916
+ratio: 1.33333
 ---

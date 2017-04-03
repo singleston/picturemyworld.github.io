@@ -8,4 +8,5 @@ caption: Stunning view of Montreal from the top of the Mount Royal. For the loca
 location:
     latitude: 45.5039255
     longitude: -73.587509
+ratio: 1.33333
 ---

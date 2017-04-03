@@ -8,4 +8,5 @@ caption: This is the stadium used for the Olympic Games in 1976. The tower is th
 location:
     latitude: 45.5579957
     longitude: -73.5518816
+ratio: 1.33333
 ---

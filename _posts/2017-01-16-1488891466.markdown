@@ -8,4 +8,5 @@ caption: At the very end of the main beach in Tulum you can find this spot with 
 location:
     latitude: 20.2114185
     longitude: -87.4653502
+ratio: 1.40845
 ---

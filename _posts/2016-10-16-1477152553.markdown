@@ -8,4 +8,5 @@ caption: On our way to Belmira we stopped at a small coffee shop to have a quick
 location:
     latitude: 7.1986064
     longitude: -75.3412179
+ratio: 1.33333
 ---

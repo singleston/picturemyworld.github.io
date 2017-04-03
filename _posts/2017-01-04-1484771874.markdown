@@ -8,4 +8,5 @@ caption: I might be wrong, but that bird might be an eagle or some kind of condo
 location:
     latitude: 14.6906713
     longitude: -91.2025207
+ratio: 0.75
 ---

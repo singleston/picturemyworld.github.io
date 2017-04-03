@@ -8,4 +8,5 @@ caption: Very last Open Air with the guys at SAGE Beach. It did rain but the mus
 location:
     latitude: 52.5065868
     longitude: 13.4333996
+ratio: 1.33333
 ---

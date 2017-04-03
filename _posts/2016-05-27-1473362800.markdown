@@ -8,4 +8,5 @@ caption: Cool one-day trip with Karen to the nice city of Dresden. We arrived in
 location:
     latitude: 51.0476528
     longitude: 13.7380694
+ratio: 1.33333
 ---

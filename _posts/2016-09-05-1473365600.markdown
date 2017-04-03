@@ -8,4 +8,5 @@ caption: Selfie Selfie Selfie
 location:
     latitude: 64.1417149
     longitude: -21.9266371
+ratio: 0.75
 ---

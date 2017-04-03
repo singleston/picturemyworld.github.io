@@ -8,4 +8,5 @@ caption: Clear and cold water on the rocks. The natural visual effects are impre
 location:
     latitude: 16.865738
     longitude: -96.2760358
+ratio: 1.33333
 ---

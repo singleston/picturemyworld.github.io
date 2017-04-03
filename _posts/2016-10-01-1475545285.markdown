@@ -8,4 +8,5 @@ caption: Las Vegas is all centered in one long street. On each side hotels try t
 location:
     latitude: 36.1699412
     longitude: -115.1398296
+ratio: 1.33333
 ---

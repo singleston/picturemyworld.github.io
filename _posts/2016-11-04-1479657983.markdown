@@ -8,4 +8,5 @@ caption: There is in the National Park of San Cipriano many hidden waterfalls. A
 location:
     latitude: 3.84032
     longitude: -76.89804
+ratio: 1.5
 ---

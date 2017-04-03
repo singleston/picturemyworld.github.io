@@ -8,4 +8,5 @@ caption: One of the main attraction in Bogota is the Grafiti Tour. The guide exp
 location:
     latitude: 4.7109886
     longitude: -74.072092
+ratio: 1.33333
 ---

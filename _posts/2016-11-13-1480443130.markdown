@@ -8,4 +8,5 @@ caption: While trekking that mountain we could see the palm trees from the far d
 location:
     latitude: 4.637712
     longitude: -75.48907
+ratio: 1.33333
 ---

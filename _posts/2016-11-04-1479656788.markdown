@@ -8,4 +8,5 @@ caption: Close to the city of Buenaventura stands a small village called San Cip
 location:
     latitude: 3.84032
     longitude: -76.89804
+ratio: 1.33333
 ---

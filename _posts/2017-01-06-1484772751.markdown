@@ -8,4 +8,5 @@ caption: This is one of the many religious building of the city that has collaps
 location:
     latitude: 14.5585707
     longitude: -90.729523
+ratio: 1.33333
 ---

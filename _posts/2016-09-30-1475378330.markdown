@@ -8,4 +8,5 @@ caption: Picture taken at the very top of the Angels Landing rock at 1700 meters
 location:
     latitude: 37.2982022
     longitude: -113.0263005
+ratio: 1.33333
 ---

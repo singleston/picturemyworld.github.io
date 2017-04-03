@@ -8,4 +8,5 @@ caption: Facing the ocean in Reykjavik, a new concert hall has been built. This 
 location:
     latitude: 64.1503943
     longitude: -21.9324604
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Different Angle
 location:
     latitude: 17.2220409
     longitude: -89.6236995
+ratio: 0.75
 ---

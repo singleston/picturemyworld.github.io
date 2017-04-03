@@ -8,4 +8,5 @@ caption: Majestic statue in the entrance of the gigantic Ceasar Palace. This hot
 location:
     latitude: 36.1161685
     longitude: -115.174499
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Do you know that only 5 percent of the baby turtles that reach the ocea
 location:
     latitude: 15.6677291
     longitude: -96.5545185
+ratio: 1.33333
 ---

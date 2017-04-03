@@ -8,4 +8,5 @@ caption: The main food in this region is the sea and the fishes people manage to
 location:
     latitude: 9.7640494
     longitude: -75.6409151
+ratio: 1.33333
 ---

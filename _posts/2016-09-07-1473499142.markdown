@@ -8,4 +8,5 @@ caption: This is a picture taken from behind the waterfall.
 location:
     latitude: 63.6156232
     longitude: -19.9885688
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This fountain is beautiful and close to the water front.
 location:
     latitude: 41.8757944
     longitude: -87.6189483
+ratio: 1.33333
 ---

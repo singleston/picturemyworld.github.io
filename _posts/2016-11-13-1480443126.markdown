@@ -8,4 +8,5 @@ caption: So what's wrong here? Are the trees gigantic? Are the cows super tiny? 
 location:
     latitude: 4.637712
     longitude: -75.48907
+ratio: 0.75
 ---

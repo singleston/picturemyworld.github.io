@@ -8,4 +8,5 @@ caption: Picture taken in Vik on the black sand beach.
 location:
     latitude: 63.4186315
     longitude: -19.0060479
+ratio: 1.33333
 ---

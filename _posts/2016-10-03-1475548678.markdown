@@ -8,4 +8,5 @@ caption: Picture of the Golden Gate Bridge from the bay at San Francisco.
 location:
     latitude: 37.8199286
     longitude: -122.4782551
+ratio: 1.33333
 ---

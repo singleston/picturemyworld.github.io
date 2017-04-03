@@ -8,4 +8,5 @@ caption: The Aztecs used this kind of sculpture as funerary urn. The figure depi
 location:
     latitude: 17.0594169
     longitude: -96.7216219
+ratio: 0.700935
 ---

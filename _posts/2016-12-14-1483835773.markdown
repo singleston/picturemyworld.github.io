@@ -8,4 +8,5 @@ caption: This plant, also known as aguave, is the main ingredient for the Tequil
 location:
     latitude: 17.0594169
     longitude: -96.7216219
+ratio: 1.33333
 ---

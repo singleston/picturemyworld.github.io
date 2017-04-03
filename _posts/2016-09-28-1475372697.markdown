@@ -8,4 +8,5 @@ caption: Hard to see on that picture but that is the view from the top of the Wa
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

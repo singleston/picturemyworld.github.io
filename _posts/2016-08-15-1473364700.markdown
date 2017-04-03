@@ -8,4 +8,5 @@ caption: Carcassone is a mediaval citadel built at the top of hill in southern F
 location:
     latitude: 43.212161
     longitude: 2.353663
+ratio: 1.33333
 ---

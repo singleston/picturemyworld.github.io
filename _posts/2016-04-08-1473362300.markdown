@@ -8,4 +8,5 @@ caption: On my way to work there is park with an artificial waterfall. They turn
 location:
     latitude: 52.4986049
     longitude: 13.3917987
+ratio: 0.75
 ---

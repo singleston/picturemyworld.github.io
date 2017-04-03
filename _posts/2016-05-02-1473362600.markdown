@@ -8,4 +8,5 @@ caption: Rock'n'Roll concert with my friend Sven. Even tough I did not know the 
 location:
     latitude: 52.4845171
     longitude: 13.3927104
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This big rock faces the ocean West of Vik in Iceland. The bottom part r
 location:
     latitude: 63.4027778
     longitude: -19.0283333
+ratio: 1.33333
 ---

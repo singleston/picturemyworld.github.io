@@ -8,4 +8,5 @@ caption: At sunset, the main beach of Taganga is pretty busy with lots of people
 location:
     latitude: 11.2645493
     longitude: -74.1911154
+ratio: 1.33333
 ---

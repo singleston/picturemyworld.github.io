@@ -8,4 +8,5 @@ caption: If I had to pick the best beach of Colombia I would pick that one. Very
 location:
     latitude: 11.2723445
     longitude: -73.8459336
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This is the city hall of San Francisco. What a pleasure to find such eu
 location:
     latitude: 37.7749295
     longitude: -122.4194155
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This is what the famous stuffed pizza of Chicago looks like. It is basi
 location:
     latitude: 41.8958933
     longitude: -87.6256974
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This is what the ground floor of every single hotel looks like in Vegas
 location:
     latitude: 36.1699412
     longitude: -115.1398296
+ratio: 1.33333
 ---

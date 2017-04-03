@@ -8,4 +8,5 @@ caption: The city of Toulouse in middle South of France is one of the biggest in
 location:
     latitude: 43.604652
     longitude: 1.444209
+ratio: 1.33333
 ---

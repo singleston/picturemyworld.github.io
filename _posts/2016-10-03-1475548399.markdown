@@ -8,4 +8,5 @@ caption: Panorama of the Bay Bridge that links Treasure Island and SF Downtown.
 location:
     latitude: 37.7982799
     longitude: -122.3778182
+ratio: 4.47761
 ---

@@ -8,4 +8,5 @@ caption: Picture of a sunset over the mountains surrounding the city of Medellin
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 1.33333
 ---

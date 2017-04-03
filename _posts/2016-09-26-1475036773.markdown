@@ -8,4 +8,5 @@ caption: As one could have imagine this is how the desert in Arizona actually lo
 location:
     latitude: 34.0489281
     longitude: -111.0937311
+ratio: 1.33333
 ---

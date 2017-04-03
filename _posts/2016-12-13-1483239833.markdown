@@ -8,4 +8,5 @@ caption: The color of the water of that pool was dark green. It was also forbidd
 location:
     latitude: 16.865738
     longitude: -96.2760358
+ratio: 1.44231
 ---

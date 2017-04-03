@@ -8,4 +8,5 @@ caption: The city of San Francisco has a huge conflict of social classes. First,
 location:
     latitude: 37.7749295
     longitude: -122.4194155
+ratio: 1.33333
 ---

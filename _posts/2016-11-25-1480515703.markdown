@@ -8,4 +8,5 @@ caption: View from the inside of the light tower at the Punta Gallinas. It is ju
 location:
     latitude: 12.4577778
     longitude: -71.6680556
+ratio: 1.33333
 ---

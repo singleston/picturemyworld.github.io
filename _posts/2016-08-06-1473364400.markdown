@@ -8,4 +8,5 @@ caption: In the historic city center of Bilbao there is a big square of Neoclass
 location:
     latitude: 43.2590355
     longitude: -2.9227012
+ratio: 1.33333
 ---

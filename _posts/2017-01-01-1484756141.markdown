@@ -8,4 +8,5 @@ caption: That temple is awesome! Smaller than the others but somehow, I just lov
 location:
     latitude: 17.4847697
     longitude: -92.0458949
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: At the end of the day we arrived at the top of the mountain where this 
 location:
     latitude: 6.606241
     longitude: -75.666528
+ratio: 1.33333
 ---

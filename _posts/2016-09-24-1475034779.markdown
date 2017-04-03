@@ -8,4 +8,5 @@ caption: At the bottom of the canyon, there is the Colorado River which cannot b
 location:
     latitude: 36.1069652
     longitude: -112.1129972
+ratio: 1.33333
 ---

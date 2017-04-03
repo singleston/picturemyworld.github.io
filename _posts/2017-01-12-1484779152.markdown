@@ -8,4 +8,5 @@ caption: Nice joke, yes I have been to that country. Not even a day, just crosse
 location:
     latitude: 17.058107
     longitude: -89.1563115
+ratio: 1.33333
 ---

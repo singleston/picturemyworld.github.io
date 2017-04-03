@@ -8,4 +8,5 @@ caption: On the main square of Mexico City stand 2 churches and the gouvernment 
 location:
     latitude: 19.4326077
     longitude: -99.133208
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: The volcano Pacaya is still active. It is also very stable at the momen
 location:
     latitude: 14.3823075
     longitude: -90.6015071
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Awesome picture of a cactus in Mexico. It was maybe 3 meters high and t
 location:
     latitude: 16.9058643
     longitude: -96.2603236
+ratio: 1.33333
 ---

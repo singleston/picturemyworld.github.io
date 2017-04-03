@@ -8,4 +8,5 @@ caption: I went again to the Cocora Valley around Salento. That time the weather
 location:
     latitude: 4.637712
     longitude: -75.48907
+ratio: 1.33333
 ---

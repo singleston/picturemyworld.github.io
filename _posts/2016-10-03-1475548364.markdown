@@ -8,4 +8,5 @@ caption: As San Francisco is surrounded by water, such big bridges are required 
 location:
     latitude: 37.7982799
     longitude: -122.3778182
+ratio: 1.33333
 ---
