@@ -156,6 +156,16 @@
 		});
 	};
 
+	CBPGridGallery.prototype._loadImage = function( img ) {
+		img.src = img.dataset.tmp;
+	};
+
+	CBPGridGallery.prototype._loadItemImages = function() {
+		this._loadImage(this.currentItem.querySelector('img'));
+		this._loadImage(this.prevItem.querySelector('img'));
+		this._loadImage(this.nextItem.querySelector('img'));
+	};
+
 	CBPGridGallery.prototype._openSlideshow = function( pos ) {
 		this.isSlideshowVisible = true;
 		this.current = pos;
@@ -275,7 +285,8 @@
 						self.prevItem = incomingItem;
 					}
 				}
-
+				// Load displayed images
+				self._loadItemImages();
 				self.current = dir === 'next' ? self.current + 1 : self.current - 1;
 				self.isAnimating = false;
 			};
@@ -340,6 +351,8 @@
 			this.nextItem = this.slideshowItems[ this.current + 1 ];
 		}
 		this.currentItem = this.slideshowItems[ this.current ];
+		// Load displayed images
+		this._loadItemImages();
 	}
 
 	// taken from https://github.com/desandro/vanilla-masonry/blob/master/masonry.js by David DeSandro
