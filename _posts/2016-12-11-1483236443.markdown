@@ -8,4 +8,5 @@ caption: That was my last sunset in Medellin before I left the country to Mexico
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 1.33333
 ---

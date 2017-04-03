@@ -8,4 +8,5 @@ caption: Basically everything that you can see on this picture is ice. It is eit
 location:
     latitude: 63.5569444
     longitude: -19.3027778
+ratio: 1.33333
 ---

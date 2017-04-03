@@ -8,4 +8,5 @@ caption: Those weird plants or trees are a speciality of the Páramo en Colombia
 location:
     latitude: 6.72535
     longitude: -75.69528
+ratio: 1.33333
 ---

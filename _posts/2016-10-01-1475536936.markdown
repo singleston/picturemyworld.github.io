@@ -8,4 +8,5 @@ caption: This is a carved mammoth tusk dating from the Ming Dynasty Chinese cult
 location:
     latitude: 36.1247446
     longitude: -115.1720809
+ratio: 1.33333
 ---

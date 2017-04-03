@@ -8,4 +8,5 @@ caption: Mazunte is one of the Pueblo Magico of Mexico. That one is super cute a
 location:
     latitude: 15.6677291
     longitude: -96.5545185
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: If you look closely you can see that the street lights and traffic sign
 location:
     latitude: 4.7109886
     longitude: -74.072092
+ratio: 1.33333
 ---

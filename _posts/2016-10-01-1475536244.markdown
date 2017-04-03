@@ -8,4 +8,5 @@ caption: The crazyness of Las Vegas has created shopping center in the shape of 
 location:
     latitude: 36.1699412
     longitude: -115.1398296
+ratio: 1.33333
 ---

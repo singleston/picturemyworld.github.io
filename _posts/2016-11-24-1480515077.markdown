@@ -8,4 +8,5 @@ caption: We had to stay in this fishing village for a night on our way to the Pu
 location:
     latitude: 12.195475
     longitude: -72.147218
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: This world known sidewalk simply is just a sidewalk with big stars on i
 location:
     latitude: 34.1015885
     longitude: -118.3336436
+ratio: 0.75
 ---

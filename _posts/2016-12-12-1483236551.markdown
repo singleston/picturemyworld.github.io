@@ -8,4 +8,5 @@ caption: Main entrance of the Basilica de Guadalupe. I went there during a peler
 location:
     latitude: 19.4848572
     longitude: -99.1178616
+ratio: 1
 ---

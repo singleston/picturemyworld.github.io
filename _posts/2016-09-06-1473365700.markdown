@@ -8,4 +8,5 @@ caption: In the capital city of Iceland, Reykjavik, many statues of vikings stan
 location:
     latitude: 64.1477849
     longitude: -21.9328708
+ratio: 1.33333
 ---

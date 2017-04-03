@@ -8,4 +8,5 @@ caption: Just some neigbour on our way to the hostel.
 location:
     latitude: 11.142812
     longitude: -74.116677
+ratio: 1.33333
 ---

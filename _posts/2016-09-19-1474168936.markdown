@@ -8,4 +8,5 @@ caption: Except the massive Trump tower in the center of the picture, what is im
 location:
     latitude: 41.8888031
     longitude: -87.626312
+ratio: 1.33333
 ---

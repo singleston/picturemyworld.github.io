@@ -8,4 +8,5 @@ caption: The Death Valley is known to be a dangerous extremely hot place. At the
 location:
     latitude: 36.2460841
     longitude: -116.8185076
+ratio: 1.33333
 ---

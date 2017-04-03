@@ -8,4 +8,5 @@ caption: The city of Cartagena was very important due to its massive harbor. The
 location:
     latitude: 10.3910485
     longitude: -75.4794257
+ratio: 1.33333
 ---

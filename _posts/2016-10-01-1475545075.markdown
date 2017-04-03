@@ -8,4 +8,5 @@ caption: Here you go with the copy of the Statue of Liberty in Vegas!
 location:
     latitude: 36.1023786
     longitude: -115.1745465
+ratio: 1.33333
 ---

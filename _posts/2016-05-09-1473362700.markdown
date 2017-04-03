@@ -8,4 +8,5 @@ caption: The Ishtar Gate was a gate of the Babylon city. It has been restaured a
 location:
     latitude: 52.521183
     longitude: 13.3969
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: ... being Mexico :3
 location:
     latitude: 17.0594169
     longitude: -96.7216219
+ratio: 1.33333
 ---

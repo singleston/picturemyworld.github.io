@@ -8,4 +8,5 @@ caption: That old car is very nice but, in general in Colombia most cars are not
 location:
     latitude: 3.4516467
     longitude: -76.5319854
+ratio: 1.33333
 ---

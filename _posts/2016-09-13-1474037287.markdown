@@ -8,4 +8,5 @@ caption: The Jacques Cartier Bridge is 2.6 km long and has been built in 1925. I
 location:
     latitude: 45.5219003
     longitude: -73.5421063
+ratio: 1.33333
 ---

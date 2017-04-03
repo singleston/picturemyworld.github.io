@@ -8,4 +8,5 @@ caption: The historic port of Montreal used to be the entry point into Canada by
 location:
     latitude: 45.5124578
     longitude: -73.5484867
+ratio: 1.33333
 ---

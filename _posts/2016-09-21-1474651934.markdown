@@ -8,4 +8,5 @@ caption: Nice view from the Santa Monica Pier of Pacific Park. In the background
 location:
     latitude: 34.0092429
     longitude: -118.4976025
+ratio: 1.33333
 ---

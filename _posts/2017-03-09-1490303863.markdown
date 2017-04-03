@@ -8,4 +8,5 @@ caption: Paragliding! Very nice sensation to see those mountains from way above.
 location:
     latitude: 6.815869
     longitude: -72.9897054
+ratio: 1.33333
 ---

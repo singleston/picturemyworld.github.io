@@ -8,4 +8,5 @@ caption: The world is a dangerous place, specially with this Tyrannosaurus Rex r
 location:
     latitude: 45.5325775
     longitude: -73.6099709
+ratio: 1.33333
 ---

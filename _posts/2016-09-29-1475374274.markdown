@@ -8,4 +8,5 @@ caption: Among all the different states I have visited in the US, Utah is by far
 location:
     latitude: 37.9220877
     longitude: -111.4395128
+ratio: 1.33333
 ---

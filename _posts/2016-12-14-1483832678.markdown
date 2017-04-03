@@ -8,4 +8,5 @@ caption: This church and former monastery has an incredible ceiling with many de
 location:
     latitude: 17.0656987
     longitude: -96.7232421
+ratio: 1.33333
 ---

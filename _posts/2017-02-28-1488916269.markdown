@@ -8,4 +8,5 @@ caption: One of the several beautiful spots around the Minca village in the moun
 location:
     latitude: 11.142812
     longitude: -74.116677
+ratio: 1.33333
 ---

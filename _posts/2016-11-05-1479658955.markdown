@@ -8,4 +8,5 @@ caption: Face of an indigenous man on a wall.
 location:
     latitude: 3.4516467
     longitude: -76.5319854
+ratio: 1.33333
 ---

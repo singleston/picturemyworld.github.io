@@ -8,4 +8,5 @@ caption: This big ball is a musuem dedicated to the environment. It has been bui
 location:
     latitude: 45.5140507
     longitude: -73.5316054
+ratio: 1.33333
 ---

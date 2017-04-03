@@ -8,4 +8,5 @@ caption: Beautiful sky over Guatape reflecting on the lake. In the background yo
 location:
     latitude: 6.231137
     longitude: -75.153467
+ratio: 1.33333
 ---

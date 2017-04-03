@@ -8,4 +8,5 @@ caption: That day we went for a walk on the beach. After few hours on our way ba
 location:
     latitude: 9.7640494
     longitude: -75.6409151
+ratio: 1.33333
 ---

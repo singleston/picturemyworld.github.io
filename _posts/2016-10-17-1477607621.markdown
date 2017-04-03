@@ -8,4 +8,5 @@ caption: This is the exit of a gold mine in Colombia. We have been there with a 
 location:
     latitude: 6.72535
     longitude: -75.69528
+ratio: 0.75
 ---

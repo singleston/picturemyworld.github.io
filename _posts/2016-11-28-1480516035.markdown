@@ -8,4 +8,5 @@ caption: Awesome hostel with great food (including real bread OH MY GOD!), nice 
 location:
     latitude: 11.2723445
     longitude: -73.8459336
+ratio: 1.33333
 ---

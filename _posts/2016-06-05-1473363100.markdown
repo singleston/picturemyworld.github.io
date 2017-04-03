@@ -8,4 +8,5 @@ caption: My very first semi triathlon done! I had to swimm for 750 meters, ride 
 location:
     latitude: 52.4884599
     longitude: 13.4697445
+ratio: 0.75
 ---

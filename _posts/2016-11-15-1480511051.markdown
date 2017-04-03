@@ -8,4 +8,5 @@ caption: I have no story about that paint, but it just bugged me so much I had t
 location:
     latitude: 6.2523907
     longitude: -75.5689108
+ratio: 1.36986
 ---

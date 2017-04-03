@@ -8,4 +8,5 @@ caption: Long ride from San Cristobal to the Atitlan lake, but jesus, Bienvenido
 location:
     latitude: 15.6397021
     longitude: -91.9795897
+ratio: 1.33333
 ---

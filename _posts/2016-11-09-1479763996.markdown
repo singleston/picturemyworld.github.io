@@ -8,4 +8,5 @@ caption: The big city of Medellin covers the entire valley and the mountains aro
 location:
     latitude: 6.244203
     longitude: -75.5812119
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: That day I have seen my first Baseball game ever. Even though I did not
 location:
     latitude: 41.9484384
     longitude: -87.6553327
+ratio: 3.22581
 ---

@@ -8,4 +8,5 @@ caption: This is Sue, the largest, best-preserved and most complete T-Rex ever f
 location:
     latitude: 41.866261
     longitude: -87.6169805
+ratio: 1.33333
 ---

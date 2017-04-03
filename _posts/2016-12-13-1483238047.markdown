@@ -8,4 +8,5 @@ caption: Is this how you would picture mexico in your brain? A large valley, a b
 location:
     latitude: 16.9058643
     longitude: -96.2603236
+ratio: 1.33333
 ---

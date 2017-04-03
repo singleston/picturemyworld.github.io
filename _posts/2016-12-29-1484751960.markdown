@@ -8,4 +8,5 @@ caption: This small lake is one of the many on Montebello. About 50 lakes are na
 location:
     latitude: 16.1016382
     longitude: -91.676936
+ratio: 1.33333
 ---

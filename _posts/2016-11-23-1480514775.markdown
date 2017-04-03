@@ -8,4 +8,5 @@ caption: The city of Santa Marta is touristy but not as much as Cartagena. The t
 location:
     latitude: 11.2403547
     longitude: -74.2110227
+ratio: 1.33333
 ---

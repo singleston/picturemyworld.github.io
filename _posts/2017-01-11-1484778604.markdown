@@ -8,4 +8,5 @@ caption: What I absolutely loved about Tikal is that you keep walking through th
 location:
     latitude: 17.2220409
     longitude: -89.6236995
+ratio: 1.33333
 ---

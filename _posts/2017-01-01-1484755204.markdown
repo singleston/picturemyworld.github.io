@@ -8,4 +8,5 @@ caption: The ruler of the city of Palenque K'inich Janahb' Pakal died on August 
 location:
     latitude: 17.4847697
     longitude: -92.0458949
+ratio: 0.75
 ---

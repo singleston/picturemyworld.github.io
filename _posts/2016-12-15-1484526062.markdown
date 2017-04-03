@@ -8,4 +8,5 @@ caption: That zipline is the longest one in Mexico, about a 1 kilometer long! Ev
 location:
     latitude: 17.1188888
     longitude: -96.4525
+ratio: 1.33333
 ---

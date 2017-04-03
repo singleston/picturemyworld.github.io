@@ -8,4 +8,5 @@ caption: After a long day driving through Mexico we were lucky to get that stunn
 location:
     latitude: 17.1188888
     longitude: -96.4525
+ratio: 1.33333
 ---

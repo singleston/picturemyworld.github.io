@@ -8,4 +8,5 @@ caption: Main stage of the Greenwood festival near Berlin. This picture has been
 location:
     latitude: 52.354823
     longitude: 13.5382262
+ratio: 1.33333
 ---

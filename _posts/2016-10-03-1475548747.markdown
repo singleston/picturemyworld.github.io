@@ -8,4 +8,5 @@ caption: That bridge is also sadly known to be the one with most commited suicid
 location:
     latitude: 37.8199286
     longitude: -122.4782551
+ratio: 1.33333
 ---

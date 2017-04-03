@@ -8,4 +8,5 @@ caption: That day we visited a museum explaining how wine is made in this region
 location:
     latitude: 45.0853331
     longitude: -0.7454046
+ratio: 1.33333
 ---

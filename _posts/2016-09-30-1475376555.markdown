@@ -8,4 +8,5 @@ caption: This valley is known as the Zion Canyon in southern Utah. On the left, 
 location:
     latitude: 37.2982022
     longitude: -113.0263005
+ratio: 1.33333
 ---

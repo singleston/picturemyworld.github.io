@@ -8,4 +8,5 @@ caption: One of the hikes you can do around Minca leads to this nice and refresh
 location:
     latitude: 11.142812
     longitude: -74.116677
+ratio: 1.33333
 ---

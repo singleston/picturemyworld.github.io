@@ -8,4 +8,5 @@ caption: Once we got at the bottom of the canyon we could see the hoodoos from a
 location:
     latitude: 37.5930377
     longitude: -112.1870895
+ratio: 1.33333
 ---

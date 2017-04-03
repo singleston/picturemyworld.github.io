@@ -8,4 +8,5 @@ caption: This very rich neighborhood has many magnificient houses and lots of gr
 location:
     latitude: 34.0736204
     longitude: -118.4003563
+ratio: 1.33333
 ---

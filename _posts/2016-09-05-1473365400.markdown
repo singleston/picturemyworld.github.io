@@ -8,4 +8,5 @@ caption: My first sunset in Reykjavik. Beautiful burning sky and crazy colored c
 location:
     latitude: 64.1512815
     longitude: -21.9594222
+ratio: 1.33333
 ---

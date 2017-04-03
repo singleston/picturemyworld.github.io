@@ -8,4 +8,5 @@ caption: Do not mistake it, this is not the Eiffel Tower from Paris but a smalle
 location:
     latitude: 36.1124662
     longitude: -115.1721916
+ratio: 0.75
 ---

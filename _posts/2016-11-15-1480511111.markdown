@@ -8,4 +8,5 @@ caption: Fernando Botero is a famous artist and sculptor from Medellin. His styl
 location:
     latitude: 6.2523907
     longitude: -75.5689108
+ratio: 1.33333
 ---

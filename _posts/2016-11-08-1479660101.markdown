@@ -8,4 +8,5 @@ caption: Even though the quality of that street art is incredible, what is more 
 location:
     latitude: 4.7109886
     longitude: -74.072092
+ratio: 1.33333
 ---

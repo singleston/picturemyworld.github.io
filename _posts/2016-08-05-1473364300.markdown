@@ -8,4 +8,5 @@ caption: On the South West coast of France, there is a beach 200km long. On the 
 location:
     latitude: 44.164373
     longitude: -1.307304
+ratio: 1.33333
 ---

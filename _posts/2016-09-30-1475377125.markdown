@@ -8,4 +8,5 @@ caption: After an hour hiking I arrived at that view point. The rest was more li
 location:
     latitude: 37.2982022
     longitude: -113.0263005
+ratio: 1.33333
 ---

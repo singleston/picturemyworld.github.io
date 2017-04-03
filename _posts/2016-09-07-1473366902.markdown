@@ -8,4 +8,5 @@ caption: This small waterfall in the background is actually massive when you get
 location:
     latitude: 63.5320523
     longitude: -19.5113706
+ratio: 1.33333
 ---

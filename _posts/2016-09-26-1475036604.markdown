@@ -8,4 +8,5 @@ caption: At this very crazy spot, the Colorado River looks like a horseshoe. The
 location:
     latitude: 36.8791588
     longitude: -111.510513
+ratio: 1.33333
 ---

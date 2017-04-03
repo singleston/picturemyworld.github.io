@@ -8,4 +8,5 @@ caption: Mom I'm fine! And I'm tanned now!
 location:
     latitude: 11.270307
     longitude: -74.196374
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: The 2000 years old Nîmes city, in southern France was a Roman Empire o
 location:
     latitude: 43.834904
     longitude: 4.3596146
+ratio: 1.33333
 ---

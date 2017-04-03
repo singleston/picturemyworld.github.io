@@ -8,4 +8,5 @@ caption: Picture taken from the Hoover Dam  in the Black Canyon of the Colorado 
 location:
     latitude: 36.0160655
     longitude: -114.7377325
+ratio: 1.33333
 ---

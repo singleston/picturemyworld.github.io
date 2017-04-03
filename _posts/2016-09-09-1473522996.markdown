@@ -8,4 +8,5 @@ caption: This flag stands on what the icelandic people claim to be the place of 
 location:
     latitude: 64.2597454
     longitude: -21.1223641
+ratio: 1.5
 ---

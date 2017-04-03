@@ -8,4 +8,5 @@ caption: The most famous church of Reykjavik and maybe of Iceland is called Hall
 location:
     latitude: 64.1417149
     longitude: -21.9266371
+ratio: 1.33333
 ---

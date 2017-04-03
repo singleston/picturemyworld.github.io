@@ -8,4 +8,5 @@ caption: The first ruins I ever saw!
 location:
     latitude: 17.4847697
     longitude: -92.0458949
+ratio: 1.33333
 ---

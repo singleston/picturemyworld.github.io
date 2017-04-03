@@ -8,4 +8,5 @@ caption: In this circular room one can see many statues of ancient Greek gods. T
 location:
     latitude: 52.5194665
     longitude: 13.3987445
+ratio: 3.37838
 ---

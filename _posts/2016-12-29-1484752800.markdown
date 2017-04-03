@@ -8,4 +8,5 @@ caption: Somehow this is how I picture the water in Thailand or something, but i
 location:
     latitude: 16.1016382
     longitude: -91.676936
+ratio: 1.33333
 ---

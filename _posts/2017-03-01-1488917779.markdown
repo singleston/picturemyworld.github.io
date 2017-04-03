@@ -8,4 +8,5 @@ caption: I can't stop taking picture of sunsets like this one! It's so beautiful
 location:
     latitude: 11.142812
     longitude: -74.116677
+ratio: 1.33333
 ---

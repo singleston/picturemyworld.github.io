@@ -8,4 +8,5 @@ caption: For once, this shot is not a sunset but a sunrise! I woke at 5 am that 
 location:
     latitude: 20.2114185
     longitude: -87.4653502
+ratio: 1.33333
 ---

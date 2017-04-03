@@ -8,4 +8,5 @@ caption: I believe this is the most perfect shot I have ever done so far in my l
 location:
     latitude: 16.865738
     longitude: -96.2760358
+ratio: 1.33333
 ---

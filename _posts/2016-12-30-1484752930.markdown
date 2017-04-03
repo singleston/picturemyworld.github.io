@@ -8,4 +8,5 @@ caption: Just a crocodile chilling on that rock. That one is a small one apparen
 location:
     latitude: 16.8377638
     longitude: -93.0820476
+ratio: 0.75
 ---

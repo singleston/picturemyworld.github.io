@@ -8,4 +8,5 @@ caption: I finally managed to see the capital city of Colombia from above. Last 
 location:
     latitude: 4.7109886
     longitude: -74.072092
+ratio: 1.33333
 ---

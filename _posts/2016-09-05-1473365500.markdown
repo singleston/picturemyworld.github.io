@@ -8,4 +8,5 @@ caption: Around the big church in the city center of Reykjavik, Iceland, many ho
 location:
     latitude: 64.1265206
     longitude: -21.8174393
+ratio: 1.33333
 ---

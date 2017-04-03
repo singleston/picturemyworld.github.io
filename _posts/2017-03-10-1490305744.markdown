@@ -8,4 +8,5 @@ caption: Guane is an even smaller town than Barichara. There is less tourism, le
 location:
     latitude: 6.68338
     longitude: -73.24997
+ratio: 1.33333
 ---

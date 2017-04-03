@@ -8,4 +8,5 @@ caption: This lake is actually the Colorado River on a very large scale. I went 
 location:
     latitude: 37.0682619
     longitude: -111.2433108
+ratio: 1.33333
 ---

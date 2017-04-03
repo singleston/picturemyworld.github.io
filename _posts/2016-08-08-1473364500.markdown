@@ -8,4 +8,5 @@ caption: Even though the hiking itself is not very hard, reaching this lake is a
 location:
     latitude: 42.8759618
     longitude: -0.2675794
+ratio: 1.33333
 ---

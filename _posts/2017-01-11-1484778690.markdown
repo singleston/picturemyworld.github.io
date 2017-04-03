@@ -8,4 +8,5 @@ caption: This used to be the main square of the city of Tikal. As you can see, l
 location:
     latitude: 17.2220409
     longitude: -89.6236995
+ratio: 1.35135
 ---

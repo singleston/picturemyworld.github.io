@@ -8,4 +8,5 @@ caption: We are not sure, but that might be me... or not haha!
 location:
     latitude: 6.815869
     longitude: -72.9897054
+ratio: 1.33333
 ---

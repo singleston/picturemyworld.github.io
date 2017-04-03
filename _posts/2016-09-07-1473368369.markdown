@@ -8,4 +8,5 @@ caption: Nature Nature Nature
 location:
     latitude: 63.5569444
     longitude: -19.3027778
+ratio: 1.5
 ---

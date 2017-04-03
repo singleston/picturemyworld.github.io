@@ -8,4 +8,5 @@ caption: This is the main place of the village of Belmira. The bus starts from t
 location:
     latitude: 6.606241
     longitude: -75.666528
+ratio: 1.33333
 ---

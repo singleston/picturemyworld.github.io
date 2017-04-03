@@ -8,4 +8,5 @@ caption: For my first night in the US, I had the chance to get into a private ca
 location:
     latitude: 41.8786351
     longitude: -87.6250549
+ratio: 1.33333
 ---

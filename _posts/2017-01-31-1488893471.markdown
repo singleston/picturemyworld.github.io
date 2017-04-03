@@ -8,4 +8,5 @@ caption: Taganga is a fishing village close to Santa Marta. Easy to go to with a
 location:
     latitude: 11.2645493
     longitude: -74.1911154
+ratio: 1.33333
 ---

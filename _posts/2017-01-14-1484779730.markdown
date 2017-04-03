@@ -8,4 +8,5 @@ caption: The ruins themselves are not that pretty but the area where they are is
 location:
     latitude: 20.2114185
     longitude: -87.4653502
+ratio: 1.33333
 ---

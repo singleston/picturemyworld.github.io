@@ -8,4 +8,5 @@ caption: Built in 1932 this watchtower offers a sublime view over the Grand Cany
 location:
     latitude: 36.0403851
     longitude: -111.8280456
+ratio: 1.33333
 ---

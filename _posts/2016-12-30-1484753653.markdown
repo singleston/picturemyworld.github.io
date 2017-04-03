@@ -8,4 +8,5 @@ caption: See mom, I even had a safety jacket :)
 location:
     latitude: 16.8377638
     longitude: -93.0820476
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: The view in the morning from the wooden house.
 location:
     latitude: 6.72535
     longitude: -75.69528
+ratio: 1.33333
 ---

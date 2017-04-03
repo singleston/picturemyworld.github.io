@@ -8,4 +8,5 @@ caption: It is possible to sleep in that small hut and be surrounded by the ocea
 location:
     latitude: 11.2882416
     longitude: -74.1516509
+ratio: 1.33333
 ---

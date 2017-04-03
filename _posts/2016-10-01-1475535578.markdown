@@ -8,4 +8,5 @@ caption: This is the main lobby of the well known Bellagio hotel. On the ceiling
 location:
     latitude: 36.1126264
     longitude: -115.1767051
+ratio: 1.33333
 ---

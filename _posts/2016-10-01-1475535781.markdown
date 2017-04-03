@@ -8,4 +8,5 @@ caption: In the background the Bellagio hotel, in the foreground the famous foun
 location:
     latitude: 36.1126264
     longitude: -115.1767051
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Picture of the Bode Museum taken from the Mon Bijou Brücke in Berlin. 
 location:
     latitude: 52.5218937
     longitude: 13.3942567
+ratio: 1.33333
 ---

@@ -8,4 +8,5 @@ caption: Did I tell you that the hostels at Costeño are actually situated on a 
 location:
     latitude: 11.2723445
     longitude: -73.8459336
+ratio: 1.33333
 ---

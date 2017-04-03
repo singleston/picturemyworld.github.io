@@ -8,4 +8,5 @@ caption: After a long preparation those are the coffee beans one could buy from 
 location:
     latitude: 4.637376
     longitude: -75.570777
+ratio: 1.44231
 ---
