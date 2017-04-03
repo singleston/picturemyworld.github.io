@@ -156,14 +156,15 @@
 		});
 	};
 
-	CBPGridGallery.prototype._loadImage = function( img ) {
-		img.src = img.dataset.tmp;
-	};
-
 	CBPGridGallery.prototype._loadItemImages = function() {
-		this._loadImage(this.currentItem.querySelector('img'));
-		this._loadImage(this.prevItem.querySelector('img'));
-		this._loadImage(this.nextItem.querySelector('img'));
+		[this.currentItem, this.prevItem, this.nextItem].forEach(function( item ) {
+			if (item) {
+				let img = item.querySelector('img');
+				if (img) {
+					img.src = img.dataset.tmp;
+				}
+			}
+		})
 	};
 
 	CBPGridGallery.prototype._openSlideshow = function( pos ) {
