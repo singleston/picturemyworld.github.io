@@ -14,12 +14,12 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /*height: auto;*/
-    /*min-height: 50px;*/
+    height: auto;
+    min-height: 50px;
 }
 
 .grid-wrap figure img:not([src]) {
-	/*visibility: hidden;*/
+	visibility: hidden;
 }
 
 .grid-gallery figcaption h3 {
@@ -84,7 +84,7 @@
 
 /* Fixes Firefox anomaly during image load */
 @-moz-document url-prefix() {
-/*	.grid-wrap figure img:-moz-loading {
+	.grid-wrap figure img:-moz-loading {
 		visibility: hidden;
-	}*/
+	}
 }
