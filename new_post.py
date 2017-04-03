@@ -109,6 +109,17 @@ def createBigImage(filename, filepath):
 	image_path = (root + "/img/large/" + filename + ".jpg")
 	os.system("convert %s -resize 2160x1440 -quality 40 %s" % (filepath, image_path))
 
+# Get the ratio of the new image
+def getImageRatio(filename):
+	root = os.path.dirname(os.path.realpath(__file__))
+	thumbnail_path = (root + "/img/thumb/" + filename + ".jpg")
+	command_line = "identify -format '%[fx:w/h]' " + thumbnail_path
+	ratio = subprocess.check_output(command_line.split(' '))
+	# Remove extra ' characters
+	ratio = re.sub("'", '', ratio)
+	# ratio = re.sub('\n', '', ratio)
+	return ratio
+
 # Fetch the latitude and longitude of the geolocation
 def getLocationLatitudeLongitude(geolocation):
 	googlemaps_api_key = "AIzaSyD8L1sSjFveHxHM_3wxw73olaklHZukfrU"
@@ -129,8 +140,6 @@ def createMarkdownFile(filename, date, geolocation, title, text):
 	f.write('---\nlayout: default\n') # python will convert \n to os.linesep
 	f.write('date: %s\n' % date)
 	f.write('photo: %s.jpg\n' % filename)
-	# TODO: add ratio. See add_location_to_posts.py script.
-	f.write('ratio: TODO\n')
 	f.write('image: /img/thumb/%s.jpg\n' % filename)
 	f.write('location_text: %s\n' % geolocation)
 	f.write('title: %s\n' % title)
@@ -138,6 +147,7 @@ def createMarkdownFile(filename, date, geolocation, title, text):
 	f.write('location:\n')
 	f.write('    latitude: %s\n' % latitude)
 	f.write('    longitude: %s\n' % longitude)
+	f.write('ratio: %s\n' % getImageRatio(filename))
 	f.write('---\n')
 	f.close() # you can omit in most cases as the destructor will call it
 
