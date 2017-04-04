@@ -74,7 +74,10 @@ layout: default
 <!-- Attach javascripts to grid-gallery -->
 <script>
 	var grid = new CBPGridGallery(document.getElementById('grid-gallery'));
-	var myLazyLoad = new LazyLoad();
+	// var myLazyLoad = new LazyLoad();
+	var myLazyLoad = new LazyLoad({
+		threshold: 0
+	});
 
 	// Calculate and set the 'responsive' display size for the each thumbnails in the grid.
 	[].forEach.call(document.getElementsByClassName('grid_thumbnail'), function(element) {

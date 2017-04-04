@@ -16,6 +16,13 @@
     margin-right: auto;
     height: auto;
     min-height: 50px;
+    opacity: 0;
+	transition: opacity 0.3s;
+}
+
+.grid-wrap figure img.loaded,
+.grid-wrap figure img.error {
+	opacity: 1;
 }
 
 .grid-wrap figure img:not([src]) {
