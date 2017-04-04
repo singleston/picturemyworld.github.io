@@ -100,6 +100,10 @@
 	.info-keys {
 		display: none;
 	}
+
+	.slideshow h3 {
+		display: none;
+	}
 }
 
 @media screen and (max-width: 35em) {
