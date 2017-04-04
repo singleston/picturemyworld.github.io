@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-03-19
+photo: 1491263124.jpg
+image: /img/thumb/1491263124.jpg
+location_text: Museo El Castillo, Medellin, Colombia
+title: Art
+caption: Small piece of art in one of the smallest museum I have ever seen.
+location:
+    latitude: 6.244203
+    longitude: -75.5812119
+ratio: 0.75
+---

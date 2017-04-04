@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-03-30
+photo: 1491263888.jpg
+image: /img/thumb/1491263888.jpg
+location_text: Atanasio Girardot Stadium, Medellin, Colombia
+title: Los del Sur!
+caption: All the fans of the Atlético Nacional gather on the southern side of the stadium and sing, party, go crazy the entire time of the game... and even after! Very devoted fans!
+location:
+    latitude: 6.256864
+    longitude: -75.59013
+ratio: 1.33333
+---
