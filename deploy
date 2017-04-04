@@ -5,6 +5,10 @@
 # Exit if any subcommand fails.
 set -e
 
+echo "Checkout and pull the master branch"
+git checkout master
+git pull origin master
+
 echo "Started deploying"
 
 # Checkout gh-pages branch.
