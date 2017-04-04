@@ -49,7 +49,8 @@
 }
 
 .grid li {
-	width: 25%;
+	/* For n elements side by side: 100/n % */
+	width: 33.3%;
 	float: left;
 	cursor: pointer;
 }
@@ -80,7 +81,8 @@
 /* This code needs to be in that specific file otherwise the dynamic resize does not work on mobile. */
 @media screen and (max-width: 60em) {
 	.grid li {
-		width: 33.3%;
+		/* For n elements side by side: 100/n % */
+		width: 50%;
 	}
 
 	/* responsive columns; see "Element sizing" on http://masonry.desandro.com/options.html */
