@@ -24,7 +24,6 @@
 /* Google maps */
 .active_googlemaps {
 	position: fixed;
-	background-color: white;
 	bottom: 0em;
 	width: 100%; 
 	top: 5em;
@@ -34,7 +33,6 @@
 
 .googlemaps {
 	position: fixed;
-	background-color: white;
 	opacity: .30;
 	pointer-events: none;
 	bottom: 0em;
@@ -46,7 +44,12 @@
 
 @media screen and (max-width: 35em) {
 	.googlemaps {
-		display: none;
+		/* Uncomment to disable the background map for small devices */
+		/*display: none;*/
+
+		/* To perfectly fit the map to the header the top should be 3.9em */
+		/* But in order to hide the Google Maps config buttons under the header use 0em */
+		top: 0em;
 	}
 }
 

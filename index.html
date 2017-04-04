@@ -3,8 +3,8 @@ layout: default
 ---
 
 <!-- Load specific CSS files -->
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
 
 <!-- Load specific javascript files -->
 <script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
@@ -58,7 +58,7 @@ layout: default
 				<figure>
 					<img data-tmp="{{ site.url }}/img/large/{{ post.photo }}"/>
 				</figure>
-				<figcaption><h3>{{ post.title }}</h3></figcaption>
+				<h3>{{ post.title }}</h3>
 			</li>
 			{% endfor %}
 		</ul>
