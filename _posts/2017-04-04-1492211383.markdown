@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-04
+photo: 1492211383.jpg
+image: /img/thumb/1492211383.jpg
+location_text: The Humpback Turtle, Choco, Colombia
+title: Outside the hostel
+caption: Right outside the Humpback Turtle hostel is the El Almejal beach. It got nice waves very good for surfing and big rocks on the side. It looks like a post card :)
+location:
+    latitude: 6.1157216
+    longitude: -77.4363767
+ratio: 1.33333
+---
