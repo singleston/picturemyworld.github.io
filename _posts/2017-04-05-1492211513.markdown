@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-05
+photo: 1492211513.jpg
+image: /img/thumb/1492211513.jpg
+location_text: The Humpback Turtle, Choco, Colombia
+title: Beach football
+caption: Very intense game on the beach! My muscles hurt for 2 days after that!
+location:
+    latitude: 6.1157216
+    longitude: -77.4363767
+ratio: 1.33333
+---

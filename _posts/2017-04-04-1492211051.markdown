@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-04
+photo: 1492211051.jpg
+image: /img/thumb/1492211051.jpg
+location_text: Aeropuerto Bahia Solano, Choco, Colombia
+title: Flying
+caption: On our flight to Bahia Solano I had the chance to sit in the front row... the plane was so small I still got the engine next to me!
+location:
+    latitude: 6.2026062
+    longitude: -77.3946853
+ratio: 0.75
+---
