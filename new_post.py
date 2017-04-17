@@ -126,10 +126,13 @@ def getLocationLatitudeLongitude(geolocation):
 	endpoint = "https://maps.googleapis.com/maps/api/geocode/json?key=" + googlemaps_api_key
 	endpoint += "&address=" + geolocation
 
+	print "\nFetching exact location..."
 	response = requests.get(endpoint)
 	json_data = json.loads(response.text)
 	location = json_data["results"][0]["geometry"]["location"]
-	return (str(location["lat"]), str(location["lng"]))
+	result = (str(location["lat"]), str(location["lng"])) 
+	print result
+	return result
 
 # Create the markdown file for the new post.
 def createMarkdownFile(filename, date, geolocation, title, text):
@@ -172,6 +175,7 @@ geolocation = getLocation()
 text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new post:")
 
 # Create thumbnail, large image and post.
+print "\nCreating new images..."
 createThumbnail(filename, filepath)
 createBigImage(filename, filepath)
 createMarkdownFile(filename, date, geolocation, title, text)
