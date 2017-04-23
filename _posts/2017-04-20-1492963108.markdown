@@ -5,7 +5,7 @@ photo: 1492963108.jpg
 image: /img/thumb/1492963108.jpg
 location_text: Tatacoa Desert, Colombia
 title: Rocky rocks
-caption: Fun fact, I had no idea how those things are called. Well my friend Google helped again! 'Cairn'
+caption: Fun fact, I had no idea how those things were called. Well, my friend Google helped again! 'Cairn'
 location:
     latitude: 3.2323761
     longitude: -75.168794
