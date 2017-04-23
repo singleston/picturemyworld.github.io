@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-20
+photo: 1492962254.jpg
+image: /img/thumb/1492962254.jpg
+location_text: Tatacoa Desert, Colombia
+title: 50 shades of gray
+caption: Gray area of the Tatacoa Desert.
+location:
+    latitude: 3.2323761
+    longitude: -75.168794
+ratio: 1.33333
+---
