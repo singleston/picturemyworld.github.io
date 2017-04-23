@@ -5,7 +5,7 @@ photo: 1492961772.jpg
 image: /img/thumb/1492961772.jpg
 location_text: Tatacoa Desert, Colombia
 title: Sunrise!
-caption: Stunning sunrise in the desert! Got to get up very early though... but it was worth it!
+caption: Stunning sunrise in the desert! Had to get up very early... but it was worth it!
 location:
     latitude: 3.2323761
     longitude: -75.168794
