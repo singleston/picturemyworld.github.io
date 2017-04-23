@@ -5,7 +5,7 @@ photo: 1492467523.jpg
 image: /img/thumb/1492467523.jpg
 location_text: Playa El Almejal, Choco, Colombia
 title: Sunset without any sun
-caption: That evening the sunset was not that intense due to the cloudy sky, but, nonetheless the light was enough to sget that perfect reflection!
+caption: That evening the sunset was not that intense due to the cloudy sky, but, nonetheless the light was enough to get that perfect reflection!
 location:
     latitude: 6.1140566
     longitude: -77.4363452

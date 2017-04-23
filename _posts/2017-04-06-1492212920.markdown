@@ -5,7 +5,7 @@ photo: 1492212920.jpg
 image: /img/thumb/1492212920.jpg
 location_text: Playa Mecana, Bahia Solano, Choco, Colombia
 title: Dude! Coconut!
-caption: Look at that! A plam tree is growing from wihtin that coconut; no roots no nothing outside of it! hahaha
+caption: Look at that! A plam tree is growing from within that coconut; no roots no nothing outside of it! hahaha
 location:
     latitude: 6.269932
     longitude: -77.455033
