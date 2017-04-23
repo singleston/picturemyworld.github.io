@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-20
+photo: 1492962178.jpg
+image: /img/thumb/1492962178.jpg
+location_text: Tatacoa Desert, Colombia
+title: Gray area
+caption: That's the gray area of the Tatacoa desert. The formations are very different than the ones in the red area. It is also less hot in there, maybe due to the vegetation or something else :)
+location:
+    latitude: 3.2323761
+    longitude: -75.168794
+ratio: 1.33333
+---
