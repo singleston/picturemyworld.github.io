@@ -122,11 +122,11 @@ def getImageRatio(filename):
 
 # Fetch the latitude and longitude of the geolocation
 def getLocationLatitudeLongitude(geolocation):
-	googlemaps_api_key = "AIzaSyD8L1sSjFveHxHM_3wxw73olaklHZukfrU"
+	print "\nFetching geolocation information..."
+	googlemaps_api_key = "AIzaSyDQPESzmmn8Viv5TvDIKR4kEw35j5rHFXc"
 	endpoint = "https://maps.googleapis.com/maps/api/geocode/json?key=" + googlemaps_api_key
 	endpoint += "&address=" + geolocation
 
-	print "\nFetching exact location..."
 	response = requests.get(endpoint)
 	json_data = json.loads(response.text)
 	location = json_data["results"][0]["geometry"]["location"]
@@ -175,7 +175,7 @@ geolocation = getLocation()
 text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new post:")
 
 # Create thumbnail, large image and post.
-print "\nCreating new images..."
+print "\nCreating new image files..."
 createThumbnail(filename, filepath)
 createBigImage(filename, filepath)
 createMarkdownFile(filename, date, geolocation, title, text)
