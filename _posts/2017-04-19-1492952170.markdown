@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-19
+photo: 1492952170.jpg
+image: /img/thumb/1492952170.jpg
+location_text: Tatacoa Desert, Colombia
+title: Tatacoa Desert
+caption: The Tatacoa Desert stands between two mountain range in Colombia. Unlike the Death Valley in the USA, this desert is way above the sea level and vegetation sill grows here.
+location:
+    latitude: 3.2323761
+    longitude: -75.168794
+ratio: 1.33333
+---
