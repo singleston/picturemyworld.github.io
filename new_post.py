@@ -130,7 +130,9 @@ def getLocationLatitudeLongitude(geolocation):
 	response = requests.get(endpoint)
 	json_data = json.loads(response.text)
 	location = json_data["results"][0]["geometry"]["location"]
-	return (str(location["lat"]), str(location["lng"]))
+	result = (str(location["lat"]), str(location["lng"])) 
+	print result
+	return result
 
 # Create the markdown file for the new post.
 def createMarkdownFile(filename, date, geolocation, title, text):
