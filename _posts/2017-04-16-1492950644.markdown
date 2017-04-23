@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-16
+photo: 1492950644.jpg
+image: /img/thumb/1492950644.jpg
+location_text: Finca El Ocaso, Salento, Colombia
+title: Brewing ma coffee
+caption: Me brewing a prenium quality coffee in a farm in Colombia.
+location:
+    latitude: 4.6237352
+    longitude: -75.5952989
+ratio: 1.33333
+---
