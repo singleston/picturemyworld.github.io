@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-19
+photo: 1492960921.jpg
+image: /img/thumb/1492960921.jpg
+location_text: Tatacoa Desert, Colombia
+title: Poke
+caption: Hey you! That giant cactus does not contain water or milk or whatsoever, only woods. It can live up to 200 years old :O
+location:
+    latitude: 3.2323761
+    longitude: -75.168794
+ratio: 0.75
+---
