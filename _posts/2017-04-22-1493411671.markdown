@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-04-22
+photo: 1493411671.jpg
+image: /img/thumb/1493411671.jpg
+location_text: Popayan, Colombia
+title: Procession
+caption: View from our hostel. In Popayan, the week after the Holy Week they keep doing processions (like if they did not have enough already) but that time for kids. It's maybe hard to see on the picture, but only kids are processing and playing music w:)
+location:
+    latitude: 2.4448143
+    longitude: -76.6147395
+ratio: 1.33333
+---
