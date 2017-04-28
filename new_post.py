@@ -10,8 +10,7 @@ import json
 
 from datetime import datetime
 
-parser = argparse.ArgumentParser(description='Create and upload a new post')
-parser.add_argument('-n','--name', help='Name for the markdown and image files', required=False, default=None)
+parser = argparse.ArgumentParser(description='Create and upload a new image post')
 parser.add_argument('-d','--date', help='Date of the post: YYYY-MM-DD', required=False, default=None)
 parser.add_argument('-p','--path', help='Path to the actual photo to upload', required=False, default=None)
 parser.add_argument('-l','--location', help='Place where the picture has been taken', required=False, default=None)
@@ -48,7 +47,7 @@ def getLocation():
 		location = getValidRawInput("Please specify some GEOLOCATION KEYWORDS:")
 	return location
 
-# Clean non-word characters and whitespaces
+# Clean non-word characters and whitespaces. UNUSED but useful.
 def clearString(s):
 	# Remove all duplicated whitespaces
 	s = re.sub(' +', ' ', s).strip()
@@ -60,20 +59,6 @@ def clearString(s):
 	if s == '-' or s == '':
 		return None
 	return s
-
-# Ask for filename NOT USED anymore.
-def getFilename():
-	filename = clearString(args['name'] if args['name'] != None else "")
-	if filename == "":
-		filename = None
-
-	while filename == None:
-		filename = getValidRawInput("Please specify a FILENAME for the markdown and image files:")
-		filename = clearString(filename)
-		if filename == "":
-			filename = None
-
-	return filename
 
 # Ask for filepath. Must not contain whitespaces
 def getFilepath():
@@ -155,28 +140,32 @@ def createMarkdownFile(filename, date, geolocation, title, text):
 	f.close() # you can omit in most cases as the destructor will call it
 
 # Git commit new post
-def gitCommitNewPost(filename, title):
+def gitCommitNewPost(filename, title, date):
 	root = os.path.dirname(os.path.realpath(__file__))
 	image_path = (root + "/img/large/" + filename + ".jpg")
 	thumbnail_path = (root + "/img/thumb/" + filename + ".jpg")
 	md_path = (root + '/_posts/' + date + '-' + filename + '.markdown')
-	print "\nGit commit new post: " + title + "\n"
+	print "\nGit commit new image post: " + title + "\n"
 	os.system("cd %s" % (root))
 	os.system("git add %s %s %s" % (thumbnail_path, image_path, md_path))
 	os.system("git commit -m 'New post: %s'" % (title))
 
-# Get all important data
-date = getDate()
-filename = "%d" % int(time.time())
-print "\nNew filename: '%s'" % (filename)
-filepath = getFilepath()
-title = getValidRawInput("Please specify a TITLE for the new post:")
-geolocation = getLocation()
-text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new post:")
+def createNewImagePost():
+	# Get all important data
+	date = getDate()
+	filename = "%d" % int(time.time())
+	print "\nNew filename: '%s'" % (filename)
+	filepath = getFilepath()
+	title = getValidRawInput("Please specify a TITLE for the new image post:")
+	geolocation = getLocation()
+	text = getValidRawInput("Please specify a DESCRIPTION TEXT for the new image post:")
+	# Create thumbnail, large image and post.
+	print "\nCreating new image files..."
+	createThumbnail(filename, filepath)
+	createBigImage(filename, filepath)
+	# Create Markdown file
+	createMarkdownFile(filename, date, geolocation, title, text)
+	# Git commit
+	gitCommitNewPost(filename, title, date)
 
-# Create thumbnail, large image and post.
-print "\nCreating new image files..."
-createThumbnail(filename, filepath)
-createBigImage(filename, filepath)
-createMarkdownFile(filename, date, geolocation, title, text)
-gitCommitNewPost(filename, title)
+createNewImagePost()

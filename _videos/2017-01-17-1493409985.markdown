@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-01-17
+youtube_id: GFc55dZrT44
+title: Mexico & Guatemala
+caption: Video of my trip to Mexico and Guatemala. December 2016, January 2017.
+music: Marek Hemmann - Inessa
+---

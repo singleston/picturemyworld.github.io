@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2016-12-01
+youtube_id: JpCMo4RHGFM
+title: Discovering Colombia
+caption: Special thanks to my travel companions Sophie, Logan and Roxy! November 2016.
+music: Marek Hemmann - Tagoma
+---

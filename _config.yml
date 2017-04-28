@@ -1,8 +1,5 @@
 name: Picture My World
-# markdown: redcarpet
-# pygments: true # deprecated
 highlighter: rouge
-#permalink: /:year/:month/:title/
 url: http://picturemy.world/
 #url: http://127.0.0.1:4000/
 
@@ -10,18 +7,12 @@ author:
   name: Kevin Delord
 
 # Site settings
-# title:                Kevin Delord
+# title:                Picture My World
 # email:                delord.kevin@gmail.com
 # author:               Kevin Delord
-# description:          "Club Mate powered"
-# baseurl:              ""
-# url:                  "http://picturemyworld.github.io"
-# date_format:          "%b %-d, %Y"
 
 # Build settings
 markdown:     kramdown
-#redcarpet:
-#  extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 sass:
   compressed: true
@@ -35,3 +26,6 @@ gems:
 maps:
   google:
     api_key: AIzaSyD8L1sSjFveHxHM_3wxw73olaklHZukfrU
+
+collections:
+  videos:
