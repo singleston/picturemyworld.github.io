@@ -5,7 +5,7 @@ photo: 1493411082.jpg
 image: /img/thumb/1493411082.jpg
 location_text: Popayan, Colombia
 title: One of many churches
-caption: There are about 7 churches in Popayan and all kinda busy with mess every day, multiple times a day! The faith of the people in that t town in incredible!
+caption: There are about 7 churches in Popayan and all busy with mess every day, multiple times a day! The faith of the people in that city in incredible!
 location:
     latitude: 2.4448143
     longitude: -76.6147395

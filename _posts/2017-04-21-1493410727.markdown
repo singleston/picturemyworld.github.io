@@ -5,7 +5,7 @@ photo: 1493410727.jpg
 image: /img/thumb/1493410727.jpg
 location_text: Popayan, Colombia
 title: Welcome to Popayan
-caption: This small colonial city is famous for its chalk-white facades and as a religious center with tons of churches and a popular Holy Week in April.
+caption: This small colonial city is famous for its chalk-white facades and as a religious center with many churches and a popular Holy Week in April.
 location:
     latitude: 2.4448143
     longitude: -76.6147395
