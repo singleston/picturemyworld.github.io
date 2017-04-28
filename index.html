@@ -19,15 +19,7 @@ layout: default
 </div>
 
 <!-- Add header element -->
-<div class="header_container">
-	<header class="clearfix">
-		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
-		<nav>
-			<a href="https://www.facebook.com/delord.kevin" class="fa fa-facebook fa-lg"></a>
-			<a href="{{ site.url }}/map" class="fa fa-map fa-lg"></a>
-		</nav>
-	</header>
-</div>
+{% include header.html %}
 
 <!-- Add the grid element -->
 <div id="grid-gallery" class="grid-gallery">

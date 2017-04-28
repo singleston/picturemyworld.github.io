@@ -3,15 +3,7 @@ layout: default
 ---
 
 <!-- Load specific CSS files -->
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slideshow.css" />
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
-
-<!-- Load specific javascript files -->
-<script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
-<script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
-<script src="{{ site.url }}/js/classie.js"></script>
-<script src="{{ site.url }}/js/cbpGridGallery.js"></script>
-<script src="{{ site.url }}/js/lazyload.min.js"></script>
 
 <!-- Add google maps element -->
 <div class="googlemaps" >
@@ -19,16 +11,7 @@ layout: default
 </div>
 
 <!-- Add header element -->
-<div class="header_container">
-	<header class="clearfix">
-		<h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
-		<nav>
-			<a href="https://www.facebook.com/delord.kevin" class="fa fa-facebook fa-lg"></a>
-			<a href="{{ site.url }}/map" class="fa fa-map fa-lg"></a>
-			<a href="{{ site.url }}/videos" class="fa fa-video-camera fa-lg"></a>
-		</nav>
-	</header>
-</div>
+{% include header.html %}
 
 <!-- Add the grid element -->
 <div class="grid-gallery">
