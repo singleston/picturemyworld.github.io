@@ -2,7 +2,7 @@
 layout: default
 date: 2016-10-31
 youtube_id: bg4u8qtIZJM
-title: Road trip, USA
+title: Road trip, USA, September 2016
 caption: Video of my road trip in the USA, September 2016. Thanks to all my special drivers, Alana, Anna and Adrien!
 music: Marek Hemmann - Zunder
 ---
