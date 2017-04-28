@@ -87,7 +87,7 @@
 	margin: 0 auto;
 }
 
-.grid li i {
+.grid li figcaption i {
 	margin-right: 3px;
 }
 
@@ -100,8 +100,8 @@
 
 .grid figure {
 	padding: 15px;
-	-webkit-transition: opacity 0.2s;
-	transition: opacity 0.2s;
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
 }
 
 .grid li:hover figure {
@@ -111,6 +111,33 @@
 .grid figcaption {
 	background: white;
 	padding: 25px;
+}
+
+.image_container {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.grid figure div img {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.grid figure div i {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	color: white;
+	font-size: 3em;
+	opacity: 0;
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+}
+
+.grid li:hover figure div i {
+	opacity: 1;
 }
 
 /* Fixes Firefox anomaly during image load */

@@ -29,7 +29,10 @@ layout: default
 			{% for post in site.posts %}
 			<li>
 				<figure>
-					<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>
+					<div class="image_container">
+						<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>
+						<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+					</div>
 					<figcaption>
 						<h3>{{ post.title }}</h3>
 						<i class="fa fa-location-arrow" aria-hidden="true"></i>
