@@ -19,7 +19,7 @@ layout: default
 <div class="grid-gallery">
 	<section class="grid-wrap">
 		<ul class="list">
-			{% for post in site.videos %}
+			{% for post in site.videos reversed %}
 			<li>
 				<figure>
 					<iframe class="youtube_player" src="https://www.youtube.com/embed/{{ post.youtube_id }}?ecver=1" frameborder="0" allowfullscreen></iframe>

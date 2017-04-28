@@ -2,7 +2,7 @@
 layout: default
 date: 2016-12-01
 youtube_id: JpCMo4RHGFM
-title: Trip to Colombia, November 2016
-caption: Special thanks to my travel companions Sophie, Logan and Roxy!
+title: Discovering Colombia
+caption: Special thanks to my travel companions Sophie, Logan and Roxy! November 2016.
 music: Marek Hemmann - Tagoma
 ---
