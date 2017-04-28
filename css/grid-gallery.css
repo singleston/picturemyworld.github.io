@@ -87,6 +87,10 @@
 	margin: 0 auto;
 }
 
+.grid li i {
+	margin-right: 3px;
+}
+
 .grid li {
 	/* For n elements side by side: 100/n % */
 	width: 33.3%;

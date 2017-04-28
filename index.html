@@ -32,8 +32,8 @@ layout: default
 					<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>
 					<figcaption>
 						<h3>{{ post.title }}</h3>
-						<i class="fa fa-globe" aria-hidden="true"></i>
-						<a class= "maps_link" href="{{ site.url }}/map?p={{ post.photo }}" target="_blank"> {{ post.location_text }}</a>
+						<i class="fa fa-location-arrow" aria-hidden="true"></i>
+						<a class= "maps_link" href="{{ site.url }}/map?p={{ post.photo }}" target="_blank">{{ post.location_text }}</a>
 						<p>{{ post.caption }}</p>
 						<p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
 					</figcaption>
