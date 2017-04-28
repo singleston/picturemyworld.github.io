@@ -5,8 +5,10 @@ layout: default
 <!-- Load specific CSS files -->
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
 
+<!-- Load specific javascript files -->
+<script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
+
 <!-- Add INACTIVE Google Maps element -->
-<!-- TODO: fix opacity. -->
 <div class="googlemaps" >
 	{% google_map src="_posts" width="100%" height="100%" zoom="4.5" no_cluster show_popup="false" %}
 </div>
@@ -18,6 +20,7 @@ layout: default
 <div class="grid-gallery">
 	<section class="grid-wrap">
 		<ul class="list">
+			<li class="grid-sizer"></li><!-- for Masonry column width -->
 			{% for post in site.videos reversed %}
 			<li>
 				<figure>
@@ -35,3 +38,12 @@ layout: default
 		</ul>
 	</section><!-- grid-wrap -->
 </div><!-- grid-gallery -->
+
+<!-- Attach javascripts to list-gallery -->
+<script>
+	var grid = document.querySelector('.list');
+	new Masonry( grid, {
+		itemSelector: 'li',
+		columnWidth: grid.querySelector( '.grid-sizer' )
+	});
+</script>
