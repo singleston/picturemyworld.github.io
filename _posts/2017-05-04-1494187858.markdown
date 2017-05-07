@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-04
+photo: 1494187858.jpg
+image: /img/thumb/1494187858.jpg
+location_text: Quito, Ecuador
+title: Landscape
+caption: View of Quito from the Basilica del Voto Nacional.
+location:
+    latitude: -0.1806532
+    longitude: -78.4678382
+ratio: 2.05479
+---
