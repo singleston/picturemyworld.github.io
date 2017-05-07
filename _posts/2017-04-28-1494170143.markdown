@@ -5,7 +5,7 @@ photo: 1494170143.jpg
 image: /img/thumb/1494170143.jpg
 location_text: Loma de la Cruz, Cali, Colombia
 title: Indigenous dance
-caption: Every Tuesday at the Loma de la Cruz park in Cali indigenous people gather and make the people dance with them in order to raise some funds to their community. The dance moves are pretty easy but very sporty too! You gonna sweat baby!
+caption: Every Tuesday at the Loma de la Cruz park in Cali indigenous people gather and make the people dance with them in order to raise some funds for their community. The dance moves are pretty easy but very sporty too! You gonna sweat baby!
 location:
     latitude: 3.4429681
     longitude: -76.5369942
