@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-04
+photo: 1494187726.jpg
+image: /img/thumb/1494187726.jpg
+location_text: Basílica del Voto Nacional, Quito, Ecuador
+title: Mom I'm ON a church!
+caption: In case you wonder, both clocks are broken and not working at the moment haha!
+location:
+    latitude: -0.2148321
+    longitude: -78.5075999
+ratio: 0.721154
+---
