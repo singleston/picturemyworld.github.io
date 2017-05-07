@@ -9,5 +9,5 @@ caption: That street is named after the Spanish conquistadors who used to patrol
 location:
     latitude: -0.2251683
     longitude: -78.5135879
-ratio: 1.33333
+ratio: 0.75
 ---
