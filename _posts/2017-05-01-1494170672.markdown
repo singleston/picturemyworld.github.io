@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-01
+photo: 1494170672.jpg
+image: /img/thumb/1494170672.jpg
+location_text: Las Lajas, Narino, Colombia
+title: Las Lajas Sanctuary
+caption: This basilic church is located not even an hour away for the border with Ecuador in southern Colombia. It looks impressive with the river passing by. Quick note, it has been constructed in 1949! Pretty new for a church!
+location:
+    latitude: 0.8055203
+    longitude: -77.5860189
+ratio: 1.33333
+---
