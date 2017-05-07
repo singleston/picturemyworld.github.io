@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-04
+photo: 1494172386.jpg
+image: /img/thumb/1494172386.jpg
+location_text: Plaza Grande, Quito, Ecuador
+title: Walking Tour
+caption: Another city, another free walking tour! Well that one wasn't very entertaining but at least it gave us an impression of the city's s vibes. This square is the main one of the City with the presidential palace, the town hall and the oldest church in the capital.
+location:
+    latitude: -0.2195668
+    longitude: -78.5120458
+ratio: 1.33333
+---
