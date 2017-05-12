@@ -5,7 +5,7 @@ photo: 1494172661.jpg
 image: /img/thumb/1494172661.jpg
 location_text: La Ronda, Quito, Ecuador
 title: La Ronda
-caption: That street is named after the Spanish conquistadors who used to patrol there. Now it is considered as the bohemian district of thee capital.
+caption: That street is named after the Spanish conquistadors who used to patrol there. Now it is considered as the bohemian district of the capital.
 location:
     latitude: -0.2251683
     longitude: -78.5135879
