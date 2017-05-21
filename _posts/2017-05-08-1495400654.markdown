@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-08
+photo: 1495400654.jpg
+image: /img/thumb/1495400654.jpg
+location_text: Cuyabeno, Ecuador
+title: Monkey!!!
+caption: On our way to our lodge in the Ecuadorian jungle, we had the chance to see many different kinds of monkeys in their natural inhabitaat. That one is just so cute :) Photo by Kathrin Lipke
+location:
+    latitude: -0.2713055
+    longitude: -75.7531906
+ratio: 1.33333
+---
