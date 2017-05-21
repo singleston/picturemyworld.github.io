@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-05
+photo: 1495400178.jpg
+image: /img/thumb/1495400178.jpg
+location_text: Mitad del Mundo, Ecuador
+title: Bouncing on the Ecuador
+caption: This monument has been erected in memory of an expedition in the 18th-century to measure the roundness of the Earth. The yellow line  marks the ecuadorian line.
+location:
+    latitude: -0.002213
+    longitude: -78.4558445
+ratio: 0.75
+---
