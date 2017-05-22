@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-10
+photo: 1495473105.jpg
+image: /img/thumb/1495473105.jpg
+location_text: Lago grande, Cuyabeno, Ecuador
+title: Reflection
+caption: The is the big lake of the Cuyabeno Natural Reserve. We went there to watch the sunset and take a bath in that warm sweet water!
+location:
+    latitude: -0.2713055
+    longitude: -75.7531906
+ratio: 1.33333
+---
