@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-10
+photo: 1495471924.jpg
+image: /img/thumb/1495471924.jpg
+location_text: Nicky Amazon Lodge, Cuyabeno, Ecuador
+title: Monkey Bridge
+caption: Even though it is not easy to see on that picture, both trees are full of monkeys. They use them as a bridge to cross the river underneath literally by falling from the first tree and catching the second one. Funny to look at :D
+location:
+    latitude: -0.069674
+    longitude: -76.163583
+ratio: 1.33333
+---
