@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-13
+photo: 1495587871.jpg
+image: /img/thumb/1495587871.jpg
+location_text: Playa De La Laguna Quilotoa, Ecuador
+title: Hola mama
+caption: Estoy bien :D
+location:
+    latitude: -0.8622467
+    longitude: -78.9108088
+ratio: 1.33333
+---
