@@ -9,5 +9,5 @@ caption: This giant tree is one of the biggest in the amazon forest. It is the s
 location:
     latitude: -0.069674
     longitude: -76.163583
-ratio: 1.33333
+ratio: 0.75
 ---
