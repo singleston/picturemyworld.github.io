@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-11
+photo: 1495584827.jpg
+image: /img/thumb/1495584827.jpg
+location_text: Nicky Amazon Lodge, Cuyabeno, Ecuador
+title: Pink Dolphin
+caption: One of the main reason for us to go into the Ecuadorian rainforest are the pink dolphins. They look like normal dolphins but live in sweet waters. Those protected animals do not have any predators, not even the caimans! Sadly they do not jump out of the water :(
+location:
+    latitude: -0.069674
+    longitude: -76.163583
+ratio: 1.33333
+---
