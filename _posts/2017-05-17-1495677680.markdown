@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-17
+photo: 1495677680.jpg
+image: /img/thumb/1495677680.jpg
+location_text: Santo Domingo, Cuenca, Ecuador
+title: Cuenca
+caption: The church of Santo Domingo is one of many in the city of Cuenca. For local people this city is the most beautiful in the country. It might be as it still has a lot of colonial influence and architecture in its structure and architecture.
+location:
+    latitude: -2.8952126
+    longitude: -79.0061842
+ratio: 1.33333
+---
