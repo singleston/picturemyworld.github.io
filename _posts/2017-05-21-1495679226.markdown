@@ -5,7 +5,7 @@ photo: 1495679226.jpg
 image: /img/thumb/1495679226.jpg
 location_text: Puerto Lopez, Ecuador
 title: Fishes and birds
-caption: We spent few in days in this fishing village on the Pacific coast. One morning I went to the fish market to buy some schrimps straight from the boats. I had the chance to see some sharks of all kind. I haven't taken any photo, even though it was pretty impressive it still was a sad thing to see.
+caption: We spent few in days in this fishing village on the Pacific coast. One morning I went to the fish market to buy some schrimps straight from the boats. I had the chance to see some dead sharks of all kinds. I haven't taken any photo, even though it was pretty impressive it still was a sad thing to see.
 location:
     latitude: -1.5539322
     longitude: -80.8045568
