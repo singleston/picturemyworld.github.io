@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-17
+photo: 1495678724.jpg
+image: /img/thumb/1495678724.jpg
+location_text: Laguna Toreadora, Ecuador
+title: Small trek, big lake
+caption: The highlight of our day at the Cajas National Park was the Toreadora lake. We walked around for maybe 2 hours, took lots of pictures, few selfies, and finally get back pretty tired due to the altitude with more than 3500 meters above sea level! Bonus, an amazing launch with a view and a very good fish in the plate hahaha
+location:
+    latitude: -2.7798513
+    longitude: -79.2246726
+ratio: 1.33333
+---

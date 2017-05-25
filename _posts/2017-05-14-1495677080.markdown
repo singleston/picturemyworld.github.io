@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-14
+photo: 1495677080.jpg
+image: /img/thumb/1495677080.jpg
+location_text: Rio Pastaza, Baños Canton, Tungurahua, Ecuador
+title: Rafting
+caption: We went rafting with a group of Australian people and a local guide. It was very good and so much fun! We actually managed to not flip the raft in this river of level 3 :)
+location:
+    latitude: -1.4149854
+    longitude: -78.2454787
+ratio: 1.33333
+---

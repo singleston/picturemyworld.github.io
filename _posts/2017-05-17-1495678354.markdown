@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-17
+photo: 1495678354.jpg
+image: /img/thumb/1495678354.jpg
+location_text: Cajas National Park, Ecuador
+title: Weird plant
+caption: This one was so nice and so weird at the same time. The 'leaf' were so hard!
+location:
+    latitude: -2.8487368
+    longitude: -79.2537609
+ratio: 0.75
+---
