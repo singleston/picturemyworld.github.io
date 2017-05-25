@@ -9,5 +9,5 @@ caption: The church of Santo Domingo is one of many in the city of Cuenca. For l
 location:
     latitude: -2.8952126
     longitude: -79.0061842
-ratio: 1.33333
+ratio: 0.75
 ---
