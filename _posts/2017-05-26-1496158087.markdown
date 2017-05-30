@@ -5,7 +5,7 @@ photo: 1496158087.jpg
 image: /img/thumb/1496158087.jpg
 location_text: Charles Darwin Research Station, Puerto Ayuro, Ecuador
 title: Whooop Whooop
-caption: Here we go with the famous giant turtles of the Galapagos! I have no idea how heavy neither how old they were, but they were very impressive for sure! They were not doing much so... rather boring after few minutes hahaha
+caption: Here we go with the famous giant turtles of the Galapagos! I have no idea how heavy neither how old they were, but they were very impressive for sure! However they were not doing much... rather boring after few minutes hahaha.
 location:
     latitude: -0.7423151
     longitude: -90.3037655
