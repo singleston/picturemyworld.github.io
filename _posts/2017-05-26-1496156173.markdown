@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-26
+photo: 1496156173.jpg
+image: /img/thumb/1496156173.jpg
+location_text: Isla Santa Fé, Galapagos, Ecuador
+title: Isla Santa Fé
+caption: The small island of Santa Fé (24 square kilometres) is one of the 125 islands of the Galápagos archipelago. It is uninhabited as it does not has sweet water like Santa Cruz or San Cristobal. In the other hand it is a great spot to see wild animals such as iguanas, see lions, birds, etc.
+location:
+    latitude: -0.819877
+    longitude: -90.0653341
+ratio: 1.33333
+---
