@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-27
+photo: 1496158216.jpg
+image: /img/thumb/1496158216.jpg
+location_text: Las Grietas, Puerto Ayuro, Ecuador
+title: Diving
+caption: I went diving with my friend Alex in this beautiful spot. We saw tons of middle size fishes and one giant hidding behind rocks,! Cheers mate :)
+location:
+    latitude: -0.757188
+    longitude: -90.3154556
+ratio: 1.33333
+---
