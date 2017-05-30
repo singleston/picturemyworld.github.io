@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-26
+photo: 1496157546.jpg
+image: /img/thumb/1496157546.jpg
+location_text: Playa Escondida, Santa Cruz, Galapagos, Ecuador
+title: Boat Tour
+caption: That day I went on a boat tour to different islands and beaches. The sea was quiet so I did not get seasick :)
+location:
+    latitude: -0.7656881
+    longitude: -90.3335308
+ratio: 1.33333
+---
