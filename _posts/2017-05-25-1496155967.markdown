@@ -9,5 +9,5 @@ caption: This little guy was sleeping on a bench in the harbor of Puerto Ayuro. 
 location:
     latitude: -0.7432918
     longitude: -90.3156893
-ratio: 1.33333
+ratio: 0.75
 ---
