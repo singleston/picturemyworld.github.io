@@ -5,7 +5,7 @@ photo: 1496860586.jpg
 image: /img/thumb/1496860586.jpg
 location_text: Mirador Cerro Tijeretas, Galapagos, Ecuador
 title: Over the island
-caption: Pretty cactus in the front, and in the background the San Cristobal island. It is considered as the prettiest one of the entire arccchipelago.
+caption: Pretty cactus in the front, and the San Cristobal island in the background. It is considered as the prettiest one of the entire arccchipelago.
 location:
     latitude: -0.8878511
     longitude: -89.6088608

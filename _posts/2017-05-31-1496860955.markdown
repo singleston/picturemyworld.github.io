@@ -5,7 +5,7 @@ photo: 1496860955.jpg
 image: /img/thumb/1496860955.jpg
 location_text: Mirador Cerro Tijeretas, Galapagos, Ecuador
 title: Sea turtle
-caption: I got very lucky that day swimming with this sea turle. She was absolutely not afraid of me, not like she has used to mankind, more like she was minding her own business and expecting me to do the same. Pretty awesome though, very relax haha!
+caption: I got very lucky that day swimming with this sea turle. She was absolutely not afraid of me, not like she has used to mankind, but more like she was minding her own business and expecting me to do the same. Pretty awesome though, very relax haha!
 location:
     latitude: -0.8878511
     longitude: -89.6088608

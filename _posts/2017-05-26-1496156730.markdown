@@ -5,7 +5,7 @@ photo: 1496156730.jpg
 image: /img/thumb/1496156730.jpg
 location_text: Playa Escondida, Santa Cruz, Galapagos, Ecuador
 title: Marine Iguanas
-caption: This kind of iguanas from the Galapagos is the only one in the world that search for food in the sea (which makes it a marine reptile). They are pretty relaxed on the beach, getting the sun and were not afraid at all by humans. Pretty cool to take nice photos :D
+caption: This kind of iguanas from the Galapagos is the only one in the world that searches for food in the sea (which makes it a marine reptile). They are pretty relaxed on the beach, getting the sun and were not afraid at all by humans. Pretty cool to take nice photos :D
 location:
     latitude: -0.7656881
     longitude: -90.3335308
