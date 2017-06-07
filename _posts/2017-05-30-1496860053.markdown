@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-30
+photo: 1496860053.jpg
+image: /img/thumb/1496860053.jpg
+location_text: Puerto Baquerizo Moreno, Galapagos, Ecuador
+title: Sunset on San Cristobal
+caption: The main town of the San Cristobal island has a beautiful harbor with hundreds of sea lions lying around. The city itself is cute but pretty small and expensive. Fun fact: the only city I have been to where you actually walk to the airport!
+location:
+    latitude: -0.9080266
+    longitude: -89.6086828
+ratio: 1.33333
+---
