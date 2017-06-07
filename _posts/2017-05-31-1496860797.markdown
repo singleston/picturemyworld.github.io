@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-31
+photo: 1496860797.jpg
+image: /img/thumb/1496860797.jpg
+location_text: Mirador Cerro Tijeretas, Galapagos, Ecuador
+title: Yes!!
+caption: I don't always do a selfie, but when I do it's epic.
+location:
+    latitude: -0.8878511
+    longitude: -89.6088608
+ratio: 1.33333
+---

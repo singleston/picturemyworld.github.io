@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-05-30
+photo: 1496860274.jpg
+image: /img/thumb/1496860274.jpg
+location_text: Mirador Cerro Tijeretas, Galapagos, Ecuador
+title: Tijeretas!
+caption: This is the best spot ever for diving. I went there 3 times on my trip to the Galapagos, and every time I had the chance to swim with turtles, silly sea lions and fishes!
+location:
+    latitude: -0.8878511
+    longitude: -89.6088608
+ratio: 1.33333
+---
