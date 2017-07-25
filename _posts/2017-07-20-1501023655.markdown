@@ -5,7 +5,7 @@ photo: 1501023655.jpg
 image: /img/thumb/1501023655.jpg
 location_text: Lobitos Surf Spot, Peru
 title: Offshore platforms
-caption: Here is the surf spot, quite interesting with the offshore oil platforms at sea!
+caption: Here is the surf spot of Lobitos, quite interesting with the offshore oil platforms at sea!
 location:
     latitude: -4.4528111
     longitude: -81.2867259
