@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-21
+photo: 1501023779.jpg
+image: /img/thumb/1501023779.jpg
+location_text: Lobitos Pier, Peru
+title: Old Pier
+caption: What is left of that old pier is guarded by pelicans. In case someone would like to take that away! haha
+location:
+    latitude: -4.44942
+    longitude: -81.280283
+ratio: 1.33333
+---
