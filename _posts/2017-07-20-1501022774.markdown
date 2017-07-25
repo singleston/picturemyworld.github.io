@@ -5,7 +5,7 @@ photo: 1501022774.jpg
 image: /img/thumb/1501022774.jpg
 location_text: Lobitos, Peru
 title: Oil pump
-caption: /Users/kevindelord/Desktop/TODO/IMG_5861.JPG
+caption: First time for me to see some oil pumps! The lobitos town has many, and got plenty more offshore as well.
 location:
     latitude: -4.4564351
     longitude: -81.2821647
