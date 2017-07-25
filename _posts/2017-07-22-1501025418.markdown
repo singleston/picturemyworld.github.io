@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-22
+photo: 1501025418.jpg
+image: /img/thumb/1501025418.jpg
+location_text: Chan Chan, Peru
+title: The Wall
+caption: That wall was just made out of adobe brick and mud. At the highest it could have reached 10 meters! Built around 900 AD.
+location:
+    latitude: -8.1055519
+    longitude: -79.0746128
+ratio: 1.33333
+---
