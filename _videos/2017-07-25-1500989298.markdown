@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-07-25
+youtube_id: Fv98Ce6P2Yk
+title: Ecuador May 2017
+caption: Video of my time in Ecuador and the Galapagos featuring Karen, a whale and lots of turtles!
+music: Marek Hemmann - Lindwurm
+---
