@@ -5,7 +5,7 @@ photo: 1501022300.jpg
 image: /img/thumb/1501022300.jpg
 location_text: Guayaquil, Ecuador
 title: Weird
-caption: The city center of Guayaquil has some bronze statues showing how was life few decades ago. That one was a kid cleaning shoes... to be honest I felt very unconfortable even if it was just a kid.
+caption: The city center of Guayaquil has some bronze statues showing how was life few decades ago. That one was a kid cleaning shoes... to be honest I felt very uncomfortable even if it was just a statue.
 location:
     latitude: -2.1709979
     longitude: -79.9223592

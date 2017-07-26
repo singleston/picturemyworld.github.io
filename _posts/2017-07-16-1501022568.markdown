@@ -5,7 +5,7 @@ photo: 1501022568.jpg
 image: /img/thumb/1501022568.jpg
 location_text: Mancora, Peru
 title: First day in Peru
-caption: I knew the northern part of the country was pretty dried, but I did not imagine such desertic place. The entire region looks like a western movie. Other than that, the town Mancora is a pretty sweet surf spot and a party town, a bit like Montañita in Ecuador... but less good! =]
+caption: I knew the northern part of the country was pretty dry, but I did not imagine such a desertic place. The entire region looks like a western movie. Other than that, the town Mancora is a pretty sweet surf spot and a party town, a bit like Montañita in Ecuador... but less good! =]
 location:
     latitude: -4.1034782
     longitude: -81.0451037

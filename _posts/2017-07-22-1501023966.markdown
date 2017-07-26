@@ -5,7 +5,7 @@ photo: 1501023966.jpg
 image: /img/thumb/1501023966.jpg
 location_text: Piura, Peru
 title: Desert
-caption: Clearly Peru was not gonna be all mountain and alpacas, but to find out such flat and desertic place was a big surprise to me!
+caption: Clearly Peru was not gonna be all mountain and alpacas, but to find such flat and desertic place was a big surprise to me!
 location:
     latitude: -5.1782884
     longitude: -80.6548882

@@ -5,7 +5,7 @@ photo: 1501025772.jpg
 image: /img/thumb/1501025772.jpg
 location_text: Chan Chan, Peru
 title: King Palace
-caption: The archaeological site of Chan Chan belonged to the Chimú people before it fell to the Incas around 1470 AD. This picture has been taken in what used to a temple for those people. Before being a temple, it was a King's palace. Once a king passed away, the new one had to build a new one for himself and maintain the previous one as a temple.
+caption: The archaeological site of Chan Chan belonged to the Chimú people before it fell to the Incas around 1470 AD. This picture has been taken in what used to be a temple for those people. Before being a temple, it was a King's palace. Once a king passed away, the new one had to build a new palace for himself and maintain the previous one as a temple.
 location:
     latitude: -8.1055519
     longitude: -79.0746128
