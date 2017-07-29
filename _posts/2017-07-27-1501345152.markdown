@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-27
+photo: 1501345152.jpg
+image: /img/thumb/1501345152.jpg
+location_text: Laguna de Llanganuco, Huaraz, Peru
+title: Glacier
+caption: This photo has been taken from a moving bus... and I find it pretty awesome with the blur effect and everything!
+location:
+    latitude: -9.0675
+    longitude: -77.638056
+ratio: 1.33333
+---
