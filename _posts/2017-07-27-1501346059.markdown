@@ -5,7 +5,7 @@ photo: 1501346059.jpg
 image: /img/thumb/1501346059.jpg
 location_text: Laguna 69 Hike, Huaraz, Peru
 title: Stunning Waterfall
-caption: This one of the most beautiful hike I have ever done. We were surrounded by amazing waterfalls, gorgeous mountains and glaciers.
+caption: This was one of the most beautiful hike I have ever done. We were surrounded by amazing waterfalls, gorgeous mountains and glaciers.
 location:
     latitude: -9.0102857
     longitude: -77.6124416
