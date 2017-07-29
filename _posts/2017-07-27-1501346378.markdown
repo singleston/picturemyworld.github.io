@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-27
+photo: 1501346378.jpg
+image: /img/thumb/1501346378.jpg
+location_text: Laguna 69, Huaraz, Peru
+title: Lake 69!
+caption: We killed it! My friend Rick and I reached the lake in 2h10m instead of the usual 3h30m. It was pretty hard in the end, but we kept pushing ourselves till the end! Worth it right?
+location:
+    latitude: -9.0102857
+    longitude: -77.6124416
+ratio: 3.09278
+---

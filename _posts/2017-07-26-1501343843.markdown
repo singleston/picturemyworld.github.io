@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-26
+photo: 1501343843.jpg
+image: /img/thumb/1501343843.jpg
+location_text: Huanchaco, Peru
+title: Handcrafted boats
+caption: The locals in Huanchaco use those 'boats' to get into the sea and fish. Really funny to surf while they actually fish around you!
+location:
+    latitude: -8.0884404
+    longitude: -79.0872788
+ratio: 0.75
+---

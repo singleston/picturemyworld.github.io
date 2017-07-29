@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-27
+photo: 1501345450.jpg
+image: /img/thumb/1501345450.jpg
+location_text: Laguna de Llanganuco, Huaraz, Peru
+title: Lake Chinancocha
+caption: The lake of Chinancocha is situated in the Cordillera Blanca in the Andes of Peru. We arrived there after 2 hours of bus on our way to the Lake 69 Hike.
+location:
+    latitude: -9.0675
+    longitude: -77.638056
+ratio: 1.33333
+---
