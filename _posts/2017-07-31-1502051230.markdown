@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-31
+photo: 1502051230.jpg
+image: /img/thumb/1502051230.jpg
+location_text: Huacachina, Ica, Peru
+title: Craziness
+caption: Looks crazy right? All this winter equipment in the desert? But seriously, I had so much fun that day! Waxing the skies over and over, going down a sand dune, jumping in the buggy again and drive to the next dune! Awesome day!
+location:
+    latitude: -14.0874587
+    longitude: -75.762586
+ratio: 1.33333
+---
