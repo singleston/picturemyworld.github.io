@@ -5,7 +5,7 @@ photo: 1501344623.jpg
 image: /img/thumb/1501344623.jpg
 location_text: Huaraz, Peru
 title: Huaraz
-caption: The city of Huaraz sits at 3052 meters above sea level. It isn't specially nice but its surroundings are impressive! One can see moutains and glaciers all around!
+caption: The city of Huaraz sits at 3052 meters above sea level. It isn't especially nice but its surroundings are impressive! One can see moutains and glaciers all around!
 location:
     latitude: -9.5261154
     longitude: -77.5287792
