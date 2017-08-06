@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-31
+photo: 1502051046.jpg
+image: /img/thumb/1502051046.jpg
+location_text: Huacachina, Ica, Peru
+title: Beautiful Desert
+caption: Gorgeous landscape with so much sand and dunes around! It wasn't extremelly hot out there, but the ski boots were.... quite too much! But I had to wear them for the sand skiing later that day.
+location:
+    latitude: -14.0874587
+    longitude: -75.762586
+ratio: 1.33333
+---
