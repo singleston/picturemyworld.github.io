@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-07-31
+photo: 1502050124.jpg
+image: /img/thumb/1502050124.jpg
+location_text: Laguna de Huacachina, Ica, Peru
+title: Sand dune
+caption: I think the most impressive sand dune I have seen so far! Much bigger than the one in Southern France or in Northern Colombia! It was HUGE!
+location:
+    latitude: -14.0874587
+    longitude: -75.762586
+ratio: 1.33333
+---
