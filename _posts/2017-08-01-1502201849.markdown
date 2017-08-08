@@ -5,7 +5,7 @@ photo: 1502201849.jpg
 image: /img/thumb/1502201849.jpg
 location_text: Nazca Lines, Nazca Province, Ica, Peru
 title: Nazca Valley
-caption: The Nazca valley is one of the driest and windless in the world. So basically, if you draw anything on the floor it might stay there for years or more. The Nazca people used this create geometrical shapes and animals that are still present nowadays; all this for unknown reasons.
+caption: The Nazca Valley is one of the driest and windless in the world. So basically, if you draw anything on the floor it might stay there for years or more. The Nazca people used this create geometrical and animals shapes that are still present nowadays; all this for unknown reasons.
 location:
     latitude: -14.739027
     longitude: -75.130005
