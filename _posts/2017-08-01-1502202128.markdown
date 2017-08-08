@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-01
+photo: 1502202128.jpg
+image: /img/thumb/1502202128.jpg
+location_text: Nazca Lines, Nazca Province, Ica, Peru
+title: Hummingbird
+caption: A bit hard to see on that picture, but a hummingbird lies between the mountains.
+location:
+    latitude: -14.739027
+    longitude: -75.130005
+ratio: 1.33333
+---

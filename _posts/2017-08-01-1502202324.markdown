@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-01
+photo: 1502202324.jpg
+image: /img/thumb/1502202324.jpg
+location_text: Nazca Lines, Nazca Province, Ica, Peru
+title: Best shot
+caption: That fotograph shows the evolution of the Nazca Valley. On the right what it used to be, a giant river with water and forest. In the center, some drawings made about 2000 years ago (an iguana, a tree and a pair of hands - or a chicken?). And finally across the entire picture, a road made by our civilization...
+location:
+    latitude: -14.739027
+    longitude: -75.130005
+ratio: 2.94118
+---
