@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-04
+photo: 1502307749.jpg
+image: /img/thumb/1502307749.jpg
+location_text: Plaza Mayor, Lima, Peru
+title: Main Square
+caption: This is the central square of Lima, and sadly the only nice part of the big capital. As a friend told me, it's a nice city to live in not visit.
+location:
+    latitude: -12.0459686
+    longitude: -77.0305727
+ratio: 2.5
+---
