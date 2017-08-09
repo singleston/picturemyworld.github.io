@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-05
+photo: 1502308035.jpg
+image: /img/thumb/1502308035.jpg
+location_text: Playa Makaha, Lima, Peru
+title: Surf spot
+caption: This is one of the surf spots of Lima. The water wasn't very cold and the waves quite nice. It was very interesting for me to surf iin a capital city; first time ever =D
+location:
+    latitude: -12.1296266
+    longitude: -77.0362517
+ratio: 1.33333
+---
