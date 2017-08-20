@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-10
+photo: 1503243587.jpg
+image: /img/thumb/1503243587.jpg
+location_text: Plaza de Armas, Cusco, Peru
+title: Plaza de Armas
+caption: This is the main square of the city of Cusco in Peru. This city used to be the capital of the entire Inca empire but the Spanish took over the country. All temps have been destroyed and replaced by catholic churches...
+location:
+    latitude: -13.5167459
+    longitude: -71.9788237
+ratio: 1.33333
+---
