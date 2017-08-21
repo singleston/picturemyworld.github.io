@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-10
+photo: 1503325493.jpg
+image: /img/thumb/1503325493.jpg
+location_text: Laguna Humantay, Peru
+title: Humantay Lake
+caption: After a though one hour hike we reached the lake Humantay. The glacier surroungding it was beautiful; sadly the sun couldn't go through the heavy clouds...
+location:
+    latitude: -13.3421055
+    longitude: -72.5689131
+ratio: 1.33333
+---
