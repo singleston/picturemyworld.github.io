@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-11
+photo: 1503605695.jpg
+image: /img/thumb/1503605695.jpg
+location_text: Salkantay, Peru
+title: Venered Salkantay
+caption: That summit behind me is the Salkantay. It was and still is venered by the Quechua people as it provides water to the valley around all year long. Their actually worship their goddess Pachamama through that mountain and the nature in general.
+location:
+    latitude: -13.3339617
+    longitude: -72.5439321
+ratio: 1.33333
+---
