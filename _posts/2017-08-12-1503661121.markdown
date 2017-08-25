@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-12
+photo: 1503661121.jpg
+image: /img/thumb/1503661121.jpg
+location_text: Salkantay, Peru
+title: Real Alpaca?
+caption: We ran across this lady sewing scarfs in what she claimed to be real alpaca. Apparently what one buy at the market place in town are a mix of alpaca and normal wool.
+location:
+    latitude: -13.3339617
+    longitude: -72.5439321
+ratio: 1.33333
+---
