@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-14
+photo: 1503845842.jpg
+image: /img/thumb/1503845842.jpg
+location_text: Machu Picchu, Peru
+title: Agriculture
+caption: In Machu Picchu, the people living there shaped the mountain to create different levels of fertile ground. Each level would grow different vegetables or fruits depending on the time of the year.
+location:
+    latitude: -13.1631412
+    longitude: -72.5449629
+ratio: 1.33333
+---
