@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-14
+photo: 1503846652.jpg
+image: /img/thumb/1503846652.jpg
+location_text: Machu Picchu, Peru
+title: My house is your house
+caption: 500 years later the walls of those houses still stand! Did you know that this civilization did not invent the wheel at all?
+location:
+    latitude: -13.1631412
+    longitude: -72.5449629
+ratio: 4.34783
+---
