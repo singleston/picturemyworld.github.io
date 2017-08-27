@@ -9,5 +9,5 @@ caption: Wouldn't be nice to wake up every day and have this view from your bed?
 location:
     latitude: -13.1631412
     longitude: -72.5449629
-ratio: 1.33333
+ratio: 0.75
 ---
