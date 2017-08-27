@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-14
+photo: 1503844985.jpg
+image: /img/thumb/1503844985.jpg
+location_text: Machu Picchu, Peru
+title: Classic!
+caption: Here is the typical tourist picture of me in front of the Machu Picchu. It does not look that good the sun did not rise yet and mostly because I'm dead tired after this 5 days trek. I also ran the way up there from the valley in only 42 minutes!!
+location:
+    latitude: -13.1631412
+    longitude: -72.5449629
+ratio: 1.53061
+---
