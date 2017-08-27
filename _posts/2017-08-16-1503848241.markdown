@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-16
+photo: 1503848241.jpg
+image: /img/thumb/1503848241.jpg
+location_text: Nevado Auzangate, Peru
+title: Quechua Grandma
+caption: Picture of a Quechua woman sitting next to her horse. Hard to see on that shot but the feet of the local people were very big and weird looking... a bit like the Hobbits hahaha
+location:
+    latitude: -13.7908333
+    longitude: -71.2325
+ratio: 1.33333
+---
