@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-16
+photo: 1503847816.jpg
+image: /img/thumb/1503847816.jpg
+location_text: Nevado Auzangate, Peru
+title: Beautiful Valley
+caption: Only 2 days after the Salkantay Trek, I hit the road again and went to the Nevado Auzangate. As the snow melted, this colorful valley showed up only a decade ago and is now a very touristic spot in Peru...
+location:
+    latitude: -13.7908333
+    longitude: -71.2325
+ratio: 1.33333
+---
