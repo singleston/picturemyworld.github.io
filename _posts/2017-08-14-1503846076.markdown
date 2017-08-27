@@ -5,7 +5,7 @@ photo: 1503846076.jpg
 image: /img/thumb/1503846076.jpg
 location_text: Machu Picchu, Peru
 title: Well conserved
-caption: When discovered in 1911, more than 60 percent of the site was still intact.!
+caption: When discovered in 1911, more than 60 percent of the site was still intact! Fun fact, the locals did know about those ruins but did not care at all. They were like "yeaaaah whatever."
 location:
     latitude: -13.1631412
     longitude: -72.5449629

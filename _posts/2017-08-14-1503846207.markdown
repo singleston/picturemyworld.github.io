@@ -5,7 +5,7 @@ photo: 1503846207.jpg
 image: /img/thumb/1503846207.jpg
 location_text: Machu Picchu, Peru
 title: Within the temple
-caption: The city of Machu Picchu is divided into 3 zones. The agriculture one, the religious one (where that picture has been taken) and finally the residential one.
+caption: Like most Inca cities, Machu Picchu is divided into 3 zones; an agriculture one, a religious one (where that picture has been taken) and finally a residential one.
 location:
     latitude: -13.1631412
     longitude: -72.5449629
