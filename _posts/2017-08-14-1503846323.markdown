@@ -5,7 +5,7 @@ photo: 1503846323.jpg
 image: /img/thumb/1503846323.jpg
 location_text: Machu Picchu, Peru
 title: Through the window
-caption: Wouldn't be nice to wake up every day and see this from your bed? hahaha
+caption: Wouldn't it be nice to wake up every day and see this from your bed? hahaha
 location:
     latitude: -13.1631412
     longitude: -72.5449629
