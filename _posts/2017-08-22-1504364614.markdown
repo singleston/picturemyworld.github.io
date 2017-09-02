@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-22
+photo: 1504364614.jpg
+image: /img/thumb/1504364614.jpg
+location_text: Colca Canyon, Peru
+title: Andean condor
+caption: This condor is one of the biggest in the world. It has a maximum wingspan of 3.3 meters. I had the chance to see some flying around, but with my poor camera this is the best shot I got ! Too bad
+location:
+    latitude: -15.6093293
+    longitude: -72.0896229
+ratio: 1
+---
