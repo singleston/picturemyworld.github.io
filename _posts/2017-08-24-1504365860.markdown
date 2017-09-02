@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-24
+photo: 1504365860.jpg
+image: /img/thumb/1504365860.jpg
+location_text: Jarán, Peru
+title: Fun Fact
+caption: When driving around in bus in Peru, it is always funny to check your current altitude and realize that you are at more than 4800 mettres above sea level! Which is more than the Mont Blanc in Europa!
+location:
+    latitude: -15.8075
+    longitude: -72.170833
+ratio: 1.33333
+---
