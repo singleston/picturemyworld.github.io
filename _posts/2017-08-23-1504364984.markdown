@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-23
+photo: 1504364984.jpg
+image: /img/thumb/1504364984.jpg
+location_text: Cabanaconde District, Peru
+title: Colca Canyon
+caption: This canyon is one of the deepest in the world with a depth of 3,270 metres. Locals still maintain their pre-Inca traditions and tagricultural terraces. On one day I went down to the bottom of that canyon and back up the day after. Definitely very hard time as there is no shadow in the canyon, it is burning hot down there!!
+location:
+    latitude: -15.6225478
+    longitude: -71.9801443
+ratio: 1.33333
+---
