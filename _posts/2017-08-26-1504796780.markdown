@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-26
+photo: 1504796780.jpg
+image: /img/thumb/1504796780.jpg
+location_text: Santa Catalina Monastery, Arequipa, Peru
+title: A city or a jail?
+caption: Even though it looks beautiful the feeling inside is kinda weird. Little girls had to join in when they were 12 years old and had to stay in a 'nice' room 20 hours per day for 4 years in a row before becoming a real nun...
+location:
+    latitude: -16.3952829
+    longitude: -71.5367908
+ratio: 1.33333
+---
