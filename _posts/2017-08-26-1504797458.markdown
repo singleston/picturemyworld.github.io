@@ -5,7 +5,7 @@ photo: 1504797458.jpg
 image: /img/thumb/1504797458.jpg
 location_text: Santa Catalina Monastery, Arequipa, Peru
 title: Moroccan Style
-caption: From the outside this monastery reminds of Morocco with its simple but colorful redish walls while thinside it is even more colorful and decorated !
+caption: From the outside this monastery reminds of Morocco with its simple but colorful redish external walls while inside it is even more colorful and decorated!
 location:
     latitude: -16.3952829
     longitude: -71.5367908

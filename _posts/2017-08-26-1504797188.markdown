@@ -5,7 +5,7 @@ photo: 1504797188.jpg
 image: /img/thumb/1504797188.jpg
 location_text: Santa Catalina Monastery, Arequipa, Peru
 title: Lavanderia
-caption: Each nun had a private maid who used to cook and clean everything for them. This is a picture of the laundry 'service'. The nuns had no time for that! They had to pray at least 7 hours a day!
+caption: Each nun had a private maid who used to cook and clean everything for them. This is a picture of the laundry 'room'. The nuns had no time for that, they had to pray at least 7 hours a day!
 location:
     latitude: -16.3952829
     longitude: -71.5367908

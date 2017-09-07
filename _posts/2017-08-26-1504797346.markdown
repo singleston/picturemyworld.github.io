@@ -5,7 +5,7 @@ photo: 1504797346.jpg
 image: /img/thumb/1504797346.jpg
 location_text: Santa Catalina Monastery, Arequipa, Peru
 title: Todo bien mama!
-caption: Foto shooting by my friend Rick!
+caption: Foto by my friend Rick.
 location:
     latitude: -16.3952829
     longitude: -71.5367908

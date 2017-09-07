@@ -5,7 +5,7 @@ photo: 1504796575.jpg
 image: /img/thumb/1504796575.jpg
 location_text: Santa Catalina Monastery, Arequipa, Peru
 title: Colorful Monastery
-caption: The Santa Catalina Monastery of Arequipa is a huge complex with many private housing and streets! All of that colored in blue or vivid red.
+caption: The Santa Catalina Monastery of Arequipa is a huge complex with many private housing and streets! All of that colored in vivid blue and red.
 location:
     latitude: -16.3952829
     longitude: -71.5367908
