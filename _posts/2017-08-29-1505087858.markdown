@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-29
+photo: 1505087858.jpg
+image: /img/thumb/1505087858.jpg
+location_text: Taquile Island, Lake Titicaca, Peru
+title: Lake Titicaca
+caption: This lake is one of the biggest in South America and the world’s highest navigable one by boat as 3812 meters above sea level. Apparently in the water live giant frogs that can be half a meter big!! That's no frog, that's a monster !
+location:
+    latitude: -15.7725451
+    longitude: -69.6840125
+ratio: 1.33333
+---
