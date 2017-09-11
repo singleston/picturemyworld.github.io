@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-29
+photo: 1505089779.jpg
+image: /img/thumb/1505089779.jpg
+location_text: Uros Islands, Lake Titicaca, Peru
+title: The Mercedes-Benz
+caption: In order to get even more touristy, they build those luxury boats that they call the Mercedes-Benz and drive the tourists around for 15 minutes... I did not get in, no way.
+location:
+    latitude: -15.805039
+    longitude: -69.970912
+ratio: 1.33333
+---
