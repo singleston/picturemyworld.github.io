@@ -9,5 +9,5 @@ caption: Arequipa is also called the white city of Peru. Like Cuenca in Ecuador 
 location:
     latitude: -16.3981179
     longitude: -71.5366937
-ratio: 1.33333
+ratio: 0.75
 ---
