@@ -21,7 +21,7 @@ layout: default
 	<section class="grid-wrap">
 		<ul class="grid">
 			<li class="grid-sizer"></li><!-- for Masonry column width -->
-			{% for post in site.posts limit:15 %}
+			{% for post in site.posts %}
 			<li>
 				<figure>
 					<div class="image_container">
@@ -39,9 +39,6 @@ layout: default
 			</li>
 			{% endfor %}
 		</ul>
-
-		<a href="{{ site.url }}/all">See all pictures</a>
-
 	</section><!-- grid-wrap -->
 
 	<section class="slideshow">
