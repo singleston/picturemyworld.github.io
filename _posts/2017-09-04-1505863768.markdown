@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-04
+photo: 1505863768.jpg
+image: /img/thumb/1505863768.jpg
+location_text: Laguna Jankho Khota, La Paz Department, Bolivia
+title: Training
+caption: But to reach the summit, one needs to train his ice climbing skills. That's me after a vertical 20 meters climb =]
+location:
+    latitude: -16.3133596
+    longitude: -68.1476129
+ratio: 1
+---
