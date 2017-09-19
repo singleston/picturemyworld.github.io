@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-06
+photo: 1505864575.jpg
+image: /img/thumb/1505864575.jpg
+location_text: Huayna Potosi, Bolivia
+title: Frostbite
+caption: Did I tell you that story where I lost a toe? Oh don't worry it is still there but numb, like I don't really feel it anymore. Basically my toes where so cold up there I couldn't sense them anymore. When I took off my climbing boots I had ice on that one toe! Maybe the sweat turned into ice? haha
+location:
+    latitude: -16.2618936
+    longitude: -68.1519699
+ratio: 1.33333
+---
