@@ -115,13 +115,6 @@
 	margin-bottom: 0.3em;
 }
 
-/* Header config for big screens */
-@media screen and (max-width: 60em) {
-	.header_container > header h1 {
-		font-size: 2.125em;
-	}
-}
-
 /* Header config for small screens */
 @media screen and (max-width: 1000px) {
 
@@ -133,7 +126,7 @@
 	.header_container > header {
 		min-width: 60%;
 		padding-left: 10%;
-		padding-right: 0%;
+		padding-right: 10%;
 	}
 
 	.header_container > header nav {
@@ -144,13 +137,13 @@
 		font-size: 1.5em;
 		padding-top: 0;
 		display: inline-block;
-		width: 80%;
+		min-width: 80%;
 	}
 
 	.header_container > header h1 a {
 		padding-top: 0;
 		position: absolute;
-		width: 100%;
+		min-width: 100%;
 		margin: 0;
 	}
 }

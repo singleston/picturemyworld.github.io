@@ -58,5 +58,7 @@
 
     .dropdown {
         display: inline-block;
+        width: 30px;
+        margin-right: 20px;
     }
 }

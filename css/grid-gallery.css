@@ -166,7 +166,7 @@
 
 /* Custom media queries: reduce number of columns and change slideshow layout */
 /* This code needs to be in that specific file otherwise the dynamic resize does not work on mobile. */
-@media screen and (max-width: 60em) {
+@media screen and (max-width: 1000px) {
 	.grid li {
 		/* For n elements side by side: 100/n % */
 		width: 50%;
@@ -197,7 +197,7 @@
 	}
 }
 
-@media screen and (max-width: 35em) {
+@media screen and (max-width: 560px) {
 	.grid li {
 		width: auto;
 	}
