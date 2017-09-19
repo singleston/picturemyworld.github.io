@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-31
+photo: 1505862839.jpg
+image: /img/thumb/1505862839.jpg
+location_text: Death Road, La Paz Department, Bolivia
+title: Jump on the edge
+caption: It was actually quite stressful to jump there... it was so deep!
+location:
+    latitude: -16.2643385
+    longitude: -67.7909923
+ratio: 0.75
+---
