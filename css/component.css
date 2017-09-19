@@ -21,6 +21,16 @@ a:hover, visited, active {
 	color: #357ca7;
 }
 
+button {
+    color: #47a3da;
+    outline: none;
+    border: none;
+}
+
+button:hover, active {
+    color: #357ca7;
+}
+
 .post-date {
 	margin-bottom: 0px;
     margin-top: 0px;
