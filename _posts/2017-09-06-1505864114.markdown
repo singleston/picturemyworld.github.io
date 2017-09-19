@@ -5,7 +5,7 @@ photo: 1505864114.jpg
 image: /img/thumb/1505864114.jpg
 location_text: Huayna Potosi, Bolivia
 title: I made it to the top!
-caption: The guide and I started the hike during the night at 1 am. We turned off the headlamps and climbed only using the moon light. Needless to say that it was extremely beautiful but at the same time... so hard! It took me 5h 30min to reach the summit, breathless, and very tired... but hey baby!! 6088 meters above sea level ! WOW
+caption: The guide and I started the hike during the night at 1 am. We turned off the headlamps and climbed up only using the moon light. Needless to say it was extremely beautiful but at the same time... so hard! It took me 5h 30min to reach the summit, breathless and very tired... but hey baby!! 6088 meters above sea level ! WOW
 location:
     latitude: -16.2618936
     longitude: -68.1519699

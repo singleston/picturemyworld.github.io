@@ -5,7 +5,7 @@ photo: 1505864424.jpg
 image: /img/thumb/1505864424.jpg
 location_text: Huayna Potosi, Bolivia
 title: Illimani
-caption: View from the summit of Huayna Potosi (6088m); in the far background one can see the Illimani mountain. It is the highest mountain in the Cordillera Real of western Bolivia. The funny thing is that from that point of view it did not look higher than I was hahaha
+caption: View from the summit of Huayna Potosi (6088m) and in the far background the Illimani mountain (6438m). It is the highest mountain in the Cordillera Real of western Bolivia. The funny thing is that from that point of view it did not look higher than I was hahaha!
 location:
     latitude: -16.2618936
     longitude: -68.1519699
