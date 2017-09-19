@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-06
+photo: 1505864958.jpg
+image: /img/thumb/1505864958.jpg
+location_text: Huayna Potosi, Bolivia
+title: My dear axe
+caption: Picture of my lovely climbing axe! It did help a lot that day  =D
+location:
+    latitude: -16.2618936
+    longitude: -68.1519699
+ratio: 1.00334
+---
