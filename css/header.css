@@ -30,6 +30,11 @@
 	position: relative;
 }
 
+.header_container > header h1 a {
+	text-align: center;
+	display: block;
+}
+
 .header_container > header > span {
 	display: block;
 	position: relative;
@@ -135,6 +140,7 @@
 	}
 
 	.header_container > header h1 a {
+		padding-top: 0;
 		position: absolute;
 		width: 100%;
 		margin: 0;
