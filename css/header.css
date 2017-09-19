@@ -14,17 +14,17 @@
 	background-color: white;
 	top: 0px;
 	width: 100%;
-    padding-left: 19%;
-    padding-right: 19%;
-    padding-top: 1em;
-    border-bottom-style: solid;
-    border-bottom-width: thin;
+	padding-left: 19%;
+	padding-right: 19%;
+	padding-top: 1em;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
 }
 
 .header_container > header h1 {
 	font-size: 2.125em;
 	margin: 0;
-	padding-top: 0.25em;
+	padding-top: 0.37em;
 	float: left;
 	font-weight: 400;
 	position: relative;
@@ -123,11 +123,17 @@
 }
 
 /* Header config for small screens */
-@media screen and (max-width: 35em) {
+@media screen and (max-width: 1000px) {
 
 	.header_container,
 	.header_container > header {
 		height: 3.9em;
+	}
+
+	.header_container > header {
+		min-width: 60%;
+		padding-left: 10%;
+		padding-right: 10%;
 	}
 
 	.header_container > header nav {
@@ -136,7 +142,9 @@
 
 	.header_container > header h1 {
 		font-size: 1.5em;
-		float: none;
+		padding-top: 0;
+		display: inline-block;
+		width: 80%;
 	}
 
 	.header_container > header h1 a {
