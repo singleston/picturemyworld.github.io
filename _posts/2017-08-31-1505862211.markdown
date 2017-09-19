@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-08-31
+photo: 1505862211.jpg
+image: /img/thumb/1505862211.jpg
+location_text: ES Cotapata, Nor Yungas, La Paz Department, Bolivia
+title: First day in Bolivia!
+caption: And I'm already biking down the death road! At first that picture has been taken on the new road that has been recently built to cross the valley; why? Well because there was way too many deadly accident on the old road that the gouvernement decided to close it to the massive circulation.
+location:
+    latitude: -16.2869214
+    longitude: -67.8492939
+ratio: 1.33333
+---
