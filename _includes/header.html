@@ -6,11 +6,7 @@
 			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
 			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
 			<div id="dropdownMenu" class="dropdown-content">
-				<div class="menu_item"><a href="{{ site.url }}"><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>Recent</a></div>
-				<div class="menu_item"><a href="{{ site.url }}/all"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
-				<div class="menu_item"><a href="{{ site.url }}/videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
-				<div class="menu_item"><a href="{{ site.url }}/map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
-				<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+				{% include navigation_items.html %}
 			</div>
 		</div>
 
@@ -19,11 +15,7 @@
 
 		<!-- Default navigation (active on big screens) -->
 		<nav>
-			<div class="menu_item"><a href="{{ site.url }}"><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>Recent</a></div>
-			<div class="menu_item"><a href="{{ site.url }}/all"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
-			<div class="menu_item"><a href="{{ site.url }}/videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
-			<div class="menu_item"><a href="{{ site.url }}/map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
-			<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+			{% include navigation_items.html %}
 		</nav>
 	</header>
 </div>

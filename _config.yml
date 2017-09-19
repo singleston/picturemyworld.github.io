@@ -1,7 +1,7 @@
 name: Picture My World
 highlighter: rouge
-#url: http://picturemy.world/
-url: http://127.0.0.1:4000/
+url: http://picturemy.world/
+#url: http://127.0.0.1:4000/
 
 author:
   name: Kevin Delord
