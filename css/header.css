@@ -133,7 +133,7 @@
 	.header_container > header {
 		min-width: 60%;
 		padding-left: 10%;
-		padding-right: 10%;
+		padding-right: 0%;
 	}
 
 	.header_container > header nav {
