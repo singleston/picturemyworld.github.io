@@ -7,6 +7,9 @@
  *
  * Copyright 2014, Codrops
  * http://www.codrops.com
+ *
+ * Modified by Kevin Delord (bug fixes and improvements)
+ *
  */
 ;( function( window ) {
 

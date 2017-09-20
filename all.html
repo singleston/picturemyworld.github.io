@@ -18,62 +18,30 @@ layout: default
 
 <!-- Add the grid element -->
 <div id="grid-gallery" class="grid-gallery">
+	<!-- grid-gallery -->
 	<section class="grid-wrap">
 		<ul class="grid">
 			<li class="grid-sizer"></li><!-- for Masonry column width -->
 			{% for post in site.posts %}
-			<li>
-				<figure>
-					<div class="image_container">
-						<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>
-						<i class="fa fa-arrows-alt" aria-hidden="true"></i>
-					</div>
-					<figcaption>
-						<h3>{{ post.title }}</h3>
-						<i class="fa fa-location-arrow" aria-hidden="true"></i>
-						<a class= "maps_link" href="{{ site.url }}/map?p={{ post.photo }}" target="_blank">{{ post.location_text }}</a>
-						<p>{{ post.caption }}</p>
-						<p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
-					</figcaption>
-				</figure>
-			</li>
+				{% include grid_item.html post=post %}
 			{% endfor %}
 		</ul>
-	</section><!-- grid-wrap -->
+	</section>
 
+	<!-- slideshow -->
 	<section class="slideshow">
-		<ul>
-			{% for post in site.posts %}
-			<li>
-				<figure>
-					<img data-tmp="{{ site.url }}/img/large/{{ post.photo }}"/>
-				</figure>
-				<h3>{{ post.title }}</h3>
-			</li>
-			{% endfor %}
-		</ul>
+		{% for post in site.posts %}
+			{% include slideshow_item.html post=post %}
+		{% endfor %}
 		<nav>
 			<span class="icon nav-prev"></span>
 			<span class="icon nav-next"></span>
 			<span class="icon nav-close"></span>
 		</nav>
-	</section><!-- slideshow -->
-
-</div><!-- grid-gallery -->
+	</section>
+</div>
 
 <!-- Attach javascripts to grid-gallery -->
-<script>
-	var grid = new CBPGridGallery(document.getElementById('grid-gallery'));
-	// var myLazyLoad = new LazyLoad();
-	var myLazyLoad = new LazyLoad({
-		threshold: 0
-	});
-
-	// Calculate and set the 'responsive' display size for the each thumbnails in the grid.
-	[].forEach.call(document.getElementsByClassName('grid_thumbnail'), function(element) {
-		let ratio = element.dataset.ratio
-		let width = element.width
-		let newHeight = (width / ratio).toFixed(2);
-		element.style.height = newHeight + "px";
-	})
-</script>
+<script src="{{ site.url }}/js/custom/grid_layout.js"></script>
+<!-- If necessary, scroll to grid item -->
+<script src="{{ site.url}}/js/custom/scroll_to_item.js"></script>
