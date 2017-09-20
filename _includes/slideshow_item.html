@@ -1,9 +1,7 @@
 {% capture post %}{{ include.post }}{% endcapture %}
-<ul>
-	<li>
-		<figure>
-			<img data-tmp="{{ site.url }}/img/large/{{ post.photo }}"/>
-		</figure>
-		<h3>{{ post.title }}</h3>
-	</li>
-</ul>
+<li>
+	<figure>
+		<img data-tmp="{{ site.url }}/img/large/{{ post.photo }}"/>
+	</figure>
+	<h3>{{ post.title }}</h3>
+</li>

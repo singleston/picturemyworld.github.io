@@ -30,9 +30,11 @@ layout: default
 
 	<!-- slideshow -->
 	<section class="slideshow">
-		{% for post in site.posts %}
-			{% include slideshow_item.html post=post %}
-		{% endfor %}
+		<ul>
+			{% for post in site.posts %}
+				{% include slideshow_item.html post=post %}
+			{% endfor %}
+		</ul>
 		<nav>
 			<span class="icon nav-prev"></span>
 			<span class="icon nav-next"></span>
