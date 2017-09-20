@@ -22,7 +22,7 @@ layout: default
 		<ul class="grid">
 			<li class="grid-sizer"></li><!-- for Masonry column width -->
 			{% for post in site.posts limit:15 %}
-			<li>
+			<li id={{ post.photo }}>
 				<figure>
 					<div class="image_container">
 						<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>
@@ -79,4 +79,16 @@ layout: default
 		let newHeight = (width / ratio).toFixed(2);
 		element.style.height = newHeight + "px";
 	})
+
+	// Pure JavaScript equivalent to jQuery's `$.ready()` function when the page/dom is ready
+	// Trick working for all web browsers.
+	// https://stackoverflow.com/a/30319853/2790648
+	function ready(f){/in/.test(document.readyState)?setTimeout('ready('+f+')',9):f()}
+	ready(function(){
+		let identifier = window.location.hash.substring(1);
+		let element = document.getElementById(identifier);
+		if (element) {
+			element.scrollIntoView(true);
+		}
+	});
 </script>
