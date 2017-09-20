@@ -29,3 +29,6 @@ maps:
 
 collections:
   videos:
+
+content:
+  recent_limit: 15
