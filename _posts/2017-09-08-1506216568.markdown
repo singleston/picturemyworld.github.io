@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-08
+photo: 1506216568.jpg
+image: /img/thumb/1506216568.jpg
+location_text: Sucre, Bolivia
+title: The white city of Bolivia
+caption: Here goes the white city of Bolivia! Each country in South America has one, the capital of Bolivia is quite small and relax. Most of the tourists here are just passing by as there isn't much to do around...
+location:
+    latitude: -19.0195852
+    longitude: -65.2619615
+ratio: 1.33333
+---
