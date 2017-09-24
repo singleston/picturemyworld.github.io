@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-12
+photo: 1506289626.jpg
+image: /img/thumb/1506289626.jpg
+location_text: Isla del Pescado, Uyuni, Bolivia
+title: Isla del Pescado
+caption: That island is actually a small hill with thousands of giant cactus. The rocks are actually dead corals and each cactus is at least  2 meters high!
+location:
+    latitude: -20.143056
+    longitude: -67.8075
+ratio: 1.33333
+---
