@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-10
+photo: 1506262925.jpg
+image: /img/thumb/1506262925.jpg
+location_text: Cerro Rico, Potosi, Bolivia
+title: Silver Mine!
+caption: This is the entry of one of the silver mines of the Cerro Rico mountain in Potosi. After 400 years of exploitation they only when through 30% of the mineral reserve. The red color on the wall is lama blood used as a sacrifice to get protection and luck from Pachamama (the main god on the outside world).
+location:
+    latitude: -19.6189261
+    longitude: -65.750041
+ratio: 0.75
+---
