@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-10
+photo: 1506263883.jpg
+image: /img/thumb/1506263883.jpg
+location_text: Potosi, Bolivia
+title: Potosi
+caption: The city of Potosi used to be the richest in South America at a time where silver was found in abundance in the mines. Nowadays it's just a small, rather dirty town where you can freely buy dynamite and work in the mines for a small wage...
+location:
+    latitude: -19.5722805
+    longitude: -65.7550063
+ratio: 1.52284
+---
