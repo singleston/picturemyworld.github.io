@@ -8,6 +8,10 @@
  * @version 2.3.9
  * @requires jQuery v1.4.3+
  * @preserve
+ *
+ * https://github.com/pklauzinski/jscroll
+ * http://jscroll.com/
+ * http://blog.scottlogic.com/2014/10/14/jekyll-pagination-and-infinite-scrolling.html
  */
 (function($) {
 
