@@ -26,25 +26,18 @@ layout: default
 	<!-- grid-gallery -->
 	<section class="grid-wrap">
 		<ul class="grid">
-			<li class="grid-sizer"></li><!-- for Masonry column width -->
+			<!-- Masonry column width -->
+			<li class="grid-sizer"></li>
+			<!-- Jekyll Pagination posts list. -->
 			{% for post in paginator.posts %}
 				{% include grid_item.html post=post %}
 			{% endfor %}
 		</ul>
 
-		<!-- Query only the last displayed item -->
-<!-- 		{% for post in site.posts limit:1 offset:post_limit %}
-			<a href="{{ site.url }}/all/#{{ post.photo }}" class="see_more"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>See All Pictures</a>
-		{% endfor %}
- -->
  		{% if paginator.total_pages > 1 %}
 		<div class="pagination">
-			<!-- {% if paginator.previous_page %}
-				<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="see_more" id="prev">&laquo; Prev</a>
-			{% endif %} -->
-
 			{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="see_more" id="next">Next &raquo;</a>
+				<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="see_more">Next</a>
 			{% endif %}
 		</div>
 		{% endif %}
@@ -69,13 +62,13 @@ layout: default
 <!-- Attach javascripts to grid-gallery -->
 <script src="{{ site.url }}/js/custom/grid_layout.js"></script>
 <!-- If necessary, scroll to grid item -->
-<script src="{{ site.url}}/js/custom/scroll_to_item.js"></script>
+<!-- <script src="{{ site.url}}/js/custom/scroll_to_item.js"></script> -->
 
 <script type="text/javascript">
-	console.log("dafuck?");
-	$('.jscroll').jscroll({
-		debug: true,
-		nextSelector: 'a.see_more'
+	$('.grid-wrap').jscroll({
+		debug: false,
+		nextSelector: 'a.see_more',
+		contentSelector: '.grid_item',
+		callback: refreshGridLayout
 	});
-	console.log($('.jscroll'));
 </script>

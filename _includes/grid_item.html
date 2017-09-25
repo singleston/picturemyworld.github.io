@@ -1,5 +1,5 @@
 {% capture post %}{{ include.post }}{% endcapture %}
-<li id="{{ post.photo }}">
+<li class="grid_item" id="{{ post.photo }}">
 	<figure>
 		<div class="image_container">
 			<img class="grid_thumbnail" data-ratio={{ post.ratio }} data-original="{{ site.url }}/img/thumb/{{ post.photo }}"/>

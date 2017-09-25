@@ -24,7 +24,6 @@
             autoTrigger: true,
             autoTriggerUntil: false,
             loadingHtml: '<small>Loading...</small>',
-            loadingFunction: false,
             padding: 0,
             nextSelector: 'a:last',
             contentSelector: '',
@@ -36,7 +35,6 @@
     // Constructor
     var jScroll = function($e, options) {
 
-        console.log("jscroll load?");
         // Private vars and methods
         var _data = $e.data('jscroll'),
             _userOptions = (typeof options === 'function') ? { callback: options } : options,
@@ -46,7 +44,7 @@
             _$window = $(window),
             _$body = $('body'),
             _$scroll = _isWindow ? _$window : $e,
-            _nextHref = $.trim(_$next.attr('href') + ' ' + _options.contentSelector),
+            _nextHref = $.trim(_$next.attr('href')),
 
             // Check if a loading image is defined and preload
             _preloadImage = function() {
@@ -57,20 +55,13 @@
                 }
             },
 
-            // Wrap inner content, if it isn't already
-            _wrapInnerContent = function() {
-                if (!$e.find('.jscroll-inner').length) {
-                    $e.contents().wrapAll('<div class="jscroll-inner" />');
-                }
-            },
-
             // Find the next link's parent, or add one, and hide it
             _nextWrap = function($next) {
                 var $parent;
                 if (_options.pagingSelector) {
                     $next.closest(_options.pagingSelector).hide();
                 } else {
-                    $parent = $next.parent().not('.jscroll-inner,.jscroll-added').addClass('jscroll-next-parent').hide();
+                    $parent = $next.parent().not('.grid').addClass('jscroll-next-parent').hide();
                     if (!$parent.length) {
                         $next.wrap('<div class="jscroll-next-parent" />').parent().hide();
                     }
@@ -79,17 +70,13 @@
 
             // Remove the jscroll behavior and data from an element
             _destroy = function() {
-                return _$scroll.unbind('.jscroll')
-                    .removeData('jscroll')
-                    .find('.jscroll-inner').children().unwrap()
-                    .filter('.jscroll-added').children().unwrap();
+                return _$scroll.unbind('.jscroll').removeData('jscroll');
             },
 
             // Observe the scroll event for when to trigger the next load
             _observe = function() {
                 if ($e.is(':visible')) {
-                    _wrapInnerContent();
-                    var $inner = $e.find('div.jscroll-inner').first(),
+                    var $inner = $e.find('ul.grid').first(),
                         data = $e.data('jscroll'),
                         borderTopWidth = parseInt($e.css('borderTopWidth'), 10),
                         borderTopWidthInt = isNaN(borderTopWidth) ? 0 : borderTopWidth,
@@ -99,7 +86,6 @@
                         iTotalHeight = Math.ceil(iTopHeight - innerTop + _$scroll.height() + iContainerTop);
 
                     if (!data.waiting && iTotalHeight + _options.padding >= $inner.outerHeight()) {
-                        //data.nextHref = $.trim(data.nextHref + ' ' + _options.contentSelector);
                         _debug('info', 'jScroll:', $inner.outerHeight() - iTotalHeight, 'from bottom. Loading next request...');
                         return _load();
                     }
@@ -150,35 +136,41 @@
 
             // Load the next set of content, if available
             _load = function() {
-                var $inner = $e.find('div.jscroll-inner').first(),
+                var $inner = $e.find('ul.grid').first(),
                     data = $e.data('jscroll');
 
                 data.waiting = true;
-                $inner.append('<div class="jscroll-added" />')
-                    .children('.jscroll-added').last()
-                    .html('<div class="jscroll-loading" id="jscroll-loading">' + _options.loadingHtml + '</div>')
-                    .promise()
-                    .done(function() {
-                        if (_options.loadingFunction) {
-                            _options.loadingFunction();
-                        }
-                    });
+                // Integrate temporary div to load the new content. It's gonna be removed later.
+                $inner.append('<div class="jscroll-tmp" />')
 
                 return $e.animate({scrollTop: $inner.outerHeight()}, 0, function() {
                     var nextHref = data.nextHref;
-                    $inner.find('div.jscroll-added').last().load(nextHref, function(r, status) {
+                    _debug('info', 'jScroll: load next page with url: ', nextHref);
+                    $inner.children('.jscroll-tmp').first().load(nextHref + ' ' + _options.contentSelector, function(r, status) {
                         if (status === 'error') {
                             return _destroy();
                         }
-                        var $next = $(this).find(_options.nextSelector).first();
-                        data.waiting = false;
-                        data.nextHref = $next.attr('href') ? $.trim($next.attr('href') + ' ' + _options.contentSelector) : false;
-                        $('.jscroll-next-parent', $e).remove(); // Remove the previous next link now that we have a new one
-                        _checkNextHref();
-                        if (_options.callback) {
+
+                        // Insert the new grid items into the current grid-wrap (the parent of the current element).
+                        $inner.append($(this).children());
+                        $(this).remove();
+
+                        // Create a div element to ONLY load the next href element.
+                        var $newHref = $( '<div />' )
+                        $newHref.load(nextHref + ' ' + _options.nextSelector, function(r, status) {
+                          let newHref = $newHref.children().first().attr('href')
+                          data.nextHref = (newHref ? $.trim(newHref) : false)
+                          data.waiting = false;
+
+                          _checkNextHref();
+                          if (_options.callback) {
                             _options.callback.call(this, nextHref);
-                        }
-                        _debug('dir', data);
+                          }
+
+                          _debug('dir', data);
+                        });
+
+                        $('.jscroll-next-parent', $e).remove(); // Remove the previous next link now that we have a new one
                     });
                 });
             },
@@ -202,10 +194,8 @@
                 }
             };
 
-            console.log("Init jScrolll!");
         // Initialization
         $e.data('jscroll', $.extend({}, _data, {initialized: true, waiting: false, nextHref: _nextHref}));
-        _wrapInnerContent();
         _preloadImage();
         _setBindings();
 
@@ -213,24 +203,21 @@
         $.extend($e.jscroll, {
             destroy: _destroy
         });
-        console.log($e);
+
         return $e;
     };
 
     // Define the jscroll plugin method and loop
     $.fn.jscroll = function(m) {
-        console.log("here");
-        console.log(m);
         return this.each(function() {
             var $this = $(this),
                 data = $this.data('jscroll');
 
             // Instantiate jScroll on this element if it hasn't been already
             if (data && data.initialized) {
-                console.log("nope");
                 return;
             }
-            console.log("should");
+            console.log('jScroll: loaded with parameters: ', m);
             jScroll($this, m);
         });
     };
