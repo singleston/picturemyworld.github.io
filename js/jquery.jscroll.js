@@ -134,6 +134,26 @@
                 }
             },
 
+            _loadNewHref = function() {
+				var data = $e.data('jscroll'),
+					nextHref = data.nextHref;
+
+				// Create a div element to ONLY load the next href element.
+				var $newHref = $( '<div />' )
+				$newHref.load(nextHref + ' ' + _options.nextSelector, function(r, status) {
+                    let newHref = $newHref.children().first().attr('href')
+					data.nextHref = (newHref ? $.trim(newHref) : false)
+                    data.waiting = false;
+
+                    _checkNextHref();
+                    if (_options.callback) {
+						_options.callback.call(this, nextHref);
+                    }
+
+                    _debug('dir', data);
+                });
+            },
+
             // Load the next set of content, if available
             _load = function() {
                 var $inner = $e.find('ul.grid').first(),
@@ -155,20 +175,8 @@
                         $inner.append($(this).children());
                         $(this).remove();
 
-                        // Create a div element to ONLY load the next href element.
-                        var $newHref = $( '<div />' )
-                        $newHref.load(nextHref + ' ' + _options.nextSelector, function(r, status) {
-                          let newHref = $newHref.children().first().attr('href')
-                          data.nextHref = (newHref ? $.trim(newHref) : false)
-                          data.waiting = false;
-
-                          _checkNextHref();
-                          if (_options.callback) {
-                            _options.callback.call(this, nextHref);
-                          }
-
-                          _debug('dir', data);
-                        });
+                        // Load new Href for the next automatic load.
+                        _loadNewHref();
 
                         $('.jscroll-next-parent', $e).remove(); // Remove the previous next link now that we have a new one
                     });
