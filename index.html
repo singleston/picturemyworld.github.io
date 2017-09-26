@@ -35,6 +35,7 @@ layout: default
 		</ul>
 
  		{% if paginator.total_pages > 1 %}
+ 		<!-- Next button (with visibility:hidden) used by jScroll to simulate an infinite scroll. -->
 		<div class="pagination">
 			{% if paginator.next_page %}
 				<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="see_more">Next</a>
@@ -61,15 +62,12 @@ layout: default
 
 <!-- Attach javascripts to grid-gallery -->
 <script src="{{ site.url }}/js/custom/grid_layout.js"></script>
-<!-- If necessary, scroll to grid item -->
-<!-- TODO: remove scroll_to_item.js -->
-<!-- TODO: remove 'recent' tab from navigation bar -->
-<!-- TODO: add loading spinner. -->
-<!-- <script src="{{ site.url}}/js/custom/scroll_to_item.js"></script> -->
+<!-- TODO: Add loading spinner. -->
+<!-- TODO: Only load one page on first start -->
 
 <script type="text/javascript">
 	$('.grid-gallery').jscroll({
-		debug: false,
+		debug: true,
 		nextSelector: 'a.see_more',
 		contentSelector: '.grid_item',
 		slideshowSelector: '.slideshow_item',

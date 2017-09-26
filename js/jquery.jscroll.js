@@ -203,7 +203,9 @@
 							// Load new Href for the next automatic load.
 							_loadNewHref();
                         });
-                        $('.jscroll-next-parent', $e).remove(); // Remove the previous next link now that we have a new one
+                        // Remove the previous next link now that we have a new one.
+                        // TODO: Is this `jscroll-next-parent` needed?
+                        $('.jscroll-next-parent', $e).remove();
                     });
                 });
             },
