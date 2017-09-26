@@ -66,6 +66,18 @@
 	};
 
 	CBPGridGallery.prototype._init = function() {
+		// index of current slideshow item
+		this.current = -1;
+		// slideshow control buttons
+		this.ctrlPrev = this.el.querySelector( 'section.slideshow > nav > span.nav-prev' );
+		this.ctrlNext = this.el.querySelector( 'section.slideshow > nav > span.nav-next' );
+		this.ctrlClose = this.el.querySelector( 'section.slideshow > nav > span.nav-close' );
+		// init the local attributes and Mansonry.
+		this.reloadContent();
+	};
+
+	// Reload the local attributes, Mansonry for the layout.
+	CBPGridGallery.prototype.reloadContent = function() {
 		// main grid
 		this.grid = this.el.querySelector( 'section.grid-wrap > ul.grid' );
 		// main grid items
@@ -75,18 +87,14 @@
 		// items total
 		this.itemsCount = this.gridItems.length;
 		// slideshow grid
-		this.slideshow = this.el.querySelector( 'section.slideshow > ul' );
+		this.slideshow = this.el.querySelector( 'section.slideshow > ul.slide' );
 		// slideshow grid items
 		this.slideshowItems = [].slice.call( this.slideshow.children );
-		// index of current slideshow item
-		this.current = -1;
-		// slideshow control buttons
-		this.ctrlPrev = this.el.querySelector( 'section.slideshow > nav > span.nav-prev' );
-		this.ctrlNext = this.el.querySelector( 'section.slideshow > nav > span.nav-next' );
-		this.ctrlClose = this.el.querySelector( 'section.slideshow > nav > span.nav-close' );
 		// init masonry grid
 		this._initMasonry();
-		// init events
+		// init events for the grid items.
+		this._initGridClickEvents();
+		// init events for the slideshow controls.
 		this._initEvents();
 	};
 
@@ -100,7 +108,7 @@
 		});
 	};
 
-	CBPGridGallery.prototype._initEvents = function() {
+	CBPGridGallery.prototype._initGridClickEvents = function() {
 		var self = this;
 
 		// When clicking on the map link, do not open the slideshow
@@ -114,8 +122,12 @@
 		this.gridItems.forEach( function( item, idx ) {
 			item.addEventListener( 'click', function() {
 				self._openSlideshow( idx );
-			} );
-		} );
+			});
+		});
+	};
+
+	CBPGridGallery.prototype._initEvents = function() {
+		var self = this;
 
 		// slideshow controls
 		this.slideshow.addEventListener( 'click', function() { self._closeSlideshow(); } );

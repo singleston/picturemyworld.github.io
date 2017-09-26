@@ -5,3 +5,4 @@ source 'https://rubygems.org'
 # https://github.com/github/pages-gem
 gem 'json', '~> 1.8.5'
 gem 'github-pages'
+gem 'jekyll-paginate'

@@ -13,15 +13,17 @@ author:
 
 # Build settings
 markdown:     kramdown
-permalink:    pretty
 sass:
   compressed: true
+
+paginate:     10
 
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 maps:
   google:
