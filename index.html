@@ -13,7 +13,7 @@ layout: default
 <script src="{{ site.url }}/js/cbpGridGallery.js"></script>
 <script src="{{ site.url }}/js/lazyload.min.js"></script>
 <script src="{{ site.url }}/js/jquery-3.2.1.min.js"></script>
-<script src="{{ site.url }}/js/jquery.jscroll.js"></script>
+<script src="{{ site.url }}/js/custom/jquery.jscroll.js"></script>
 
 <!-- Add header element -->
 {% include header.html %}
@@ -63,7 +63,6 @@ layout: default
 <!-- Attach javascripts to grid-gallery -->
 <script src="{{ site.url }}/js/custom/grid_layout.js"></script>
 <!-- TODO: Add loading spinner. -->
-<!-- TODO: Only load one page on first start -->
 
 <script type="text/javascript">
 	$('.grid-gallery').jscroll({
@@ -71,6 +70,7 @@ layout: default
 		nextSelector: 'a.see_more',
 		contentSelector: '.grid_item',
 		slideshowSelector: '.slideshow_item',
+		padding: 200,
 		callback: refreshGridLayout
 	});
 </script>
