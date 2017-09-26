@@ -249,10 +249,6 @@
 			incomingItem = this.slideshowItems[ dir === 'next' ? this.current + 2 : this.current - 2 ];
 			setTransform( incomingItem, transformIncomingStr );
 			classie.addClass( incomingItem, 'show' );
-		} else {
-			console.log("cannot go further");
-			console.log(this.itemsCount);
-			console.log(this.slideshowItems);
 		}
 
 		var slide = function() {

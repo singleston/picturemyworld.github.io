@@ -9,9 +9,7 @@
  * @requires jQuery v1.4.3+
  * @preserve
  *
- * https://github.com/pklauzinski/jscroll
- * http://jscroll.com/
- * http://blog.scottlogic.com/2014/10/14/jekyll-pagination-and-infinite-scrolling.html
+ * Modified by Kevin Delord on 25.09.2017 to conform to the current grid and slideshow layout.
  */
 (function($) {
 
@@ -136,19 +134,19 @@
 
             // Load the next href link, if available
             _loadNewHref = function(callback) {
-				var data = $e.data('jscroll'),
-					nextHref = data.nextHref;
+                var data = $e.data('jscroll'),
+                    nextHref = data.nextHref;
 
-				// Create a div element to ONLY load the next href element.
-				var $newHref = $( '<div />' )
-				$newHref.load(nextHref + ' ' + _options.nextSelector, function(r, status) {
+                // Create a div element to ONLY load the next href element.
+                var $newHref = $( '<div />' )
+                $newHref.load(nextHref + ' ' + _options.nextSelector, function(r, status) {
                     let newHref = $newHref.children().first().attr('href')
-					data.nextHref = (newHref ? $.trim(newHref) : false)
+                    data.nextHref = (newHref ? $.trim(newHref) : false)
                     data.waiting = false;
 
                     _checkNextHref();
                     if (_options.callback) {
-						_options.callback.call(this, nextHref);
+                        _options.callback.call(this, nextHref);
                     }
 
                     _debug('dir', data);
@@ -158,26 +156,26 @@
             },
 
             // Load the next set of slideshow content, if available
-			_loadSlideshow = function(callback) {
-				var $slideContainer = $e.find('ul.slide').first();
-				var nextHref = $e.data('jscroll').nextHref + ' ' + _options.slideshowSelector;
+            _loadSlideshow = function(callback) {
+                var $slideContainer = $e.find('ul.slide').first();
+                var nextHref = $e.data('jscroll').nextHref + ' ' + _options.slideshowSelector;
 
-				// Integrate temporary div to load the new content. It's gonna be removed later.
-				$slideContainer.append('<div class="jscroll-slideshow-tmp" />')
+                // Integrate temporary div to load the new content. It's gonna be removed later.
+                $slideContainer.append('<div class="jscroll-slideshow-tmp" />')
 
-				_debug('info', 'jScroll: load next slideshow content with url: ', nextHref);
-				$slideContainer.children('.jscroll-slideshow-tmp').first().load(nextHref, function(r, status) {
-					if (status === 'error') {
-						return _destroy();
-					}
+                _debug('info', 'jScroll: load next slideshow content with url: ', nextHref);
+                $slideContainer.children('.jscroll-slideshow-tmp').first().load(nextHref, function(r, status) {
+                    if (status === 'error') {
+                        return _destroy();
+                    }
 
-					// Insert the new slideshow items into the current slideshow (the parent of the current element).
-					$slideContainer.append($(this).children());
-					$(this).remove();
+                    // Insert the new slideshow items into the current slideshow (the parent of the current element).
+                    $slideContainer.append($(this).children());
+                    $(this).remove();
 
-					callback();
-				});
-			},
+                    callback();
+                });
+            },
 
             // Load the next set of content, if available
             _load = function() {
@@ -205,8 +203,8 @@
 
                         // Load the new slideshow content.
                         _loadSlideshow(function() {
-							// Load new Href for the next automatic load.
-							_loadNewHref(function() {
+                            // Load new Href for the next automatic load.
+                            _loadNewHref(function() {
                                 // Remove laoding spinner.
                                 $inner.parent().children().remove('.' + _options.spinnerClass);
                             });
