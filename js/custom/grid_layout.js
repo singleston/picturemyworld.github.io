@@ -9,7 +9,7 @@
  */
 
 // The distance out of the viewport, in pixel, before which to start loading the images and the next page loading.
-const bottomPadding = 200;
+const bottomPadding = 250;
 
 // Mansory custom grid and Slideshow layout
 var grid = new CBPGridGallery(document.getElementById('grid-gallery'));
