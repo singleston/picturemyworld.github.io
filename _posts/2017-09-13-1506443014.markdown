@@ -5,7 +5,7 @@ photo: 1506443014.jpg
 image: /img/thumb/1506443014.jpg
 location_text: Laguna Colarada, Bolivia
 title: Hey sexy
-caption: I like to imagine what those llamas have in mind when they see us. Like "Hey you, do you have food?" or the one in the background being all like "Mate don't get too close of my girl...", he might be jealous!
+caption: I like to imagine what those llamas have in mind when they see us. Like "Hey you, do you have food?" or the one in the background being all like "Mate, don't get too close to my girl..." (he might be jealous!)
 location:
     latitude: -22.2082719
     longitude: -67.7735206

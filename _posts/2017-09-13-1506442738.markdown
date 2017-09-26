@@ -5,7 +5,7 @@ photo: 1506442738.jpg
 image: /img/thumb/1506442738.jpg
 location_text: Laguna Colarada, Bolivia
 title: Roses are red...
-caption: so is that lake! Due to some minerals and other natural effects this lake at 4270m is colored, the water itself is actually red!
+caption: ... so is that lake! Due to some minerals and other natural effects this lake at 4270m is colored. The water itself is actually red!
 location:
     latitude: -22.2082719
     longitude: -67.7735206

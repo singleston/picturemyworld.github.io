@@ -5,7 +5,7 @@ photo: 1506442916.jpg
 image: /img/thumb/1506442916.jpg
 location_text: Laguna Colarada, Bolivia
 title: New GF!
-caption: Mom, Dad, I would like to introduce my new girl friend. She is very cute and sooo fluffy haha.
+caption: Mom, Dad, I would like to introduce to you my new girlfriend. She is very cute and sooo fluffy haha.
 location:
     latitude: -22.2082719
     longitude: -67.7735206

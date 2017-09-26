@@ -5,7 +5,7 @@ photo: 1506441694.jpg
 image: /img/thumb/1506441694.jpg
 location_text: Árbol de Piedra, Bolivia
 title: Arbol de Piedra
-caption: Árbol de Piedra is an isolated rock formation and somehow very a touristic attraction, I don't know why, it is just a rock.
+caption: Árbol de Piedra is an isolated rock formation and somehow a very touristic attraction. I don't understand why, it is just a rock.
 location:
     latitude: -22.0519254
     longitude: -67.8832848

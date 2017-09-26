@@ -5,7 +5,7 @@ photo: 1506288755.jpg
 image: /img/thumb/1506288755.jpg
 location_text: Salar de Uyuni, Bolivia
 title: Fighting Dinosaur
-caption: Once again I had to save the world...<br />Otherwise this salt flat used to be a lake with salt water (yes, from the ocean) stuck up in the mountain range. As no new water arrived into the lake, the water evaporated and only the minerals stayed (which took millions of year to do).
+caption: Once again I had to save the world...<br />Otherwise this salt flat used to be a lake with salty water (yes, from the ocean). As no new water arrived into the lake so high up in the mountain range, the water evaporated and only the minerals stayed (which took millions of year to do).
 location:
     latitude: -20.1337772
     longitude: -67.4891345

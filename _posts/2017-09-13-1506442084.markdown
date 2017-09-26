@@ -5,7 +5,7 @@ photo: 1506442084.jpg
 image: /img/thumb/1506442084.jpg
 location_text: Laguna Cañapa, Bolivia
 title: Flamingo!
-caption: This is a picture of a flamingo chileno at the lake Cañapa.<br />Credits: Rick Moore
+caption: This is a picture of a flamingo chileno at the lake Cañapa.<br />Photo by Rick Moore
 location:
     latitude: -21.5044444
     longitude: -68.0108333

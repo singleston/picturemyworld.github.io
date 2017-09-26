@@ -5,7 +5,7 @@ photo: 1506288617.jpg
 image: /img/thumb/1506288617.jpg
 location_text: Salar de Uyuni, Bolivia
 title: Making of
-caption: Just that you know, this how we make all those pictures... by lying on the ground and doing our best as pro photographers as we are!
+caption: Just that you know, this is how we make all those pictures... by lying on the ground and doing our best as pro photographers as we are!
 location:
     latitude: -20.1337772
     longitude: -67.4891345

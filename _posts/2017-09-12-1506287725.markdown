@@ -5,7 +5,7 @@ photo: 1506287725.jpg
 image: /img/thumb/1506287725.jpg
 location_text: DakarSalar monument to Uyuni, Bolivia
 title: With da crew!
-caption: We are now about to enter the Salar of Uyuni where the Dakar race once took place. The tour will last 3 days and 2 nights and we willl end up in Chile at the Atacama desert! Special big up to Cheryl, Rick and Murielle =D
+caption: We are now about to enter the Salar of Uyuni where the Dakar race once took place. The tour will last 3 days and 2 nights and we will end up in Chile at the Atacama desert! Special big up to Cheryl, Rick and Murielle =D
 location:
     latitude: -20.3314317
     longitude: -67.0460539
