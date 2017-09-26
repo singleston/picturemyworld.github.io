@@ -210,7 +210,6 @@
                             });
                         });
                         // Remove the previous next link now that we have a new one.
-                        // TODO: Is this `jscroll-next-parent` needed?
                         $('.jscroll-next-parent', $e).remove();
                     });
                 });
