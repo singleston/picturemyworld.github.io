@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-13
+photo: 1506441893.jpg
+image: /img/thumb/1506441893.jpg
+location_text: Árbol de Piedra, Bolivia
+title: Hard stuff
+caption: I obviously do not recall the name of that green stuff, but jesus I was surprised by its texture. It feels like a rock and is as hard as one! Plus frozen due to the cold at more than 4000 meters above sea level!
+location:
+    latitude: -22.0519254
+    longitude: -67.8832848
+ratio: 1.33333
+---
