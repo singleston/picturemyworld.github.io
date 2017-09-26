@@ -5,6 +5,7 @@ layout: default
 <!-- Load specific CSS files -->
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slideshow.css" />
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/spinner.css" />
 
 <!-- Load specific javascript files -->
 <script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
@@ -60,16 +61,16 @@ layout: default
 	</section>
 </div>
 
-<!-- Attach javascripts to grid-gallery -->
+<!-- Attach javascripts to grid-gallery. -->
 <script src="{{ site.url }}/js/custom/grid_layout.js"></script>
-<!-- TODO: Add loading spinner. -->
-
+<!-- Load jScroll and simulate infinite scroll. -->
 <script type="text/javascript">
 	$('.grid-gallery').jscroll({
-		debug: true,
+		debug: false,
 		nextSelector: 'a.see_more',
 		contentSelector: '.grid_item',
 		slideshowSelector: '.slideshow_item',
+		spinnerClass: 'infinite-spinner',
 		padding: 200,
 		callback: refreshGridLayout
 	});

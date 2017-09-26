@@ -23,7 +23,7 @@
             debug: false,
             autoTrigger: true,
             autoTriggerUntil: false,
-            loadingHtml: '<small>Loading...</small>',
+            spinnerClass: '',
             padding: 0,
             nextSelector: 'a:last',
             contentSelector: '',
@@ -135,7 +135,7 @@
             },
 
             // Load the next href link, if available
-            _loadNewHref = function() {
+            _loadNewHref = function(callback) {
 				var data = $e.data('jscroll'),
 					nextHref = data.nextHref;
 
@@ -152,6 +152,8 @@
                     }
 
                     _debug('dir', data);
+
+                    callback();
                 });
             },
 
@@ -180,11 +182,14 @@
             // Load the next set of content, if available
             _load = function() {
                 var $inner = $e.find('ul.grid').first(),
-                    data = $e.data('jscroll');
+                    data = $e.data('jscroll'),
+                    spinner = '<div class="' + _options.spinnerClass + '"></div>';
 
                 data.waiting = true;
                 // Integrate temporary div to load the new content. It's gonna be removed later.
                 $inner.append('<div class="jscroll-tmp" />')
+                // Add loading spinner.
+                $inner.parent().append(spinner);
 
                 return $e.animate({scrollTop: $inner.outerHeight()}, 0, function() {
                     var nextHref = data.nextHref;
@@ -201,7 +206,10 @@
                         // Load the new slideshow content.
                         _loadSlideshow(function() {
 							// Load new Href for the next automatic load.
-							_loadNewHref();
+							_loadNewHref(function() {
+                                // Remove laoding spinner.
+                                $inner.parent().children().remove('.' + _options.spinnerClass);
+                            });
                         });
                         // Remove the previous next link now that we have a new one.
                         // TODO: Is this `jscroll-next-parent` needed?
