@@ -46,7 +46,7 @@ layout: default
 
 	<!-- slideshow -->
 	<section class="slideshow">
-		<ul>
+		<ul class="slide">
 			{% for post in paginator.posts %}
 				{% include slideshow_item.html post=post %}
 			{% endfor %}
@@ -62,13 +62,17 @@ layout: default
 <!-- Attach javascripts to grid-gallery -->
 <script src="{{ site.url }}/js/custom/grid_layout.js"></script>
 <!-- If necessary, scroll to grid item -->
+<!-- TODO: remove scroll_to_item.js -->
+<!-- TODO: remove 'recent' tab from navigation bar -->
+<!-- TODO: add loading spinner. -->
 <!-- <script src="{{ site.url}}/js/custom/scroll_to_item.js"></script> -->
 
 <script type="text/javascript">
-	$('.grid-wrap').jscroll({
+	$('.grid-gallery').jscroll({
 		debug: false,
 		nextSelector: 'a.see_more',
 		contentSelector: '.grid_item',
+		slideshowSelector: '.slideshow_item',
 		callback: refreshGridLayout
 	});
 </script>

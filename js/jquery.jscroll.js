@@ -134,6 +134,7 @@
                 }
             },
 
+            // Load the next href link, if available
             _loadNewHref = function() {
 				var data = $e.data('jscroll'),
 					nextHref = data.nextHref;
@@ -153,6 +154,28 @@
                     _debug('dir', data);
                 });
             },
+
+            // Load the next set of slideshow content, if available
+			_loadSlideshow = function(callback) {
+				var $slideContainer = $e.find('ul.slide').first();
+				var nextHref = $e.data('jscroll').nextHref + ' ' + _options.slideshowSelector;
+
+				// Integrate temporary div to load the new content. It's gonna be removed later.
+				$slideContainer.append('<div class="jscroll-slideshow-tmp" />')
+
+				_debug('info', 'jScroll: load next slideshow content with url: ', nextHref);
+				$slideContainer.children('.jscroll-slideshow-tmp').first().load(nextHref, function(r, status) {
+					if (status === 'error') {
+						return _destroy();
+					}
+
+					// Insert the new slideshow items into the current slideshow (the parent of the current element).
+					$slideContainer.append($(this).children());
+					$(this).remove();
+
+					callback();
+				});
+			},
 
             // Load the next set of content, if available
             _load = function() {
@@ -175,9 +198,11 @@
                         $inner.append($(this).children());
                         $(this).remove();
 
-                        // Load new Href for the next automatic load.
-                        _loadNewHref();
-
+                        // Load the new slideshow content.
+                        _loadSlideshow(function() {
+							// Load new Href for the next automatic load.
+							_loadNewHref();
+                        });
                         $('.jscroll-next-parent', $e).remove(); // Remove the previous next link now that we have a new one
                     });
                 });
@@ -225,7 +250,6 @@
             if (data && data.initialized) {
                 return;
             }
-            console.log('jScroll: loaded with parameters: ', m);
             jScroll($this, m);
         });
     };
