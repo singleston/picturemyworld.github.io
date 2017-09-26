@@ -61,17 +61,5 @@ layout: default
 	</section>
 </div>
 
-<!-- Attach javascripts to grid-gallery. -->
+<!-- Attach javascripts to grid-gallery for the custom layout, the slideshow and the infinite scroll. -->
 <script src="{{ site.url }}/js/custom/grid_layout.js"></script>
-<!-- Load jScroll and simulate infinite scroll. -->
-<script type="text/javascript">
-	$('.grid-gallery').jscroll({
-		debug: false,
-		nextSelector: 'a.see_more',
-		contentSelector: '.grid_item',
-		slideshowSelector: '.slideshow_item',
-		spinnerClass: 'infinite-spinner',
-		padding: 200,
-		callback: refreshGridLayout
-	});
-</script>
