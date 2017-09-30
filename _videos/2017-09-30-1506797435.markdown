@@ -3,6 +3,6 @@ layout: default
 date: 2017-09-30
 youtube_id: 2E6hwkMCBzw
 title: Bolivia Rush Out
-caption: Crazy 20 days in Bolivia with the Death Road, Huayna Potosi, the Salar de Uyuni and everything !
-music: Last video in South America and last video with my lovely Rick and Cheryl! You guys are gonna be missed !Sahalé - Le Petit Prince
+caption: Crazy 20 days in Bolivia with the Death Road, Huayna Potosi, the Salar de Uyuni and everything!<br />Last video in South America and last video with my lovely Rick and Cheryl! You guys are gonna be missed!<br />Love.
+music: Sahalé - Le Petit Prince
 ---
