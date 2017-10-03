@@ -2,7 +2,7 @@
 layout: default
 date: 2016-05-09
 photo: 1473362700.jpg
-location_text: Pergamonmuseum, Bodestraße, Berlin
+location_text: Pergamonmuseum, Bodestraße, Berlin, Germany
 title: Ishtar Gate
 caption: The Ishtar Gate was a gate of the Babylon city. It has been restaured and is now located in the Pergamon musuem in Berlin. You don't walk everyday through a gate that is 2500 years old!
 location:
