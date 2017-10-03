@@ -5,7 +5,7 @@ photo: 1507038584.jpg
 image: /img/thumb/1507038584.jpg
 location_text: Laguna Tebinquiche, San Pedro de Atacama, Chile
 title: Dryed out salt lake
-caption: This lake is at the center of the Atacama desert. But do not get it wrong, it is very dry and desertic next to it. Millions of years ago this region was a giant salt water lake that have dryed out. Now the ground is mainly composed by minerals and coral fossils.
+caption: This lake is at the center of the Atacama desert. But do not get it wrong, it is very dry and desertic next to it. Millions of years ago this region was a giant salt water lake that have dryed out. Now the ground is mainly composed by minerals and coral fossils.<br />Reversed picture!
 location:
     latitude: -23.1363938
     longitude: -68.2519486
