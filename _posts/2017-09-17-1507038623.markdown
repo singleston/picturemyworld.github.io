@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-17
+photo: 1507038623.jpg
+image: /img/thumb/1507038623.jpg
+location_text: San Pedro de Atacama, Chile
+title: Good bye my friends
+caption: Big up for Rick and Cheryl my dear friends with whom I travel for almost 2 months trough Peru and Bolivia! Enjoy the rest of the world guys, you gonna be missed.
+location:
+    latitude: -22.9087073
+    longitude: -68.1997156
+ratio: 0.639659
+---
