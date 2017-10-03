@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-14
+photo: 1507035926.jpg
+image: /img/thumb/1507035926.jpg
+location_text: Sol de Mañana, Bolivia
+title: No filter
+caption: So that's how it looks. The geysers and the steam going out of the ground. All this sulfur frozen over night due to the extremelly low temperature.
+location:
+    latitude: -22.116667
+    longitude: -67.333333
+ratio: 1.33333
+---
