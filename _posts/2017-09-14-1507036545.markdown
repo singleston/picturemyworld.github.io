@@ -5,7 +5,7 @@ photo: 1507036545.jpg
 image: /img/thumb/1507036545.jpg
 location_text: Bolivia Customs and Immigration, San Pedro de Atacama, Chile
 title: Borders
-caption: And that's what happened when you enter Chile! Crazy thing but there is finally... a road! And while driving one can already see the differences, good radio, road signs, seat belt for every one, etc! Huge differences!
+caption: And that's what happened when you enter in Chile! There is finally... a road! And while driving one can already see the differences such as a good radio, road signs, seat belt for every one, etc. Huge differences!
 location:
     latitude: -22.8809659
     longitude: -67.798435
