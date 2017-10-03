@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-15
+photo: 1507037997.jpg
+image: /img/thumb/1507037997.jpg
+location_text: Piedras Rojas, San Pedro de Atacama, Chile
+title: Desde el mirador
+caption: This is the lake at the Piedras Rojas in Atacama. One can distinguish the red rocks on the right side of the picture. Hard to see on the picture but the lake was actually entirely frozen.
+location:
+    latitude: -22.9125041
+    longitude: -68.1939974
+ratio: 2.02703
+---
