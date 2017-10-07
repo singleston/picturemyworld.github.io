@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-19
+photo: 1507345253.jpg
+image: /img/thumb/1507345253.jpg
+location_text: Plaza 21 De Mayo, Iquique, Chile
+title: Look at that dog!
+caption: Awesome dog driving around hahaha!
+location:
+    latitude: -20.222581
+    longitude: -70.1517706
+ratio: 1.33333
+---
