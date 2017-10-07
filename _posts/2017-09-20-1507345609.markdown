@@ -9,5 +9,5 @@ caption: This tower is main the monument of the city of Iquique. I spent 3 days 
 location:
     latitude: -20.2141098
     longitude: -70.152394
-ratio: 1.33333
+ratio: 0.75
 ---
