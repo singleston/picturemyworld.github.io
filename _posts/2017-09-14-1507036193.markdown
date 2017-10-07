@@ -5,7 +5,7 @@ photo: 1507036193.jpg
 image: /img/thumb/1507036193.jpg
 location_text: Laguna Blanca, Bolivia
 title: Last one in Bolivia
-caption: Here goes the Laguna Blanca (white lake), the last one of the tour before reaching Chile. The lake lays at 4350 meters above sea level.
+caption: Here goes the Laguna Blanca (white lake), the last one of the tour before reaching Chile. The lake lies at 4350 meters above sea level.
 location:
     latitude: -22.8029236
     longitude: -67.7914041
