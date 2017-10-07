@@ -9,5 +9,5 @@ caption: I did it! I went skying in Chile; that was a long time dream! Check =D
 location:
     latitude: -33.3
     longitude: -70.25
-ratio: 1.33333
+ratio: 0.75
 ---
