@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-01
+photo: 1507346940.jpg
+image: /img/thumb/1507346940.jpg
+location_text: Farellones, Santiago, Chile
+title: Been skying!
+caption: I did it! I went skying in Chile; that was a long time dream! Check =D
+location:
+    latitude: -33.3
+    longitude: -70.25
+ratio: 1.33333
+---
