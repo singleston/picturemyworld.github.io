@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-09-27
+photo: 1507346568.jpg
+image: /img/thumb/1507346568.jpg
+location_text: Punta de Lobos, Pichilemu, Chile
+title: RIP
+caption: At the Punta de Lobos, the most famous surf spot in Chile, I found that old car rotting outside and looking at the ocean. Not to bad!<br /><br />Meanwhile the surf spot actually is amazing but the water so cold it actually hurts!
+location:
+    latitude: -34.4254853
+    longitude: -72.0429245
+ratio: 1.33333
+---
