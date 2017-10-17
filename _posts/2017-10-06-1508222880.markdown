@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-06
+photo: 1508222880.jpg
+image: /img/thumb/1508222880.jpg
+location_text: Auckland War Memorial Museum, New Zealand
+title: Just a storehouse
+caption: This pretty storehouse is called a 'pataka' and once belonged to a chief of a Maori tribe. The ancestral figures illustrate the genealogy of the leader.
+location:
+    latitude: -36.8603838
+    longitude: 174.7778222
+ratio: 1.33333
+---
