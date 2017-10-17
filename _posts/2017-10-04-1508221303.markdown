@@ -5,7 +5,7 @@ photo: 1508221303.jpg
 image: /img/thumb/1508221303.jpg
 location_text: Auckland Airport, New Zealand
 title: Welcome to New Zealand
-caption: aka Middle-Earth... The country orient the tourism so much over the Lord of the Rings movies that the first thing you see when you land is this giant statue of a dwarf!
+caption: aka Middle-Earth... The country orients the tourism so much over the Lord Of The Rings movies that the first thing you see when you land is this giant statue of a dwarf!
 location:
     latitude: -37.0082476
     longitude: 174.7850358

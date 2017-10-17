@@ -5,7 +5,7 @@ photo: 1508221739.jpg
 image: /img/thumb/1508221739.jpg
 location_text: Auckland, New Zealand
 title: Auckland by Night
-caption: My friend Richard and hos brother Edouard drove around at night in Auckland. It's a beautiful city and very easy to live in! I don't think I could get a more Kiwi picture than this one hahaha!
+caption: My friend Richard and his brother Edouard drove me around at night in Auckland. I don't think I could get a more Kiwi picture than this one hahaha!
 location:
     latitude: -36.8484597
     longitude: 174.7633315
