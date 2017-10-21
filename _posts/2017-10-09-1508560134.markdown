@@ -5,7 +5,7 @@ photo: 1508560134.jpg
 image: /img/thumb/1508560134.jpg
 location_text: Hobbiton, New Zealand
 title: Hobbiton Movie Set
-caption: When peter Jackson and his team built the hobbiton movie set again for the Hobbit movies they actually used real materials in order to make it last for years, and thus creating another tourist attraction in New Zealand. Nonetheless it was very interesting to learn how they made the movies and see all those hobbit holes!
+caption: When Sir Peter Jackson and his team built the hobbiton movie set again for the Hobbit movies they used real materials in order to make it last for years, and thus creating a tourist attraction. Nonetheless it was very interesting to learn how they made the movies and to see all those Hobbit holes!
 location:
     latitude: -37.8717681
     longitude: 175.6825774
