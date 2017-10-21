@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-07
+photo: 1508559481.jpg
+image: /img/thumb/1508559481.jpg
+location_text: O'neill Bay, Bethells Beach, New Zealand
+title: My mate!
+caption: Richard and I went on a small hike that day to Bethells Beach. My first time on the West coast of New Zealand. Needless to say that the landscape was stunning! And of course very similar to... Ireland! Big surprise for me, I did no expect to see such similarities when both islands are so far apart.
+location:
+    latitude: -36.884471
+    longitude: 174.4343341
+ratio: 1.33333
+---
