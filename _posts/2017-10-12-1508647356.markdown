@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-12
+photo: 1508647356.jpg
+image: /img/thumb/1508647356.jpg
+location_text: Huka Fals, Taupo, New Zealand
+title: 11 seconds
+caption: Next to the city of Taupo lies a very narrow canyon with a waterfall that delivers a HUGE amount of water. Apparently there is so much water pressure that it could fill an entire olympic swimming pool in 11 seconds only!
+location:
+    latitude: -38.6486357
+    longitude: 176.0900496
+ratio: 1.33333
+---
