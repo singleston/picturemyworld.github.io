@@ -5,7 +5,7 @@ photo: 1508650246.jpg
 image: /img/thumb/1508650246.jpg
 location_text: Whekenui Bay, Marlborough Sounds, New Zealand
 title: Crossing
-caption: View from the ferry when crossing the ocean and arriving on the South island of New Zealand. That second island is much nicer than the first one but so empty! It's just about lakes, waterfalls, mountain ranges and no people!
+caption: View from the ferry when crossing the ocean and arriving onto the South island of New Zealand. That second island is much nicer than the first one but so empty! It's just about lakes, waterfalls, mountain ranges and no people!
 location:
     latitude: -41.203165
     longitude: 174.304018
