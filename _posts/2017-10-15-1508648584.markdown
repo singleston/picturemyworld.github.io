@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-15
+photo: 1508648584.jpg
+image: /img/thumb/1508648584.jpg
+location_text: Te Papa Tongarewa Museum, Wellington, New Zealand
+title: Growing up
+caption: Picture showing the difference between an All Black player 100 years ago and now. It's about 20 cm more and 30 kg more!
+location:
+    latitude: -41.2904563
+    longitude: 174.7820894
+ratio: 0.75
+---
