@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-12
+photo: 1508646573.jpg
+image: /img/thumb/1508646573.jpg
+location_text: Tongariro National Park, New Zealand
+title: Mordor
+caption: This is at the bottom of the Ngauruhoe volcano (aka Mount Doom), and I couldn't see it! Got up super early, walked for hours in the wind and under the rain and at the top... well... I couldn't see anything! Nice walk though =]
+location:
+    latitude: -39.272709
+    longitude: 175.5802278
+ratio: 1.33333
+---
