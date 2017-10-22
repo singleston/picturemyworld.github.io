@@ -3,7 +3,7 @@ layout: default
 date: 2017-10-12
 photo: 1508646930.jpg
 image: /img/thumb/1508646930.jpg
-location_text: Tongariro National Park, New Zealand
+location_text: Tongariro Crossing Emerald Lake Lookout, New Zealand
 title: Yes!
 caption: For a very short moment the sky cleared up and I could finally see where I was and what was around me! Isn't much better? I love that picture!
 location:

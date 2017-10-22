@@ -5,7 +5,7 @@ photo: 1508646678.jpg
 image: /img/thumb/1508646678.jpg
 location_text: Tongariro National Park, New Zealand
 title: Beautiful view
-caption: Was fun to hike in the snow again after Bolivia, but be able to see the valley from the top would have been nice!
+caption: Was fun to hike in the snow again (after what happened in Bolivia), but be able to see the valley from the top would have been nicer!
 location:
     latitude: -39.272709
     longitude: 175.5802278
