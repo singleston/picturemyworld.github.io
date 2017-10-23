@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-18
+photo: 1508796021.jpg
+image: /img/thumb/1508796021.jpg
+location_text: Haast-Jackson Bay Road, Jackson Bay, New Zealand
+title: View from the beach
+caption: The beaches on the West Coast are so beautiful with the ocean, the sand and the mountains in the background. The waves are usually quite messing and wild, not easy to surf there! And the sandflies.. oh my god, so many!!!
+location:
+    latitude: -43.9941407
+    longitude: 168.7879473
+ratio: 1.33333
+---
