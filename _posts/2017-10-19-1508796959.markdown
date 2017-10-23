@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-19
+photo: 1508796959.jpg
+image: /img/thumb/1508796959.jpg
+location_text: Haast River, West Coast, New Zealand
+title: Cristal Clear Waters
+caption: Most rivers and lakes in NZ have see stunning crystal clear water. It is so clear it could be hard to know if those rocks are under water or not! (they are)
+location:
+    latitude: -43.9423659
+    longitude: 169.2223386
+ratio: 1.33333
+---
