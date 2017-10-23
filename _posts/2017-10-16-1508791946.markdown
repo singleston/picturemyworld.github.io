@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-16
+photo: 1508791946.jpg
+image: /img/thumb/1508791946.jpg
+location_text: Church Hill, Nelson, New Zealand
+title: The shiny city
+caption: Nelson is the first big city in the South Island after the ferry. It is known the sunny city as it has the more sunny days in the entire country. Other than that... well... it's just big 'town' not really a city hahaha
+location:
+    latitude: -41.2762526
+    longitude: 173.2838422
+ratio: 1.33333
+---
