@@ -4,8 +4,8 @@ date: 2017-10-17
 photo: 1508792348.jpg
 image: /img/thumb/1508792348.jpg
 location_text: Pancake Rocks, Paparoa National Park, New Zealand
-title: Access Forbiden
-caption: This part of the National Park is absolutely stunning but one must stay on the path... apparently so many tourists died there trying to get a better picture by climbings on those rocks.
+title: Access Forbidden
+caption: This part of the National Park is absolutely stunning but dangerous... Apparently so many tourists died there trying to get a better picture by climbings on those rocks.
 location:
     latitude: -42.1140508
     longitude: 171.3263694
