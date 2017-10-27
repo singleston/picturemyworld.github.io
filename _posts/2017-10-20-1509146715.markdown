@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-20
+photo: 1509146715.jpg
+image: /img/thumb/1509146715.jpg
+location_text: Milford Sound, New Zealand
+title: How big?
+caption: It's pretty hard to understand how big that moutain was; though it was tall enough to be above the cloud and the waterfalls to look ridiculously small.
+location:
+    latitude: -44.6414024
+    longitude: 167.8973801
+ratio: 1.33333
+---
