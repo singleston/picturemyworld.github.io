@@ -5,7 +5,7 @@ photo: 1508792738.jpg
 image: /img/thumb/1508792738.jpg
 location_text: Paparoa National Park, New Zealand
 title: West Coast
-caption: This is mostly how the entire West Coast of the South island of New Zealand looks like, amazing eh?
+caption: This is mostly how the entire West Coast of the South Island of New Zealand looks like, amazing eh?
 location:
     latitude: -42.094803
     longitude: 171.449875
