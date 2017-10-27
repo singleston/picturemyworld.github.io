@@ -5,7 +5,7 @@ photo: 1509145255.jpg
 image: /img/thumb/1509145255.jpg
 location_text: Thunder Creek Falls, West Coast, New Zealand
 title: One More For The Road
-caption: While driving South towards Queenstown, Kim, Dave and I stop many times to checkout either some waterfalls, lagoons or lakkes. That one was nicely hidden from the main road which made it even more nicer and peaceful! Loved it
+caption: While driving South towards Queenstown, Kim, Dave and I stopped many times to checkout either waterfalls, lagoons or lakes. That one was nicely hidden from the main road which made it even more nicer and peaceful! Loved it
 location:
     latitude: -44.0381238
     longitude: 169.3650131
