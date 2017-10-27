@@ -4,7 +4,7 @@ date: 2017-10-20
 photo: 1509146147.jpg
 image: /img/thumb/1509146147.jpg
 location_text: Knobs Flat, Highway 94, New Zealand
-title: River, Mountain and I
+title: Bus, Boat and Tourists
 caption: That day was one of those touristy day.. get in a bus, get out, take a picture, get in, get out for another picture, get in, get out and take that boat... God! The scenery was beautiful but the day itself quite a hassle.
 location:
     latitude: -44.9773446

@@ -5,7 +5,7 @@ photo: 1509145615.jpg
 image: /img/thumb/1509145615.jpg
 location_text: Lake Wanaka, Otago, New Zealand
 title: Lake Wanaka
-caption: This beautiful lake gave me the impression to actually BE in the Lord of the Ring! It was so majestic, the water so clear and obvioulsy the mirror effect stunning!
+caption: This beautiful lake gave me the impression to actually BE in the Lord of the Ring! It was so majestic, the water so clear and obvioulsy the mirror effect was stunning!
 location:
     latitude: -44.5276371
     longitude: 169.1262926
