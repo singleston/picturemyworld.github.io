@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-24
+photo: 1509163366.jpg
+image: /img/thumb/1509163366.jpg
+location_text: Skyline Gondola, Queenstown, New Zealand
+title: View form the lake
+caption: This is the city of Queenstown. The lake is quite cold all year round, about 12 degrees. I went swimming with my wetsuit and... my surf board! hahaha
+location:
+    latitude: -45.028572
+    longitude: 168.656228
+ratio: 1.33333
+---
