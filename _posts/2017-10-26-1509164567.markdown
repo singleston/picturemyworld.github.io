@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-26
+photo: 1509164567.jpg
+image: /img/thumb/1509164567.jpg
+location_text: Hagley Golf Club, Christchurch, New Zealand
+title: Christchurch
+caption: I only spent one short night in Christchurch and walked around the next day. It is a very lovely city easy to live in but not much to see nor to do as a traveller.
+location:
+    latitude: -43.5265465
+    longitude: 172.6195733
+ratio: 1.33333
+---
