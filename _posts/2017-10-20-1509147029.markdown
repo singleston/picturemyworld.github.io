@@ -5,7 +5,7 @@ photo: 1509147029.jpg
 image: /img/thumb/1509147029.jpg
 location_text: Milford Sound, New Zealand
 title: Milford Sound
-caption: This entire valley used to be covered by a giant glacier. As it has melted a long time ago the area is now a National Park and used for tourism. Apparently dolphins live in here too!
+caption: This entire valley used to be covered by a giant glacier. As it has melted a long time ago the area is now a National Park and used for tourism. Apparently dolphins live in there too!
 location:
     latitude: -44.6414024
     longitude: 167.8973801

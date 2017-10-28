@@ -9,5 +9,5 @@ caption: Funny people with a very funny accent 'don't knooo'
 location:
     latitude: -45.028572
     longitude: 168.656228
-ratio: 1.33333
+ratio: 0.75
 ---
