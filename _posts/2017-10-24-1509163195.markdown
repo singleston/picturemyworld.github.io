@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-24
+photo: 1509163195.jpg
+image: /img/thumb/1509163195.jpg
+location_text: Skyline Gondola, Queenstown, New Zealand
+title: Queenstown
+caption: The city of Queenstown in considered as the capital of tourism in New Zealand. Everything you would like to do, you can do it there. From sky diving to cruising on boat, it's all possible! Plus the surroundings are gorgeous with all the moutains and the lake.
+location:
+    latitude: -45.028572
+    longitude: 168.656228
+ratio: 1.33333
+---
