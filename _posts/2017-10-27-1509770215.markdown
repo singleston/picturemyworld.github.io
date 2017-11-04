@@ -5,7 +5,7 @@ photo: 1509770215.jpg
 image: /img/thumb/1509770215.jpg
 location_text: Bamboo Travellers, Nadi, Fiji
 title: Beach Volley on Sunset
-caption: At the Bamboo Travellers hostel some people were playing Beach Volley during the sunset. Couldn't help but to take a picture of that!
+caption: That evening, people were playing beach volley during the sunset at the Bamboo Travellers hostel. Couldn't help but to take a picture of that!
 location:
     latitude: -17.7644465
     longitude: 177.4281535
