@@ -5,7 +5,7 @@ photo: 1509774591.jpg
 image: /img/thumb/1509774591.jpg
 location_text: Funky Fish Beach Resort, Fiji
 title: BULA
-caption: Bula is translated to 'Hello' in english, the locals salute everybody with this word and a huge smile! Theye fijians are always happy and in a good mood, I love them!
+caption: Bula is translated to 'hello' in english, the locals salute everybody with this word and a huge smile! They fijians are always happy and in a good mood, I love them!
 location:
     latitude: -17.76141
     longitude: 177.1638

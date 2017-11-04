@@ -5,7 +5,7 @@ photo: 1509773578.jpg
 image: /img/thumb/1509773578.jpg
 location_text: Sabeto, Fiji
 title: Mud Pools
-caption: That day I covered myself with mud and then bath into different hot spring pools, some were super hot! But after all that, my skin was soooo soft haha it felt nice after all this time in the ocean and the salty water.
+caption: That day I covered myself with mud and then bath into different hot spring pools, they were super hot! But after all that, my skin was soooo soft; it felt nice after all this time in the salty water of the ocean.
 location:
     latitude: -17.7287709
     longitude: 177.4597778

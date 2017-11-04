@@ -5,7 +5,7 @@ photo: 1509774094.jpg
 image: /img/thumb/1509774094.jpg
 location_text: Namotu Island, Fiji
 title: Too bright
-caption: Not complaining here, but the sun was so strong and the sand so white I could barely open my eyes hahaha!
+caption: Not complaining here, but the sun was so strong and the sand so white I could barely open my eyes! Super lame hahaha
 location:
     latitude: -17.844138
     longitude: 177.182693
