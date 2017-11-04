@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-02
+photo: 1509774323.jpg
+image: /img/thumb/1509774323.jpg
+location_text: Namotu Island, Fiji
+title: Boat Driver
+caption: That's Ronny the boat driver that get as early as we do and get us to surf spot. Nice guy always ready to help and go somewhere else with his boat!
+location:
+    latitude: -17.844138
+    longitude: 177.182693
+ratio: 1.33333
+---
