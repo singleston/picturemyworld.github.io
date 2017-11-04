@@ -9,5 +9,5 @@ caption: Not complaining here, but the sun was so strong and the sand so white I
 location:
     latitude: -17.844138
     longitude: 177.182693
-ratio: 1.33333
+ratio: 0.75
 ---

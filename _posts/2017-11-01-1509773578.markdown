@@ -9,5 +9,5 @@ caption: That day I covered myself with mud and then bath into different hot spr
 location:
     latitude: -17.7287709
     longitude: 177.4597778
-ratio: 1.77515
+ratio: 0.5625
 ---
