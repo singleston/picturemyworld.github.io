@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-10-27
+photo: 1509769393.jpg
+image: /img/thumb/1509769393.jpg
+location_text: Bamboo Travellers, Nadi, Fiji
+title: Weather Forecast
+caption: If you ever wonder that's the weather like, just take a look at the coconut hahaha! Awesome weather station!
+location:
+    latitude: -17.7644465
+    longitude: 177.4281535
+ratio: 1.33333
+---
