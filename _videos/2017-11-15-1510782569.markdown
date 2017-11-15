@@ -1,0 +1,8 @@
+---
+layout: default
+date: 2017-11-15
+youtube_id: RCGc8hcGfL0
+title: Enjoy Yourself in New Zealand
+caption: Beautiful time in New Zealand with amazing people, stunning landscapes and sooo many sheep (actually more than people)! NZ is the most gorgeous country I have been to so far!
+music: Soul Avengerz
+---
