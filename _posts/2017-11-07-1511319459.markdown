@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-07
+photo: 1511319459.jpg
+image: /img/thumb/1511319459.jpg
+location_text: Beachhouse Fiji
+title: Fijian Hammock
+caption: Most of the hammocks man made in Fiji are very large and look like this one. Of course they have the normal ones but tends to use those more often; which I find quite sad as they feel less confortable!
+location:
+    latitude: -18.227272
+    longitude: 177.772725
+ratio: 1.33333
+---
