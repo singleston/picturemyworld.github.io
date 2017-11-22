@@ -5,7 +5,7 @@ photo: 1511319748.jpg
 image: /img/thumb/1511319748.jpg
 location_text: Beachhouse Fiji
 title: Diverse Island
-caption: Overall Fiji has an infinite number of beaches, and they all look different. The nature and landscapes are very diverse, from desert to tropical forest (with lots of moquitos) you could find anything you want!
+caption: Overall Fiji has an infinite number of beaches, and they all look different. The nature and landscapes are very diverse, from desert to tropical forest (with lots of moquitos) you could find anything you want!<br /><br />Photo by Molo.
 location:
     latitude: -18.227272
     longitude: 177.772725
