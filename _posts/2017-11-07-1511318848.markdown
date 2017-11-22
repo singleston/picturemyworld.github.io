@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-07
+photo: 1511318848.jpg
+image: /img/thumb/1511318848.jpg
+location_text: Beachhouse Fiji
+title: Bending palm tree
+caption: At the Beachhouse resort in Fiji stands that tree. I saw 2 men walking on it until they got to the bottom, when the first one jumped down, the second got ejected away! It was hilarious!
+location:
+    latitude: -18.227272
+    longitude: 177.772725
+ratio: 1.33333
+---
