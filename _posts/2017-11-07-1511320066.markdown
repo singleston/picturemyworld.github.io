@@ -5,7 +5,7 @@ photo: 1511320066.jpg
 image: /img/thumb/1511320066.jpg
 location_text: Beachhouse Fiji
 title: Learning
-caption: Here are some local kids playing in the water with some surfboards, trying to learn the basics.<br /><br />Photo by Molo.
+caption: Here are some local kids playing in the water with surfboards and trying to learn the basics.<br /><br />Photo by Molo.
 location:
     latitude: -18.227272
     longitude: 177.772725

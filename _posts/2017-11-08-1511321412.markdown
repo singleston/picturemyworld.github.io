@@ -5,7 +5,7 @@ photo: 1511321412.jpg
 image: /img/thumb/1511321412.jpg
 location_text: Nasikawa VISION College, Fiji
 title: Country Side House
-caption: Deep in the tropical forest, the houses are made out of wood for the structure and leafs for the walls. I did not realize how poor those people were when I first arrive in a big city. But there is a huge constrast with the people living in the country side...
+caption: Deep in the tropical forest, the houses are made out of wood for the structure and leafs for the walls. I did not realize how poor those people were when I first arrived in Nadi. There is a huge contrast with the people living in the country side...
 location:
     latitude: -17.9687518
     longitude: 177.78125
