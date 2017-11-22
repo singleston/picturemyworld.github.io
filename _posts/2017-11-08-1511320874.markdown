@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-08
+photo: 1511320874.jpg
+image: /img/thumb/1511320874.jpg
+location_text: Coral Coast, Fiji
+title: Coral Coast
+caption: All along the southern coast of the main island of Fiji exists a coral barrier that protects the shore and creates a space between the deep ocean and the beach. Plus, it is stunning.
+location:
+    latitude: -18.2541733
+    longitude: 177.8341055
+ratio: 1.33333
+---
