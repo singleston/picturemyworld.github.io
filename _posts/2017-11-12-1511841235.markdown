@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-12
+photo: 1511841235.jpg
+image: /img/thumb/1511841235.jpg
+location_text: Suva, Fiji
+title: Lovo
+caption: As part of their cultural heritage Fijians build an oven in the ground by puttings rocks on a fire and then burry them with food underground. This is called 'Lovo' and they usually cook meet and Kasava (kind of a potato). Taste nice and is interesting, but nothing like a real oven!
+location:
+    latitude: -18.1248086
+    longitude: 178.4500789
+ratio: 1.33333
+---
