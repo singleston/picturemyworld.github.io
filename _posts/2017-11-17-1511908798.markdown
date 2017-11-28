@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-17
+photo: 1511908798.jpg
+image: /img/thumb/1511908798.jpg
+location_text: Garden of the Sleeping Giant, Nadi, Fiji
+title: Pinky Flowers
+caption: No idea how those flowers are called, but they are pretty for sure. The botanic garden around Nadi had a lot of weird but beautiful tropcial flowers and plants. Definitely recommand a visit there!
+location:
+    latitude: -17.7130816
+    longitude: 177.4692825
+ratio: 1.33333
+---
