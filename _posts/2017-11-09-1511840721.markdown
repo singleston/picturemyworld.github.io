@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-09
+photo: 1511840721.jpg
+image: /img/thumb/1511840721.jpg
+location_text: Maui Jetty, Fiji
+title: Cute Pier
+caption: Nice little picnic ground to drink a beer at sunset. I went there with some friends from the Beachhouse and had a nice evening eating pizza end everything!
+location:
+    latitude: -18.2039289
+    longitude: 177.6794571
+ratio: 1.33333
+---
