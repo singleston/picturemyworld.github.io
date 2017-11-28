@@ -5,7 +5,7 @@ photo: 1511909259.jpg
 image: /img/thumb/1511909259.jpg
 location_text: Cloudbreak, Tavarua Island, Fiji
 title: Mr. French Dropping In
-caption: That's me catching a wave at Cloudbreak in Fiji! Bottom turn to the left and ride on!
+caption: That's me catching a wave at Cloudbreak in Fiji! Bottom turn to the left and ride on!<br /><br />Photo by Mo Lo.
 location:
     latitude: -17.8580525
     longitude: 177.2017904
