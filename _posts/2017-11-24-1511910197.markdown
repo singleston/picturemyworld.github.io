@@ -5,7 +5,7 @@ photo: 1511910197.jpg
 image: /img/thumb/1511910197.jpg
 location_text: Rendezvous Beach Resort, Fiji
 title: Preparing The Lovo
-caption: Remember the Lovo (food cooked within an undergroud oven)? That's how they do it. First build a stack of wood in a hole and put some big rocks on top. Set it on fire and when the wood is gone, put food on the hot burning rocks and cover it again with the dirt. Pretty smart uh?
+caption: Remember the Lovo (food cooked within an undergroud oven)? That's how they do it. First build a stack of wood in a hole and put some big rocks on top. Set it on fire and when the wood is gone, add food on the hot rocks and cover it again with dirt. Pretty smart uh?
 location:
     latitude: -17.857704
     longitude: 177.285131
