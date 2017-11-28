@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-11-21
+photo: 1511909144.jpg
+image: /img/thumb/1511909144.jpg
+location_text: Cloudbreak, Tavarua Island, Fiji
+title: Flying
+caption: The waves at Cloudbreak can sometimes be quite strong and surprising. Here is a photo of a surfboard flying around while attached to a surfer still under water. Not me on this picture but it happened many times hahaha!
+location:
+    latitude: -17.8580525
+    longitude: 177.2017904
+ratio: 1.5
+---
