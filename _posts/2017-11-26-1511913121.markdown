@@ -5,7 +5,7 @@ photo: 1511913121.jpg
 image: /img/thumb/1511913121.jpg
 location_text: Bounty Island, Fiji
 title: Swimming Pool
-caption: So yeah, when you are on a island in the South Pacific and sleep right at the beach, you must have a swimming pool right? Like there is no other way to get a bath otherwise!
+caption: So yeah, when you are on an island in the South Pacific and sleep right at the beach, you must have a swimming pool right? Like there is no other way to get a bath otherwise?
 location:
     latitude: -17.67277
     longitude: 177.3081779

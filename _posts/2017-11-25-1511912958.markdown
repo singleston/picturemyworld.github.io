@@ -5,7 +5,7 @@ photo: 1511912958.jpg
 image: /img/thumb/1511912958.jpg
 location_text: Bounty Island, Fiji
 title: Walk Around
-caption: The Bounty Island is so small when you start to walk on the beach in one direction you get back to your initial point in about 30 minutes! Hahaha so small!
+caption: The Bounty Island is so small when you start to walk on the beach in one direction you get back to your initial starting point in 30 minutes! Hahaha
 location:
     latitude: -17.67277
     longitude: 177.3081779
