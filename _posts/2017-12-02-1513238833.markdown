@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-12-02
+photo: 1513238833.jpg
+image: /img/thumb/1513238833.jpg
+location_text: Galusina Village Resort, Samoa
+title: First day in Samoa
+caption: On my first day in Samoa I had the chance to get in a car and go on a small road trip to surf. Samoa is composed by two small islands where the main roads go all around. This picture has been taken from the car, and most of the scenery all around the country looks like this!
+location:
+    latitude: -13.8763218
+    longitude: -171.6465215
+ratio: 1.33333
+---
