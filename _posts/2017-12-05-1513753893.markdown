@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-12-05
+photo: 1513753893.jpg
+image: /img/thumb/1513753893.jpg
+location_text: Namua, Samoa
+title: Turtle Island
+caption: Namua is famous for the amount of turtles swimming in its bay. They do not hunt/fish them but protect them. That kid behind me just jumped out of the boat, caught the turtle and tried to bring back on board for few minutes. Very intense moment
+location:
+    latitude: -14.0213843
+    longitude: -171.4165659
+ratio: 0.75
+---
