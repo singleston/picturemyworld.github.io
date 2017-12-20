@@ -5,7 +5,7 @@ photo: 1513799014.jpg
 image: /img/thumb/1513799014.jpg
 location_text: Samoa Cultural Village, Apia, Samoa
 title: Cracking up a coconut
-caption: At the traditional cultural village in Apia, this gentleman explained us the story of Samoa and how people used to and sometimes still live. In this picture he is about to use the stick on the ground to open the coconut and get to its core where the meat and water are.
+caption: At the cultural village in Apia, this gentleman explained us the story and traditions of Samoa and how people used to and still live. In this picture he is about to use the stick on the ground to open the coconut and get to its core where the meat and water are.
 location:
     latitude: -13.8305445
     longitude: -171.7658207
