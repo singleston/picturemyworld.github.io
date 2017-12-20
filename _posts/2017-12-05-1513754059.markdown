@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-12-05
+photo: 1513754059.jpg
+image: /img/thumb/1513754059.jpg
+location_text: To-Sua Ocean Trench, Samoa
+title: To-Sua Ocean Trench
+caption: To-Sua is the main attraction in Samoa. This big hole gets its water from the ocean. I did swimm through that cave onto the ocean. It as crazy, insane, beautiful and absolutely stupid but so worth it!
+location:
+    latitude: -14.043827
+    longitude: -171.56227
+ratio: 1.33333
+---
