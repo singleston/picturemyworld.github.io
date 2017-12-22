@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-12-15
+photo: 1513986865.jpg
+image: /img/thumb/1513986865.jpg
+location_text: Mulifanua Wharf Ferry Terminal, Apia, Samoa
+title: Surf Scooter Trip
+caption: What an adventure! That day I rented this scooter, took a ferry to the other island Savaii and drove around chasing the waves. Great memory!
+location:
+    latitude: -13.8301542
+    longitude: -172.0363983
+ratio: 1.33333
+---
