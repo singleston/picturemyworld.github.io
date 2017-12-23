@@ -5,7 +5,7 @@ photo: 1513987195.jpg
 image: /img/thumb/1513987195.jpg
 location_text: Alofaaga Blowholes, Samoa
 title: Blowholes
-caption: Natural site with blowholes created by seawater rushing into tubes & shooting out of the lava rocks. Sadly I couln't take a proper picture where we could see the water pumping out!
+caption: Natural site with blowholes created by seawater rushing into tubes and shooting out of the lava rocks. Sadly I couln't take a proper picture where we could see the water pumping out!
 location:
     latitude: -13.8012618
     longitude: -172.524426
