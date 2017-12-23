@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2017-12-17
+photo: 1513987330.jpg
+image: /img/thumb/1513987330.jpg
+location_text: Lano Beach, Samoa
+title: From within
+caption: This is the view from inside a beach Fale. A simple mattress, a mosquito net and a pillow, all of it 3 meters away from the water! Nice view for sure but the sleep ain't good as it is super noisy and humid... oh so humid!
+location:
+    latitude: -13.6101689
+    longitude: -172.2013013
+ratio: 1.33333
+---
