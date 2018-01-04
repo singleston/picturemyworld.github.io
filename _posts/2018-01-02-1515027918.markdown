@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-02
+photo: 1515027918.jpg
+image: /img/thumb/1515027918.jpg
+location_text: Camden Haven Forest, NSW, Australia
+title: Small Hike!
+caption: My friend Sally took me to a small hike up to the North Brother lookout. Not a hard hike as the mountains in Australia are quite small and easy to climb. Nonetheless it was awesome to walk in the forest after all this beach time!
+location:
+    latitude: -33.9028941
+    longitude: 151.1759122
+ratio: 1.33333
+---
