@@ -5,7 +5,7 @@ photo: 1515027279.jpg
 image: /img/thumb/1515027279.jpg
 location_text: Booti Booti National Park, NSW, Australia
 title: Feels like home
-caption: I thin this picture represents the best how Australia could get very similar to South-West France! Same kind of sand, a dune, this ocean, the waves, it's all here!
+caption: I think this picture represents the best how Australia could be very similar to South West France! Same kind of sand, a dune, the ocean, the waves, it's all there!
 location:
     latitude: -32.3127096
     longitude: 152.5179343

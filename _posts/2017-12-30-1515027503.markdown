@@ -5,7 +5,7 @@ photo: 1515027503.jpg
 image: /img/thumb/1515027503.jpg
 location_text: Diamond Head Camping Ground, NSW, Australia
 title: Diamond Head
-caption: I drove to Diamond Head through a national park (and saw red foxes and other animals on the way) for a quick surf. The waves were not great but the scenery of the spot! oh wow beautiful rocks around!
+caption: I drove to Diamond Head through a national park (and saw red foxes and other animals on the way) for a quick surf. The waves were not great but the scenery of the spot was! Oh wow beautiful rocks around!
 location:
     latitude: -31.7184127
     longitude: 152.7943161

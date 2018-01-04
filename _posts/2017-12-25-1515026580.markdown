@@ -5,7 +5,7 @@ photo: 1515026580.jpg
 image: /img/thumb/1515026580.jpg
 location_text: The Domain, Sydney, Australia
 title: Oh My Sydney
-caption: On Christmas day this year I was in Sydney and I had the chance to walk around and finally see the Opera House! It is as impressive and beautiful as one expects!
+caption: This year I was in Sydney for Christmas and had the chance to walk around the city and see the Opera House! It is as impressive and beautiful as one expects!
 location:
     latitude: -33.8715163
     longitude: 151.214894
