@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-07
+photo: 1515895466.jpg
+image: /img/thumb/1515895466.jpg
+location_text: Town Beach, Port Macquarie, NSW, Australia
+title: Sunrise Panorama
+caption: On this picture one can clearly see the entire Town Beach of Port Macquarie. I spent a week there surfing and drinking coffee every morning, and then later relax and visit this beautiful country! This place made me happy.
+location:
+    latitude: -31.429465
+    longitude: 152.9193046
+ratio: 2.30769
+---
