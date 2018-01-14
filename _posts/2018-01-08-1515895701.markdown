@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-08
+photo: 1515895701.jpg
+image: /img/thumb/1515895701.jpg
+location_text: Snapper Rocks Road, Coolangatta QLD, Australia
+title: Famous Snapper Rocks!
+caption: Snapper Rocks is a famous surf spot in Australia where they do an annual world competition there. I went surfing there very early in the morning and I had it all for myself! Alright, the conditions were not very good but I can say that I caught some waves there!
+location:
+    latitude: -28.1631612
+    longitude: 153.5489423
+ratio: 1.33333
+---
