@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-06
+photo: 1515894768.jpg
+image: /img/thumb/1515894768.jpg
+location_text: Boorganna Nature Reserve, Australia
+title: Not a desert
+caption: Even though the center of Australia, the Outback, is a desert the coastal shore is very green and diverse. Some areas are even considered as rain forests!
+location:
+    latitude: -31.6119054
+    longitude: 152.3955481
+ratio: 1.33333
+---
