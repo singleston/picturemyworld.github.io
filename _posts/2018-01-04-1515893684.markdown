@@ -5,7 +5,7 @@ photo: 1515893684.jpg
 image: /img/thumb/1515893684.jpg
 location_text: Macquarie Nature Reserve, Port Macquarie, NSW, Australia
 title: Eating Koala
-caption: That litle guy was awake and eating some leaves! Their cuteness level went through the roof! I loved the hahaha!!
+caption: That litle guy was awake and eating some leaves! His cuteness level went through the roof! I love Koalas hahaha!!
 location:
     latitude: -31.4421261
     longitude: 152.9201321

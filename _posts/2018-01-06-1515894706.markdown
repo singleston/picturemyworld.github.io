@@ -5,7 +5,7 @@ photo: 1515894706.jpg
 image: /img/thumb/1515894706.jpg
 location_text: Boorganna Nature Reserve, Australia
 title: Waterfall Hike
-caption: Short hike to get down a creek to see this nice waterfal. The hike wasn't too hard but the hit really made it complicated!
+caption: Short hike to get down a creek to see this nice waterfall. The hike wasn't too hard but the hit really made it complicated!
 location:
     latitude: -31.6119054
     longitude: 152.3955481
