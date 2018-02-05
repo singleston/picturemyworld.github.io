@@ -5,7 +5,7 @@ photo: 1517821857.jpg
 image: /img/thumb/1517821857.jpg
 location_text: Halong Bay, Vietnam
 title: Halong Bay
-caption: The famous Halong Bay is as special and beautiful as people think. Problem is, you need a good weather otherwise it's super cold, wet, and it is hard to see the rocks around your boat due to the fog...
+caption: The famous Halong Bay is as special and beautiful as people think. Problem is, you need a good weather otherwise it is horribly cold, wet, and foggy. So much it was hard to see the islands around the boat...
 location:
     latitude: 20.9100512
     longitude: 107.1839024
