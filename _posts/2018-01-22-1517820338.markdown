@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-22
+photo: 1517820338.jpg
+image: /img/thumb/1517820338.jpg
+location_text: Sa Pa, Vietnam
+title: Panorama
+caption: Mama Sa's son took us on a 4h hike through its hometown and region. We saw water buffalos, lots of farm animals and many many rice fields. The valley is absolutely stunning!
+location:
+    latitude: 22.3363608
+    longitude: 103.8437852
+ratio: 3.06122
+---
