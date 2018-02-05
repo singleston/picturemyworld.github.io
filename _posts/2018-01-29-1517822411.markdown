@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-29
+photo: 1517822411.jpg
+image: /img/thumb/1517822411.jpg
+location_text: Xã Châu Can, Hanoi, Vietnam
+title: Unicorn
+caption: Here is a big sculpture of a vietnamese unicorn protecting the entrance of a building. Angry looking but was actually very friendly!
+location:
+    latitude: 20.6836293
+    longitude: 105.9053689
+ratio: 0.779221
+---
