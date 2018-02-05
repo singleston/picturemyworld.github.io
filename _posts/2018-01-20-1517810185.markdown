@@ -5,7 +5,7 @@ photo: 1517810185.jpg
 image: /img/thumb/1517810185.jpg
 location_text: Beer Town, Hanoi, Vietnam
 title: Getting Married
-caption: Cute couple getting a photoshoot before their wedding, people don't walk around dressed like this in Veitnam hahaha
+caption: Cute couple getting a photoshoot before their wedding, people don't walk around dressed like this in Vietnam hahaha
 location:
     latitude: 21.0347463
     longitude: 105.852416
