@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-20
+photo: 1517810372.jpg
+image: /img/thumb/1517810372.jpg
+location_text: Bach Ma Temple, Hanoi, Vietnam
+title: Golden Phoenix
+caption: The phoenix (on both side of the picture) is a holy animal in Vietnam. The three other ones are the turtle, the unicorn and the dragon. The offerings are made for the dead, in this case lots of beers, doing so their spirit will feel as good as when they were still alive and enjoying life. Usually the offerings are based on alcohol, chocolate and even cigarettes.
+location:
+    latitude: 21.0357961
+    longitude: 105.8510621
+ratio: 1.33333
+---
