@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-26
+photo: 1517822120.jpg
+image: /img/thumb/1517822120.jpg
+location_text: Halong Bay, Vietnam
+title: Going Through
+caption: Regardless of the weather, it was still an awesome place to cruise around on a local boat!
+location:
+    latitude: 20.9100512
+    longitude: 107.1839024
+ratio: 1.77515
+---
