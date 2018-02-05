@@ -5,7 +5,7 @@ photo: 1517824053.jpg
 image: /img/thumb/1517824053.jpg
 location_text: Danh thắng Tam Cốc - Bích Động, Ninh Binh, Vietnam
 title: Hidden Temple
-caption: Behind a rocky mountain, through the woods, over a lake, one can find this cute little temple. On the roof you can see two small dragons and a unicorn.
+caption: Behind a rocky mountain, through the woods, over a lake... stands this little temple!<br /><br />On the roof you can see small dragons and a unicorn protecting the building.
 location:
     latitude: 20.2173055
     longitude: 105.9355932
