@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-30
+photo: 1517823432.jpg
+image: /img/thumb/1517823432.jpg
+location_text: Hang Múa, Ninh Binh, Vietnam
+title: Happy Dragon!
+caption: That happy dragon was at the top of a mountain, most likely protecting the entrance to the valley. I did not notice how happy looking it was until I saw that photo!
+location:
+    latitude: 20.2292935
+    longitude: 105.9352957
+ratio: 1.33333
+---
