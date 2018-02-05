@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-22
+photo: 1517819036.jpg
+image: /img/thumb/1517819036.jpg
+location_text: Sa Pa, Vietnam
+title: Mama Sa!
+caption: Mama Sa was our host in the Sa Pa region, she cooked for us 2 evenings in a row and her son took us on trek during the day. Wonderful family, lots of love!
+location:
+    latitude: 22.3363608
+    longitude: 103.8437852
+ratio: 1.34529
+---
