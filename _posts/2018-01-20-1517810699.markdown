@@ -1,0 +1,13 @@
+---
+layout: default
+date: 2018-01-20
+photo: 1517810699.jpg
+image: /img/thumb/1517810699.jpg
+location_text: Cafe Đinh, Hanoi, Vietnam
+title: Egg Coffee
+caption: The best Egg Coffee in Vietnam! This hot beverage is an black espresso with a cream made out of eggs. It is so good!<br />All around Vietnam I kept trying to find good egg coffees but none of them was as tasty as the one in Hanoi !!
+location:
+    latitude: 21.0319254
+    longitude: 105.8522724
+ratio: 1.35747
+---
