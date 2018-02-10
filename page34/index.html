@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+<title>Picture My World</title>
+<meta name="description" content="Picture My World" />
+<meta name="keywords" content="picture, world, trip, voyage, around the world, travel, gopro, people" />
+<meta name="author" content="Kevin Delord" />
+
+
+		<!-- Default CSS for all web pages -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/header.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/dropdown.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/component.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/maps.css" />
+
+		<!--  Default JS for all web pages -->
+		<script src="http://picturemy.world//js/custom/dropdownMenu.js"></script>
+		<script src="http://picturemy.world//js/modernizr.custom.js"></script>
+		<script src="http://picturemy.world//js/googleanalytics.js"></script>
+		<script src="http://picturemy.world//js/moment.min.js"></script>
+
+		<!-- Site icon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	</head>
+
+	<body>
+		<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/grid-gallery.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/spinner.css" />
+
+<!-- Load specific javascript files -->
+<script src="http://picturemy.world//js/imagesloaded.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/masonry.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/classie.js"></script>
+<script src="http://picturemy.world//js/cbpGridGallery.js"></script>
+<script src="http://picturemy.world//js/lazyload.min.js"></script>
+<script src="http://picturemy.world//js/jquery-3.2.1.min.js"></script>
+<script src="http://picturemy.world//js/custom/jquery.jscroll.js"></script>
+
+<!-- Add header element -->
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<!-- Dropdown menu (active on small screens) -->
+		<div class="dropdown">
+			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
+			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+			<div id="dropdownMenu" class="dropdown-content">
+				<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+			</div>
+		</div>
+
+		<!--  Website title -->
+		<h1><a href="http://picturemy.world/">Picture My World</a></h1>
+
+		<!-- Default navigation (active on big screens) -->
+		<nav>
+			<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+		</nav>
+	</header>
+</div>
+
+
+<!-- Get the configured display content limit from the config file -->
+
+
+<!-- Add the grid element -->
+<div id="grid-gallery" class="grid-gallery">
+	<!-- grid-gallery -->
+	<section class="grid-wrap">
+		<ul class="grid">
+			<!-- Masonry column width -->
+			<li class="grid-sizer"></li>
+			<!-- Jekyll Pagination posts list. -->
+			
+				
+<li class="grid_item" id="1491263888.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1491263888.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Los del Sur!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1491263888.jpg" target="_blank">Atanasio Girardot Stadium, Medellin, Colombia</a>
+			<p>All the fans of the Atlético Nacional gather on the southern side of the stadium and sing, party, go crazy the entire time of the game... and even after! Very devoted fans!</p>
+			<p class="post-date">March 30, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1491263634.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1491263634.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Football game!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1491263634.jpg" target="_blank">Atanasio Girardot Stadium, Medellin, Colombia</a>
+			<p>Maybe my first football game in a stadium. The team 'Atletico Nacional' played and won 3-1 against 'Santa Fe'. Nice game though the ambiance in the stadium was the real thing!</p>
+			<p class="post-date">March 30, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1491263124.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1491263124.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Art</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1491263124.jpg" target="_blank">Museo El Castillo, Medellin, Colombia</a>
+			<p>Small piece of art in one of the smallest museum I have ever seen.</p>
+			<p class="post-date">March 19, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1491262565.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1 data-original="http://picturemy.world//img/thumb/1491262565.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Hungry?</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1491262565.jpg" target="_blank">Museo El Castillo, Medellin, Colombia</a>
+			<p>Beautiful flower huh? Did you notice that massive grasshopper eating half of it? hahaha</p>
+			<p class="post-date">March 19, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1490306653.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1490306653.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>El Metro de Medellin</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1490306653.jpg" target="_blank">Medellin, Colombia</a>
+			<p>Have I ever told the story about the subway here in Medellin? How the people are super proud of it, how it is the only subway in the entire country? People here respect it so much, it is unbelievable clean and well maintained; far from the ones in Europe for instance!</p>
+			<p class="post-date">March 16, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1490306385.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1490306385.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Aquarium</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1490306385.jpg" target="_blank">Medellin, Colombia</a>
+			<p>I finally went to that Parque Explora in Medellin! It's a complex between science and natural museum. The aquarium there is pretty descent!</p>
+			<p class="post-date">March 16, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1490305855.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1490305855.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Made by a friend!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1490305855.jpg" target="_blank">Bogota, Colombia</a>
+			<p>I went again to Bogota for few days and that time I found that painting made my friend Leon in the Candelaria area. Well done buddy!</p>
+			<p class="post-date">March 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1490305744.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1490305744.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Guane</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1490305744.jpg" target="_blank">Guane, Colombia</a>
+			<p>Guane is an even smaller town than Barichara. There is less tourism, less money, less everything there but that also makes the charm of the town!</p>
+			<p class="post-date">March 10, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1490305435.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1490305435.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Walking around</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1490305435.jpg" target="_blank">Barichara, Colombia</a>
+			<p>There is a 2 hours walk to do from Barichara to reach Guane, another village nearby. The vegetation there is very different from the northen part of the country; less trees, less green but still stunning!</p>
+			<p class="post-date">March 10, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1490305085.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1490305085.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Cute little town</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1490305085.jpg" target="_blank">Barichara, Colombia</a>
+			<p>One of the street of Barichara, small white houses and cobbled streets. So nice!</p>
+			<p class="post-date">March 10, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+		</ul>
+
+ 		
+ 		<!-- Next button (with visibility:hidden) used by jScroll to simulate an infinite scroll. -->
+		<div class="pagination">
+			
+				<a href="/page35" class="see_more">Next</a>
+			
+		</div>
+		
+
+	</section>
+
+	<!-- slideshow -->
+	<section class="slideshow">
+		<ul class="slide">
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1491263888.jpg"/>
+	</figure>
+	<h3>Los del Sur!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1491263634.jpg"/>
+	</figure>
+	<h3>Football game!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1491263124.jpg"/>
+	</figure>
+	<h3>Art</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1491262565.jpg"/>
+	</figure>
+	<h3>Hungry?</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1490306653.jpg"/>
+	</figure>
+	<h3>El Metro de Medellin</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1490306385.jpg"/>
+	</figure>
+	<h3>Aquarium</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1490305855.jpg"/>
+	</figure>
+	<h3>Made by a friend!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1490305744.jpg"/>
+	</figure>
+	<h3>Guane</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1490305435.jpg"/>
+	</figure>
+	<h3>Walking around</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1490305085.jpg"/>
+	</figure>
+	<h3>Cute little town</h3>
+</li>
+
+			
+		</ul>
+		<nav>
+			<span class="icon nav-prev"></span>
+			<span class="icon nav-next"></span>
+			<span class="icon nav-close"></span>
+		</nav>
+	</section>
+</div>
+
+<!-- Attach javascripts to grid-gallery for the custom layout, the slideshow and the infinite scroll. -->
+<script src="http://picturemy.world//js/custom/grid_layout.js"></script>
+
+	</body>
+</html>

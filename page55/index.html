@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+<title>Picture My World</title>
+<meta name="description" content="Picture My World" />
+<meta name="keywords" content="picture, world, trip, voyage, around the world, travel, gopro, people" />
+<meta name="author" content="Kevin Delord" />
+
+
+		<!-- Default CSS for all web pages -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/header.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/dropdown.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/component.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/maps.css" />
+
+		<!--  Default JS for all web pages -->
+		<script src="http://picturemy.world//js/custom/dropdownMenu.js"></script>
+		<script src="http://picturemy.world//js/modernizr.custom.js"></script>
+		<script src="http://picturemy.world//js/googleanalytics.js"></script>
+		<script src="http://picturemy.world//js/moment.min.js"></script>
+
+		<!-- Site icon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	</head>
+
+	<body>
+		<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/grid-gallery.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/spinner.css" />
+
+<!-- Load specific javascript files -->
+<script src="http://picturemy.world//js/imagesloaded.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/masonry.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/classie.js"></script>
+<script src="http://picturemy.world//js/cbpGridGallery.js"></script>
+<script src="http://picturemy.world//js/lazyload.min.js"></script>
+<script src="http://picturemy.world//js/jquery-3.2.1.min.js"></script>
+<script src="http://picturemy.world//js/custom/jquery.jscroll.js"></script>
+
+<!-- Add header element -->
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<!-- Dropdown menu (active on small screens) -->
+		<div class="dropdown">
+			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
+			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+			<div id="dropdownMenu" class="dropdown-content">
+				<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+			</div>
+		</div>
+
+		<!--  Website title -->
+		<h1><a href="http://picturemy.world/">Picture My World</a></h1>
+
+		<!-- Default navigation (active on big screens) -->
+		<nav>
+			<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+		</nav>
+	</header>
+</div>
+
+
+<!-- Get the configured display content limit from the config file -->
+
+
+<!-- Add the grid element -->
+<div id="grid-gallery" class="grid-gallery">
+	<!-- grid-gallery -->
+	<section class="grid-wrap">
+		<ul class="grid">
+			<!-- Masonry column width -->
+			<li class="grid-sizer"></li>
+			<!-- Jekyll Pagination posts list. -->
+			
+				
+<li class="grid_item" id="1477366631.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477366631.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Iglesa de Belmira</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477366631.jpg" target="_blank">Belmira, Antioquia, Colombia</a>
+			<p>This church stands at the center of town. It is extremely pretty and very big for such ridiculously small village.</p>
+			<p class="post-date">October 16, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477152553.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477152553.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Antioquia landscape</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477152553.jpg" target="_blank">Antioquia, Colombia</a>
+			<p>On our way to Belmira we stopped at a small coffee shop to have a quick breakfast. That was the view from it. The country side around Medellin is very green, lots of mountains that look like hills but which are still at 2000m high!</p>
+			<p class="post-date">October 16, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477152342.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1477152342.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>I tell you sir!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477152342.jpg" target="_blank">Parque Arví, Antioquia</a>
+			<p>My empanadas are the best!</p>
+			<p class="post-date">October 09, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477152191.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477152191.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Nena!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477152191.jpg" target="_blank">Parque Arví, Antioquia</a>
+			<p>This lovely woman helped us to get our fire ready for the BBQ but also cooked some of our food with her equipment. She did help us a lot! Most colombian people usually are super friendly!</p>
+			<p class="post-date">October 09, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477152041.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477152041.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Roots</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477152041.jpg" target="_blank">Parque Arví, Antioquia</a>
+			<p>Photo taken in the Parque Arví of a path full with wooden roots.</p>
+			<p class="post-date">October 09, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477151911.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477151911.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Parque Arví</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477151911.jpg" target="_blank">Parque Arví, Antioquia</a>
+			<p>Few days after my arrival, I went on a BBQ/pic-nic in the Parque Arví. It is a national park around Medellin. The vegetation is very dense and it is possible to find small water stream like that one.</p>
+			<p class="post-date">October 09, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477151516.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477151516.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Colors</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477151516.jpg" target="_blank">El Poblado, Medellín, Colombia</a>
+			<p>Between big tall residential buildings it is still possible to find small house with lots of vivid colors. That one was a primary school or a nursery.</p>
+			<p class="post-date">October 05, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477151286.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477151286.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Cuteness</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477151286.jpg" target="_blank">El Poblado, Medellín, Colombia</a>
+			<p>For a reason still unknown in front of many residences people built such small and cute things, most likely for the kids living around.</p>
+			<p class="post-date">October 04, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1477150943.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1477150943.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Airport in Medellin!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1477150943.jpg" target="_blank">Aeropuerto Olaya Herrera, Medellín, Colombia</a>
+			<p>On my first day in Colombia, I arrived at the Medellín airport. This was my first view of the city.</p>
+			<p class="post-date">October 04, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475548857.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475548857.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Me again!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475548857.jpg" target="_blank">Golden Gate Bridge, San Francisco, USA</a>
+			<p>Mom, I'm fine.</p>
+			<p class="post-date">October 03, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+		</ul>
+
+ 		
+ 		<!-- Next button (with visibility:hidden) used by jScroll to simulate an infinite scroll. -->
+		<div class="pagination">
+			
+				<a href="/page56" class="see_more">Next</a>
+			
+		</div>
+		
+
+	</section>
+
+	<!-- slideshow -->
+	<section class="slideshow">
+		<ul class="slide">
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477366631.jpg"/>
+	</figure>
+	<h3>Iglesa de Belmira</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477152553.jpg"/>
+	</figure>
+	<h3>Antioquia landscape</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477152342.jpg"/>
+	</figure>
+	<h3>I tell you sir!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477152191.jpg"/>
+	</figure>
+	<h3>Nena!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477152041.jpg"/>
+	</figure>
+	<h3>Roots</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477151911.jpg"/>
+	</figure>
+	<h3>Parque Arví</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477151516.jpg"/>
+	</figure>
+	<h3>Colors</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477151286.jpg"/>
+	</figure>
+	<h3>Cuteness</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1477150943.jpg"/>
+	</figure>
+	<h3>Airport in Medellin!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475548857.jpg"/>
+	</figure>
+	<h3>Me again!</h3>
+</li>
+
+			
+		</ul>
+		<nav>
+			<span class="icon nav-prev"></span>
+			<span class="icon nav-next"></span>
+			<span class="icon nav-close"></span>
+		</nav>
+	</section>
+</div>
+
+<!-- Attach javascripts to grid-gallery for the custom layout, the slideshow and the infinite scroll. -->
+<script src="http://picturemy.world//js/custom/grid_layout.js"></script>
+
+	</body>
+</html>

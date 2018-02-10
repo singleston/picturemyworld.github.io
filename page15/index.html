@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+<title>Picture My World</title>
+<meta name="description" content="Picture My World" />
+<meta name="keywords" content="picture, world, trip, voyage, around the world, travel, gopro, people" />
+<meta name="author" content="Kevin Delord" />
+
+
+		<!-- Default CSS for all web pages -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/header.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/dropdown.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/component.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/maps.css" />
+
+		<!--  Default JS for all web pages -->
+		<script src="http://picturemy.world//js/custom/dropdownMenu.js"></script>
+		<script src="http://picturemy.world//js/modernizr.custom.js"></script>
+		<script src="http://picturemy.world//js/googleanalytics.js"></script>
+		<script src="http://picturemy.world//js/moment.min.js"></script>
+
+		<!-- Site icon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	</head>
+
+	<body>
+		<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/grid-gallery.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/spinner.css" />
+
+<!-- Load specific javascript files -->
+<script src="http://picturemy.world//js/imagesloaded.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/masonry.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/classie.js"></script>
+<script src="http://picturemy.world//js/cbpGridGallery.js"></script>
+<script src="http://picturemy.world//js/lazyload.min.js"></script>
+<script src="http://picturemy.world//js/jquery-3.2.1.min.js"></script>
+<script src="http://picturemy.world//js/custom/jquery.jscroll.js"></script>
+
+<!-- Add header element -->
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<!-- Dropdown menu (active on small screens) -->
+		<div class="dropdown">
+			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
+			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+			<div id="dropdownMenu" class="dropdown-content">
+				<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+			</div>
+		</div>
+
+		<!--  Website title -->
+		<h1><a href="http://picturemy.world/">Picture My World</a></h1>
+
+		<!-- Default navigation (active on big screens) -->
+		<nav>
+			<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+		</nav>
+	</header>
+</div>
+
+
+<!-- Get the configured display content limit from the config file -->
+
+
+<!-- Add the grid element -->
+<div id="grid-gallery" class="grid-gallery">
+	<!-- grid-gallery -->
+	<section class="grid-wrap">
+		<ul class="grid">
+			<!-- Masonry column width -->
+			<li class="grid-sizer"></li>
+			<!-- Jekyll Pagination posts list. -->
+			
+				
+<li class="grid_item" id="1506443014.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506443014.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Hey sexy</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506443014.jpg" target="_blank">Laguna Colarada, Bolivia</a>
+			<p>I like to imagine what those llamas have in mind when they see us. Like "Hey you, do you have food?" or the one in the background being all like "Mate, don't get too close to my girl..." (he might be jealous!)</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506442916.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.44231 data-original="http://picturemy.world//img/thumb/1506442916.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>New GF!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506442916.jpg" target="_blank">Laguna Colarada, Bolivia</a>
+			<p>Mom, Dad, I would like to introduce to you my new girlfriend. She is very cute and sooo fluffy haha.</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506442738.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506442738.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Roses are red...</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506442738.jpg" target="_blank">Laguna Colarada, Bolivia</a>
+			<p>... so is that lake! Due to some minerals and other natural effects this lake at 4270m is colored. The water itself is actually red!</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506442315.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506442315.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>More flamingos!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506442315.jpg" target="_blank">Laguna Hedionda, Bolivia</a>
+			<p>As you can see that I had the chance to observe hundreds of flamingos, these ones are called 'Flamingo Andino'.</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506442084.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506442084.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Flamingo!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506442084.jpg" target="_blank">Laguna Cañapa, Bolivia</a>
+			<p>This is a picture of a flamingo chileno at the lake Cañapa.<br />Photo by Rick Moore</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506441893.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506441893.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Hard stuff</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506441893.jpg" target="_blank">Árbol de Piedra, Bolivia</a>
+			<p>I obviously do not recall the name of that green stuff, but jesus I was surprised by its texture. It feels like a rock and is as hard as one! Plus frozen due to the cold at more than 4000 meters above sea level!</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506441694.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1506441694.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Arbol de Piedra</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506441694.jpg" target="_blank">Árbol de Piedra, Bolivia</a>
+			<p>Árbol de Piedra is an isolated rock formation and somehow a very touristic attraction. I don't understand why, it is just a rock.</p>
+			<p class="post-date">September 13, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506290342.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.31579 data-original="http://picturemy.world//img/thumb/1506290342.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Old, Very Old</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506290342.jpg" target="_blank">Isla del Pescado, Uyuni, Bolivia</a>
+			<p>Those cactus used to be the main source of wood in the region until they got protected by law. Why? Because they only grow 1cm per year. The one on that picture was HUGE; so maybe around 500 years old!?</p>
+			<p class="post-date">September 12, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506289626.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506289626.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Isla del Pescado</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506289626.jpg" target="_blank">Isla del Pescado, Uyuni, Bolivia</a>
+			<p>That island is actually a small hill with thousands of giant cactus. The rocks are actually dead corals and each cactus is at least 2 meters high!</p>
+			<p class="post-date">September 12, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1506289043.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1506289043.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Digga</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1506289043.jpg" target="_blank">Salar de Uyuni, Bolivia</a>
+			<p>Gotta rock hard on that salty desert mate!</p>
+			<p class="post-date">September 12, 2017</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+		</ul>
+
+ 		
+ 		<!-- Next button (with visibility:hidden) used by jScroll to simulate an infinite scroll. -->
+		<div class="pagination">
+			
+				<a href="/page16" class="see_more">Next</a>
+			
+		</div>
+		
+
+	</section>
+
+	<!-- slideshow -->
+	<section class="slideshow">
+		<ul class="slide">
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506443014.jpg"/>
+	</figure>
+	<h3>Hey sexy</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506442916.jpg"/>
+	</figure>
+	<h3>New GF!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506442738.jpg"/>
+	</figure>
+	<h3>Roses are red...</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506442315.jpg"/>
+	</figure>
+	<h3>More flamingos!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506442084.jpg"/>
+	</figure>
+	<h3>Flamingo!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506441893.jpg"/>
+	</figure>
+	<h3>Hard stuff</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506441694.jpg"/>
+	</figure>
+	<h3>Arbol de Piedra</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506290342.jpg"/>
+	</figure>
+	<h3>Old, Very Old</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506289626.jpg"/>
+	</figure>
+	<h3>Isla del Pescado</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1506289043.jpg"/>
+	</figure>
+	<h3>Digga</h3>
+</li>
+
+			
+		</ul>
+		<nav>
+			<span class="icon nav-prev"></span>
+			<span class="icon nav-next"></span>
+			<span class="icon nav-close"></span>
+		</nav>
+	</section>
+</div>
+
+<!-- Attach javascripts to grid-gallery for the custom layout, the slideshow and the infinite scroll. -->
+<script src="http://picturemy.world//js/custom/grid_layout.js"></script>
+
+	</body>
+</html>

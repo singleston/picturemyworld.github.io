@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+<title>Picture My World</title>
+<meta name="description" content="Picture My World" />
+<meta name="keywords" content="picture, world, trip, voyage, around the world, travel, gopro, people" />
+<meta name="author" content="Kevin Delord" />
+
+
+		<!-- Default CSS for all web pages -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/header.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/dropdown.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/component.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/maps.css" />
+
+		<!--  Default JS for all web pages -->
+		<script src="http://picturemy.world//js/custom/dropdownMenu.js"></script>
+		<script src="http://picturemy.world//js/modernizr.custom.js"></script>
+		<script src="http://picturemy.world//js/googleanalytics.js"></script>
+		<script src="http://picturemy.world//js/moment.min.js"></script>
+
+		<!-- Site icon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	</head>
+
+	<body>
+		<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/grid-gallery.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/spinner.css" />
+
+<!-- Load specific javascript files -->
+<script src="http://picturemy.world//js/imagesloaded.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/masonry.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/classie.js"></script>
+<script src="http://picturemy.world//js/cbpGridGallery.js"></script>
+<script src="http://picturemy.world//js/lazyload.min.js"></script>
+<script src="http://picturemy.world//js/jquery-3.2.1.min.js"></script>
+<script src="http://picturemy.world//js/custom/jquery.jscroll.js"></script>
+
+<!-- Add header element -->
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<!-- Dropdown menu (active on small screens) -->
+		<div class="dropdown">
+			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
+			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+			<div id="dropdownMenu" class="dropdown-content">
+				<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+			</div>
+		</div>
+
+		<!--  Website title -->
+		<h1><a href="http://picturemy.world/">Picture My World</a></h1>
+
+		<!-- Default navigation (active on big screens) -->
+		<nav>
+			<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+		</nav>
+	</header>
+</div>
+
+
+<!-- Get the configured display content limit from the config file -->
+
+
+<!-- Add the grid element -->
+<div id="grid-gallery" class="grid-gallery">
+	<!-- grid-gallery -->
+	<section class="grid-wrap">
+		<ul class="grid">
+			<!-- Masonry column width -->
+			<li class="grid-sizer"></li>
+			<!-- Jekyll Pagination posts list. -->
+			
+				
+<li class="grid_item" id="1475536526.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475536526.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Within the Eiffel Tower</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475536526.jpg" target="_blank">Eiffel Tower, Las Vegas, Nevada, USA</a>
+			<p>Of course the Eiffel Tower in Vegas has to be a casino, a restaurant and an hotel. This is a picture of the casino with a fake sky, a replicate of a parisian bridge and some street lights too!</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475536362.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1475536362.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Eiffel Tower</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475536362.jpg" target="_blank">Eiffel Tower, Las Vegas, Nevada, USA</a>
+			<p>Do not mistake it, this is not the Eiffel Tower from Paris but a smaller copy of it in Las Vegas!</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475536244.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475536244.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Aladin !</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475536244.jpg" target="_blank">Las Vegas, Nevada, USA</a>
+			<p>The crazyness of Las Vegas has created shopping center in the shape of an arabian city. But where it goes nuts is that the sky you can see in the picture is actually a fake one. This image has been taken at the third floor of a big building!</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475535781.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475535781.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>THE fountain</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475535781.jpg" target="_blank">Bellagio, Las Vegas, Nevada, USA</a>
+			<p>In the background the Bellagio hotel, in the foreground the famous fountain all lit up. The water show lasts around 5 minutes and is accompanied by music.</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475535733.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475535733.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Fine Art</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475535733.jpg" target="_blank">Bellagio, Las Vegas, Nevada, USA</a>
+			<p>Detailed photo of the ceiling of the Bellagio's Lobby.</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475535578.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475535578.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Bellagio Lobby</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475535578.jpg" target="_blank">Bellagio, Las Vegas, Nevada, USA</a>
+			<p>This is the main lobby of the well known Bellagio hotel. On the ceiling a piece of art that lights up the room with very nice colors.</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475535306.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475535306.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Ceasar Palace</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475535306.jpg" target="_blank">Ceasar Palace, Las Vegas, Nevada, USA</a>
+			<p>Majestic statue in the entrance of the gigantic Ceasar Palace. This hotel is composed by 3 tall buildings, a copy of the Colosseum from Rome, a massive night club, a shopping center and a small park with fountains!</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475534589.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475534589.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Casino in Vegas</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475534589.jpg" target="_blank">Las Vegas, Nevada, USA</a>
+			<p>This is what the ground floor of every single hotel looks like in Vegas. It is always a Casino like this. One can see people sitting there all day wasting money away. The weird part is how similar the casinos are, it does not matter in which hotel you are, thery are all the same.</p>
+			<p class="post-date">October 01, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475378330.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475378330.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Summit Landscape</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475378330.jpg" target="_blank">Zion National Park, USA</a>
+			<p>Picture taken at the very top of the Angels Landing rock at 1700 meters above see level. The complete hike took me exactly 3 hours with a good walking speed.</p>
+			<p class="post-date">September 30, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1475378267.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1475378267.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>The other side</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1475378267.jpg" target="_blank">Zion National Park, USA</a>
+			<p>View from the Angels Landing summit.</p>
+			<p class="post-date">September 30, 2016</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+		</ul>
+
+ 		
+ 		<!-- Next button (with visibility:hidden) used by jScroll to simulate an infinite scroll. -->
+		<div class="pagination">
+			
+				<a href="/page59" class="see_more">Next</a>
+			
+		</div>
+		
+
+	</section>
+
+	<!-- slideshow -->
+	<section class="slideshow">
+		<ul class="slide">
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475536526.jpg"/>
+	</figure>
+	<h3>Within the Eiffel Tower</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475536362.jpg"/>
+	</figure>
+	<h3>Eiffel Tower</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475536244.jpg"/>
+	</figure>
+	<h3>Aladin !</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475535781.jpg"/>
+	</figure>
+	<h3>THE fountain</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475535733.jpg"/>
+	</figure>
+	<h3>Fine Art</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475535578.jpg"/>
+	</figure>
+	<h3>Bellagio Lobby</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475535306.jpg"/>
+	</figure>
+	<h3>Ceasar Palace</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475534589.jpg"/>
+	</figure>
+	<h3>Casino in Vegas</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475378330.jpg"/>
+	</figure>
+	<h3>Summit Landscape</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1475378267.jpg"/>
+	</figure>
+	<h3>The other side</h3>
+</li>
+
+			
+		</ul>
+		<nav>
+			<span class="icon nav-prev"></span>
+			<span class="icon nav-next"></span>
+			<span class="icon nav-close"></span>
+		</nav>
+	</section>
+</div>
+
+<!-- Attach javascripts to grid-gallery for the custom layout, the slideshow and the infinite scroll. -->
+<script src="http://picturemy.world//js/custom/grid_layout.js"></script>
+
+	</body>
+</html>

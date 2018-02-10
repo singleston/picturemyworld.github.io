@@ -1,8 +1,0 @@
----
-layout: default
-date: 2017-09-21
-youtube_id: UncYO0QAvQw
-title: 2 months in Peru!
-caption: Amazing Peru with the Machu Picchu, the Nazca Lines, the Colca Canyon, and more. Featuring Rick and Cheryl !
-music: NU - This Land
----

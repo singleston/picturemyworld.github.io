@@ -1,35 +1,228 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+<title>Picture My World</title>
+<meta name="description" content="Picture My World" />
+<meta name="keywords" content="picture, world, trip, voyage, around the world, travel, gopro, people" />
+<meta name="author" content="Kevin Delord" />
 
-<!-- Load specific CSS files -->
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
+
+		<!-- Default CSS for all web pages -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/header.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/dropdown.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/component.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/maps.css" />
+
+		<!--  Default JS for all web pages -->
+		<script src="http://picturemy.world//js/custom/dropdownMenu.js"></script>
+		<script src="http://picturemy.world//js/modernizr.custom.js"></script>
+		<script src="http://picturemy.world//js/googleanalytics.js"></script>
+		<script src="http://picturemy.world//js/moment.min.js"></script>
+
+		<!-- Site icon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	</head>
+
+	<body>
+		<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/grid-gallery.css" />
 
 <!-- Load specific javascript files -->
-<script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/masonry.pkgd.min.js"></script>
 
 <!-- Add header element -->
-{% include header.html %}
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<!-- Dropdown menu (active on small screens) -->
+		<div class="dropdown">
+			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
+			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+			<div id="dropdownMenu" class="dropdown-content">
+				<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+			</div>
+		</div>
+
+		<!--  Website title -->
+		<h1><a href="http://picturemy.world/">Picture My World</a></h1>
+
+		<!-- Default navigation (active on big screens) -->
+		<nav>
+			<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+		</nav>
+	</header>
+</div>
+
 
 <!-- Add the grid element -->
 <div class="grid-gallery">
 	<section class="grid-wrap">
 		<ul class="list">
 			<li class="grid-sizer"></li><!-- for Masonry column width -->
-			{% for post in site.videos reversed %}
+			
 			<li>
 				<figure>
-					<iframe class="youtube_player" src="https://www.youtube.com/embed/{{ post.youtube_id }}?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/I2Joz48mO40?ecver=1" frameborder="0" allowfullscreen></iframe>
 					<figcaption>
-						<h3>{{ post.title }}</h3>
-						<p>{{ post.caption }}</p>
+						<h3>Peaceful Samoa</h3>
+						<p>In this video I tried to show how peaceful, simple and honest the life in Samoa is. Beautiful scenery, wonderful people, a perfect place somewhere lost in the Pacific ocean.</p>
 						<i class="fa fa-music" aria-hidden="true"></i>
-						<a class= "maps_link" href="https://www.youtube.com/results?search_query={{ post.music }}" target="_blank">{{ post.music }}</a>
-						<p class="post-date">{{ post.date | date: '%B %d, %Y' }}</p>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Vancouver Sleep Clinic - Vapour" target="_blank">Vancouver Sleep Clinic - Vapour</a>
+						<p class="post-date">January 13, 2018</p>
 					</figcaption>
 				</figure>
 			</li>
-			{% endfor %}
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/oef-dfyfShc?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Bula Fiji</h3>
+						<p>Great time in Fiji snorkeling, surfing and dancing with people!<br />Big up to the Rendezvous Surf Camp !!</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=In Flagranti - Emotional R" target="_blank">In Flagranti - Emotional R</a>
+						<p class="post-date">December 14, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/LiO0jURQoDs?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Enjoy Yourself in New Zealand</h3>
+						<p>Beautiful time in New Zealand with amazing people, stunning landscapes and sooo many sheeps (actually more than people)! NZ is the most gorgeous country I have been to so far!</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Soul Avengerz - Enjoy Yourself" target="_blank">Soul Avengerz - Enjoy Yourself</a>
+						<p class="post-date">November 15, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/2E6hwkMCBzw?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Bolivia Rush Out</h3>
+						<p>Crazy 20 days in Bolivia with the Death Road, Huayna Potosi, the Salar de Uyuni and everything!<br />Last video in South America and last video with my lovely Rick and Cheryl! You guys are gonna be missed!<br />Love.</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Sahalé - Le Petit Prince" target="_blank">Sahalé - Le Petit Prince</a>
+						<p class="post-date">September 30, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/UncYO0QAvQw?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>2 months in Peru!</h3>
+						<p>Amazing Peru with the Machu Picchu, the Nazca Lines, the Colca Canyon, and more. Featuring Rick and Cheryl !</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=NU - This Land" target="_blank">NU - This Land</a>
+						<p class="post-date">September 21, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/Fv98Ce6P2Yk?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Ecuador May 2017</h3>
+						<p>Video of my time in Ecuador and the Galapagos featuring Karen, a whale and lots of turtles!</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Marek Hemmann - Lindwurm" target="_blank">Marek Hemmann - Lindwurm</a>
+						<p class="post-date">July 25, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/gFl8kZ5pg1c?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Colombia Spring 2017</h3>
+						<p>Second and last video of my time in Colombia! Cheers to the ones who tagged along and the new friends I've met on the road <3</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Marek Hemmann - Chameleon" target="_blank">Marek Hemmann - Chameleon</a>
+						<p class="post-date">May 20, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/GFc55dZrT44?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Mexico & Guatemala</h3>
+						<p>Video of my trip to Mexico and Guatemala. December 2016, January 2017.</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Marek Hemmann - Inessa" target="_blank">Marek Hemmann - Inessa</a>
+						<p class="post-date">January 17, 2017</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/JpCMo4RHGFM?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Discovering Colombia</h3>
+						<p>Special thanks to my travel companions Sophie, Logan and Roxy! November 2016.</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Marek Hemmann - Tagoma" target="_blank">Marek Hemmann - Tagoma</a>
+						<p class="post-date">December 01, 2016</p>
+					</figcaption>
+				</figure>
+			</li>
+			
+			<li>
+				<figure>
+					<iframe class="youtube_player" src="https://www.youtube.com/embed/bg4u8qtIZJM?ecver=1" frameborder="0" allowfullscreen></iframe>
+					<figcaption>
+						<h3>Road trip, USA</h3>
+						<p>Video of my road trip in the USA. Thanks to all my special drivers, Alana, Anna and Adrien! September 2016.</p>
+						<i class="fa fa-music" aria-hidden="true"></i>
+						<a class= "maps_link" href="https://www.youtube.com/results?search_query=Marek Hemmann - Zunder" target="_blank">Marek Hemmann - Zunder</a>
+						<p class="post-date">October 31, 2016</p>
+					</figcaption>
+				</figure>
+			</li>
+			
 		</ul>
 	</section><!-- grid-wrap -->
 </div><!-- grid-gallery -->
@@ -42,3 +235,6 @@ layout: default
 		columnWidth: grid.querySelector( '.grid-sizer' )
 	});
 </script>
+
+	</body>
+</html>

@@ -1,8 +1,0 @@
----
-layout: default
-date: 2018-01-13
-youtube_id: I2Joz48mO40
-title: Peaceful Samoa
-caption: In this video I tried to show how peaceful, simple and honest the life in Samoa is. Beautiful scenery, wonderful people, a perfect place somewhere lost in the Pacific ocean.
-music: Vancouver Sleep Clinic - Vapour
----

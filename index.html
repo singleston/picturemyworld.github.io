@@ -1,26 +1,102 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, height=device-height" />
+<title>Picture My World</title>
+<meta name="description" content="Picture My World" />
+<meta name="keywords" content="picture, world, trip, voyage, around the world, travel, gopro, people" />
+<meta name="author" content="Kevin Delord" />
 
-<!-- Load specific CSS files -->
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/slideshow.css" />
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/grid-gallery.css" />
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/spinner.css" />
+
+		<!-- Default CSS for all web pages -->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/header.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/dropdown.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/component.css" />
+		<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/maps.css" />
+
+		<!--  Default JS for all web pages -->
+		<script src="http://picturemy.world//js/custom/dropdownMenu.js"></script>
+		<script src="http://picturemy.world//js/modernizr.custom.js"></script>
+		<script src="http://picturemy.world//js/googleanalytics.js"></script>
+		<script src="http://picturemy.world//js/moment.min.js"></script>
+
+		<!-- Site icon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+	</head>
+
+	<body>
+		<!-- Load specific CSS files -->
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/slideshow.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/grid-gallery.css" />
+<link rel="stylesheet" type="text/css" href="http://picturemy.world//css/spinner.css" />
 
 <!-- Load specific javascript files -->
-<script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
-<script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
-<script src="{{ site.url }}/js/classie.js"></script>
-<script src="{{ site.url }}/js/cbpGridGallery.js"></script>
-<script src="{{ site.url }}/js/lazyload.min.js"></script>
-<script src="{{ site.url }}/js/jquery-3.2.1.min.js"></script>
-<script src="{{ site.url }}/js/custom/jquery.jscroll.js"></script>
+<script src="http://picturemy.world//js/imagesloaded.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/masonry.pkgd.min.js"></script>
+<script src="http://picturemy.world//js/classie.js"></script>
+<script src="http://picturemy.world//js/cbpGridGallery.js"></script>
+<script src="http://picturemy.world//js/lazyload.min.js"></script>
+<script src="http://picturemy.world//js/jquery-3.2.1.min.js"></script>
+<script src="http://picturemy.world//js/custom/jquery.jscroll.js"></script>
 
 <!-- Add header element -->
-{% include header.html %}
+<!-- Add header element -->
+<div class="header_container">
+	<header class="clearfix">
+		<!-- Dropdown menu (active on small screens) -->
+		<div class="dropdown">
+			<!-- Function `toggleMenu` declared in `dropdownMenu.js` -->
+			<button id="dropdownMenuButton" onclick="toggleMenu()" class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+			<div id="dropdownMenu" class="dropdown-content">
+				<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+			</div>
+		</div>
+
+		<!--  Website title -->
+		<h1><a href="http://picturemy.world/">Picture My World</a></h1>
+
+		<!-- Default navigation (active on big screens) -->
+		<nav>
+			<!-- Navigation Items -->
+<div class="menu_item"><a href="http://picturemy.world/"><i class="fa fa-picture-o fa-lg" aria-hidden="true"></i>Pictures</a></div>
+<div class="menu_item"><a href="http://picturemy.world//videos"><i class="fa fa-film fa-lg" aria-hidden="true"></i>Videos</a></div>
+<div class="menu_item"><a href="http://picturemy.world//map"><i class="fa fa-map fa-lg" aria-hidden="true"></i>Map</a></div>
+<div class="menu_item"><a href="https://www.facebook.com/delord.kevin" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i>Facebook</a></div>
+
+		</nav>
+	</header>
+</div>
+
 
 <!-- Get the configured display content limit from the config file -->
-{% capture post_limit %}{{ site.content.recent_limit }}{% endcapture %}
+
 
 <!-- Add the grid element -->
 <div id="grid-gallery" class="grid-gallery">
@@ -30,28 +106,294 @@ layout: default
 			<!-- Masonry column width -->
 			<li class="grid-sizer"></li>
 			<!-- Jekyll Pagination posts list. -->
-			{% for post in paginator.posts %}
-				{% include grid_item.html post=post %}
-			{% endfor %}
+			
+				
+<li class="grid_item" id="1517902772.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.66667 data-original="http://picturemy.world//img/thumb/1517902772.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Inside the Dragon's Mouth</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517902772.jpg" target="_blank">Thuy Tien Lake, Hue, Vietnam</a>
+			<p>I found some stairs leading to the dragon's mouth! Nice view point and drinking spot (not my bottle!).</p>
+			<p class="post-date">February 02, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517902520.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1 data-original="http://picturemy.world//img/thumb/1517902520.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>We Are In Vietnam!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517902520.jpg" target="_blank">Thuy Tien Lake, Hue, Vietnam</a>
+			<p>We must drive crazy!!!<br /><br />With my dear friend Christopher</p>
+			<p class="post-date">February 02, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517902322.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1517902322.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>The Dragon</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517902322.jpg" target="_blank">Thuy Tien Lake, Hue, Vietnam</a>
+			<p>This dragon must have been the main building of the park with aquariums and other attractions inside. Good looking eh?</p>
+			<p class="post-date">February 02, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517901974.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1517901974.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Abandonned Park</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517901974.jpg" target="_blank">Thuy Tien Lake, Hue, Vietnam</a>
+			<p>30 minutes away from Hue, still stands an abandonned park. It is forbidden to get in... unless you pay the guard. And like every other abandonned places it is all broken, empty, graffitis everywhere and pretty cool to visit!</p>
+			<p class="post-date">February 02, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517901166.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.77515 data-original="http://picturemy.world//img/thumb/1517901166.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>The Entrance</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517901166.jpg" target="_blank">Phong Nha Cave, Vietnam</a>
+			<p>Picture of a boat going out of the Phong Nha Cave.</p>
+			<p class="post-date">January 31, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517900843.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.75 data-original="http://picturemy.world//img/thumb/1517900843.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Phong Nha Cave</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517900843.jpg" target="_blank">Phong Nha Cave, Vietnam</a>
+			<p>This cave is the longest wet cave in Asia. I took a boat ride in there.... and fell asleep! I was rushing through the country, taking overnight buses and trying to see as much as possible within few days. So when it went all quiet in a warm and dark place I coudln't resist, and I took a nap...</p>
+			<p class="post-date">January 31, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517824053.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1517824053.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Hidden Temple</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517824053.jpg" target="_blank">Danh thắng Tam Cốc - Bích Động, Ninh Binh, Vietnam</a>
+			<p>Behind a rocky mountain, through the woods, over a lake... stands this little temple!<br /><br />On the roof you can see small dragons and a unicorn protecting the building.</p>
+			<p class="post-date">January 30, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517823432.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1517823432.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Happy Dragon!</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517823432.jpg" target="_blank">Hang Múa, Ninh Binh, Vietnam</a>
+			<p>That happy dragon was at the top of a mountain, most likely protecting the entrance to the valley. I did not notice how happy looking it was until I saw that photo!</p>
+			<p class="post-date">January 30, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517823405.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=1.33333 data-original="http://picturemy.world//img/thumb/1517823405.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Ninh Binh</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517823405.jpg" target="_blank">Hang Múa, Ninh Binh, Vietnam</a>
+			<p>Ninh Binh is famous for is rocky landscape. It is also known as the "In Land Halong Bay" and quite frankly I found it more interesting, less touristy and way nicer with all those hidden temples and everything!</p>
+			<p class="post-date">January 30, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
+				
+<li class="grid_item" id="1517822411.jpg">
+	<figure>
+		<div class="image_container">
+			<img class="grid_thumbnail" data-ratio=0.779221 data-original="http://picturemy.world//img/thumb/1517822411.jpg"/>
+			<i class="fa fa-arrows-alt" aria-hidden="true"></i>
+		</div>
+		<figcaption>
+			<h3>Unicorn</h3>
+			<i class="fa fa-location-arrow" aria-hidden="true"></i>
+			<a class= "maps_link" href="http://picturemy.world//map?p=1517822411.jpg" target="_blank">Xã Châu Can, Hanoi, Vietnam</a>
+			<p>Here is a big sculpture of a vietnamese unicorn protecting the entrance of a building. Angry looking but was actually very friendly!</p>
+			<p class="post-date">January 29, 2018</p>
+		</figcaption>
+	</figure>
+</li>
+
+			
 		</ul>
 
- 		{% if paginator.total_pages > 1 %}
+ 		
  		<!-- Next button (with visibility:hidden) used by jScroll to simulate an infinite scroll. -->
 		<div class="pagination">
-			{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="see_more">Next</a>
-			{% endif %}
+			
+				<a href="/page2" class="see_more">Next</a>
+			
 		</div>
-		{% endif %}
+		
 
 	</section>
 
 	<!-- slideshow -->
 	<section class="slideshow">
 		<ul class="slide">
-			{% for post in paginator.posts %}
-				{% include slideshow_item.html post=post %}
-			{% endfor %}
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517902772.jpg"/>
+	</figure>
+	<h3>Inside the Dragon's Mouth</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517902520.jpg"/>
+	</figure>
+	<h3>We Are In Vietnam!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517902322.jpg"/>
+	</figure>
+	<h3>The Dragon</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517901974.jpg"/>
+	</figure>
+	<h3>Abandonned Park</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517901166.jpg"/>
+	</figure>
+	<h3>The Entrance</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517900843.jpg"/>
+	</figure>
+	<h3>Phong Nha Cave</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517824053.jpg"/>
+	</figure>
+	<h3>Hidden Temple</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517823432.jpg"/>
+	</figure>
+	<h3>Happy Dragon!</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517823405.jpg"/>
+	</figure>
+	<h3>Ninh Binh</h3>
+</li>
+
+			
+				
+<li class="slideshow_item">
+	<figure>
+		<img data-tmp="http://picturemy.world//img/large/1517822411.jpg"/>
+	</figure>
+	<h3>Unicorn</h3>
+</li>
+
+			
 		</ul>
 		<nav>
 			<span class="icon nav-prev"></span>
@@ -62,4 +404,7 @@ layout: default
 </div>
 
 <!-- Attach javascripts to grid-gallery for the custom layout, the slideshow and the infinite scroll. -->
-<script src="{{ site.url }}/js/custom/grid_layout.js"></script>
+<script src="http://picturemy.world//js/custom/grid_layout.js"></script>
+
+	</body>
+</html>

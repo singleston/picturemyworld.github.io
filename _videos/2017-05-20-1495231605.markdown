@@ -1,8 +1,0 @@
----
-layout: default
-date: 2017-05-20
-youtube_id: gFl8kZ5pg1c
-title: Colombia Spring 2017
-caption: Second and last video of my time in Colombia! Cheers to the ones who tagged along and the new friends I've met on the road <3
-music: Marek Hemmann - Chameleon
----
